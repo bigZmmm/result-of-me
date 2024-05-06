@@ -1,0 +1,1000 @@
+(NOT-AT P3 L50)
+(NOT-AT P3 L51)
+(NOT-AT P3 L52)
+(NOT-AT P3 L60)
+(NOT-AT P3 L61)
+(NOT-AT P3 L62)
+(NOT-AT P3 L70)
+(NOT-AT P3 L71)
+(NOT-AT P3 L72)
+(NOT-AT P3 L90)
+(NOT-AT P3 L91)
+(NOT-AT P3 L92)
+(NOT-AT P4 L00)
+(NOT-AT P4 L01)
+(NOT-AT P4 L02)
+(NOT-AT P4 L10)
+(NOT-AT P4 L11)
+(NOT-AT P4 L12)
+(NOT-AT P4 L20)
+(NOT-AT P4 L21)
+(NOT-AT P4 L22)
+(NOT-AT P4 L40)
+(NOT-AT P4 L41)
+(NOT-AT P4 L42)
+(NOT-AT P4 L50)
+(NOT-AT P4 L51)
+(NOT-AT P4 L52)
+(NOT-AT P4 L60)
+(NOT-AT P4 L61)
+(NOT-AT P4 L62)
+(NOT-AT P4 L70)
+(NOT-AT P4 L71)
+(NOT-AT P4 L72)
+(NOT-AT P4 L80)
+(NOT-AT P4 L81)
+(NOT-AT P4 L82)
+(NOT-AT P4 L90)
+(NOT-AT P4 L91)
+(NOT-AT P4 L92)
+(NOT-AT P5 L10)
+(NOT-AT P5 L11)
+(NOT-AT P5 L12)
+(NOT-AT P5 L20)
+(NOT-AT P5 L21)
+(NOT-AT P5 L22)
+(NOT-AT P5 L30)
+(NOT-AT P5 L31)
+(NOT-AT P5 L32)
+(NOT-AT P5 L40)
+(NOT-AT P5 L41)
+(NOT-AT P5 L42)
+(NOT-AT P5 L50)
+(NOT-AT P5 L51)
+(NOT-AT P5 L52)
+(NOT-AT P5 L60)
+(NOT-AT P5 L61)
+(NOT-AT P5 L62)
+(NOT-AT P5 L70)
+(NOT-AT P5 L71)
+(NOT-AT P5 L72)
+(NOT-AT P5 L80)
+(NOT-AT P5 L81)
+(NOT-AT P5 L82)
+(NOT-AT P5 L90)
+(NOT-AT P5 L91)
+(NOT-AT P5 L92)
+(NOT-AT P6 L00)
+(NOT-AT P6 L01)
+(NOT-AT P6 L02)
+(NOT-AT P6 L10)
+(NOT-AT P6 L11)
+(NOT-AT P6 L12)
+(NOT-AT P6 L20)
+(NOT-AT P6 L21)
+(NOT-AT P6 L22)
+(NOT-AT P6 L30)
+(NOT-AT P6 L31)
+(NOT-AT P6 L32)
+(NOT-AT P6 L40)
+(NOT-AT P6 L41)
+(NOT-AT P6 L42)
+(NOT-AT P6 L50)
+(NOT-AT P6 L51)
+(NOT-AT P6 L52)
+(NOT-AT P6 L60)
+(NOT-AT P6 L61)
+(NOT-AT P6 L62)
+(NOT-AT P6 L70)
+(NOT-AT P6 L71)
+(NOT-AT P6 L72)
+(NOT-AT P6 L90)
+(NOT-AT P6 L91)
+(NOT-AT P6 L92)
+(NOT-AT P7 L00)
+(NOT-AT P7 L01)
+(NOT-AT P7 L02)
+(NOT-AT P7 L10)
+(NOT-AT P7 L11)
+(NOT-AT P7 L12)
+(NOT-AT P7 L20)
+(NOT-AT P7 L21)
+(NOT-AT P7 L22)
+(NOT-AT P7 L40)
+(NOT-AT P7 L41)
+(NOT-AT P7 L42)
+(NOT-AT P7 L50)
+(NOT-AT P7 L51)
+(NOT-AT P7 L52)
+(NOT-AT P7 L60)
+(NOT-AT P7 L61)
+(NOT-AT P7 L62)
+(NOT-AT P7 L70)
+(NOT-AT P7 L71)
+(NOT-AT P7 L72)
+(NOT-AT P7 L80)
+(NOT-AT P7 L81)
+(NOT-AT P7 L82)
+(NOT-AT P7 L90)
+(NOT-AT P7 L91)
+(NOT-AT P7 L92)
+(NOT-AT P8 L00)
+(NOT-AT P8 L01)
+(NOT-AT P8 L02)
+(NOT-AT P8 L10)
+(NOT-AT P8 L11)
+(NOT-AT P8 L12)
+(NOT-AT P8 L30)
+(NOT-AT P8 L31)
+(NOT-AT P8 L32)
+(NOT-AT P8 L40)
+(NOT-AT P8 L41)
+(NOT-AT P8 L42)
+(NOT-AT P8 L50)
+(NOT-AT P8 L51)
+(NOT-AT P8 L52)
+(NOT-AT P8 L60)
+(NOT-AT P8 L61)
+(NOT-AT P8 L62)
+(NOT-AT P8 L70)
+(NOT-AT P8 L71)
+(NOT-AT P8 L72)
+(NOT-AT P8 L80)
+(NOT-AT P8 L81)
+(NOT-AT P8 L82)
+(NOT-AT P8 L90)
+(NOT-AT P8 L91)
+(NOT-AT P8 L92)
+(NOT-AT P9 L00)
+(NOT-AT P9 L01)
+(NOT-AT P9 L02)
+(NOT-AT P9 L10)
+(NOT-AT P9 L11)
+(NOT-AT P9 L12)
+(NOT-AT P9 L20)
+(NOT-AT P9 L21)
+(NOT-AT P9 L22)
+(NOT-AT P9 L30)
+(NOT-AT P9 L31)
+(NOT-AT P9 L32)
+(NOT-AT P9 L40)
+(NOT-AT P9 L41)
+(NOT-AT P9 L42)
+(NOT-AT P9 L60)
+(NOT-AT P9 L61)
+(NOT-AT P9 L62)
+(NOT-AT P9 L70)
+(NOT-AT P9 L71)
+(NOT-AT P9 L72)
+(NOT-AT P9 L80)
+(NOT-AT P9 L81)
+(NOT-AT P9 L82)
+(NOT-AT P9 L90)
+(NOT-AT P9 L91)
+(NOT-AT P9 L92)
+(AT T0 L00)
+(AT T1 L10)
+(AT T2 L20)
+(AT T3 L31)
+(AT T4 L42)
+(AT T5 L51)
+(AT T6 L62)
+(AT T7 L71)
+(AT T8 L80)
+(AT T9 L90)
+(AT A0 L20)
+(AT A1 L50)
+(AT A2 L60)
+(AT A3 L20)
+(AT A4 L60)
+(AT A5 L20)
+(AT A6 L60)
+(AT A7 L90)
+(AT A8 L30)
+(AT A9 L30)
+U:
+(NOT-AT P0 L70)
+(NOT-AT P0 L71)
+(NOT-AT P0 L72)
+(NOT-AT P1 L40)
+(NOT-AT P1 L41)
+(NOT-AT P1 L42)
+(NOT-AT P2 L40)
+(NOT-AT P2 L41)
+(NOT-AT P2 L42)
+(NOT-AT P3 L80)
+(NOT-AT P3 L81)
+(NOT-AT P3 L82)
+(NOT-AT P4 L30)
+(NOT-AT P4 L31)
+(NOT-AT P4 L32)
+(NOT-AT P5 L00)
+(NOT-AT P5 L01)
+(NOT-AT P5 L02)
+(NOT-AT P6 L80)
+(NOT-AT P6 L81)
+(NOT-AT P6 L82)
+(NOT-AT P7 L30)
+(NOT-AT P7 L31)
+(NOT-AT P7 L32)
+(NOT-AT P8 L20)
+(NOT-AT P8 L21)
+(NOT-AT P8 L22)
+(NOT-AT P9 L50)
+(NOT-AT P9 L51)
+(NOT-AT P9 L52)
+(AT P0 L70)
+(AT P0 L71)
+(AT P0 L72)
+(AT P1 L40)
+(AT P1 L41)
+(AT P1 L42)
+(AT P2 L40)
+(AT P2 L41)
+(AT P2 L42)
+(AT P3 L80)
+(AT P3 L81)
+(AT P3 L82)
+(AT P4 L30)
+(AT P4 L31)
+(AT P4 L32)
+(AT P5 L00)
+(AT P5 L01)
+(AT P5 L02)
+(AT P6 L80)
+(AT P6 L81)
+(AT P6 L82)
+(AT P7 L30)
+(AT P7 L31)
+(AT P7 L32)
+(AT P8 L20)
+(AT P8 L21)
+(AT P8 L22)
+(AT P9 L50)
+(AT P9 L51)
+(AT P9 L52)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(NOT-AT A0 L00)
+(NOT-AT A0 L10)
+(NOT-AT A0 L30)
+(NOT-AT A0 L40)
+(NOT-AT A0 L50)
+(NOT-AT A0 L60)
+(NOT-AT A0 L70)
+(NOT-AT A0 L80)
+(NOT-AT A0 L90)
+(NOT-AT A1 L00)
+(NOT-AT A1 L10)
+(NOT-AT A1 L20)
+(NOT-AT A1 L30)
+(NOT-AT A1 L40)
+(NOT-AT A1 L60)
+(NOT-AT A1 L70)
+(NOT-AT A1 L80)
+(NOT-AT A1 L90)
+(NOT-AT A2 L00)
+(NOT-AT A2 L10)
+(NOT-AT A2 L20)
+(NOT-AT A2 L30)
+(NOT-AT A2 L40)
+(NOT-AT A2 L50)
+(NOT-AT A2 L70)
+(NOT-AT A2 L80)
+(NOT-AT A2 L90)
+(NOT-AT A3 L00)
+(NOT-AT A3 L10)
+(NOT-AT A3 L30)
+(NOT-AT A3 L40)
+(NOT-AT A3 L50)
+(NOT-AT A3 L60)
+(NOT-AT A3 L70)
+(NOT-AT A3 L80)
+(NOT-AT A3 L90)
+(NOT-AT A4 L00)
+(NOT-AT A4 L10)
+(NOT-AT A4 L20)
+(NOT-AT A4 L30)
+(NOT-AT A4 L40)
+(NOT-AT A4 L50)
+(NOT-AT A4 L70)
+(NOT-AT A4 L80)
+(NOT-AT A4 L90)
+(NOT-AT A5 L00)
+(NOT-AT A5 L10)
+(NOT-AT A5 L30)
+(NOT-AT A5 L40)
+(NOT-AT A5 L50)
+(NOT-AT A5 L60)
+(NOT-AT A5 L70)
+(NOT-AT A5 L80)
+(NOT-AT A5 L90)
+(NOT-AT A6 L00)
+(NOT-AT A6 L10)
+(NOT-AT A6 L20)
+(NOT-AT A6 L30)
+(NOT-AT A6 L40)
+(NOT-AT A6 L50)
+(NOT-AT A6 L70)
+(NOT-AT A6 L80)
+(NOT-AT A6 L90)
+(NOT-AT A7 L00)
+(NOT-AT A7 L10)
+(NOT-AT A7 L20)
+(NOT-AT A7 L30)
+(NOT-AT A7 L40)
+(NOT-AT A7 L50)
+(NOT-AT A7 L60)
+(NOT-AT A7 L70)
+(NOT-AT A7 L80)
+(NOT-AT A8 L00)
+(NOT-AT A8 L10)
+(NOT-AT A8 L20)
+(NOT-AT A8 L40)
+(NOT-AT A8 L50)
+(NOT-AT A8 L60)
+(NOT-AT A8 L70)
+(NOT-AT A8 L80)
+(NOT-AT A8 L90)
+(NOT-AT A9 L00)
+(NOT-AT A9 L10)
+(NOT-AT A9 L20)
+(NOT-AT A9 L40)
+(NOT-AT A9 L50)
+(NOT-AT A9 L60)
+(NOT-AT A9 L70)
+(NOT-AT A9 L80)
+(NOT-AT A9 L90)
+(NOT-AT T0 L01)
+(NOT-AT T0 L02)
+(NOT-AT T1 L11)
+(NOT-AT T1 L12)
+(NOT-AT T2 L21)
+(NOT-AT T2 L22)
+(NOT-AT T3 L30)
+(NOT-AT T3 L32)
+(NOT-AT T4 L40)
+(NOT-AT T4 L41)
+(NOT-AT T5 L50)
+(NOT-AT T5 L52)
+(NOT-AT T6 L60)
+(NOT-AT T6 L61)
+(NOT-AT T7 L70)
+(NOT-AT T7 L72)
+(NOT-AT T8 L81)
+(NOT-AT T8 L82)
+(NOT-AT T9 L91)
+(NOT-AT T9 L92)
+(NOT-AT P0 L00)
+(NOT-AT P0 L01)
+(NOT-AT P0 L02)
+(NOT-AT P0 L10)
+(NOT-AT P0 L11)
+(NOT-AT P0 L12)
+(NOT-AT P0 L20)
+(NOT-AT P0 L21)
+(NOT-AT P0 L22)
+(NOT-AT P0 L30)
+(NOT-AT P0 L31)
+(NOT-AT P0 L32)
+(NOT-AT P0 L40)
+(NOT-AT P0 L41)
+(NOT-AT P0 L42)
+(NOT-AT P0 L50)
+(NOT-AT P0 L51)
+(NOT-AT P0 L52)
+(NOT-AT P0 L60)
+(NOT-AT P0 L61)
+(NOT-AT P0 L62)
+(NOT-AT P0 L80)
+(NOT-AT P0 L81)
+(NOT-AT P0 L82)
+(NOT-AT P0 L90)
+(NOT-AT P0 L91)
+(NOT-AT P0 L92)
+(NOT-AT P1 L00)
+(NOT-AT P1 L01)
+(NOT-AT P1 L02)
+(NOT-AT P1 L10)
+(NOT-AT P1 L11)
+(NOT-AT P1 L12)
+(NOT-AT P1 L20)
+(NOT-AT P1 L21)
+(NOT-AT P1 L22)
+(NOT-AT P1 L30)
+(NOT-AT P1 L31)
+(NOT-AT P1 L32)
+(NOT-AT P1 L50)
+(NOT-AT P1 L51)
+(NOT-AT P1 L52)
+(NOT-AT P1 L60)
+(NOT-AT P1 L61)
+(NOT-AT P1 L62)
+(NOT-AT P1 L70)
+(NOT-AT P1 L71)
+(NOT-AT P1 L72)
+(NOT-AT P1 L80)
+(NOT-AT P1 L81)
+(NOT-AT P1 L82)
+(NOT-AT P1 L90)
+(NOT-AT P1 L91)
+(NOT-AT P1 L92)
+(NOT-AT P2 L00)
+(NOT-AT P2 L01)
+(NOT-AT P2 L02)
+(NOT-AT P2 L10)
+(NOT-AT P2 L11)
+(NOT-AT P2 L12)
+(NOT-AT P2 L20)
+(NOT-AT P2 L21)
+(NOT-AT P2 L22)
+(NOT-AT P2 L30)
+(NOT-AT P2 L31)
+(NOT-AT P2 L32)
+(NOT-AT P2 L50)
+(NOT-AT P2 L51)
+(NOT-AT P2 L52)
+(NOT-AT P2 L60)
+(NOT-AT P2 L61)
+(NOT-AT P2 L62)
+(NOT-AT P2 L70)
+(NOT-AT P2 L71)
+(NOT-AT P2 L72)
+(NOT-AT P2 L80)
+(NOT-AT P2 L81)
+(NOT-AT P2 L82)
+(NOT-AT P2 L90)
+(NOT-AT P2 L91)
+(NOT-AT P2 L92)
+(NOT-AT P3 L00)
+(NOT-AT P3 L01)
+(NOT-AT P3 L02)
+(NOT-AT P3 L10)
+(NOT-AT P3 L11)
+(NOT-AT P3 L12)
+(NOT-AT P3 L20)
+(NOT-AT P3 L21)
+(NOT-AT P3 L22)
+(NOT-AT P3 L30)
+(NOT-AT P3 L31)
+(NOT-AT P3 L32)
+(NOT-AT P3 L40)
+(NOT-AT P3 L41)
+(NOT-AT P3 L42)
+(NOT-AT P3 L50)
+(NOT-AT P3 L51)
+(NOT-AT P3 L52)
+(NOT-AT P3 L60)
+(NOT-AT P3 L61)
+(NOT-AT P3 L62)
+(NOT-AT P3 L70)
+(NOT-AT P3 L71)
+(NOT-AT P3 L72)
+(NOT-AT P3 L90)
+(NOT-AT P3 L91)
+(NOT-AT P3 L92)
+(NOT-AT P4 L00)
+(NOT-AT P4 L01)
+(NOT-AT P4 L02)
+(NOT-AT P4 L10)
+(NOT-AT P4 L11)
+(NOT-AT P4 L12)
+(NOT-AT P4 L20)
+(NOT-AT P4 L21)
+(NOT-AT P4 L22)
+(NOT-AT P4 L40)
+(NOT-AT P4 L41)
+(NOT-AT P4 L42)
+(NOT-AT P4 L50)
+(NOT-AT P4 L51)
+(NOT-AT P4 L52)
+(NOT-AT P4 L60)
+(NOT-AT P4 L61)
+(NOT-AT P4 L62)
+(NOT-AT P4 L70)
+(NOT-AT P4 L71)
+(NOT-AT P4 L72)
+(NOT-AT P4 L80)
+(NOT-AT P4 L81)
+(NOT-AT P4 L82)
+(NOT-AT P4 L90)
+(NOT-AT P4 L91)
+(NOT-AT P4 L92)
+(NOT-AT P5 L10)
+(NOT-AT P5 L11)
+(NOT-AT P5 L12)
+(NOT-AT P5 L20)
+(NOT-AT P5 L21)
+(NOT-AT P5 L22)
+(NOT-AT P5 L30)
+(NOT-AT P5 L31)
+(NOT-AT P5 L32)
+(NOT-AT P5 L40)
+(NOT-AT P5 L41)
+(NOT-AT P5 L42)
+(NOT-AT P5 L50)
+(NOT-AT P5 L51)
+(NOT-AT P5 L52)
+(NOT-AT P5 L60)
+(NOT-AT P5 L61)
+(NOT-AT P5 L62)
+(NOT-AT P5 L70)
+(NOT-AT P5 L71)
+(NOT-AT P5 L72)
+(NOT-AT P5 L80)
+(NOT-AT P5 L81)
+(NOT-AT P5 L82)
+(NOT-AT P5 L90)
+(NOT-AT P5 L91)
+(NOT-AT P5 L92)
+(NOT-AT P6 L00)
+(NOT-AT P6 L01)
+(NOT-AT P6 L02)
+(NOT-AT P6 L10)
+(NOT-AT P6 L11)
+(NOT-AT P6 L12)
+(NOT-AT P6 L20)
+(NOT-AT P6 L21)
+(NOT-AT P6 L22)
+(NOT-AT P6 L30)
+(NOT-AT P6 L31)
+(NOT-AT P6 L32)
+(NOT-AT P6 L40)
+(NOT-AT P6 L41)
+(NOT-AT P6 L42)
+(NOT-AT P6 L50)
+(NOT-AT P6 L51)
+(NOT-AT P6 L52)
+(NOT-AT P6 L60)
+(NOT-AT P6 L61)
+(NOT-AT P6 L62)
+(NOT-AT P6 L70)
+(NOT-AT P6 L71)
+(NOT-AT P6 L72)
+(NOT-AT P6 L90)
+(NOT-AT P6 L91)
+(NOT-AT P6 L92)
+(NOT-AT P7 L00)
+(NOT-AT P7 L01)
+(NOT-AT P7 L02)
+(NOT-AT P7 L10)
+(NOT-AT P7 L11)
+(NOT-AT P7 L12)
+(NOT-AT P7 L20)
+(NOT-AT P7 L21)
+(NOT-AT P7 L22)
+(NOT-AT P7 L40)
+(NOT-AT P7 L41)
+(NOT-AT P7 L42)
+(NOT-AT P7 L50)
+(NOT-AT P7 L51)
+(NOT-AT P7 L52)
+(NOT-AT P7 L60)
+(NOT-AT P7 L61)
+(NOT-AT P7 L62)
+(NOT-AT P7 L70)
+(NOT-AT P7 L71)
+(NOT-AT P7 L72)
+(NOT-AT P7 L80)
+(NOT-AT P7 L81)
+(NOT-AT P7 L82)
+(NOT-AT P7 L90)
+(NOT-AT P7 L91)
+(NOT-AT P7 L92)
+(NOT-AT P8 L00)
+(NOT-AT P8 L01)
+(NOT-AT P8 L02)
+(NOT-AT P8 L10)
+(NOT-AT P8 L11)
+(NOT-AT P8 L12)
+(NOT-AT P8 L30)
+(NOT-AT P8 L31)
+(NOT-AT P8 L32)
+(NOT-AT P8 L40)
+(NOT-AT P8 L41)
+(NOT-AT P8 L42)
+(NOT-AT P8 L50)
+(NOT-AT P8 L51)
+(NOT-AT P8 L52)
+(NOT-AT P8 L60)
+(NOT-AT P8 L61)
+(NOT-AT P8 L62)
+(NOT-AT P8 L70)
+(NOT-AT P8 L71)
+(NOT-AT P8 L72)
+(NOT-AT P8 L80)
+(NOT-AT P8 L81)
+(NOT-AT P8 L82)
+(NOT-AT P8 L90)
+(NOT-AT P8 L91)
+(NOT-AT P8 L92)
+(NOT-AT P9 L00)
+(NOT-AT P9 L01)
+(NOT-AT P9 L02)
+(NOT-AT P9 L10)
+(NOT-AT P9 L11)
+(NOT-AT P9 L12)
+(NOT-AT P9 L20)
+(NOT-AT P9 L21)
+(NOT-AT P9 L22)
+(NOT-AT P9 L30)
+(NOT-AT P9 L31)
+(NOT-AT P9 L32)
+(NOT-AT P9 L40)
+(NOT-AT P9 L41)
+(NOT-AT P9 L42)
+(NOT-AT P9 L60)
+(NOT-AT P9 L61)
+(NOT-AT P9 L62)
+(NOT-AT P9 L70)
+(NOT-AT P9 L71)
+(NOT-AT P9 L72)
+(NOT-AT P9 L80)
+(NOT-AT P9 L81)
+(NOT-AT P9 L82)
+(NOT-AT P9 L90)
+(NOT-AT P9 L91)
+(NOT-AT P9 L92)
+(AT T0 L00)
+(AT T1 L10)
+(AT T2 L20)
+(AT T3 L31)
+(AT T4 L42)
+(AT T5 L51)
+(AT T6 L62)
+(AT T7 L71)
+(AT T8 L80)
+(AT T9 L90)
+(AT A0 L20)
+(AT A1 L50)
+(AT A2 L60)
+(AT A3 L20)
+(AT A4 L60)
+(AT A5 L20)
+(AT A6 L60)
+(AT A7 L90)
+(AT A8 L30)
+(AT A9 L30)
+U:
+(NOT-AT P0 L70)
+(NOT-AT P0 L71)
+(NOT-AT P0 L72)
+(NOT-AT P1 L40)
+(NOT-AT P1 L41)
+(NOT-AT P1 L42)
+(NOT-AT P2 L40)
+(NOT-AT P2 L41)
+(NOT-AT P2 L42)
+(NOT-AT P3 L80)
+(NOT-AT P3 L81)
+(NOT-AT P3 L82)
+(NOT-AT P4 L30)
+(NOT-AT P4 L31)
+(NOT-AT P4 L32)
+(NOT-AT P5 L00)
+(NOT-AT P5 L01)
+(NOT-AT P5 L02)
+(NOT-AT P6 L80)
+(NOT-AT P6 L81)
+(NOT-AT P6 L82)
+(NOT-AT P7 L30)
+(NOT-AT P7 L31)
+(NOT-AT P7 L32)
+(NOT-AT P8 L20)
+(NOT-AT P8 L21)
+(NOT-AT P8 L22)
+(NOT-AT P9 L50)
+(NOT-AT P9 L51)
+(NOT-AT P9 L52)
+(AT P0 L70)
+(AT P0 L71)
+(AT P0 L72)
+(AT P1 L40)
+(AT P1 L41)
+(AT P1 L42)
+(AT P2 L40)
+(AT P2 L41)
+(AT P2 L42)
+(AT P3 L80)
+(AT P3 L81)
+(AT P3 L82)
+(AT P4 L30)
+(AT P4 L31)
+(AT P4 L32)
+(AT P5 L00)
+(AT P5 L01)
+(AT P5 L02)
+(AT P6 L80)
+(AT P6 L81)
+(AT P6 L82)
+(AT P7 L30)
+(AT P7 L31)
+(AT P7 L32)
+(AT P8 L20)
+(AT P8 L21)
+(AT P8 L22)
+(AT P9 L50)
+(AT P9 L51)
+(AT P9 L52)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (AT P0 L72) (AT P0 L71) (AT P0 L70) 
+OR: (NOT-AT P0 L72) (NOT-AT P0 L71) 
+OR: (NOT-AT P0 L72) (NOT-AT P0 L70) 
+OR: (NOT-AT P0 L71) (NOT-AT P0 L70) 
+OR: (AT P1 L42) (AT P1 L41) (AT P1 L40) 
+OR: (NOT-AT P1 L42) (NOT-AT P1 L41) 
+OR: (NOT-AT P1 L42) (NOT-AT P1 L40) 
+OR: (NOT-AT P1 L41) (NOT-AT P1 L40) 
+OR: (AT P2 L42) (AT P2 L41) (AT P2 L40) 
+OR: (NOT-AT P2 L42) (NOT-AT P2 L41) 
+OR: (NOT-AT P2 L42) (NOT-AT P2 L40) 
+OR: (NOT-AT P2 L41) (NOT-AT P2 L40) 
+OR: (AT P3 L82) (AT P3 L81) (AT P3 L80) 
+OR: (NOT-AT P3 L82) (NOT-AT P3 L81) 
+OR: (NOT-AT P3 L82) (NOT-AT P3 L80) 
+OR: (NOT-AT P3 L81) (NOT-AT P3 L80) 
+OR: (AT P4 L32) (AT P4 L31) (AT P4 L30) 
+OR: (NOT-AT P4 L32) (NOT-AT P4 L31) 
+OR: (NOT-AT P4 L32) (NOT-AT P4 L30) 
+OR: (NOT-AT P4 L31) (NOT-AT P4 L30) 
+OR: (AT P5 L02) (AT P5 L01) (AT P5 L00) 
+OR: (NOT-AT P5 L02) (NOT-AT P5 L01) 
+OR: (NOT-AT P5 L02) (NOT-AT P5 L00) 
+OR: (NOT-AT P5 L01) (NOT-AT P5 L00) 
+OR: (AT P6 L82) (AT P6 L81) (AT P6 L80) 
+OR: (NOT-AT P6 L82) (NOT-AT P6 L81) 
+OR: (NOT-AT P6 L82) (NOT-AT P6 L80) 
+OR: (NOT-AT P6 L81) (NOT-AT P6 L80) 
+OR: (AT P7 L32) (AT P7 L31) (AT P7 L30) 
+OR: (NOT-AT P7 L32) (NOT-AT P7 L31) 
+OR: (NOT-AT P7 L32) (NOT-AT P7 L30) 
+OR: (NOT-AT P7 L31) (NOT-AT P7 L30) 
+OR: (AT P8 L22) (AT P8 L21) (AT P8 L20) 
+OR: (NOT-AT P8 L22) (NOT-AT P8 L21) 
+OR: (NOT-AT P8 L22) (NOT-AT P8 L20) 
+OR: (NOT-AT P8 L21) (NOT-AT P8 L20) 
+OR: (AT P9 L52) (AT P9 L51) (AT P9 L50) 
+OR: (NOT-AT P9 L52) (NOT-AT P9 L51) 
+OR: (NOT-AT P9 L52) (NOT-AT P9 L50) 
+OR: (NOT-AT P9 L51) (NOT-AT P9 L50) H:99
+
+
+Cueing down from goal distance:   99 into depth [1]
+                                  98            [1]
+                                  97            [1]
+                                  96            [1]
+                                  95            [1]
+                                  94            [1]
+                                  93            [1]
+                                  92            [1]
+                                  91            [1]
+                                  90            [1]
+                                  89            [1]
+                                  88            [1]
+                                  87            [1]
+                                  86            [1]
+                                  85            [1]
+                                  84            [1]
+                                  83            [1]
+                                  82            [1]
+                                  81            [1]
+                                  80            [1]
+                                  79            [1]
+                                  78            [1]
+                                  77            [1]
+                                  76            [1]
+                                  75            [1]
+                                  74            [1]
+                                  73            [1]
+                                  72            [1]
+                                  71            [1]
+                                  70            [1]
+                                  69            [1]
+                                  68            [1]
+                                  67            [1]
+                                  66            [1]
+                                  65            [1]
+                                  64            [1]
+                                  63            [1][2]
+                                  62            [1]
+                                  61            [1][2]
+                                  60            [1]
+                                  59            [1][2]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1][2]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1][2]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1][2]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1][2]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1][2]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1][2][3]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: LOAD-TRUCK P6 T8 L80
+        1: LOAD-TRUCK P7 T3 L31
+        2: LOAD-TRUCK P4 T3 L31
+        3: LOAD-TRUCK P9 T5 L51
+        4: LOAD-TRUCK P8 T2 L20
+        5: LOAD-TRUCK P5 T0 L00
+        6: LOAD-TRUCK P3 T8 L80
+        7: LOAD-TRUCK P2 T4 L42
+        8: LOAD-TRUCK P1 T4 L42
+        9: LOAD-TRUCK P0 T7 L71
+       10: DRIVE-TRUCK T7 L71 L72 C7
+       11: LOAD-TRUCK P0 T7 L72
+       12: DRIVE-TRUCK T4 L42 L41 C4
+       13: LOAD-TRUCK P2 T4 L41
+       14: LOAD-TRUCK P1 T4 L41
+       15: DRIVE-TRUCK T5 L51 L52 C5
+       16: LOAD-TRUCK P9 T5 L52
+       17: DRIVE-TRUCK T7 L72 L70 C7
+       18: LOAD-TRUCK P0 T7 L70
+       19: UNLOAD-TRUCK P0 T7 L70
+       20: DRIVE-TRUCK T4 L41 L40 C4
+       21: LOAD-TRUCK P2 T4 L40
+       22: LOAD-TRUCK P1 T4 L40
+       23: UNLOAD-TRUCK P1 T4 L40
+       24: UNLOAD-TRUCK P2 T4 L40
+       25: DRIVE-TRUCK T5 L52 L50 C5
+       26: LOAD-TRUCK P9 T5 L50
+       27: UNLOAD-TRUCK P9 T5 L50
+       28: LOAD-AIRPLANE P9 A1 L50
+       29: FLY-AIRPLANE A1 L50 L20
+       30: UNLOAD-AIRPLANE P9 A1 L20
+       31: LOAD-TRUCK P9 T2 L20
+       32: FLY-AIRPLANE A5 L20 L00
+       33: DRIVE-TRUCK T3 L31 L30 C3
+       34: LOAD-TRUCK P7 T3 L30
+       35: LOAD-TRUCK P4 T3 L30
+       36: DRIVE-TRUCK T0 L00 L02 C0
+       37: LOAD-TRUCK P5 T0 L02
+       38: DRIVE-TRUCK T0 L02 L00 C0
+       39: FLY-AIRPLANE A9 L30 L70
+       40: LOAD-AIRPLANE P0 A9 L70
+       41: FLY-AIRPLANE A9 L70 L20
+       42: FLY-AIRPLANE A5 L00 L40
+       43: LOAD-AIRPLANE P1 A5 L40
+       44: FLY-AIRPLANE A5 L40 L00
+       45: UNLOAD-AIRPLANE P1 A5 L00
+       46: LOAD-TRUCK P1 T0 L00
+       47: DRIVE-TRUCK T8 L80 L82 C8
+       48: LOAD-TRUCK P6 T8 L82
+       49: LOAD-TRUCK P3 T8 L82
+       50: DRIVE-TRUCK T8 L82 L80 C8
+       51: DRIVE-TRUCK T0 L00 L01 C0
+       52: LOAD-TRUCK P5 T0 L01
+       53: UNLOAD-TRUCK P1 T0 L01
+       54: DRIVE-TRUCK T0 L01 L00 C0
+       55: UNLOAD-TRUCK P5 T0 L00
+       56: LOAD-AIRPLANE P5 A5 L00
+       57: FLY-AIRPLANE A5 L00 L20
+       58: UNLOAD-AIRPLANE P5 A5 L20
+       59: LOAD-TRUCK P5 T2 L20
+       60: DRIVE-TRUCK T2 L20 L22 C2
+       61: LOAD-TRUCK P8 T2 L22
+       62: UNLOAD-TRUCK P5 T2 L22
+       63: DRIVE-TRUCK T2 L22 L21 C2
+       64: LOAD-TRUCK P8 T2 L21
+       65: UNLOAD-TRUCK P9 T2 L21
+       66: DRIVE-TRUCK T2 L21 L20 C2
+       67: UNLOAD-TRUCK P8 T2 L20
+       68: LOAD-AIRPLANE P8 A9 L20
+       69: FLY-AIRPLANE A9 L20 L30
+       70: UNLOAD-AIRPLANE P0 A9 L30
+       71: LOAD-TRUCK P0 T3 L30
+       72: DRIVE-TRUCK T3 L30 L32 C3
+       73: LOAD-TRUCK P7 T3 L32
+       74: LOAD-TRUCK P4 T3 L32
+       75: UNLOAD-TRUCK P0 T3 L32
+       76: DRIVE-TRUCK T3 L32 L30 C3
+       77: UNLOAD-TRUCK P4 T3 L30
+       78: UNLOAD-TRUCK P7 T3 L30
+       79: LOAD-AIRPLANE P4 A9 L30
+       80: LOAD-AIRPLANE P7 A9 L30
+       81: FLY-AIRPLANE A9 L30 L50
+       82: UNLOAD-AIRPLANE P4 A9 L50
+       83: FLY-AIRPLANE A9 L50 L10
+       84: UNLOAD-AIRPLANE P8 A9 L10
+       85: LOAD-TRUCK P8 T1 L10
+       86: DRIVE-TRUCK T1 L10 L12 C1
+       87: UNLOAD-AIRPLANE P7 A9 L10
+       88: UNLOAD-TRUCK P8 T1 L12
+       89: DRIVE-TRUCK T8 L80 L81 C8
+       90: LOAD-TRUCK P6 T8 L81
+       91: LOAD-TRUCK P3 T8 L81
+       92: UNLOAD-TRUCK P6 T8 L81
+       93: DRIVE-TRUCK T8 L81 L80 C8
+       94: UNLOAD-TRUCK P3 T8 L80
+       95: FLY-AIRPLANE A7 L90 L40
+       96: FLY-AIRPLANE A9 L10 L80
+       97: LOAD-AIRPLANE P2 A7 L40
+       98: FLY-AIRPLANE A7 L40 L90
+       99: LOAD-AIRPLANE P3 A9 L80
+      100: FLY-AIRPLANE A9 L80 L90
+      101: UNLOAD-AIRPLANE P2 A7 L90
+      102: UNLOAD-AIRPLANE P3 A9 L90
+      103: LOAD-TRUCK P2 T9 L90
+      104: LOAD-TRUCK P3 T9 L90
+      105: DRIVE-TRUCK T9 L90 L92 C9
+      106: UNLOAD-TRUCK P2 T9 L92
+      107: UNLOAD-TRUCK P3 T9 L92
+     
+
+statistics:    0.00 seconds instantiating 13900 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 5530 facts and 3690 actions
+               0.00 seconds creating final representation with 1060 relevant facts (70 max U, 40 CNF max U)
+               0.00 seconds building connectivity graph
+               0.15 seconds (   0.15 pure) evaluating 435 states, to a max depth of 3
+               0.00 seconds in DP for 155 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.07 seconds generating,    0.00 seconds encoding 6384 state transition base CNFs
+               0.00 seconds in DP solving 468 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.01 seconds checking for stagnating states (297 hits), including 5316 DP calls
+               0.89 seconds altogether checking for dominated states making 1594 comparisons (1570 conformant, 1570 hits),
+                    spending    0.08 seconds doing 21235 DP calls
+              27174 total DP calls, 34424 total UP calls,    0.06 sec membership
+               0.06 seconds for remaining searching duties
+               1.18 seconds total time (+    0.03 secs for CNF memory allocation)
+
+plan length:108
+iteration:1
+now_time:1.246769891004078

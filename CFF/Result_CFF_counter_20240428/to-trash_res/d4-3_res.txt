@@ -1,0 +1,267 @@
+
+ff: parsing domain file
+domain 'TO-TRASH' defined
+ ... done.
+ff: parsing problem file
+problem 'TO-TRASH-4-3-DISAPPEAR' defined
+ ... done.
+
+
+F:
+(NOT-HOLDING O1)
+(NOT-HOLDING O2)
+(NOT-HOLDING O3)
+(HANDEMPTY)
+(AT P2-2)
+U:
+(NOT-OBJ-AT O1 P1-1)
+(NOT-OBJ-AT O1 P1-2)
+(NOT-OBJ-AT O1 P1-3)
+(NOT-OBJ-AT O1 P1-4)
+(NOT-OBJ-AT O1 P2-1)
+(NOT-OBJ-AT O1 P2-2)
+(NOT-OBJ-AT O1 P2-3)
+(NOT-OBJ-AT O1 P2-4)
+(NOT-OBJ-AT O1 P3-1)
+(NOT-OBJ-AT O1 P3-2)
+(NOT-OBJ-AT O1 P3-3)
+(NOT-OBJ-AT O1 P3-4)
+(NOT-OBJ-AT O1 P4-1)
+(NOT-OBJ-AT O1 P4-2)
+(NOT-OBJ-AT O1 P4-3)
+(NOT-OBJ-AT O1 P4-4)
+(NOT-OBJ-AT O2 P1-1)
+(NOT-OBJ-AT O2 P1-2)
+(NOT-OBJ-AT O2 P1-3)
+(NOT-OBJ-AT O2 P1-4)
+(NOT-OBJ-AT O2 P2-1)
+(NOT-OBJ-AT O2 P2-2)
+(NOT-OBJ-AT O2 P2-3)
+(NOT-OBJ-AT O2 P2-4)
+(NOT-OBJ-AT O2 P3-1)
+(NOT-OBJ-AT O2 P3-2)
+(NOT-OBJ-AT O2 P3-3)
+(NOT-OBJ-AT O2 P3-4)
+(NOT-OBJ-AT O2 P4-1)
+(NOT-OBJ-AT O2 P4-2)
+(NOT-OBJ-AT O2 P4-3)
+(NOT-OBJ-AT O2 P4-4)
+(NOT-OBJ-AT O3 P1-1)
+(NOT-OBJ-AT O3 P1-2)
+(NOT-OBJ-AT O3 P1-3)
+(NOT-OBJ-AT O3 P1-4)
+(NOT-OBJ-AT O3 P2-1)
+(NOT-OBJ-AT O3 P2-2)
+(NOT-OBJ-AT O3 P2-3)
+(NOT-OBJ-AT O3 P2-4)
+(NOT-OBJ-AT O3 P3-1)
+(NOT-OBJ-AT O3 P3-2)
+(NOT-OBJ-AT O3 P3-3)
+(NOT-OBJ-AT O3 P3-4)
+(NOT-OBJ-AT O3 P4-1)
+(NOT-OBJ-AT O3 P4-2)
+(NOT-OBJ-AT O3 P4-3)
+(NOT-OBJ-AT O3 P4-4)
+(OBJ-AT O1 P1-1)
+(OBJ-AT O1 P1-2)
+(OBJ-AT O1 P1-3)
+(OBJ-AT O1 P1-4)
+(OBJ-AT O1 P2-1)
+(OBJ-AT O1 P2-2)
+(OBJ-AT O1 P2-3)
+(OBJ-AT O1 P2-4)
+(OBJ-AT O1 P3-1)
+(OBJ-AT O1 P3-2)
+(OBJ-AT O1 P3-3)
+(OBJ-AT O1 P3-4)
+(OBJ-AT O1 P4-1)
+(OBJ-AT O1 P4-2)
+(OBJ-AT O1 P4-3)
+(OBJ-AT O1 P4-4)
+(OBJ-AT O2 P1-1)
+(OBJ-AT O2 P1-2)
+(OBJ-AT O2 P1-3)
+(OBJ-AT O2 P1-4)
+(OBJ-AT O2 P2-1)
+(OBJ-AT O2 P2-2)
+(OBJ-AT O2 P2-3)
+(OBJ-AT O2 P2-4)
+(OBJ-AT O2 P3-1)
+(OBJ-AT O2 P3-2)
+(OBJ-AT O2 P3-3)
+(OBJ-AT O2 P3-4)
+(OBJ-AT O2 P4-1)
+(OBJ-AT O2 P4-2)
+(OBJ-AT O2 P4-3)
+(OBJ-AT O2 P4-4)
+(OBJ-AT O3 P1-1)
+(OBJ-AT O3 P1-2)
+(OBJ-AT O3 P1-3)
+(OBJ-AT O3 P1-4)
+(OBJ-AT O3 P2-1)
+(OBJ-AT O3 P2-2)
+(OBJ-AT O3 P2-3)
+(OBJ-AT O3 P2-4)
+(OBJ-AT O3 P3-1)
+(OBJ-AT O3 P3-2)
+(OBJ-AT O3 P3-3)
+(OBJ-AT O3 P3-4)
+(OBJ-AT O3 P4-1)
+(OBJ-AT O3 P4-2)
+(OBJ-AT O3 P4-3)
+(OBJ-AT O3 P4-4)
+UE:
+var_size: 104
+
+当前收集的断言数：53
+
+1
+
+第1次迭代
+当前初始状态:
+F:53 U:0
+num_Or:315
+参数大于2的OR: 
+H:9
+
+
+Cueing down from goal distance:    9 into depth [1][2][3][4][5]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：12
+
+var_size: 1424
+
+当前收集的断言数：677
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:51 U:4
+num_Or:331
+参数大于2的OR: 
+H:12
+
+
+Cueing down from goal distance:   12 into depth [1][2]
+                                  11            [1]
+                                  10            [1][2][3]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：14
+
+var_size: 1642
+
+当前收集的断言数：781
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:50 U:6
+num_Or:331
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) 
+H:15
+
+
+Cueing down from goal distance:   15 into depth [1]
+                                  14            [1]
+                                  13            [1]
+                                  11            [1][2][3]
+                                   9            [1][2][3][4][5]
+                                   8            [1][2][3]
+                                   7            [1][2][3]
+                                   6            [1][2][3]
+                                   5            [1][2]
+                                   3            [1]
+                                   2            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   15
+                          13
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           0
+
+ff: found legal plan as follows
+规划长度：26
+
+var_size: 3005
+
+当前收集的断言数：1405
+
+1
+找到反例！
+
+
+第4次迭代
+当前初始状态:
+F:49 U:8
+num_Or:331
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) 
+H:18
+
+
+Cueing down from goal distance:   18 into depth [1]
+                                  15            [1]
+                                  12            [1][2][3]
+                                  10            [1][2][3]
+                                   9            [1][2][3][4]
+                                   8            [1][2][3]
+                                   7            [1][2][3]
+                                   6            [1][2][3]
+                                   5            [1][2]
+                                   3            [1]
+                                   2            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   18
+                          15
+                          12
+                          10
+                           9
+                           8
+                           7
+                           6
+                           3
+                           2
+negated effcond -- in rplan-nodel-noops -- is not unknown?
+
+Out of Memory
+now_time:40.73199110897258

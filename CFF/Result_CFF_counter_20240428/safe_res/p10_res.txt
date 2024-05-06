@@ -1,0 +1,363 @@
+
+ff: parsing domain file
+domain 'SAFE' defined
+ ... done.
+ff: parsing problem file
+problem 'SAFE-10' defined
+ ... done.
+
+
+F:
+U:
+(NOT-RIGHT-COMBINATION C1)
+(NOT-RIGHT-COMBINATION C2)
+(NOT-RIGHT-COMBINATION C3)
+(NOT-RIGHT-COMBINATION C4)
+(NOT-RIGHT-COMBINATION C5)
+(NOT-RIGHT-COMBINATION C6)
+(NOT-RIGHT-COMBINATION C7)
+(NOT-RIGHT-COMBINATION C8)
+(NOT-RIGHT-COMBINATION C9)
+(NOT-RIGHT-COMBINATION C10)
+(RIGHT-COMBINATION C1)
+(RIGHT-COMBINATION C10)
+(RIGHT-COMBINATION C2)
+(RIGHT-COMBINATION C3)
+(RIGHT-COMBINATION C4)
+(RIGHT-COMBINATION C5)
+(RIGHT-COMBINATION C6)
+(RIGHT-COMBINATION C7)
+(RIGHT-COMBINATION C8)
+(RIGHT-COMBINATION C9)
+UE:
+var_size: 21
+
+当前收集的断言数：12
+
+1
+
+第1次迭代
+当前初始状态:
+F:10 U:0
+num_Or:36
+参数大于2的OR: 
+H:2
+
+
+Cueing down from goal distance:    2 into depth [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：1
+
+var_size: 42
+
+当前收集的断言数：22
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:8 U:4
+num_Or:46
+参数大于2的OR: 
+H:3
+
+
+Cueing down from goal distance:    3 into depth [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：2
+
+var_size: 63
+
+当前收集的断言数：32
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:7 U:6
+num_Or:46
+参数大于2的OR: 
+(RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) (RIGHT-COMBINATION C8) 
+H:4
+
+
+Cueing down from goal distance:    4 into depth [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：3
+
+var_size: 84
+
+当前收集的断言数：42
+
+1
+找到反例！
+
+
+第4次迭代
+当前初始状态:
+F:6 U:8
+num_Or:46
+参数大于2的OR: 
+(RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) (RIGHT-COMBINATION C8) (RIGHT-COMBINATION C7) 
+H:5
+
+
+Cueing down from goal distance:    5 into depth [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：4
+
+var_size: 105
+
+当前收集的断言数：52
+
+1
+找到反例！
+
+
+第5次迭代
+当前初始状态:
+F:5 U:10
+num_Or:46
+参数大于2的OR: 
+(RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) (RIGHT-COMBINATION C8) (RIGHT-COMBINATION C7) (RIGHT-COMBINATION C6) 
+H:6
+
+
+Cueing down from goal distance:    6 into depth [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：5
+
+var_size: 126
+
+当前收集的断言数：62
+
+1
+找到反例！
+
+
+第6次迭代
+当前初始状态:
+F:4 U:12
+num_Or:46
+参数大于2的OR: 
+(RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) (RIGHT-COMBINATION C8) (RIGHT-COMBINATION C7) (RIGHT-COMBINATION C6) (RIGHT-COMBINATION C5) 
+H:7
+
+
+Cueing down from goal distance:    7 into depth [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：6
+
+var_size: 147
+
+当前收集的断言数：72
+
+1
+找到反例！
+
+
+第7次迭代
+当前初始状态:
+F:3 U:14
+num_Or:46
+参数大于2的OR: 
+(RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) (RIGHT-COMBINATION C8) (RIGHT-COMBINATION C7) (RIGHT-COMBINATION C6) (RIGHT-COMBINATION C5) (RIGHT-COMBINATION C4) 
+H:8
+
+
+Cueing down from goal distance:    8 into depth [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：7
+
+var_size: 168
+
+当前收集的断言数：82
+
+1
+找到反例！
+
+
+第8次迭代
+当前初始状态:
+F:2 U:16
+num_Or:46
+参数大于2的OR: 
+(RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) (RIGHT-COMBINATION C8) (RIGHT-COMBINATION C7) (RIGHT-COMBINATION C6) (RIGHT-COMBINATION C5) (RIGHT-COMBINATION C4) (RIGHT-COMBINATION C3) 
+H:9
+
+
+Cueing down from goal distance:    9 into depth [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：8
+
+var_size: 189
+
+当前收集的断言数：92
+
+1
+找到反例！
+
+
+第9次迭代
+当前初始状态:
+F:1 U:18
+num_Or:46
+参数大于2的OR: 
+(RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) (RIGHT-COMBINATION C8) (RIGHT-COMBINATION C7) (RIGHT-COMBINATION C6) (RIGHT-COMBINATION C5) (RIGHT-COMBINATION C4) (RIGHT-COMBINATION C3) (RIGHT-COMBINATION C2) 
+H:10
+
+
+Cueing down from goal distance:   10 into depth [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：9
+
+var_size: 210
+
+当前收集的断言数：102
+
+1
+找到反例！
+
+
+第10次迭代
+当前初始状态:
+F:0 U:20
+num_Or:46
+参数大于2的OR: 
+(RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) (RIGHT-COMBINATION C8) (RIGHT-COMBINATION C7) (RIGHT-COMBINATION C6) (RIGHT-COMBINATION C5) (RIGHT-COMBINATION C4) (RIGHT-COMBINATION C3) (RIGHT-COMBINATION C2) (RIGHT-COMBINATION C1) 
+H:11
+
+
+Cueing down from goal distance:   11 into depth [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：10
+
+var_size: 231
+
+当前收集的断言数：112
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: TRY C10
+        1: TRY C9
+        2: TRY C8
+        3: TRY C7
+        4: TRY C6
+        5: TRY C5
+        6: TRY C4
+        7: TRY C3
+        8: TRY C2
+        9: TRY C1
+     
+
+statistics:    0.00 seconds instantiating 10 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 21 facts and 10 actions
+               0.00 seconds creating final representation with 21 relevant facts (21 max U, 11 CNF max U)
+               0.00 seconds building connectivity graph
+               0.00 seconds (   0.00 pure) evaluating 55 states, to a max depth of 1
+               0.00 seconds in DP for 0 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.01 seconds generating,    0.00 seconds encoding 220 state transition base CNFs
+               0.00 seconds in DP solving 219 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (0 hits), including 1422 DP calls
+               0.00 seconds altogether checking for dominated states making 651 comparisons (651 conformant, 0 hits),
+                    spending    0.00 seconds doing 5919 DP calls
+               7560 total DP calls, 7752 total UP calls,    0.00 sec membership
+               0.04 seconds for remaining searching duties
+               0.05 seconds total time (+    0.04 secs for CNF memory allocation)
+
+初始目标状态
+Fold:0 Uold:20
+num_Orold:46
+参数大于2的OR: 
+(RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) (RIGHT-COMBINATION C8) (RIGHT-COMBINATION C7) (RIGHT-COMBINATION C6) (RIGHT-COMBINATION C5) (RIGHT-COMBINATION C4) (RIGHT-COMBINATION C3) (RIGHT-COMBINATION C2) (RIGHT-COMBINATION C1) 
+
+
+当前反例添加的目标状态
+Fcur:0 Ucur:20
+num_Orcur:46
+参数大于2的OR: 
+(RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) (RIGHT-COMBINATION C8) (RIGHT-COMBINATION C7) (RIGHT-COMBINATION C6) (RIGHT-COMBINATION C5) (RIGHT-COMBINATION C4) (RIGHT-COMBINATION C3) (RIGHT-COMBINATION C2) (RIGHT-COMBINATION C1) 
+
+
+counter_time:0.18
+plan length:10
+iteration:10
+now_time:0.25017606402980164

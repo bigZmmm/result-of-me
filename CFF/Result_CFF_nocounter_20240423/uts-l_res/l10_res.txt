@@ -1,0 +1,438 @@
+
+ff: parsing domain file
+domain 'UTS' defined
+ ... done.
+ff: parsing problem file
+problem 'L20' defined
+ ... done.
+
+
+F:
+U:
+(NOT-AT N1)
+(NOT-AT N2)
+(NOT-AT N3)
+(NOT-AT N4)
+(NOT-AT N5)
+(NOT-AT N6)
+(NOT-AT N7)
+(NOT-AT N8)
+(NOT-AT N9)
+(NOT-AT N10)
+(NOT-AT N11)
+(NOT-AT N12)
+(NOT-AT N13)
+(NOT-AT N14)
+(NOT-AT N15)
+(NOT-AT N16)
+(NOT-AT N17)
+(NOT-AT N18)
+(NOT-AT N19)
+(NOT-AT N20)
+(AT N1)
+(AT N10)
+(AT N11)
+(AT N12)
+(AT N13)
+(AT N14)
+(AT N15)
+(AT N16)
+(AT N17)
+(AT N18)
+(AT N19)
+(AT N2)
+(AT N20)
+(AT N3)
+(AT N4)
+(AT N5)
+(AT N6)
+(AT N7)
+(AT N8)
+(AT N9)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+U:
+(NOT-AT N1)
+(NOT-AT N2)
+(NOT-AT N3)
+(NOT-AT N4)
+(NOT-AT N5)
+(NOT-AT N6)
+(NOT-AT N7)
+(NOT-AT N8)
+(NOT-AT N9)
+(NOT-AT N10)
+(NOT-AT N11)
+(NOT-AT N12)
+(NOT-AT N13)
+(NOT-AT N14)
+(NOT-AT N15)
+(NOT-AT N16)
+(NOT-AT N17)
+(NOT-AT N18)
+(NOT-AT N19)
+(NOT-AT N20)
+(AT N1)
+(AT N10)
+(AT N11)
+(AT N12)
+(AT N13)
+(AT N14)
+(AT N15)
+(AT N16)
+(AT N17)
+(AT N18)
+(AT N19)
+(AT N2)
+(AT N20)
+(AT N3)
+(AT N4)
+(AT N5)
+(AT N6)
+(AT N7)
+(AT N8)
+(AT N9)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (AT N20) (AT N19) (AT N18) (AT N17) (AT N16) (AT N15) (AT N14) (AT N13) (AT N12) (AT N11) (AT N10) (AT N9) (AT N8) (AT N7) (AT N6) (AT N5) (AT N4) (AT N3) (AT N2) (AT N1) 
+OR: (NOT-AT N20) (NOT-AT N19) 
+OR: (NOT-AT N20) (NOT-AT N18) 
+OR: (NOT-AT N20) (NOT-AT N17) 
+OR: (NOT-AT N20) (NOT-AT N16) 
+OR: (NOT-AT N20) (NOT-AT N15) 
+OR: (NOT-AT N20) (NOT-AT N14) 
+OR: (NOT-AT N20) (NOT-AT N13) 
+OR: (NOT-AT N20) (NOT-AT N12) 
+OR: (NOT-AT N20) (NOT-AT N11) 
+OR: (NOT-AT N20) (NOT-AT N10) 
+OR: (NOT-AT N20) (NOT-AT N9) 
+OR: (NOT-AT N20) (NOT-AT N8) 
+OR: (NOT-AT N20) (NOT-AT N7) 
+OR: (NOT-AT N20) (NOT-AT N6) 
+OR: (NOT-AT N20) (NOT-AT N5) 
+OR: (NOT-AT N20) (NOT-AT N4) 
+OR: (NOT-AT N20) (NOT-AT N3) 
+OR: (NOT-AT N20) (NOT-AT N2) 
+OR: (NOT-AT N20) (NOT-AT N1) 
+OR: (NOT-AT N19) (NOT-AT N18) 
+OR: (NOT-AT N19) (NOT-AT N17) 
+OR: (NOT-AT N19) (NOT-AT N16) 
+OR: (NOT-AT N19) (NOT-AT N15) 
+OR: (NOT-AT N19) (NOT-AT N14) 
+OR: (NOT-AT N19) (NOT-AT N13) 
+OR: (NOT-AT N19) (NOT-AT N12) 
+OR: (NOT-AT N19) (NOT-AT N11) 
+OR: (NOT-AT N19) (NOT-AT N10) 
+OR: (NOT-AT N19) (NOT-AT N9) 
+OR: (NOT-AT N19) (NOT-AT N8) 
+OR: (NOT-AT N19) (NOT-AT N7) 
+OR: (NOT-AT N19) (NOT-AT N6) 
+OR: (NOT-AT N19) (NOT-AT N5) 
+OR: (NOT-AT N19) (NOT-AT N4) 
+OR: (NOT-AT N19) (NOT-AT N3) 
+OR: (NOT-AT N19) (NOT-AT N2) 
+OR: (NOT-AT N19) (NOT-AT N1) 
+OR: (NOT-AT N18) (NOT-AT N17) 
+OR: (NOT-AT N18) (NOT-AT N16) 
+OR: (NOT-AT N18) (NOT-AT N15) 
+OR: (NOT-AT N18) (NOT-AT N14) 
+OR: (NOT-AT N18) (NOT-AT N13) 
+OR: (NOT-AT N18) (NOT-AT N12) 
+OR: (NOT-AT N18) (NOT-AT N11) 
+OR: (NOT-AT N18) (NOT-AT N10) 
+OR: (NOT-AT N18) (NOT-AT N9) 
+OR: (NOT-AT N18) (NOT-AT N8) 
+OR: (NOT-AT N18) (NOT-AT N7) 
+OR: (NOT-AT N18) (NOT-AT N6) 
+OR: (NOT-AT N18) (NOT-AT N5) 
+OR: (NOT-AT N18) (NOT-AT N4) 
+OR: (NOT-AT N18) (NOT-AT N3) 
+OR: (NOT-AT N18) (NOT-AT N2) 
+OR: (NOT-AT N18) (NOT-AT N1) 
+OR: (NOT-AT N17) (NOT-AT N16) 
+OR: (NOT-AT N17) (NOT-AT N15) 
+OR: (NOT-AT N17) (NOT-AT N14) 
+OR: (NOT-AT N17) (NOT-AT N13) 
+OR: (NOT-AT N17) (NOT-AT N12) 
+OR: (NOT-AT N17) (NOT-AT N11) 
+OR: (NOT-AT N17) (NOT-AT N10) 
+OR: (NOT-AT N17) (NOT-AT N9) 
+OR: (NOT-AT N17) (NOT-AT N8) 
+OR: (NOT-AT N17) (NOT-AT N7) 
+OR: (NOT-AT N17) (NOT-AT N6) 
+OR: (NOT-AT N17) (NOT-AT N5) 
+OR: (NOT-AT N17) (NOT-AT N4) 
+OR: (NOT-AT N17) (NOT-AT N3) 
+OR: (NOT-AT N17) (NOT-AT N2) 
+OR: (NOT-AT N17) (NOT-AT N1) 
+OR: (NOT-AT N16) (NOT-AT N15) 
+OR: (NOT-AT N16) (NOT-AT N14) 
+OR: (NOT-AT N16) (NOT-AT N13) 
+OR: (NOT-AT N16) (NOT-AT N12) 
+OR: (NOT-AT N16) (NOT-AT N11) 
+OR: (NOT-AT N16) (NOT-AT N10) 
+OR: (NOT-AT N16) (NOT-AT N9) 
+OR: (NOT-AT N16) (NOT-AT N8) 
+OR: (NOT-AT N16) (NOT-AT N7) 
+OR: (NOT-AT N16) (NOT-AT N6) 
+OR: (NOT-AT N16) (NOT-AT N5) 
+OR: (NOT-AT N16) (NOT-AT N4) 
+OR: (NOT-AT N16) (NOT-AT N3) 
+OR: (NOT-AT N16) (NOT-AT N2) 
+OR: (NOT-AT N16) (NOT-AT N1) 
+OR: (NOT-AT N15) (NOT-AT N14) 
+OR: (NOT-AT N15) (NOT-AT N13) 
+OR: (NOT-AT N15) (NOT-AT N12) 
+OR: (NOT-AT N15) (NOT-AT N11) 
+OR: (NOT-AT N15) (NOT-AT N10) 
+OR: (NOT-AT N15) (NOT-AT N9) 
+OR: (NOT-AT N15) (NOT-AT N8) 
+OR: (NOT-AT N15) (NOT-AT N7) 
+OR: (NOT-AT N15) (NOT-AT N6) 
+OR: (NOT-AT N15) (NOT-AT N5) 
+OR: (NOT-AT N15) (NOT-AT N4) 
+OR: (NOT-AT N15) (NOT-AT N3) 
+OR: (NOT-AT N15) (NOT-AT N2) 
+OR: (NOT-AT N15) (NOT-AT N1) 
+OR: (NOT-AT N14) (NOT-AT N13) 
+OR: (NOT-AT N14) (NOT-AT N12) 
+OR: (NOT-AT N14) (NOT-AT N11) 
+OR: (NOT-AT N14) (NOT-AT N10) 
+OR: (NOT-AT N14) (NOT-AT N9) 
+OR: (NOT-AT N14) (NOT-AT N8) 
+OR: (NOT-AT N14) (NOT-AT N7) 
+OR: (NOT-AT N14) (NOT-AT N6) 
+OR: (NOT-AT N14) (NOT-AT N5) 
+OR: (NOT-AT N14) (NOT-AT N4) 
+OR: (NOT-AT N14) (NOT-AT N3) 
+OR: (NOT-AT N14) (NOT-AT N2) 
+OR: (NOT-AT N14) (NOT-AT N1) 
+OR: (NOT-AT N13) (NOT-AT N12) 
+OR: (NOT-AT N13) (NOT-AT N11) 
+OR: (NOT-AT N13) (NOT-AT N10) 
+OR: (NOT-AT N13) (NOT-AT N9) 
+OR: (NOT-AT N13) (NOT-AT N8) 
+OR: (NOT-AT N13) (NOT-AT N7) 
+OR: (NOT-AT N13) (NOT-AT N6) 
+OR: (NOT-AT N13) (NOT-AT N5) 
+OR: (NOT-AT N13) (NOT-AT N4) 
+OR: (NOT-AT N13) (NOT-AT N3) 
+OR: (NOT-AT N13) (NOT-AT N2) 
+OR: (NOT-AT N13) (NOT-AT N1) 
+OR: (NOT-AT N12) (NOT-AT N11) 
+OR: (NOT-AT N12) (NOT-AT N10) 
+OR: (NOT-AT N12) (NOT-AT N9) 
+OR: (NOT-AT N12) (NOT-AT N8) 
+OR: (NOT-AT N12) (NOT-AT N7) 
+OR: (NOT-AT N12) (NOT-AT N6) 
+OR: (NOT-AT N12) (NOT-AT N5) 
+OR: (NOT-AT N12) (NOT-AT N4) 
+OR: (NOT-AT N12) (NOT-AT N3) 
+OR: (NOT-AT N12) (NOT-AT N2) 
+OR: (NOT-AT N12) (NOT-AT N1) 
+OR: (NOT-AT N11) (NOT-AT N10) 
+OR: (NOT-AT N11) (NOT-AT N9) 
+OR: (NOT-AT N11) (NOT-AT N8) 
+OR: (NOT-AT N11) (NOT-AT N7) 
+OR: (NOT-AT N11) (NOT-AT N6) 
+OR: (NOT-AT N11) (NOT-AT N5) 
+OR: (NOT-AT N11) (NOT-AT N4) 
+OR: (NOT-AT N11) (NOT-AT N3) 
+OR: (NOT-AT N11) (NOT-AT N2) 
+OR: (NOT-AT N11) (NOT-AT N1) 
+OR: (NOT-AT N10) (NOT-AT N9) 
+OR: (NOT-AT N10) (NOT-AT N8) 
+OR: (NOT-AT N10) (NOT-AT N7) 
+OR: (NOT-AT N10) (NOT-AT N6) 
+OR: (NOT-AT N10) (NOT-AT N5) 
+OR: (NOT-AT N10) (NOT-AT N4) 
+OR: (NOT-AT N10) (NOT-AT N3) 
+OR: (NOT-AT N10) (NOT-AT N2) 
+OR: (NOT-AT N10) (NOT-AT N1) 
+OR: (NOT-AT N9) (NOT-AT N8) 
+OR: (NOT-AT N9) (NOT-AT N7) 
+OR: (NOT-AT N9) (NOT-AT N6) 
+OR: (NOT-AT N9) (NOT-AT N5) 
+OR: (NOT-AT N9) (NOT-AT N4) 
+OR: (NOT-AT N9) (NOT-AT N3) 
+OR: (NOT-AT N9) (NOT-AT N2) 
+OR: (NOT-AT N9) (NOT-AT N1) 
+OR: (NOT-AT N8) (NOT-AT N7) 
+OR: (NOT-AT N8) (NOT-AT N6) 
+OR: (NOT-AT N8) (NOT-AT N5) 
+OR: (NOT-AT N8) (NOT-AT N4) 
+OR: (NOT-AT N8) (NOT-AT N3) 
+OR: (NOT-AT N8) (NOT-AT N2) 
+OR: (NOT-AT N8) (NOT-AT N1) 
+OR: (NOT-AT N7) (NOT-AT N6) 
+OR: (NOT-AT N7) (NOT-AT N5) 
+OR: (NOT-AT N7) (NOT-AT N4) 
+OR: (NOT-AT N7) (NOT-AT N3) 
+OR: (NOT-AT N7) (NOT-AT N2) 
+OR: (NOT-AT N7) (NOT-AT N1) 
+OR: (NOT-AT N6) (NOT-AT N5) 
+OR: (NOT-AT N6) (NOT-AT N4) 
+OR: (NOT-AT N6) (NOT-AT N3) 
+OR: (NOT-AT N6) (NOT-AT N2) 
+OR: (NOT-AT N6) (NOT-AT N1) 
+OR: (NOT-AT N5) (NOT-AT N4) 
+OR: (NOT-AT N5) (NOT-AT N3) 
+OR: (NOT-AT N5) (NOT-AT N2) 
+OR: (NOT-AT N5) (NOT-AT N1) 
+OR: (NOT-AT N4) (NOT-AT N3) 
+OR: (NOT-AT N4) (NOT-AT N2) 
+OR: (NOT-AT N4) (NOT-AT N1) 
+OR: (NOT-AT N3) (NOT-AT N2) 
+OR: (NOT-AT N3) (NOT-AT N1) 
+OR: (NOT-AT N2) (NOT-AT N1) H:149
+
+
+Cueing down from goal distance:  149 into depth [1]
+                                 148            [1]
+                                 147            [1]
+                                 146            [1]
+                                 145            [1]
+                                 144            [1]
+                                 143            [1]
+                                 142            [1]
+                                 141            [1]
+                                 140            [1]
+                                 139            [1]
+                                 138            [1]
+                                 137            [1]
+                                 136            [1]
+                                 135            [1]
+                                 134            [1]
+                                 133            [1]
+                                 132            [1]
+                                 131            [1]
+                                 130            [1]
+                                 129            [1]
+                                 110            [1]
+                                 109            [1]
+                                  92            [1]
+                                  91            [1]
+                                  76            [1]
+                                  75            [1]
+                                  62            [1]
+                                  61            [1]
+                                  50            [1]
+                                  49            [1]
+                                  40            [1]
+                                  39            [1]
+                                  32            [1]
+                                  31            [1]
+                                  26            [1]
+                                  25            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1][2]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: START N11
+        1: START N10
+        2: START N20
+        3: START N19
+        4: START N18
+        5: START N17
+        6: START N16
+        7: START N15
+        8: START N14
+        9: START N13
+       10: START N12
+       11: START N9
+       12: START N8
+       13: START N7
+       14: START N6
+       15: START N5
+       16: START N4
+       17: START N3
+       18: START N2
+       19: START N1
+       20: TRAVEL N20 N19
+       21: TRAVEL N19 N18
+       22: TRAVEL N18 N17
+       23: TRAVEL N17 N16
+       24: TRAVEL N16 N15
+       25: TRAVEL N15 N14
+       26: TRAVEL N14 N13
+       27: TRAVEL N13 N12
+       28: TRAVEL N12 N11
+       29: TRAVEL N11 N10
+       30: TRAVEL N10 N9
+       31: TRAVEL N9 N8
+       32: TRAVEL N8 N7
+       33: TRAVEL N7 N6
+       34: TRAVEL N6 N5
+       35: TRAVEL N5 N4
+       36: TRAVEL N4 N3
+       37: TRAVEL N3 N2
+       38: TRAVEL N1 N2
+       39: TRAVEL N2 N1
+       40: TRAVEL N1 N2
+       41: TRAVEL N2 N3
+       42: TRAVEL N3 N4
+       43: TRAVEL N4 N5
+       44: TRAVEL N5 N6
+       45: TRAVEL N6 N7
+       46: TRAVEL N7 N8
+       47: TRAVEL N8 N9
+       48: TRAVEL N9 N10
+       49: TRAVEL N10 N11
+       50: TRAVEL N11 N12
+       51: TRAVEL N12 N13
+       52: TRAVEL N13 N14
+       53: TRAVEL N14 N15
+       54: TRAVEL N15 N16
+       55: TRAVEL N16 N17
+       56: TRAVEL N17 N18
+       57: TRAVEL N18 N19
+       58: TRAVEL N19 N20
+     
+
+statistics:    0.00 seconds instantiating 420 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 61 facts and 420 actions
+               0.00 seconds creating final representation with 61 relevant facts (61 max U, 41 CNF max U)
+               0.00 seconds building connectivity graph
+               0.43 seconds (   0.43 pure) evaluating 60 states, to a max depth of 2
+               0.00 seconds in DP for 17152 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 433 state transition base CNFs
+               0.00 seconds in DP solving 1020 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (0 hits), including 6330 DP calls
+               0.00 seconds altogether checking for dominated states making 1 comparisons (0 conformant, 0 hits),
+                    spending    0.00 seconds doing 0 DP calls
+              24502 total DP calls, 41122 total UP calls,    0.00 sec membership
+               0.07 seconds for remaining searching duties
+               0.50 seconds total time (+    0.07 secs for CNF memory allocation)
+
+plan length:59
+iteration:1
+now_time:0.525598733976949

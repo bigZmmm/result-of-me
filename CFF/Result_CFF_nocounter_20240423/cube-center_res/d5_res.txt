@@ -1,0 +1,218 @@
+
+ff: parsing domain file
+domain 'CUBE' defined
+ ... done.
+ff: parsing problem file
+problem 'CUBE5' defined
+ ... done.
+
+
+F:
+U:
+(NOT-Z-POS P0)
+(NOT-Z-POS P1)
+(NOT-Z-POS P2)
+(NOT-Z-POS P3)
+(NOT-Z-POS P4)
+(NOT-Y-POS P0)
+(NOT-Y-POS P1)
+(NOT-Y-POS P2)
+(NOT-Y-POS P3)
+(NOT-Y-POS P4)
+(NOT-X-POS P0)
+(NOT-X-POS P1)
+(NOT-X-POS P2)
+(NOT-X-POS P3)
+(NOT-X-POS P4)
+(X-POS P0)
+(X-POS P1)
+(X-POS P2)
+(X-POS P3)
+(X-POS P4)
+(Y-POS P0)
+(Y-POS P1)
+(Y-POS P2)
+(Y-POS P3)
+(Y-POS P4)
+(Z-POS P0)
+(Z-POS P1)
+(Z-POS P2)
+(Z-POS P3)
+(Z-POS P4)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+U:
+(NOT-Z-POS P0)
+(NOT-Z-POS P1)
+(NOT-Z-POS P2)
+(NOT-Z-POS P3)
+(NOT-Z-POS P4)
+(NOT-Y-POS P0)
+(NOT-Y-POS P1)
+(NOT-Y-POS P2)
+(NOT-Y-POS P3)
+(NOT-Y-POS P4)
+(NOT-X-POS P0)
+(NOT-X-POS P1)
+(NOT-X-POS P2)
+(NOT-X-POS P3)
+(NOT-X-POS P4)
+(X-POS P0)
+(X-POS P1)
+(X-POS P2)
+(X-POS P3)
+(X-POS P4)
+(Y-POS P0)
+(Y-POS P1)
+(Y-POS P2)
+(Y-POS P3)
+(Y-POS P4)
+(Z-POS P0)
+(Z-POS P1)
+(Z-POS P2)
+(Z-POS P3)
+(Z-POS P4)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (X-POS P4) (X-POS P3) (X-POS P2) (X-POS P1) (X-POS P0) 
+OR: (NOT-X-POS P4) (NOT-X-POS P3) 
+OR: (NOT-X-POS P4) (NOT-X-POS P2) 
+OR: (NOT-X-POS P4) (NOT-X-POS P1) 
+OR: (NOT-X-POS P4) (NOT-X-POS P0) 
+OR: (NOT-X-POS P3) (NOT-X-POS P2) 
+OR: (NOT-X-POS P3) (NOT-X-POS P1) 
+OR: (NOT-X-POS P3) (NOT-X-POS P0) 
+OR: (NOT-X-POS P2) (NOT-X-POS P1) 
+OR: (NOT-X-POS P2) (NOT-X-POS P0) 
+OR: (NOT-X-POS P1) (NOT-X-POS P0) 
+OR: (Y-POS P4) (Y-POS P3) (Y-POS P2) (Y-POS P1) (Y-POS P0) 
+OR: (NOT-Y-POS P4) (NOT-Y-POS P3) 
+OR: (NOT-Y-POS P4) (NOT-Y-POS P2) 
+OR: (NOT-Y-POS P4) (NOT-Y-POS P1) 
+OR: (NOT-Y-POS P4) (NOT-Y-POS P0) 
+OR: (NOT-Y-POS P3) (NOT-Y-POS P2) 
+OR: (NOT-Y-POS P3) (NOT-Y-POS P1) 
+OR: (NOT-Y-POS P3) (NOT-Y-POS P0) 
+OR: (NOT-Y-POS P2) (NOT-Y-POS P1) 
+OR: (NOT-Y-POS P2) (NOT-Y-POS P0) 
+OR: (NOT-Y-POS P1) (NOT-Y-POS P0) 
+OR: (Z-POS P4) (Z-POS P3) (Z-POS P2) (Z-POS P1) (Z-POS P0) 
+OR: (NOT-Z-POS P4) (NOT-Z-POS P3) 
+OR: (NOT-Z-POS P4) (NOT-Z-POS P2) 
+OR: (NOT-Z-POS P4) (NOT-Z-POS P1) 
+OR: (NOT-Z-POS P4) (NOT-Z-POS P0) 
+OR: (NOT-Z-POS P3) (NOT-Z-POS P2) 
+OR: (NOT-Z-POS P3) (NOT-Z-POS P1) 
+OR: (NOT-Z-POS P3) (NOT-Z-POS P0) 
+OR: (NOT-Z-POS P2) (NOT-Z-POS P1) 
+OR: (NOT-Z-POS P2) (NOT-Z-POS P0) 
+OR: (NOT-Z-POS P1) (NOT-Z-POS P0) H:13
+
+
+Cueing down from goal distance:   13 into depth [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   13
+                          12
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+
+
+ff: found legal plan as follows
+
+step    0: UP-X
+        1: DOWN-X
+        2: DOWN-X
+        3: UP-X
+        4: UP-Y
+        5: DOWN-Y
+        6: DOWN-Y
+        7: UP-Y
+        8: UP-Z
+        9: DOWN-Z
+       10: DOWN-Z
+       11: UP-Z
+       12: UP-X
+       13: DOWN-Y
+       14: DOWN-Z
+       15: DOWN-Z
+       16: UP-Z
+       17: DOWN-X
+       18: DOWN-X
+       19: UP-Y
+       20: UP-Y
+       21: UP-X
+       22: UP-X
+       23: UP-Z
+       24: UP-Z
+       25: UP-Z
+       26: DOWN-Z
+       27: DOWN-Z
+       28: DOWN-X
+       29: DOWN-X
+       30: DOWN-Y
+       31: DOWN-Y
+       32: DOWN-Y
+       33: DOWN-Y
+       34: UP-Y
+       35: UP-Y
+       36: UP-X
+       37: UP-X
+       38: UP-X
+       39: DOWN-X
+       40: DOWN-X
+       41: DOWN-X
+       42: DOWN-X
+       43: UP-X
+       44: UP-X
+     
+
+statistics:    0.00 seconds instantiating 6 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 30 facts and 6 actions
+               0.00 seconds creating final representation with 30 relevant facts (30 max U, 15 CNF max U)
+               0.00 seconds building connectivity graph
+               0.24 seconds (   0.24 pure) evaluating 2211 states, to a max depth of 1
+               0.00 seconds in DP for 1869 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.16 seconds generating,    0.10 seconds encoding 7551 state transition base CNFs
+               0.12 seconds in DP solving 30038 state transition CNFs
+               0.06 seconds checking for self-contradictions, including 41579 DP calls
+               0.01 seconds checking for stagnating states (1081 hits), including 13370 DP calls
+               4.46 seconds altogether checking for dominated states making 13875 comparisons (13875 conformant, 4200 hits),
+                    spending    3.46 seconds doing 94136 DP calls
+             180992 total DP calls, 2707460 total UP calls,    0.16 sec membership
+               0.05 seconds for remaining searching duties
+               5.14 seconds total time (+    0.01 secs for CNF memory allocation)
+
+plan length:45
+iteration:1
+now_time:5.266347761993529

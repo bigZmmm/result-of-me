@@ -1,0 +1,171 @@
+
+ff: parsing domain file
+domain 'COINS' defined
+ ... done.
+ff: parsing problem file
+problem 'COINS_2_2_2_21880' defined
+ ... done.
+
+
+F:
+(AT F0 P0)
+U:
+(NOT-COIN-AT C0 F1 P0)
+(NOT-COIN-AT C0 F1 P1)
+(NOT-COIN-AT C1 F1 P0)
+(NOT-COIN-AT C1 F1 P1)
+(NOT-IN E0 F0)
+(NOT-IN E0 F1)
+(NOT-IN E1 F0)
+(NOT-IN E1 F1)
+(COIN-AT C0 F1 P0)
+(COIN-AT C0 F1 P1)
+(COIN-AT C1 F1 P0)
+(COIN-AT C1 F1 P1)
+(IN E0 F0)
+(IN E0 F1)
+(IN E1 F0)
+(IN E1 F1)
+UE:
+var_size: 19
+
+当前收集的断言数：10
+
+1
+
+第1次迭代
+当前初始状态:
+F:9 U:0
+num_Or:0
+参数大于2的OR: 
+H:7
+
+
+Cueing down from goal distance:    7 into depth [1]
+                                   6            [1][2]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：7
+
+var_size: 160
+
+当前收集的断言数：66
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:7 U:4
+num_Or:2
+参数大于2的OR: 
+H:11
+
+
+Cueing down from goal distance:   11 into depth [1][2]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：9
+
+var_size: 204
+
+当前收集的断言数：82
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:5 U:8
+num_Or:4
+参数大于2的OR: 
+H:12
+
+
+Cueing down from goal distance:   12 into depth [1][2]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：10
+
+var_size: 224
+
+当前收集的断言数：90
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: GO-DOWN E0 F1 F0
+        1: GO-DOWN E1 F1 F0
+        2: STEP-IN E0 F0 P0
+        3: GO-UP E0 F0 F1
+        4: STEP-OUT E0 F1 P0
+        5: COLLECT C1 F1 P0
+        6: COLLECT C0 F1 P0
+        7: MOVE-RIGHT F1 P0 P1
+        8: COLLECT C1 F1 P1
+        9: COLLECT C0 F1 P1
+     
+
+statistics:    0.00 seconds instantiating 24 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 28 facts and 24 actions
+               0.00 seconds creating final representation with 24 relevant facts (24 max U, 16 CNF max U)
+               0.00 seconds building connectivity graph
+               0.00 seconds (   0.00 pure) evaluating 33 states, to a max depth of 2
+               0.00 seconds in DP for 16 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 67 state transition base CNFs
+               0.00 seconds in DP solving 16 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (10 hits), including 48 DP calls
+               0.00 seconds altogether checking for dominated states making 6 comparisons (6 conformant, 6 hits),
+                    spending    0.00 seconds doing 36 DP calls
+                116 total DP calls, 130 total UP calls,    0.00 sec membership
+               0.03 seconds for remaining searching duties
+               0.03 seconds total time (+    0.04 secs for CNF memory allocation)
+
+初始目标状态
+Fold:1 Uold:16
+num_Orold:8
+参数大于2的OR: 
+
+
+当前反例添加的目标状态
+Fcur:5 Ucur:8
+num_Orcur:4
+参数大于2的OR: 
+
+
+counter_time:0.08
+plan length:10
+iteration:3
+now_time:0.1472107040026458

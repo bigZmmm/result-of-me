@@ -1,0 +1,515 @@
+
+ff: parsing domain file
+domain 'OR-PUSH-TO' defined
+ ... done.
+ff: parsing problem file
+problem 'OR-PUSH-TO-7-1' defined
+ ... done.
+
+
+F:
+(AT P4-4)
+U:
+(NOT-OBJ-AT O1 P1-1)
+(NOT-OBJ-AT O1 P1-2)
+(NOT-OBJ-AT O1 P1-3)
+(NOT-OBJ-AT O1 P1-4)
+(NOT-OBJ-AT O1 P1-5)
+(NOT-OBJ-AT O1 P1-6)
+(NOT-OBJ-AT O1 P1-7)
+(NOT-OBJ-AT O1 P2-1)
+(NOT-OBJ-AT O1 P2-2)
+(NOT-OBJ-AT O1 P2-3)
+(NOT-OBJ-AT O1 P2-4)
+(NOT-OBJ-AT O1 P2-5)
+(NOT-OBJ-AT O1 P2-6)
+(NOT-OBJ-AT O1 P2-7)
+(NOT-OBJ-AT O1 P3-1)
+(NOT-OBJ-AT O1 P3-2)
+(NOT-OBJ-AT O1 P3-3)
+(NOT-OBJ-AT O1 P3-4)
+(NOT-OBJ-AT O1 P3-5)
+(NOT-OBJ-AT O1 P3-6)
+(NOT-OBJ-AT O1 P3-7)
+(NOT-OBJ-AT O1 P4-1)
+(NOT-OBJ-AT O1 P4-2)
+(NOT-OBJ-AT O1 P4-3)
+(NOT-OBJ-AT O1 P4-4)
+(NOT-OBJ-AT O1 P4-5)
+(NOT-OBJ-AT O1 P4-6)
+(NOT-OBJ-AT O1 P4-7)
+(NOT-OBJ-AT O1 P5-1)
+(NOT-OBJ-AT O1 P5-2)
+(NOT-OBJ-AT O1 P5-3)
+(NOT-OBJ-AT O1 P5-4)
+(NOT-OBJ-AT O1 P5-5)
+(NOT-OBJ-AT O1 P5-6)
+(NOT-OBJ-AT O1 P5-7)
+(NOT-OBJ-AT O1 P6-1)
+(NOT-OBJ-AT O1 P6-2)
+(NOT-OBJ-AT O1 P6-3)
+(NOT-OBJ-AT O1 P6-4)
+(NOT-OBJ-AT O1 P6-5)
+(NOT-OBJ-AT O1 P6-6)
+(NOT-OBJ-AT O1 P6-7)
+(NOT-OBJ-AT O1 P7-1)
+(NOT-OBJ-AT O1 P7-2)
+(NOT-OBJ-AT O1 P7-3)
+(NOT-OBJ-AT O1 P7-4)
+(NOT-OBJ-AT O1 P7-5)
+(NOT-OBJ-AT O1 P7-6)
+(NOT-OBJ-AT O1 P7-7)
+(OBJ-AT O1 P1-1)
+(OBJ-AT O1 P1-2)
+(OBJ-AT O1 P1-3)
+(OBJ-AT O1 P1-4)
+(OBJ-AT O1 P1-5)
+(OBJ-AT O1 P1-6)
+(OBJ-AT O1 P1-7)
+(OBJ-AT O1 P2-1)
+(OBJ-AT O1 P2-2)
+(OBJ-AT O1 P2-3)
+(OBJ-AT O1 P2-4)
+(OBJ-AT O1 P2-5)
+(OBJ-AT O1 P2-6)
+(OBJ-AT O1 P2-7)
+(OBJ-AT O1 P3-1)
+(OBJ-AT O1 P3-2)
+(OBJ-AT O1 P3-3)
+(OBJ-AT O1 P3-4)
+(OBJ-AT O1 P3-5)
+(OBJ-AT O1 P3-6)
+(OBJ-AT O1 P3-7)
+(OBJ-AT O1 P4-1)
+(OBJ-AT O1 P4-2)
+(OBJ-AT O1 P4-3)
+(OBJ-AT O1 P4-4)
+(OBJ-AT O1 P4-5)
+(OBJ-AT O1 P4-6)
+(OBJ-AT O1 P4-7)
+(OBJ-AT O1 P5-1)
+(OBJ-AT O1 P5-2)
+(OBJ-AT O1 P5-3)
+(OBJ-AT O1 P5-4)
+(OBJ-AT O1 P5-5)
+(OBJ-AT O1 P5-6)
+(OBJ-AT O1 P5-7)
+(OBJ-AT O1 P6-1)
+(OBJ-AT O1 P6-2)
+(OBJ-AT O1 P6-3)
+(OBJ-AT O1 P6-4)
+(OBJ-AT O1 P6-5)
+(OBJ-AT O1 P6-6)
+(OBJ-AT O1 P6-7)
+(OBJ-AT O1 P7-1)
+(OBJ-AT O1 P7-2)
+(OBJ-AT O1 P7-3)
+(OBJ-AT O1 P7-4)
+(OBJ-AT O1 P7-5)
+(OBJ-AT O1 P7-6)
+(OBJ-AT O1 P7-7)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(AT P4-4)
+U:
+(NOT-OBJ-AT O1 P1-1)
+(NOT-OBJ-AT O1 P1-2)
+(NOT-OBJ-AT O1 P1-3)
+(NOT-OBJ-AT O1 P1-4)
+(NOT-OBJ-AT O1 P1-5)
+(NOT-OBJ-AT O1 P1-6)
+(NOT-OBJ-AT O1 P1-7)
+(NOT-OBJ-AT O1 P2-1)
+(NOT-OBJ-AT O1 P2-2)
+(NOT-OBJ-AT O1 P2-3)
+(NOT-OBJ-AT O1 P2-4)
+(NOT-OBJ-AT O1 P2-5)
+(NOT-OBJ-AT O1 P2-6)
+(NOT-OBJ-AT O1 P2-7)
+(NOT-OBJ-AT O1 P3-1)
+(NOT-OBJ-AT O1 P3-2)
+(NOT-OBJ-AT O1 P3-3)
+(NOT-OBJ-AT O1 P3-4)
+(NOT-OBJ-AT O1 P3-5)
+(NOT-OBJ-AT O1 P3-6)
+(NOT-OBJ-AT O1 P3-7)
+(NOT-OBJ-AT O1 P4-1)
+(NOT-OBJ-AT O1 P4-2)
+(NOT-OBJ-AT O1 P4-3)
+(NOT-OBJ-AT O1 P4-4)
+(NOT-OBJ-AT O1 P4-5)
+(NOT-OBJ-AT O1 P4-6)
+(NOT-OBJ-AT O1 P4-7)
+(NOT-OBJ-AT O1 P5-1)
+(NOT-OBJ-AT O1 P5-2)
+(NOT-OBJ-AT O1 P5-3)
+(NOT-OBJ-AT O1 P5-4)
+(NOT-OBJ-AT O1 P5-5)
+(NOT-OBJ-AT O1 P5-6)
+(NOT-OBJ-AT O1 P5-7)
+(NOT-OBJ-AT O1 P6-1)
+(NOT-OBJ-AT O1 P6-2)
+(NOT-OBJ-AT O1 P6-3)
+(NOT-OBJ-AT O1 P6-4)
+(NOT-OBJ-AT O1 P6-5)
+(NOT-OBJ-AT O1 P6-6)
+(NOT-OBJ-AT O1 P6-7)
+(NOT-OBJ-AT O1 P7-1)
+(NOT-OBJ-AT O1 P7-2)
+(NOT-OBJ-AT O1 P7-3)
+(NOT-OBJ-AT O1 P7-4)
+(NOT-OBJ-AT O1 P7-5)
+(NOT-OBJ-AT O1 P7-6)
+(NOT-OBJ-AT O1 P7-7)
+(OBJ-AT O1 P1-1)
+(OBJ-AT O1 P1-2)
+(OBJ-AT O1 P1-3)
+(OBJ-AT O1 P1-4)
+(OBJ-AT O1 P1-5)
+(OBJ-AT O1 P1-6)
+(OBJ-AT O1 P1-7)
+(OBJ-AT O1 P2-1)
+(OBJ-AT O1 P2-2)
+(OBJ-AT O1 P2-3)
+(OBJ-AT O1 P2-4)
+(OBJ-AT O1 P2-5)
+(OBJ-AT O1 P2-6)
+(OBJ-AT O1 P2-7)
+(OBJ-AT O1 P3-1)
+(OBJ-AT O1 P3-2)
+(OBJ-AT O1 P3-3)
+(OBJ-AT O1 P3-4)
+(OBJ-AT O1 P3-5)
+(OBJ-AT O1 P3-6)
+(OBJ-AT O1 P3-7)
+(OBJ-AT O1 P4-1)
+(OBJ-AT O1 P4-2)
+(OBJ-AT O1 P4-3)
+(OBJ-AT O1 P4-4)
+(OBJ-AT O1 P4-5)
+(OBJ-AT O1 P4-6)
+(OBJ-AT O1 P4-7)
+(OBJ-AT O1 P5-1)
+(OBJ-AT O1 P5-2)
+(OBJ-AT O1 P5-3)
+(OBJ-AT O1 P5-4)
+(OBJ-AT O1 P5-5)
+(OBJ-AT O1 P5-6)
+(OBJ-AT O1 P5-7)
+(OBJ-AT O1 P6-1)
+(OBJ-AT O1 P6-2)
+(OBJ-AT O1 P6-3)
+(OBJ-AT O1 P6-4)
+(OBJ-AT O1 P6-5)
+(OBJ-AT O1 P6-6)
+(OBJ-AT O1 P6-7)
+(OBJ-AT O1 P7-1)
+(OBJ-AT O1 P7-2)
+(OBJ-AT O1 P7-3)
+(OBJ-AT O1 P7-4)
+(OBJ-AT O1 P7-5)
+(OBJ-AT O1 P7-6)
+(OBJ-AT O1 P7-7)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) H:154
+
+
+Cueing down from goal distance:  154 into depth [1]
+                                 153            [1]
+                                 147            [1]
+                                 146            [1]
+                                 140            [1]
+                                 139            [1]
+                                 107            [1]
+                                 106            [1]
+                                 105            [1]
+                                 104            [1]
+                                 101            [1]
+                                 100            [1]
+                                  95            [1]
+                                  94            [1][2][3]
+                                  93            [1][2][3][4][5]
+                                  91            [1][2][3][4][5]
+                                  90            [1][2][3][4][5][6][7]
+                                  88            [1][2][3][4][5][6][7]
+                                  87            [1][2][3][4][5][6][7]
+                                  86            [1][2][3][4][5][6][7][8][9]
+                                  85            [1][2][3][4][5][6][7][8][9]
+                                  84            [1][2][3][4][5][6][7][8][9]
+                                  83            [1]
+                                  82            [1][2][3]
+                                  81            [1][2][3]
+                                  80            [1][2][3][4]
+                                  76            [1]
+                                  75            [1]
+                                  74            [1]
+                                  73            [1]
+                                  72            [1]
+                                  71            [1]
+                                  68            [1]
+                                  63            [1]
+                                  61            [1][2][3]
+                                  60            [1][2][3]
+                                  59            [1][2][3][4][5]
+                                  58            [1][2][3][4][5]
+                                  57            [1][2][3][4][5]
+                                  56            [1][2][3][4][5]
+                                  54            [1]
+                                  53            [1][2][3]
+                                  52            [1]
+                                  48            [1]
+                                  47            [1][2][3]
+                                  46            [1][2][3]
+                                  43            [1][2][3]
+                                  42            [1][2][3][4]
+                                  41            [1]
+                                  40            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  34            [1][2]
+                                  33            [1][2]
+                                  32            [1]
+                                  28            [1]
+                                  27            [1][2][3]
+                                  26            [1][2][3][4]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1][2]
+                                  14            [1][2][3]
+                                  13            [1]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: PUSH O1 P4-4 P3-4
+        1: MOVE P4-4 P3-4
+        2: PUSH O1 P3-4 P3-3
+        3: MOVE P3-4 P2-4
+        4: PUSH O1 P2-4 P2-3
+        5: MOVE P2-4 P1-4
+        6: PUSH O1 P1-4 P2-4
+        7: MOVE P1-4 P1-3
+        8: PUSH O1 P1-3 P2-3
+        9: MOVE P1-3 P1-2
+       10: PUSH O1 P1-2 P2-2
+       11: MOVE P1-2 P1-1
+       12: PUSH O1 P1-1 P2-1
+       13: MOVE P1-1 P2-1
+       14: PUSH O1 P2-1 P3-1
+       15: MOVE P2-1 P1-1
+       16: MOVE P1-1 P1-2
+       17: MOVE P1-2 P2-2
+       18: PUSH O1 P2-2 P3-2
+       19: MOVE P2-2 P1-2
+       20: MOVE P1-2 P1-1
+       21: MOVE P1-1 P2-1
+       22: MOVE P2-1 P3-1
+       23: PUSH O1 P3-1 P4-1
+       24: MOVE P3-1 P2-1
+       25: MOVE P2-1 P1-1
+       26: MOVE P1-1 P1-2
+       27: MOVE P1-2 P1-3
+       28: MOVE P1-3 P2-3
+       29: PUSH O1 P2-3 P3-3
+       30: MOVE P2-3 P1-3
+       31: MOVE P1-3 P1-2
+       32: MOVE P1-2 P1-1
+       33: MOVE P1-1 P1-2
+       34: MOVE P1-2 P2-2
+       35: MOVE P2-2 P3-2
+       36: PUSH O1 P3-2 P4-2
+       37: MOVE P3-2 P2-2
+       38: MOVE P2-2 P1-2
+       39: MOVE P1-2 P1-1
+       40: MOVE P1-1 P2-1
+       41: MOVE P2-1 P3-1
+       42: MOVE P3-1 P4-1
+       43: PUSH O1 P4-1 P4-2
+       44: MOVE P4-1 P3-1
+       45: MOVE P3-1 P2-1
+       46: MOVE P2-1 P1-1
+       47: MOVE P1-1 P1-2
+       48: MOVE P1-2 P1-3
+       49: MOVE P1-3 P1-4
+       50: MOVE P1-4 P2-4
+       51: PUSH O1 P2-4 P3-4
+       52: MOVE P2-4 P1-4
+       53: MOVE P1-4 P1-3
+       54: MOVE P1-3 P1-2
+       55: MOVE P1-2 P1-1
+       56: MOVE P1-1 P1-2
+       57: MOVE P1-2 P1-3
+       58: MOVE P1-3 P1-4
+       59: MOVE P1-4 P1-5
+       60: PUSH O1 P1-5 P2-5
+       61: MOVE P1-5 P1-4
+       62: MOVE P1-4 P1-3
+       63: MOVE P1-3 P1-2
+       64: MOVE P1-2 P1-1
+       65: MOVE P1-1 P1-2
+       66: MOVE P1-2 P1-3
+       67: MOVE P1-3 P1-4
+       68: MOVE P1-4 P1-5
+       69: MOVE P1-5 P1-6
+       70: PUSH O1 P1-6 P2-6
+       71: MOVE P1-6 P1-7
+       72: PUSH O1 P1-7 P2-7
+       73: MOVE P1-7 P2-7
+       74: PUSH O1 P2-7 P3-7
+       75: MOVE P2-7 P2-6
+       76: PUSH O1 P2-6 P3-6
+       77: MOVE P2-6 P2-7
+       78: MOVE P2-7 P3-7
+       79: PUSH O1 P3-7 P4-7
+       80: MOVE P3-7 P2-7
+       81: MOVE P2-7 P2-6
+       82: MOVE P2-6 P2-5
+       83: PUSH O1 P2-5 P3-5
+       84: MOVE P2-5 P3-5
+       85: PUSH O1 P3-5 P4-5
+       86: MOVE P3-5 P3-4
+       87: PUSH O1 P3-4 P4-4
+       88: MOVE P3-4 P3-3
+       89: PUSH O1 P3-3 P4-3
+       90: MOVE P3-3 P3-2
+       91: MOVE P3-2 P3-1
+       92: MOVE P3-1 P4-1
+       93: MOVE P4-1 P4-2
+       94: PUSH O1 P4-2 P5-2
+       95: MOVE P4-2 P4-1
+       96: MOVE P4-1 P5-1
+       97: PUSH O1 P5-1 P6-1
+       98: MOVE P5-1 P4-1
+       99: MOVE P4-1 P4-2
+      100: MOVE P4-2 P4-3
+      101: PUSH O1 P4-3 P5-3
+      102: MOVE P4-3 P4-2
+      103: MOVE P4-2 P4-1
+      104: MOVE P4-1 P4-2
+      105: MOVE P4-2 P5-2
+      106: PUSH O1 P5-2 P6-2
+      107: MOVE P5-2 P4-2
+      108: MOVE P4-2 P4-1
+      109: MOVE P4-1 P5-1
+      110: MOVE P5-1 P6-1
+      111: PUSH O1 P6-1 P6-2
+      112: MOVE P6-1 P5-1
+      113: MOVE P5-1 P4-1
+      114: MOVE P4-1 P5-1
+      115: MOVE P5-1 P6-1
+      116: MOVE P6-1 P7-1
+      117: PUSH O1 P7-1 P7-2
+      118: MOVE P7-1 P7-2
+      119: PUSH O1 P7-2 P7-3
+      120: MOVE P7-2 P6-2
+      121: PUSH O1 P6-2 P6-3
+      122: MOVE P6-2 P7-2
+      123: MOVE P7-2 P7-3
+      124: PUSH O1 P7-3 P7-4
+      125: MOVE P7-3 P6-3
+      126: PUSH O1 P6-3 P6-4
+      127: MOVE P6-3 P7-3
+      128: MOVE P7-3 P6-3
+      129: MOVE P6-3 P5-3
+      130: MOVE P5-3 P4-3
+      131: MOVE P4-3 P4-4
+      132: PUSH O1 P4-4 P5-4
+      133: MOVE P4-4 P4-3
+      134: MOVE P4-3 P5-3
+      135: PUSH O1 P5-3 P5-4
+      136: MOVE P5-3 P6-3
+      137: MOVE P6-3 P6-4
+      138: PUSH O1 P6-4 P6-5
+      139: MOVE P6-4 P7-4
+      140: PUSH O1 P7-4 P7-5
+      141: MOVE P7-4 P7-5
+      142: PUSH O1 P7-5 P7-6
+      143: MOVE P7-5 P6-5
+      144: PUSH O1 P6-5 P6-6
+      145: MOVE P6-5 P5-5
+      146: PUSH O1 P5-5 P5-6
+      147: MOVE P5-5 P4-5
+      148: PUSH O1 P4-5 P4-6
+      149: MOVE P4-5 P4-6
+      150: PUSH O1 P4-6 P5-6
+      151: MOVE P4-6 P4-5
+      152: MOVE P4-5 P4-6
+      153: MOVE P4-6 P3-6
+      154: PUSH O1 P3-6 P4-6
+      155: MOVE P3-6 P4-6
+      156: PUSH O1 P4-6 P5-6
+      157: MOVE P4-6 P4-5
+      158: MOVE P4-5 P5-5
+      159: MOVE P5-5 P5-4
+      160: PUSH O1 P5-4 P5-5
+      161: MOVE P5-4 P5-5
+      162: PUSH O1 P5-5 P5-6
+      163: MOVE P5-5 P5-6
+      164: PUSH O1 P5-6 P6-6
+      165: MOVE P5-6 P5-7
+      166: PUSH O1 P5-7 P6-7
+      167: MOVE P5-7 P4-7
+      168: PUSH O1 P4-7 P5-7
+      169: MOVE P4-7 P4-6
+      170: MOVE P4-6 P5-6
+      171: MOVE P5-6 P6-6
+      172: PUSH O1 P6-6 P6-7
+      173: MOVE P6-6 P7-6
+      174: PUSH O1 P7-6 P7-7
+      175: MOVE P7-6 P7-7
+      176: PUSH O1 P7-7 P6-7
+      177: MOVE P7-7 P6-7
+      178: PUSH O1 P6-7 P5-7
+      179: MOVE P6-7 P5-7
+      180: PUSH O1 P5-7 P6-7
+      181: MOVE P5-7 P6-7
+      182: PUSH O1 P6-7 P7-7
+      183: MOVE P6-7 P7-7
+      184: PICKUP O1 P7-7
+     
+
+statistics:    0.00 seconds instantiating 338 easy, 0 hard action templates
+               0.01 seconds reachability analysis, yielding 148 facts and 338 actions
+               0.00 seconds creating final representation with 148 relevant facts (99 max U, 50 CNF max U)
+               0.00 seconds building connectivity graph
+             479.70 seconds ( 478.40 pure) evaluating 1872 states, to a max depth of 9
+               1.30 seconds in DP for 929224 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.15 seconds generating,    0.09 seconds encoding 7763 state transition base CNFs
+               0.36 seconds in DP solving 2006 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.78 seconds checking for stagnating states (1622 hits), including 101265 DP calls
+               2.36 seconds altogether checking for dominated states making 1835 comparisons (1833 conformant, 1709 hits),
+                    spending    0.52 seconds doing 62575 DP calls
+            1095070 total DP calls, 18432944 total UP calls,    0.67 sec membership
+               0.21 seconds for remaining searching duties
+             483.66 seconds total time (+    0.10 secs for CNF memory allocation)
+
+plan length:185
+iteration:1
+now_time:482.44301708601415

@@ -1,0 +1,1000 @@
+                                  13            [1][2]
+                                  12            [1][2]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：64
+
+var_size: 7800
+
+当前收集的断言数：3902
+
+1
+找到反例！
+
+
+第38次迭代
+当前初始状态:
+F:22 U:76
+num_Or:0
+参数大于2的OR: 
+H:39
+
+
+Cueing down from goal distance:   39 into depth [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1][2]
+                                  29            [1][2]
+                                  28            [1][2]
+                                  27            [1][2]
+                                  26            [1][2]
+                                  25            [1][2]
+                                  24            [1][2]
+                                  23            [1][2]
+                                  22            [1][2]
+                                  21            [1][2]
+                                  20            [1][2]
+                                  19            [1][2]
+                                  18            [1][2]
+                                  17            [1][2]
+                                  16            [1][2]
+                                  15            [1][2]
+                                  14            [1][2]
+                                  13            [1][2]
+                                  12            [1][2]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：66
+
+var_size: 8040
+
+当前收集的断言数：4022
+
+1
+找到反例！
+
+
+第39次迭代
+当前初始状态:
+F:21 U:78
+num_Or:0
+参数大于2的OR: 
+H:40
+
+
+Cueing down from goal distance:   40 into depth [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1][2]
+                                  30            [1][2]
+                                  29            [1][2]
+                                  28            [1][2]
+                                  27            [1][2]
+                                  26            [1][2]
+                                  25            [1][2]
+                                  24            [1][2]
+                                  23            [1][2]
+                                  22            [1][2]
+                                  21            [1][2]
+                                  20            [1][2]
+                                  19            [1][2]
+                                  18            [1][2]
+                                  17            [1][2]
+                                  16            [1][2]
+                                  15            [1][2]
+                                  14            [1][2]
+                                  13            [1][2]
+                                  12            [1][2]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：68
+
+var_size: 8280
+
+当前收集的断言数：4142
+
+1
+找到反例！
+
+
+第40次迭代
+当前初始状态:
+F:20 U:80
+num_Or:0
+参数大于2的OR: 
+H:41
+
+
+Cueing down from goal distance:   41 into depth [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1][2]
+                                  31            [1][2]
+                                  30            [1][2]
+                                  29            [1][2]
+                                  28            [1][2]
+                                  27            [1][2]
+                                  26            [1][2]
+                                  25            [1][2]
+                                  24            [1][2]
+                                  23            [1][2]
+                                  22            [1][2]
+                                  21            [1][2]
+                                  20            [1][2]
+                                  19            [1][2]
+                                  18            [1][2]
+                                  17            [1][2]
+                                  16            [1][2]
+                                  15            [1][2]
+                                  14            [1][2]
+                                  13            [1][2]
+                                  12            [1][2]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：70
+
+var_size: 8520
+
+当前收集的断言数：4262
+
+1
+找到反例！
+
+
+第41次迭代
+当前初始状态:
+F:19 U:82
+num_Or:0
+参数大于2的OR: 
+H:42
+
+
+Cueing down from goal distance:   42 into depth [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1][2]
+                                  32            [1][2]
+                                  31            [1][2]
+                                  30            [1][2]
+                                  29            [1][2]
+                                  28            [1][2]
+                                  27            [1][2]
+                                  26            [1][2]
+                                  25            [1][2]
+                                  24            [1][2]
+                                  23            [1][2]
+                                  22            [1][2]
+                                  21            [1][2]
+                                  20            [1][2]
+                                  19            [1][2]
+                                  18            [1][2]
+                                  17            [1][2]
+                                  16            [1][2]
+                                  15            [1][2]
+                                  14            [1][2]
+                                  13            [1][2]
+                                  12            [1][2]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：72
+
+var_size: 8760
+
+当前收集的断言数：4382
+
+1
+找到反例！
+
+
+第42次迭代
+当前初始状态:
+F:18 U:84
+num_Or:0
+参数大于2的OR: 
+H:43
+
+
+Cueing down from goal distance:   43 into depth [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1][2]
+                                  33            [1][2]
+                                  32            [1][2]
+                                  31            [1][2]
+                                  30            [1][2]
+                                  29            [1][2]
+                                  28            [1][2]
+                                  27            [1][2]
+                                  26            [1][2]
+                                  25            [1][2]
+                                  24            [1][2]
+                                  23            [1][2]
+                                  22            [1][2]
+                                  21            [1][2]
+                                  20            [1][2]
+                                  19            [1][2]
+                                  18            [1][2]
+                                  17            [1][2]
+                                  16            [1][2]
+                                  15            [1][2]
+                                  14            [1][2]
+                                  13            [1][2]
+                                  12            [1][2]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：74
+
+var_size: 9000
+
+当前收集的断言数：4502
+
+1
+找到反例！
+
+
+第43次迭代
+当前初始状态:
+F:17 U:86
+num_Or:0
+参数大于2的OR: 
+H:44
+
+
+Cueing down from goal distance:   44 into depth [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1][2]
+                                  34            [1][2]
+                                  33            [1][2]
+                                  32            [1][2]
+                                  31            [1][2]
+                                  30            [1][2]
+                                  29            [1][2]
+                                  28            [1][2]
+                                  27            [1][2]
+                                  26            [1][2]
+                                  25            [1][2]
+                                  24            [1][2]
+                                  23            [1][2]
+                                  22            [1][2]
+                                  21            [1][2]
+                                  20            [1][2]
+                                  19            [1][2]
+                                  18            [1][2]
+                                  17            [1][2]
+                                  16            [1][2]
+                                  15            [1][2]
+                                  14            [1][2]
+                                  13            [1][2]
+                                  12            [1][2]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：76
+
+var_size: 9240
+
+当前收集的断言数：4622
+
+1
+找到反例！
+
+
+第44次迭代
+当前初始状态:
+F:16 U:88
+num_Or:0
+参数大于2的OR: 
+H:45
+
+
+Cueing down from goal distance:   45 into depth [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1][2]
+                                  35            [1][2]
+                                  34            [1][2]
+                                  33            [1][2]
+                                  32            [1][2]
+                                  31            [1][2]
+                                  30            [1][2]
+                                  29            [1][2]
+                                  28            [1][2]
+                                  27            [1][2]
+                                  26            [1][2]
+                                  25            [1][2]
+                                  24            [1][2]
+                                  23            [1][2]
+                                  22            [1][2]
+                                  21            [1][2]
+                                  20            [1][2]
+                                  19            [1][2]
+                                  18            [1][2]
+                                  17            [1][2]
+                                  16            [1][2]
+                                  15            [1][2]
+                                  14            [1][2]
+                                  13            [1][2]
+                                  12            [1][2]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：78
+
+var_size: 9480
+
+当前收集的断言数：4742
+
+1
+找到反例！
+
+
+第45次迭代
+当前初始状态:
+F:15 U:90
+num_Or:0
+参数大于2的OR: 
+H:46
+
+
+Cueing down from goal distance:   46 into depth [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1][2]
+                                  36            [1][2]
+                                  35            [1][2]
+                                  34            [1][2]
+                                  33            [1][2]
+                                  32            [1][2]
+                                  31            [1][2]
+                                  30            [1][2]
+                                  29            [1][2]
+                                  28            [1][2]
+                                  27            [1][2]
+                                  26            [1][2]
+                                  25            [1][2]
+                                  24            [1][2]
+                                  23            [1][2]
+                                  22            [1][2]
+                                  21            [1][2]
+                                  20            [1][2]
+                                  19            [1][2]
+                                  18            [1][2]
+                                  17            [1][2]
+                                  16            [1][2]
+                                  15            [1][2]
+                                  14            [1][2]
+                                  13            [1][2]
+                                  12            [1][2]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：80
+
+var_size: 9720
+
+当前收集的断言数：4862
+
+1
+找到反例！
+
+
+第46次迭代
+当前初始状态:
+F:14 U:92
+num_Or:0
+参数大于2的OR: 
+H:47
+
+
+Cueing down from goal distance:   47 into depth [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1][2]
+                                  37            [1][2]
+                                  36            [1][2]
+                                  35            [1][2]
+                                  34            [1][2]
+                                  33            [1][2]
+                                  32            [1][2]
+                                  31            [1][2]
+                                  30            [1][2]
+                                  29            [1][2]
+                                  28            [1][2]
+                                  27            [1][2]
+                                  26            [1][2]
+                                  25            [1][2]
+                                  24            [1][2]
+                                  23            [1][2]
+                                  22            [1][2]
+                                  21            [1][2]
+                                  20            [1][2]
+                                  19            [1][2]
+                                  18            [1][2]
+                                  17            [1][2]
+                                  16            [1][2]
+                                  15            [1][2]
+                                  14            [1][2]
+                                  13            [1][2]
+                                  12            [1][2]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：82
+
+var_size: 9960
+
+当前收集的断言数：4982
+
+1
+找到反例！
+
+
+第47次迭代
+当前初始状态:
+F:13 U:94
+num_Or:0
+参数大于2的OR: 
+H:48
+
+
+Cueing down from goal distance:   48 into depth [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1][2]
+                                  38            [1][2]
+                                  37            [1][2]
+                                  36            [1][2]
+                                  35            [1][2]
+                                  34            [1][2]
+                                  33            [1][2]
+                                  32            [1][2]
+                                  31            [1][2]
+                                  30            [1][2]
+                                  29            [1][2]
+                                  28            [1][2]
+                                  27            [1][2]
+                                  26            [1][2]
+                                  25            [1][2]
+                                  24            [1][2]
+                                  23            [1][2]
+                                  22            [1][2]
+                                  21            [1][2]
+                                  20            [1][2]
+                                  19            [1][2]
+                                  18            [1][2]
+                                  17            [1][2]
+                                  16            [1][2]
+                                  15            [1][2]
+                                  14            [1][2]
+                                  13            [1][2]
+                                  12            [1][2]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：84
+
+var_size: 10200
+
+当前收集的断言数：5102
+
+1
+找到反例！
+
+
+第48次迭代
+当前初始状态:
+F:12 U:96
+num_Or:0
+参数大于2的OR: 
+H:49
+
+
+Cueing down from goal distance:   49 into depth [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1][2]
+                                  39            [1][2]
+                                  38            [1][2]
+                                  37            [1][2]
+                                  36            [1][2]
+                                  35            [1][2]
+                                  34            [1][2]
+                                  33            [1][2]
+                                  32            [1][2]
+                                  31            [1][2]
+                                  30            [1][2]
+                                  29            [1][2]
+                                  28            [1][2]
+                                  27            [1][2]
+                                  26            [1][2]
+                                  25            [1][2]
+                                  24            [1][2]
+                                  23            [1][2]
+                                  22            [1][2]
+                                  21            [1][2]
+                                  20            [1][2]
+                                  19            [1][2]
+                                  18            [1][2]
+                                  17            [1][2]
+                                  16            [1][2]
+                                  15            [1][2]
+                                  14            [1][2]
+                                  13            [1][2]
+                                  12            [1][2]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：86
+
+var_size: 10440
+
+当前收集的断言数：5222
+
+1
+找到反例！
+
+
+第49次迭代
+当前初始状态:
+F:11 U:98
+num_Or:0
+参数大于2的OR: 
+H:50
+
+
+Cueing down from goal distance:   50 into depth [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1][2]
+                                  40            [1][2]
+                                  39            [1][2]
+                                  38            [1][2]
+                                  37            [1][2]
+                                  36            [1][2]
+                                  35            [1][2]
+                                  34            [1][2]
+                                  33            [1][2]
+                                  32            [1][2]
+                                  31            [1][2]
+                                  30            [1][2]
+                                  29            [1][2]
+                                  28            [1][2]
+                                  27            [1][2]
+                                  26            [1][2]
+                                  25            [1][2]
+                                  24            [1][2]
+                                  23            [1][2]
+                                  22            [1][2]
+                                  21            [1][2]
+                                  20            [1][2]
+                                  19            [1][2]
+                                  18            [1][2]
+                                  17            [1][2]
+                                  16            [1][2]
+                                  15            [1][2]
+                                  14            [1][2]
+                                  13            [1][2]
+                                  12            [1][2]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：88
+
+var_size: 10680
+
+当前收集的断言数：5342
+
+1
+找到反例！
+
+
+第50次迭代
+当前初始状态:
+F:10 U:100
+num_Or:0
+参数大于2的OR: 
+H:51
+
+
+Cueing down from goal distance:   51 into depth [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1][2]
+                                  41            [1][2]
+                                  40            [1][2]
+                                  39            [1][2]
+                                  38            [1][2]
+                                  37            [1][2]
+                                  36            [1][2]
+                                  35            [1][2]
+                                  34            [1][2]
+                                  33            [1][2]
+                                  32            [1][2]
+                                  31            [1][2]
+                                  30            [1][2]
+                                  29            [1][2]
+                                  28            [1][2]
+                                  27            [1][2]
+                                  26            [1][2]
+                                  25            [1][2]
+                                  24            [1][2]
+                                  23            [1][2]
+                                  22            [1][2]
+                                  21            [1][2]
+                                  20            [1][2]
+                                  19            [1][2]
+                                  18            [1][2]
+                                  17            [1][2]
+                                  16            [1][2]
+                                  15            [1][2]
+                                  14            [1][2]
+                                  13            [1][2]
+                                  12            [1][2]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：90
+
+var_size: 10920
+
+当前收集的断言数：5462
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: DUNK BOMB50 TOILET10
+        1: DUNK BOMB49 TOILET9
+        2: DUNK BOMB48 TOILET8
+        3: DUNK BOMB47 TOILET7
+        4: DUNK BOMB46 TOILET6
+        5: DUNK BOMB45 TOILET5
+        6: DUNK BOMB44 TOILET4
+        7: DUNK BOMB43 TOILET3
+        8: DUNK BOMB42 TOILET2
+        9: DUNK BOMB41 TOILET1
+       10: FLUSH TOILET10
+       11: DUNK BOMB40 TOILET10
+       12: FLUSH TOILET10
+       13: DUNK BOMB39 TOILET10
+       14: FLUSH TOILET10
+       15: DUNK BOMB38 TOILET10
+       16: FLUSH TOILET10
+       17: DUNK BOMB37 TOILET10
+       18: FLUSH TOILET10
+       19: DUNK BOMB36 TOILET10
+       20: FLUSH TOILET10
+       21: DUNK BOMB35 TOILET10
+       22: FLUSH TOILET10
+       23: DUNK BOMB34 TOILET10
+       24: FLUSH TOILET10
+       25: DUNK BOMB33 TOILET10
+       26: FLUSH TOILET10
+       27: DUNK BOMB32 TOILET10
+       28: FLUSH TOILET10
+       29: DUNK BOMB31 TOILET10
+       30: FLUSH TOILET10
+       31: DUNK BOMB30 TOILET10
+       32: FLUSH TOILET10
+       33: DUNK BOMB29 TOILET10
+       34: FLUSH TOILET10
+       35: DUNK BOMB28 TOILET10
+       36: FLUSH TOILET10
+       37: DUNK BOMB27 TOILET10
+       38: FLUSH TOILET10
+       39: DUNK BOMB26 TOILET10
+       40: FLUSH TOILET10
+       41: DUNK BOMB25 TOILET10
+       42: FLUSH TOILET10
+       43: DUNK BOMB24 TOILET10
+       44: FLUSH TOILET10
+       45: DUNK BOMB23 TOILET10
+       46: FLUSH TOILET10
+       47: DUNK BOMB22 TOILET10
+       48: FLUSH TOILET10
+       49: DUNK BOMB21 TOILET10
+       50: FLUSH TOILET10
+       51: DUNK BOMB20 TOILET10
+       52: FLUSH TOILET10
+       53: DUNK BOMB19 TOILET10
+       54: FLUSH TOILET10
+       55: DUNK BOMB18 TOILET10
+       56: FLUSH TOILET10
+       57: DUNK BOMB17 TOILET10
+       58: FLUSH TOILET10
+       59: DUNK BOMB16 TOILET10
+       60: FLUSH TOILET10
+       61: DUNK BOMB15 TOILET10
+       62: FLUSH TOILET10
+       63: DUNK BOMB14 TOILET10
+       64: FLUSH TOILET10
+       65: DUNK BOMB13 TOILET10
+       66: FLUSH TOILET10
+       67: DUNK BOMB12 TOILET10
+       68: FLUSH TOILET10
+       69: DUNK BOMB11 TOILET10
+       70: FLUSH TOILET10
+       71: DUNK BOMB10 TOILET10
+       72: FLUSH TOILET10
+       73: DUNK BOMB9 TOILET10
+       74: FLUSH TOILET10
+       75: DUNK BOMB8 TOILET10
+       76: FLUSH TOILET10
+       77: DUNK BOMB7 TOILET10
+       78: FLUSH TOILET10
+       79: DUNK BOMB6 TOILET10
+       80: FLUSH TOILET10
+       81: DUNK BOMB5 TOILET10
+       82: FLUSH TOILET10
+       83: DUNK BOMB4 TOILET10
+       84: FLUSH TOILET10
+       85: DUNK BOMB3 TOILET10
+       86: FLUSH TOILET10
+       87: DUNK BOMB2 TOILET10
+       88: FLUSH TOILET10
+       89: DUNK BOMB1 TOILET10
+     
+
+statistics:    0.00 seconds instantiating 510 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 180 facts and 510 actions
+               0.01 seconds creating final representation with 120 relevant facts (100 max U, 50 CNF max U)
+               0.00 seconds building connectivity graph
+               2.32 seconds (   2.32 pure) evaluating 13575 states, to a max depth of 2
+               0.00 seconds in DP for 0 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.06 seconds generating,    0.09 seconds encoding 34450 state transition base CNFs
+               0.00 seconds in DP solving 22094 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.03 seconds checking for stagnating states (0 hits), including 0 DP calls
+               0.01 seconds altogether checking for dominated states making 0 comparisons (0 conformant, 0 hits),
+                    spending    0.00 seconds doing 0 DP calls
+              22094 total DP calls, 22094 total UP calls,    0.00 sec membership
+               1.14 seconds for remaining searching duties
+               3.66 seconds total time (+    1.06 secs for CNF memory allocation)
+
+初始目标状态
+Fold:10 Uold:100
+num_Orold:0
+参数大于2的OR: 
+
+
+当前反例添加的目标状态
+Fcur:10 Ucur:100
+num_Orcur:0
+参数大于2的OR: 
+
+
+counter_time:14.83
+plan length:90
+iteration:50
+now_time:18.64947035699879

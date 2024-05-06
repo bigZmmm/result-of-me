@@ -1,0 +1,9 @@
+
+ff: parsing domain file
+domain 'UTS' defined
+ ... done.
+ff: parsing problem file
+/home/nero/Downloads/PlannerBenchmark-main2/PlannerBenchmark-main/T1/Conformant/det/new-uts-k/p50.pddl: syntax error in line 9992, ')':
+'define' expected
+Out of Memory
+now_time:0.06351188902044669

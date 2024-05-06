@@ -1,0 +1,197 @@
+
+ff: parsing domain file
+domain 'GRID' defined
+ ... done.
+ff: parsing problem file
+problem 'INSTANCE_19__12345' defined
+ ... done.
+
+
+F:
+(NOT-CANMOVE)
+U:
+(NOT-X ZERO)
+(NOT-X ONE)
+(NOT-X TWO)
+(NOT-X THREE)
+(NOT-X FOUR)
+(NOT-X FIVE)
+(NOT-X SIX)
+(NOT-X SEVEN)
+(NOT-X EIGHT)
+(NOT-X NINE)
+(NOT-X TEN)
+(NOT-X ELEVEN)
+(NOT-X TWELVE)
+(NOT-X THIRTEEN)
+(NOT-X FOURTEEN)
+(NOT-X FIFTEEN)
+(NOT-X SIXTEEN)
+(NOT-X SEVENTEEN)
+(NOT-X EIGHTEEN)
+(NOT-Y ZERO)
+(NOT-Y ONE)
+(NOT-Y TWO)
+(NOT-Y THREE)
+(NOT-Y FOUR)
+(NOT-Y FIVE)
+(NOT-Y SIX)
+(NOT-Y SEVEN)
+(NOT-Y EIGHT)
+(NOT-Y NINE)
+(NOT-Y TEN)
+(NOT-Y ELEVEN)
+(NOT-Y TWELVE)
+(NOT-Y THIRTEEN)
+(NOT-Y FOURTEEN)
+(NOT-Y FIFTEEN)
+(NOT-Y SIXTEEN)
+(NOT-Y SEVENTEEN)
+(NOT-Y EIGHTEEN)
+(X EIGHT)
+(X EIGHTEEN)
+(X ELEVEN)
+(X FIFTEEN)
+(X FIVE)
+(X FOUR)
+(X FOURTEEN)
+(X NINE)
+(X ONE)
+(X SEVEN)
+(X SEVENTEEN)
+(X SIX)
+(X SIXTEEN)
+(X TEN)
+(X THIRTEEN)
+(X THREE)
+(X TWELVE)
+(X TWO)
+(X ZERO)
+(Y EIGHT)
+(Y EIGHTEEN)
+(Y ELEVEN)
+(Y FIFTEEN)
+(Y FIVE)
+(Y FOUR)
+(Y FOURTEEN)
+(Y NINE)
+(Y ONE)
+(Y SEVEN)
+(Y SEVENTEEN)
+(Y SIX)
+(Y SIXTEEN)
+(Y TEN)
+(Y THIRTEEN)
+(Y THREE)
+(Y TWELVE)
+(Y TWO)
+(Y ZERO)
+UE:
+var_size: 78
+
+当前收集的断言数：41
+
+1
+
+第1次迭代
+当前初始状态:
+F:39 U:0
+num_Or:307
+参数大于2的OR: 
+H:19
+
+
+Cueing down from goal distance:   19 into depth [1]
+                                  18            [1][2]
+                                  17            [1][2]
+                                  16            [1][2]
+                                  15            [1][2]
+                                  14            [1][2]
+                                  13            [1][2]
+                                  12            [1][2]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：34
+
+var_size: 2730
+
+当前收集的断言数：1367
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:35 U:8
+num_Or:345
+参数大于2的OR: 
+H:26
+
+
+Cueing down from goal distance:   26 into depth [1]
+                                  25            [1][2]
+                                  24            [1]
+                                  22            [1]
+                                  21            [1][2]
+                                  20            [1][2]
+                                  19            [1][2]
+                                  18            [1][2]
+                                  17            [1][2]
+                                  16            [1][2]
+                                  15            [1][2]
+                                  14            [1][2]
+                                  13            [1][2]
+                                  12            [1][2]
+                                  11            [1][2][3][4][5][6]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1][2]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   26
+                          25
+                          24
+                          22
+                          21
+                          20
+                          19
+                          18
+                          14
+                          13
+                          12
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+negated effcond -- in rplan-nodel-noops -- is not unknown?
+
+Out of Memory
+now_time:76.84158547298284

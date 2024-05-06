@@ -1,0 +1,6 @@
+
+ff: parsing domain file
+/home/nero/Downloads/PlannerBenchmark-main3/PlannerBenchmark-main/T1/Conformant/det/new-uts-cycle/d3.pddl: syntax error in line 12, ')':
+domain definition expected
+Out of Memory
+now_time:0.021193674008827657

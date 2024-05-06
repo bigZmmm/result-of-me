@@ -1,0 +1,87 @@
+
+ff: parsing domain file
+domain 'GRID' defined
+ ... done.
+ff: parsing problem file
+problem 'INSTANCE_4__12345' defined
+ ... done.
+
+
+F:
+(NOT-CANMOVE)
+U:
+(NOT-X ZERO)
+(NOT-X ONE)
+(NOT-X TWO)
+(NOT-X THREE)
+(NOT-Y ZERO)
+(NOT-Y ONE)
+(NOT-Y TWO)
+(NOT-Y THREE)
+(X ONE)
+(X THREE)
+(X TWO)
+(X ZERO)
+(Y ONE)
+(Y THREE)
+(Y TWO)
+(Y ZERO)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(NOT-CANMOVE)
+U:
+(NOT-X ZERO)
+(NOT-X ONE)
+(NOT-X TWO)
+(NOT-X THREE)
+(NOT-Y ZERO)
+(NOT-Y ONE)
+(NOT-Y TWO)
+(NOT-Y THREE)
+(X ONE)
+(X THREE)
+(X TWO)
+(X ZERO)
+(Y ONE)
+(Y THREE)
+(Y TWO)
+(Y ZERO)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (NOT-Y ONE) (NOT-X THREE) 
+OR: (X THREE) (X TWO) (X ONE) (X ZERO) 
+OR: (NOT-X THREE) (NOT-X TWO) 
+OR: (NOT-X THREE) (NOT-X ONE) 
+OR: (NOT-X THREE) (NOT-X ZERO) 
+OR: (NOT-X TWO) (NOT-X ONE) 
+OR: (NOT-X TWO) (NOT-X ZERO) 
+OR: (NOT-X ONE) (NOT-X ZERO) 
+OR: (Y THREE) (Y TWO) (Y ONE) (Y ZERO) 
+OR: (NOT-Y THREE) (NOT-Y TWO) 
+OR: (NOT-Y THREE) (NOT-Y ONE) 
+OR: (NOT-Y THREE) (NOT-Y ZERO) 
+OR: (NOT-Y TWO) (NOT-Y ONE) 
+OR: (NOT-Y TWO) (NOT-Y ZERO) 
+OR: (NOT-Y ONE) (NOT-Y ZERO) H:4
+
+
+Cueing down from goal distance:    4 into depth [1][2][3]
+                                   3            [1][2]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    4
+                           3
+                           2
+                           1
+negated effcond -- in rplan-nodel-noops -- is not unknown?
+
+Out of Memory
+now_time:0.09049545496236533

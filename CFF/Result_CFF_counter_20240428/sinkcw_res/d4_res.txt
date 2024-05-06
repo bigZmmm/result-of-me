@@ -1,0 +1,112 @@
+
+ff: parsing domain file
+domain 'GRID' defined
+ ... done.
+ff: parsing problem file
+problem 'INSTANCE_4__12345' defined
+ ... done.
+
+
+F:
+(NOT-CANMOVE)
+U:
+(NOT-X ZERO)
+(NOT-X ONE)
+(NOT-X TWO)
+(NOT-X THREE)
+(NOT-Y ZERO)
+(NOT-Y ONE)
+(NOT-Y TWO)
+(NOT-Y THREE)
+(X ONE)
+(X THREE)
+(X TWO)
+(X ZERO)
+(Y ONE)
+(Y THREE)
+(Y TWO)
+(Y ZERO)
+UE:
+var_size: 18
+
+当前收集的断言数：11
+
+1
+
+第1次迭代
+当前初始状态:
+F:9 U:0
+num_Or:6
+参数大于2的OR: 
+H:6
+
+
+Cueing down from goal distance:    6 into depth [1]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：8
+
+var_size: 162
+
+当前收集的断言数：83
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:7 U:4
+num_Or:10
+参数大于2的OR: 
+H:6
+
+
+Cueing down from goal distance:    6 into depth [1]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：8
+
+var_size: 162
+
+当前收集的断言数：83
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:4 U:10
+num_Or:15
+参数大于2的OR: 
+(Y THREE) (Y TWO) (Y ONE) 
+H:4
+
+
+Cueing down from goal distance:    4 into depth [1][2][3]
+                                   3            [1][2]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    4
+                           3
+                           2
+                           1
+negated effcond -- in rplan-nodel-noops -- is not unknown?
+
+Out of Memory
+now_time:0.08314074401278049

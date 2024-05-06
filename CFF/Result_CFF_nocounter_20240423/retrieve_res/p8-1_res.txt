@@ -1,0 +1,1000 @@
+OR: (NOT-OBJ-AT O1 P5-5) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P5-5) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P5-5) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P5-5) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P5-5) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P5-5) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P5-5) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P5-5) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P5-5) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P5-5) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P5-5) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P5-5) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P5-5) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P5-5) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P5-3) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P5-2) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P5-1) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P4-8) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P4-7) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P4-6) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P4-5) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P4-4) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P4-3) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P4-2) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P4-1) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P3-8) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P3-7) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P3-6) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P3-5) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P3-4) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P2-8) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P5-4) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P5-2) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P5-1) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P4-8) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P4-7) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P4-6) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P4-5) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P4-4) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P4-3) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P4-2) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P4-1) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P3-8) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P3-7) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P3-6) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P3-5) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P3-4) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P2-8) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P5-3) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P5-1) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P4-8) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P4-7) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P4-6) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P4-5) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P4-4) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P4-3) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P4-2) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P4-1) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P3-8) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P3-7) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P3-6) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P3-5) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P3-4) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P2-8) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P5-2) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P4-8) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P4-7) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P4-6) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P4-5) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P4-4) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P4-3) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P4-2) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P4-1) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P3-8) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P3-7) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P3-6) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P3-5) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P3-4) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P2-8) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P5-1) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P4-7) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P4-6) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P4-5) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P4-4) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P4-3) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P4-2) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P4-1) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P3-8) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P3-7) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P3-6) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P3-5) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P3-4) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P2-8) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P4-8) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P4-6) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P4-5) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P4-4) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P4-3) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P4-2) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P4-1) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P3-8) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P3-7) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P3-6) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P3-5) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P3-4) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P2-8) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P4-7) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P4-5) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P4-4) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P4-3) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P4-2) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P4-1) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P3-8) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P3-7) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P3-6) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P3-5) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P3-4) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P2-8) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P4-6) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P4-4) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P4-3) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P4-2) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P4-1) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P3-8) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P3-7) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P3-6) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P3-5) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P3-4) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P2-8) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P4-5) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P4-3) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P4-2) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P4-1) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P3-8) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P3-7) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P3-6) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P3-5) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P3-4) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P2-8) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P4-2) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P4-1) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P3-8) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P3-7) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P3-6) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P3-5) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P3-4) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P2-8) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P4-1) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P3-8) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P3-7) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P3-6) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P3-5) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P3-4) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P2-8) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P3-8) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P3-7) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P3-6) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P3-5) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P3-4) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P2-8) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P3-7) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P3-6) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P3-5) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P3-4) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P2-8) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P3-8) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P3-6) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P3-5) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P3-4) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P2-8) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P3-7) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P3-5) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P3-4) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P2-8) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P3-6) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P3-5) (NOT-OBJ-AT O1 P3-4) 
+OR: (NOT-OBJ-AT O1 P3-5) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P3-5) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P3-5) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P3-5) (NOT-OBJ-AT O1 P2-8) 
+OR: (NOT-OBJ-AT O1 P3-5) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P3-5) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P3-5) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P3-5) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P3-5) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P3-5) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P3-5) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P3-5) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P3-5) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P3-5) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P3-5) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P3-5) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P3-5) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P3-5) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P3-5) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P2-8) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P2-8) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P2-8) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P2-8) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P2-8) (NOT-OBJ-AT O1 P2-7) 
+OR: (NOT-OBJ-AT O1 P2-8) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P2-8) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P2-8) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P2-8) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P2-8) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P2-8) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P2-8) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P2-8) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P2-8) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P2-8) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P2-8) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P2-8) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P2-8) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P2-8) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P2-7) (NOT-OBJ-AT O1 P2-6) 
+OR: (NOT-OBJ-AT O1 P2-7) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P2-7) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P2-7) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P2-7) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P2-7) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P2-7) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P2-7) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P2-7) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P2-7) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P2-7) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P2-7) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P2-7) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P2-7) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P2-6) (NOT-OBJ-AT O1 P2-5) 
+OR: (NOT-OBJ-AT O1 P2-6) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P2-6) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P2-6) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P2-6) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P2-6) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P2-6) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P2-6) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P2-6) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P2-6) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P2-6) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P2-6) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P2-6) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P2-5) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P2-5) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P2-5) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P2-5) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P2-5) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P2-5) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P2-5) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P2-5) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P2-5) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P2-5) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P2-5) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P2-5) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P2-4) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P2-4) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P2-4) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P2-4) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P2-4) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P2-4) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P2-4) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P2-4) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P2-4) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P2-4) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P2-4) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P2-3) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P2-3) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P2-3) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P2-3) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P2-3) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P2-3) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P2-3) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P2-3) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P2-3) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P2-3) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P2-2) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P2-2) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P2-2) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P2-2) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P2-2) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P2-2) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P2-2) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P2-2) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P2-2) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P2-1) (NOT-OBJ-AT O1 P1-8) 
+OR: (NOT-OBJ-AT O1 P2-1) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P2-1) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P2-1) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P2-1) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P2-1) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P2-1) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P2-1) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P1-8) (NOT-OBJ-AT O1 P1-7) 
+OR: (NOT-OBJ-AT O1 P1-8) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P1-8) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P1-8) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P1-8) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P1-8) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P1-8) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P1-7) (NOT-OBJ-AT O1 P1-6) 
+OR: (NOT-OBJ-AT O1 P1-7) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P1-7) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P1-7) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P1-7) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P1-7) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P1-6) (NOT-OBJ-AT O1 P1-5) 
+OR: (NOT-OBJ-AT O1 P1-6) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P1-6) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P1-6) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P1-6) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P1-5) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P1-5) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P1-5) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P1-5) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P1-4) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P1-4) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P1-4) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P1-3) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P1-3) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P1-2) (NOT-OBJ-AT O1 P1-1) H:128
+
+
+Cueing down from goal distance:  128 into depth [1]
+                                 127            [1][2]
+                                 126            [1]
+                                 125            [1]
+                                 124            [1]
+                                 123            [1]
+                                 122            [1]
+                                 121            [1]
+                                 120            [1]
+                                 119            [1]
+                                 118            [1]
+                                 117            [1]
+                                 116            [1][2][3]
+                                 115            [1][2][3][4][5]
+                                 114            [1]
+                                 113            [1]
+                                 112            [1]
+                                 111            [1]
+                                 110            [1]
+                                 109            [1]
+                                 107            [1]
+                                 106            [1][2]
+                                 105            [1][2]
+                                 104            [1][2]
+                                 103            [1][2]
+                                 102            [1][2]
+                                 101            [1][2]
+                                 100            [1][2]
+                                  99            [1][2]
+                                  98            [1][2]
+                                  97            [1][2]
+                                  96            [1][2]
+                                  95            [1][2]
+                                  94            [1]
+                                  93            [1]
+                                  92            [1]
+                                  91            [1][2][3][4]
+                                  90            [1][2][3][4]
+                                  89            [1][2][3][4]
+                                  88            [1][2][3][4]
+                                  87            [1]
+                                  86            [1]
+                                  85            [1]
+                                  84            [1][2][3][4]
+                                  83            [1]
+                                  81            [1][2][3][4][5]
+                                  80            [1][2][3]
+                                  79            [1]
+                                  78            [1]
+                                  76            [1]
+                                  75            [1]
+                                  73            [1][2][3]
+                                  71            [1][2][3][4][5]
+                                  69            [1]
+                                  68            [1]
+                                  67            [1][2][3][4][5]
+                                  66            [1][2][3]
+                                  65            [1][2][3][4][5]
+                                  64            [1][2][3]
+                                  63            [1][2][3]
+                                  62            [1][2][3][4][5]
+                                  61            [1]
+                                  60            [1]
+                                  59            [1]
+                                  58            [1][2][3][4]
+                                  57            [1]
+                                  56            [1][2]
+                                  55            [1][2]
+                                  54            [1][2]
+                                  53            [1][2]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1][2]
+                                  49            [1][2]
+                                  47            [1][2][3][4][5]
+                                  46            [1][2][3][4][5][6][7]
+                                  45            [1]
+                                  44            [1][2]
+                                  43            [1][2]
+                                  42            [1][2]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1][2]
+                                  38            [1][2][3]
+                                  37            [1][2]
+                                  36            [1]
+                                  33            [1]
+                                  32            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1][2]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1][2]
+                                  13            [1][2]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1][2]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: PICKUP O1 P4-4
+        1: MOVE P4-4 P3-4
+        2: PICKUP O1 P3-4
+        3: MOVE P3-4 P3-3
+        4: PICKUP O1 P3-3
+        5: MOVE P3-3 P2-3
+        6: PICKUP O1 P2-3
+        7: MOVE P2-3 P2-2
+        8: PICKUP O1 P2-2
+        9: MOVE P2-2 P1-2
+       10: PICKUP O1 P1-2
+       11: MOVE P1-2 P1-1
+       12: PICKUP O1 P1-1
+       13: MOVE P1-1 P2-1
+       14: PICKUP O1 P2-1
+       15: MOVE P2-1 P1-1
+       16: MOVE P1-1 P1-2
+       17: MOVE P1-2 P2-2
+       18: MOVE P2-2 P3-2
+       19: PICKUP O1 P3-2
+       20: MOVE P3-2 P3-3
+       21: MOVE P3-3 P4-3
+       22: PICKUP O1 P4-3
+       23: MOVE P4-3 P4-4
+       24: MOVE P4-4 P4-5
+       25: PICKUP O1 P4-5
+       26: MOVE P4-5 P5-5
+       27: PICKUP O1 P5-5
+       28: MOVE P5-5 P5-6
+       29: PICKUP O1 P5-6
+       30: MOVE P5-6 P5-7
+       31: PICKUP O1 P5-7
+       32: MOVE P5-7 P5-8
+       33: PICKUP O1 P5-8
+       34: MOVE P5-8 P6-8
+       35: PICKUP O1 P6-8
+       36: MOVE P6-8 P6-7
+       37: PICKUP O1 P6-7
+       38: MOVE P6-7 P6-6
+       39: PICKUP O1 P6-6
+       40: MOVE P6-6 P6-5
+       41: PICKUP O1 P6-5
+       42: MOVE P6-5 P7-5
+       43: PICKUP O1 P7-5
+       44: MOVE P7-5 P7-6
+       45: PICKUP O1 P7-6
+       46: MOVE P7-6 P7-7
+       47: PICKUP O1 P7-7
+       48: MOVE P7-7 P7-8
+       49: PICKUP O1 P7-8
+       50: MOVE P7-8 P8-8
+       51: PICKUP O1 P8-8
+       52: MOVE P8-8 P7-8
+       53: MOVE P7-8 P6-8
+       54: MOVE P6-8 P5-8
+       55: MOVE P5-8 P5-7
+       56: MOVE P5-7 P4-7
+       57: PICKUP O1 P4-7
+       58: MOVE P4-7 P5-7
+       59: MOVE P5-7 P4-7
+       60: MOVE P4-7 P4-6
+       61: PICKUP O1 P4-6
+       62: MOVE P4-6 P5-6
+       63: MOVE P5-6 P5-5
+       64: MOVE P5-5 P5-4
+       65: PICKUP O1 P5-4
+       66: MOVE P5-4 P5-5
+       67: MOVE P5-5 P4-5
+       68: MOVE P4-5 P3-5
+       69: PICKUP O1 P3-5
+       70: MOVE P3-5 P4-5
+       71: MOVE P4-5 P4-6
+       72: MOVE P4-6 P5-6
+       73: MOVE P5-6 P6-6
+       74: MOVE P6-6 P7-6
+       75: MOVE P7-6 P8-6
+       76: PICKUP O1 P8-6
+       77: MOVE P8-6 P7-6
+       78: MOVE P7-6 P6-6
+       79: MOVE P6-6 P5-6
+       80: MOVE P5-6 P5-7
+       81: MOVE P5-7 P4-7
+       82: MOVE P4-7 P4-8
+       83: PICKUP O1 P4-8
+       84: MOVE P4-8 P3-8
+       85: PICKUP O1 P3-8
+       86: MOVE P3-8 P3-7
+       87: PICKUP O1 P3-7
+       88: MOVE P3-7 P4-7
+       89: MOVE P4-7 P5-7
+       90: MOVE P5-7 P5-6
+       91: MOVE P5-6 P5-7
+       92: MOVE P5-7 P6-7
+       93: MOVE P6-7 P6-6
+       94: MOVE P6-6 P6-7
+       95: MOVE P6-7 P7-7
+       96: MOVE P7-7 P8-7
+       97: PICKUP O1 P8-7
+       98: MOVE P8-7 P8-6
+       99: MOVE P8-6 P7-6
+      100: MOVE P7-6 P6-6
+      101: MOVE P6-6 P6-5
+      102: MOVE P6-5 P6-4
+      103: PICKUP O1 P6-4
+      104: MOVE P6-4 P6-5
+      105: MOVE P6-5 P6-6
+      106: MOVE P6-6 P6-5
+      107: MOVE P6-5 P7-5
+      108: MOVE P7-5 P7-6
+      109: MOVE P7-6 P7-5
+      110: MOVE P7-5 P7-4
+      111: PICKUP O1 P7-4
+      112: MOVE P7-4 P7-5
+      113: MOVE P7-5 P7-6
+      114: MOVE P7-6 P7-5
+      115: MOVE P7-5 P8-5
+      116: MOVE P8-5 P8-6
+      117: MOVE P8-6 P8-5
+      118: PICKUP O1 P8-5
+      119: MOVE P8-5 P8-6
+      120: MOVE P8-6 P8-5
+      121: MOVE P8-5 P8-4
+      122: PICKUP O1 P8-4
+      123: MOVE P8-4 P8-5
+      124: MOVE P8-5 P8-6
+      125: MOVE P8-6 P7-6
+      126: MOVE P7-6 P6-6
+      127: MOVE P6-6 P5-6
+      128: MOVE P5-6 P4-6
+      129: MOVE P4-6 P3-6
+      130: PICKUP O1 P3-6
+      131: MOVE P3-6 P3-5
+      132: MOVE P3-5 P3-4
+      133: MOVE P3-4 P3-3
+      134: MOVE P3-3 P4-3
+      135: MOVE P4-3 P5-3
+      136: PICKUP O1 P5-3
+      137: MOVE P5-3 P5-2
+      138: PICKUP O1 P5-2
+      139: MOVE P5-2 P4-2
+      140: PICKUP O1 P4-2
+      141: MOVE P4-2 P4-1
+      142: PICKUP O1 P4-1
+      143: MOVE P4-1 P3-1
+      144: PICKUP O1 P3-1
+      145: MOVE P3-1 P2-1
+      146: MOVE P2-1 P1-1
+      147: MOVE P1-1 P1-2
+      148: MOVE P1-2 P1-3
+      149: PICKUP O1 P1-3
+      150: MOVE P1-3 P1-2
+      151: MOVE P1-2 P1-1
+      152: MOVE P1-1 P2-1
+      153: MOVE P2-1 P2-2
+      154: MOVE P2-2 P3-2
+      155: MOVE P3-2 P4-2
+      156: MOVE P4-2 P5-2
+      157: MOVE P5-2 P6-2
+      158: MOVE P6-2 P6-3
+      159: PICKUP O1 P6-3
+      160: MOVE P6-3 P7-3
+      161: PICKUP O1 P7-3
+      162: MOVE P7-3 P7-2
+      163: PICKUP O1 P7-2
+      164: MOVE P7-2 P6-2
+      165: PICKUP O1 P6-2
+      166: MOVE P6-2 P6-1
+      167: PICKUP O1 P6-1
+      168: MOVE P6-1 P5-1
+      169: PICKUP O1 P5-1
+      170: MOVE P5-1 P6-1
+      171: MOVE P6-1 P7-1
+      172: PICKUP O1 P7-1
+      173: MOVE P7-1 P8-1
+      174: PICKUP O1 P8-1
+      175: MOVE P8-1 P8-2
+      176: PICKUP O1 P8-2
+      177: MOVE P8-2 P8-3
+      178: PICKUP O1 P8-3
+      179: MOVE P8-3 P7-3
+      180: MOVE P7-3 P6-3
+      181: MOVE P6-3 P5-3
+      182: MOVE P5-3 P4-3
+      183: MOVE P4-3 P3-3
+      184: MOVE P3-3 P2-3
+      185: MOVE P2-3 P1-3
+      186: MOVE P1-3 P1-4
+      187: PICKUP O1 P1-4
+      188: MOVE P1-4 P1-5
+      189: PICKUP O1 P1-5
+      190: MOVE P1-5 P2-5
+      191: PICKUP O1 P2-5
+      192: MOVE P2-5 P2-6
+      193: PICKUP O1 P2-6
+      194: MOVE P2-6 P1-6
+      195: PICKUP O1 P1-6
+      196: MOVE P1-6 P1-7
+      197: PICKUP O1 P1-7
+      198: MOVE P1-7 P2-7
+      199: PICKUP O1 P2-7
+      200: MOVE P2-7 P2-8
+      201: PICKUP O1 P2-8
+      202: MOVE P2-8 P1-8
+      203: PICKUP O1 P1-8
+      204: MOVE P1-8 P1-7
+      205: MOVE P1-7 P1-6
+      206: MOVE P1-6 P1-5
+      207: MOVE P1-5 P1-4
+      208: MOVE P1-4 P2-4
+      209: PICKUP O1 P2-4
+     
+
+statistics:    0.01 seconds instantiating 4449 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 4418 facts and 4384 actions
+               0.00 seconds creating final representation with 257 relevant facts (129 max U, 65 CNF max U)
+               0.01 seconds building connectivity graph
+              18.49 seconds (  18.43 pure) evaluating 923 states, to a max depth of 7
+               0.06 seconds in DP for 7876 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.05 seconds generating,    0.02 seconds encoding 3419 state transition base CNFs
+               0.13 seconds in DP solving 708 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.24 seconds checking for stagnating states (646 hits), including 39566 DP calls
+               1.47 seconds altogether checking for dominated states making 747 comparisons (747 conformant, 747 hits),
+                    spending    0.32 seconds doing 27188 DP calls
+              75338 total DP calls, 82943 total UP calls,    0.45 sec membership
+               0.22 seconds for remaining searching duties
+              20.64 seconds total time (+    0.19 secs for CNF memory allocation)
+
+plan length:210
+iteration:1
+now_time:20.75030053697992

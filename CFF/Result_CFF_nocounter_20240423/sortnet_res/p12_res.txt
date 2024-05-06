@@ -1,0 +1,9 @@
+
+ff: parsing domain file
+domain 'SORTNET' defined
+ ... done.
+ff: parsing problem file
+/home/nero/Downloads/PlannerBenchmark-main2/PlannerBenchmark-main/T1/Conformant/det/sortnet/p12.pddl: syntax error in line 96, 'not':
+'define' expected
+Out of Memory
+now_time:0.005710088007617742

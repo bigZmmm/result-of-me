@@ -1,0 +1,9 @@
+
+ff: parsing domain file
+domain 'BTC' defined
+ ... done.
+ff: parsing problem file
+/home/nero/Downloads/PlannerBenchmark-main3/PlannerBenchmark-main/T1/Conformant/det/btc/p007.pddl: syntax error in line 17, 'not':
+'define' expected
+Out of Memory
+now_time:0.018459811006323434

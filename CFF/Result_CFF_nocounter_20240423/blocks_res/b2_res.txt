@@ -1,0 +1,129 @@
+
+ff: parsing domain file
+domain 'BLOCKS' defined
+ ... done.
+ff: parsing problem file
+problem 'B2' defined
+ ... done.
+
+
+F:
+(NOT-ON A A)
+(NOT-ON B B)
+U:
+(NOT-ONTABLE A)
+(NOT-ONTABLE B)
+(NOT-CLEAR A)
+(NOT-CLEAR B)
+(NOT-HANDEMPTY)
+(NOT-HOLDING A)
+(NOT-HOLDING B)
+(NOT-ON A B)
+(NOT-ON B A)
+(CLEAR A)
+(CLEAR B)
+(HANDEMPTY)
+(HOLDING A)
+(HOLDING B)
+(ON A B)
+(ON B A)
+(ONTABLE A)
+(ONTABLE B)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(NOT-ON A A)
+(NOT-ON B B)
+U:
+(NOT-ONTABLE A)
+(NOT-ONTABLE B)
+(NOT-CLEAR A)
+(NOT-CLEAR B)
+(NOT-HANDEMPTY)
+(NOT-HOLDING A)
+(NOT-HOLDING B)
+(NOT-ON A B)
+(NOT-ON B A)
+(CLEAR A)
+(CLEAR B)
+(HANDEMPTY)
+(HOLDING A)
+(HOLDING B)
+(ON A B)
+(ON B A)
+(ONTABLE A)
+(ONTABLE B)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (NOT-ON B A) (NOT-ON A B) 
+OR: (HOLDING B) (HOLDING A) (HANDEMPTY) 
+OR: (NOT-HOLDING B) (NOT-HOLDING A) 
+OR: (NOT-HOLDING B) (NOT-HANDEMPTY) 
+OR: (NOT-HOLDING A) (NOT-HANDEMPTY) 
+OR: (ON B A) (CLEAR A) (HOLDING A) 
+OR: (NOT-ON B A) (NOT-CLEAR A) 
+OR: (NOT-ON B A) (NOT-HOLDING A) 
+OR: (NOT-CLEAR A) (NOT-HOLDING A) 
+OR: (ON A B) (ONTABLE A) (HOLDING A) 
+OR: (NOT-ON A B) (NOT-ONTABLE A) 
+OR: (NOT-ON A B) (NOT-HOLDING A) 
+OR: (NOT-ONTABLE A) (NOT-HOLDING A) 
+OR: (ON A B) (CLEAR B) (HOLDING B) 
+OR: (NOT-ON A B) (NOT-CLEAR B) 
+OR: (NOT-ON A B) (NOT-HOLDING B) 
+OR: (NOT-CLEAR B) (NOT-HOLDING B) 
+OR: (ON B A) (ONTABLE B) (HOLDING B) 
+OR: (NOT-ON B A) (NOT-ONTABLE B) 
+OR: (NOT-ON B A) (NOT-HOLDING B) 
+OR: (NOT-ONTABLE B) (NOT-HOLDING B) H:8
+
+
+Cueing down from goal distance:    8 into depth [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1][2]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    8
+                           4
+                           3
+                           2
+                           0
+
+
+
+ff: found legal plan as follows
+
+step    0: STACK A B
+        1: PICK-UP A
+        2: UNSTACK A B
+        3: PUT-DOWN A
+        4: PICK-UP B
+        5: STACK B A
+     
+
+statistics:    0.00 seconds instantiating 12 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 22 facts and 12 actions
+               0.00 seconds creating final representation with 22 relevant facts (22 max U, 11 CNF max U)
+               0.00 seconds building connectivity graph
+               0.00 seconds (   0.00 pure) evaluating 46 states, to a max depth of 2
+               0.00 seconds in DP for 469 RPG ini state implication checks
+               0.00 seconds in DP for 233 RPlan extract ini state implication checks (59 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 88 state transition base CNFs
+               0.00 seconds in DP solving 282 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 9 DP calls
+               0.00 seconds checking for stagnating states (32 hits), including 517 DP calls
+               0.00 seconds altogether checking for dominated states making 34 comparisons (34 conformant, 3 hits),
+                    spending    0.00 seconds doing 165 DP calls
+               1675 total DP calls, 7223 total UP calls,    0.00 sec membership
+               0.01 seconds for remaining searching duties
+               0.01 seconds total time (+    0.01 secs for CNF memory allocation)
+
+plan length:6
+iteration:1
+now_time:0.026422555001772707

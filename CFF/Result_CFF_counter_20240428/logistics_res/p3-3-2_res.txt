@@ -1,0 +1,342 @@
+
+ff: parsing domain file
+domain 'LOGISTICS-STRIPS' defined
+ ... done.
+ff: parsing problem file
+problem 'LOGISTICS-C3-S3-P2-A2' defined
+ ... done.
+
+
+F:
+(NOT-AT A0 L00)
+(NOT-AT A0 L10)
+(NOT-AT A1 L00)
+(NOT-AT A1 L20)
+(NOT-AT T0 L01)
+(NOT-AT T0 L02)
+(NOT-AT T1 L10)
+(NOT-AT T1 L11)
+(NOT-AT T2 L21)
+(NOT-AT T2 L22)
+(NOT-AT P0 L00)
+(NOT-AT P0 L01)
+(NOT-AT P0 L02)
+(NOT-AT P0 L10)
+(NOT-AT P0 L11)
+(NOT-AT P0 L12)
+(NOT-AT P1 L10)
+(NOT-AT P1 L11)
+(NOT-AT P1 L12)
+(NOT-AT P1 L20)
+(NOT-AT P1 L21)
+(NOT-AT P1 L22)
+(AT T0 L00)
+(AT T1 L12)
+(AT T2 L20)
+(AT A0 L20)
+(AT A1 L10)
+U:
+(NOT-AT P0 L20)
+(NOT-AT P0 L21)
+(NOT-AT P0 L22)
+(NOT-AT P1 L00)
+(NOT-AT P1 L01)
+(NOT-AT P1 L02)
+(AT P0 L20)
+(AT P0 L21)
+(AT P0 L22)
+(AT P1 L00)
+(AT P1 L01)
+(AT P1 L02)
+UE:
+var_size: 61
+
+当前收集的断言数：30
+
+1
+
+第1次迭代
+当前初始状态:
+F:33 U:0
+num_Or:2
+参数大于2的OR: 
+H:19
+
+
+Cueing down from goal distance:   19 into depth [1][2]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1][2]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1][2]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1][2]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：22
+
+var_size: 1592
+
+当前收集的断言数：756
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:31 U:4
+num_Or:5
+参数大于2的OR: 
+H:20
+
+
+Cueing down from goal distance:   20 into depth [1]
+                                  19            [1][2]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1][2]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1][2]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1][2]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：23
+
+var_size: 1664
+
+当前收集的断言数：789
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:30 U:6
+num_Or:5
+参数大于2的OR: 
+(AT P0 L22) (AT P0 L21) (AT P0 L20) 
+H:22
+
+
+Cueing down from goal distance:   22 into depth [1]
+                                  21            [1][2]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1][2]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1][2]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1][2]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：25
+
+var_size: 1808
+
+当前收集的断言数：855
+
+1
+找到反例！
+
+
+第4次迭代
+当前初始状态:
+F:28 U:10
+num_Or:8
+参数大于2的OR: 
+(AT P0 L22) (AT P0 L21) (AT P0 L20) 
+H:23
+
+
+Cueing down from goal distance:   23 into depth [1]
+                                  22            [1]
+                                  21            [1][2]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1][2]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1][2]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1][2]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：26
+
+var_size: 1880
+
+当前收集的断言数：888
+
+1
+找到反例！
+
+
+第5次迭代
+当前初始状态:
+F:27 U:12
+num_Or:8
+参数大于2的OR: 
+(AT P0 L22) (AT P0 L21) (AT P0 L20) 
+(AT P1 L02) (AT P1 L01) (AT P1 L00) 
+H:25
+
+
+Cueing down from goal distance:   25 into depth [1]
+                                  24            [1]
+                                  23            [1][2]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1][2]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1][2]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1][2]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：28
+
+var_size: 2020
+
+当前收集的断言数：954
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: LOAD-TRUCK P1 T0 L00
+        1: LOAD-TRUCK P0 T2 L20
+        2: DRIVE-TRUCK T2 L20 L21 C2
+        3: LOAD-TRUCK P0 T2 L21
+        4: DRIVE-TRUCK T2 L21 L22 C2
+        5: LOAD-TRUCK P0 T2 L22
+        6: DRIVE-TRUCK T2 L22 L20 C2
+        7: UNLOAD-TRUCK P0 T2 L20
+        8: LOAD-AIRPLANE P0 A0 L20
+        9: FLY-AIRPLANE A0 L20 L10
+       10: UNLOAD-AIRPLANE P0 A0 L10
+       11: DRIVE-TRUCK T0 L00 L01 C0
+       12: LOAD-TRUCK P1 T0 L01
+       13: DRIVE-TRUCK T0 L01 L02 C0
+       14: LOAD-TRUCK P1 T0 L02
+       15: DRIVE-TRUCK T0 L02 L00 C0
+       16: UNLOAD-TRUCK P1 T0 L00
+       17: FLY-AIRPLANE A1 L10 L00
+       18: LOAD-AIRPLANE P1 A1 L00
+       19: FLY-AIRPLANE A1 L00 L10
+       20: UNLOAD-AIRPLANE P1 A1 L10
+       21: DRIVE-TRUCK T1 L12 L10 C1
+       22: LOAD-TRUCK P0 T1 L10
+       23: LOAD-TRUCK P1 T1 L10
+       24: DRIVE-TRUCK T1 L10 L11 C1
+       25: UNLOAD-TRUCK P0 T1 L11
+       26: DRIVE-TRUCK T1 L11 L12 C1
+       27: UNLOAD-TRUCK P1 T1 L12
+     
+
+statistics:    0.00 seconds instantiating 279 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 404 facts and 105 actions
+               0.00 seconds creating final representation with 76 relevant facts (14 max U, 8 CNF max U)
+               0.00 seconds building connectivity graph
+               0.00 seconds (   0.00 pure) evaluating 230 states, to a max depth of 2
+               0.00 seconds in DP for 28 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 1129 state transition base CNFs
+               0.00 seconds in DP solving 80 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (121 hits), including 230 DP calls
+               0.00 seconds altogether checking for dominated states making 205 comparisons (126 conformant, 126 hits),
+                    spending    0.00 seconds doing 498 DP calls
+                836 total DP calls, 1004 total UP calls,    0.00 sec membership
+               0.02 seconds for remaining searching duties
+               0.02 seconds total time (+    0.00 secs for CNF memory allocation)
+
+初始目标状态
+Fold:27 Uold:12
+num_Orold:8
+参数大于2的OR: 
+(AT P0 L22) (AT P0 L21) (AT P0 L20) 
+(AT P1 L02) (AT P1 L01) (AT P1 L00) 
+
+
+当前反例添加的目标状态
+Fcur:27 Ucur:12
+num_Orcur:8
+参数大于2的OR: 
+(AT P0 L22) (AT P0 L21) (AT P0 L20) 
+(AT P1 L02) (AT P1 L01) (AT P1 L00) 
+
+
+counter_time:0.23
+plan length:28
+iteration:5
+now_time:0.2580004970077425

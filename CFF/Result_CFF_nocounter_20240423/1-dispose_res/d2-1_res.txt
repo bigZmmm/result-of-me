@@ -1,0 +1,134 @@
+
+ff: parsing domain file
+domain 'TO-TRASH' defined
+ ... done.
+ff: parsing problem file
+problem 'TO-TRASH-2-1-NODISAPPEAR' defined
+ ... done.
+
+
+F:
+(NOT-HOLDING O1)
+(HANDEMPTY)
+(AT P1-1)
+U:
+(NOT-OBJ-AT O1 P1-1)
+(NOT-OBJ-AT O1 P1-2)
+(NOT-OBJ-AT O1 P2-1)
+(NOT-OBJ-AT O1 P2-2)
+(OBJ-AT O1 P1-1)
+(OBJ-AT O1 P1-2)
+(OBJ-AT O1 P2-1)
+(OBJ-AT O1 P2-2)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(NOT-HOLDING O1)
+(HANDEMPTY)
+(AT P1-1)
+U:
+(NOT-OBJ-AT O1 P1-1)
+(NOT-OBJ-AT O1 P1-2)
+(NOT-OBJ-AT O1 P2-1)
+(NOT-OBJ-AT O1 P2-2)
+(OBJ-AT O1 P1-1)
+(OBJ-AT O1 P1-2)
+(OBJ-AT O1 P2-1)
+(OBJ-AT O1 P2-2)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P2-2) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P2-2) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P2-2) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P2-1) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P2-1) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P1-2) (NOT-OBJ-AT O1 P1-1) H:9
+
+
+Cueing down from goal distance:    9 into depth [1][2]
+                                   8            [1][2][3]
+                                   7            [1]
+                                   6            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1][2]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    9
+                           8
+                           7
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+
+
+ff: found legal plan as follows
+
+step    0: MOVE P1-1 P2-1
+        1: MOVE P2-1 P2-2
+        2: PICKUP P2-2
+        3: MOVE P2-2 P2-1
+        4: PICKUP P2-1
+        5: MOVE P2-1 P1-1
+        6: MOVE P1-1 P1-2
+        7: PICKUP P1-2
+        8: MOVE P1-2 P1-1
+        9: PUTDOWN P1-1
+       10: MOVE P1-1 P2-1
+       11: PICKUP P2-1
+       12: MOVE P2-1 P1-1
+       13: MOVE P1-1 P1-2
+       14: PICKUP P1-2
+       15: MOVE P1-2 P2-2
+       16: PUTDOWN P2-2
+       17: MOVE P2-2 P1-2
+       18: PICKUP P1-2
+       19: MOVE P1-2 P1-1
+       20: MOVE P1-1 P2-1
+       21: PUTDOWN P2-1
+       22: MOVE P2-1 P2-2
+       23: PICKUP P2-2
+       24: MOVE P2-2 P2-1
+       25: PICKUP P2-1
+       26: MOVE P2-1 P2-2
+       27: PUTDOWN P2-2
+       28: MOVE P2-2 P2-1
+       29: PICKUP P2-1
+       30: MOVE P2-1 P2-2
+       31: PUTDOWN P2-2
+       32: PICKUP P2-2
+       33: MOVE P2-2 P2-1
+       34: MOVE P2-1 P1-1
+       35: PUTDOWN P1-1
+     
+
+statistics:    0.00 seconds instantiating 16 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 16 facts and 16 actions
+               0.00 seconds creating final representation with 16 relevant facts (12 max U, 6 CNF max U)
+               0.00 seconds building connectivity graph
+               0.04 seconds (   0.04 pure) evaluating 596 states, to a max depth of 3
+               0.00 seconds in DP for 591 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.01 seconds generating,    0.00 seconds encoding 1408 state transition base CNFs
+               0.02 seconds in DP solving 2484 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 1164 DP calls
+               0.01 seconds checking for stagnating states (416 hits), including 5384 DP calls
+               1.11 seconds altogether checking for dominated states making 10277 comparisons (10277 conformant, 377 hits),
+                    spending    0.68 seconds doing 15946 DP calls
+              25569 total DP calls, 1890430 total UP calls,    0.06 sec membership
+               0.00 seconds for remaining searching duties
+               1.19 seconds total time (+    0.00 secs for CNF memory allocation)
+
+plan length:36
+iteration:1
+now_time:1.2034008899999833

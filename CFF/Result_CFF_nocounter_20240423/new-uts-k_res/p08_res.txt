@@ -1,0 +1,279 @@
+
+ff: parsing domain file
+domain 'UTS' defined
+ ... done.
+ff: parsing problem file
+problem 'K16' defined
+ ... done.
+
+
+F:
+(NOT-VISITED N1)
+(NOT-VISITED N2)
+(NOT-VISITED N3)
+(NOT-VISITED N4)
+(NOT-VISITED N5)
+(NOT-VISITED N6)
+(NOT-VISITED N7)
+(NOT-VISITED N8)
+(NOT-VISITED N9)
+(NOT-VISITED N10)
+(NOT-VISITED N11)
+(NOT-VISITED N12)
+(NOT-VISITED N13)
+(NOT-VISITED N14)
+(NOT-VISITED N15)
+(NOT-VISITED N16)
+U:
+(NOT-AT N1)
+(NOT-AT N2)
+(NOT-AT N3)
+(NOT-AT N4)
+(NOT-AT N5)
+(NOT-AT N6)
+(NOT-AT N7)
+(NOT-AT N8)
+(NOT-AT N9)
+(NOT-AT N10)
+(NOT-AT N11)
+(NOT-AT N12)
+(NOT-AT N13)
+(NOT-AT N14)
+(NOT-AT N15)
+(NOT-AT N16)
+(AT N1)
+(AT N10)
+(AT N11)
+(AT N12)
+(AT N13)
+(AT N14)
+(AT N15)
+(AT N16)
+(AT N2)
+(AT N3)
+(AT N4)
+(AT N5)
+(AT N6)
+(AT N7)
+(AT N8)
+(AT N9)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(NOT-VISITED N1)
+(NOT-VISITED N2)
+(NOT-VISITED N3)
+(NOT-VISITED N4)
+(NOT-VISITED N5)
+(NOT-VISITED N6)
+(NOT-VISITED N7)
+(NOT-VISITED N8)
+(NOT-VISITED N9)
+(NOT-VISITED N10)
+(NOT-VISITED N11)
+(NOT-VISITED N12)
+(NOT-VISITED N13)
+(NOT-VISITED N14)
+(NOT-VISITED N15)
+(NOT-VISITED N16)
+U:
+(NOT-AT N1)
+(NOT-AT N2)
+(NOT-AT N3)
+(NOT-AT N4)
+(NOT-AT N5)
+(NOT-AT N6)
+(NOT-AT N7)
+(NOT-AT N8)
+(NOT-AT N9)
+(NOT-AT N10)
+(NOT-AT N11)
+(NOT-AT N12)
+(NOT-AT N13)
+(NOT-AT N14)
+(NOT-AT N15)
+(NOT-AT N16)
+(AT N1)
+(AT N10)
+(AT N11)
+(AT N12)
+(AT N13)
+(AT N14)
+(AT N15)
+(AT N16)
+(AT N2)
+(AT N3)
+(AT N4)
+(AT N5)
+(AT N6)
+(AT N7)
+(AT N8)
+(AT N9)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (AT N16) (AT N15) (AT N14) (AT N13) (AT N12) (AT N11) (AT N10) (AT N9) (AT N8) (AT N7) (AT N6) (AT N5) (AT N4) (AT N3) (AT N2) (AT N1) 
+OR: (NOT-AT N16) (NOT-AT N15) 
+OR: (NOT-AT N16) (NOT-AT N14) 
+OR: (NOT-AT N16) (NOT-AT N13) 
+OR: (NOT-AT N16) (NOT-AT N12) 
+OR: (NOT-AT N16) (NOT-AT N11) 
+OR: (NOT-AT N16) (NOT-AT N10) 
+OR: (NOT-AT N16) (NOT-AT N9) 
+OR: (NOT-AT N16) (NOT-AT N8) 
+OR: (NOT-AT N16) (NOT-AT N7) 
+OR: (NOT-AT N16) (NOT-AT N6) 
+OR: (NOT-AT N16) (NOT-AT N5) 
+OR: (NOT-AT N16) (NOT-AT N4) 
+OR: (NOT-AT N16) (NOT-AT N3) 
+OR: (NOT-AT N16) (NOT-AT N2) 
+OR: (NOT-AT N16) (NOT-AT N1) 
+OR: (NOT-AT N15) (NOT-AT N14) 
+OR: (NOT-AT N15) (NOT-AT N13) 
+OR: (NOT-AT N15) (NOT-AT N12) 
+OR: (NOT-AT N15) (NOT-AT N11) 
+OR: (NOT-AT N15) (NOT-AT N10) 
+OR: (NOT-AT N15) (NOT-AT N9) 
+OR: (NOT-AT N15) (NOT-AT N8) 
+OR: (NOT-AT N15) (NOT-AT N7) 
+OR: (NOT-AT N15) (NOT-AT N6) 
+OR: (NOT-AT N15) (NOT-AT N5) 
+OR: (NOT-AT N15) (NOT-AT N4) 
+OR: (NOT-AT N15) (NOT-AT N3) 
+OR: (NOT-AT N15) (NOT-AT N2) 
+OR: (NOT-AT N15) (NOT-AT N1) 
+OR: (NOT-AT N14) (NOT-AT N13) 
+OR: (NOT-AT N14) (NOT-AT N12) 
+OR: (NOT-AT N14) (NOT-AT N11) 
+OR: (NOT-AT N14) (NOT-AT N10) 
+OR: (NOT-AT N14) (NOT-AT N9) 
+OR: (NOT-AT N14) (NOT-AT N8) 
+OR: (NOT-AT N14) (NOT-AT N7) 
+OR: (NOT-AT N14) (NOT-AT N6) 
+OR: (NOT-AT N14) (NOT-AT N5) 
+OR: (NOT-AT N14) (NOT-AT N4) 
+OR: (NOT-AT N14) (NOT-AT N3) 
+OR: (NOT-AT N14) (NOT-AT N2) 
+OR: (NOT-AT N14) (NOT-AT N1) 
+OR: (NOT-AT N13) (NOT-AT N12) 
+OR: (NOT-AT N13) (NOT-AT N11) 
+OR: (NOT-AT N13) (NOT-AT N10) 
+OR: (NOT-AT N13) (NOT-AT N9) 
+OR: (NOT-AT N13) (NOT-AT N8) 
+OR: (NOT-AT N13) (NOT-AT N7) 
+OR: (NOT-AT N13) (NOT-AT N6) 
+OR: (NOT-AT N13) (NOT-AT N5) 
+OR: (NOT-AT N13) (NOT-AT N4) 
+OR: (NOT-AT N13) (NOT-AT N3) 
+OR: (NOT-AT N13) (NOT-AT N2) 
+OR: (NOT-AT N13) (NOT-AT N1) 
+OR: (NOT-AT N12) (NOT-AT N11) 
+OR: (NOT-AT N12) (NOT-AT N10) 
+OR: (NOT-AT N12) (NOT-AT N9) 
+OR: (NOT-AT N12) (NOT-AT N8) 
+OR: (NOT-AT N12) (NOT-AT N7) 
+OR: (NOT-AT N12) (NOT-AT N6) 
+OR: (NOT-AT N12) (NOT-AT N5) 
+OR: (NOT-AT N12) (NOT-AT N4) 
+OR: (NOT-AT N12) (NOT-AT N3) 
+OR: (NOT-AT N12) (NOT-AT N2) 
+OR: (NOT-AT N12) (NOT-AT N1) 
+OR: (NOT-AT N11) (NOT-AT N10) 
+OR: (NOT-AT N11) (NOT-AT N9) 
+OR: (NOT-AT N11) (NOT-AT N8) 
+OR: (NOT-AT N11) (NOT-AT N7) 
+OR: (NOT-AT N11) (NOT-AT N6) 
+OR: (NOT-AT N11) (NOT-AT N5) 
+OR: (NOT-AT N11) (NOT-AT N4) 
+OR: (NOT-AT N11) (NOT-AT N3) 
+OR: (NOT-AT N11) (NOT-AT N2) 
+OR: (NOT-AT N11) (NOT-AT N1) 
+OR: (NOT-AT N10) (NOT-AT N9) 
+OR: (NOT-AT N10) (NOT-AT N8) 
+OR: (NOT-AT N10) (NOT-AT N7) 
+OR: (NOT-AT N10) (NOT-AT N6) 
+OR: (NOT-AT N10) (NOT-AT N5) 
+OR: (NOT-AT N10) (NOT-AT N4) 
+OR: (NOT-AT N10) (NOT-AT N3) 
+OR: (NOT-AT N10) (NOT-AT N2) 
+OR: (NOT-AT N10) (NOT-AT N1) 
+OR: (NOT-AT N9) (NOT-AT N8) 
+OR: (NOT-AT N9) (NOT-AT N7) 
+OR: (NOT-AT N9) (NOT-AT N6) 
+OR: (NOT-AT N9) (NOT-AT N5) 
+OR: (NOT-AT N9) (NOT-AT N4) 
+OR: (NOT-AT N9) (NOT-AT N3) 
+OR: (NOT-AT N9) (NOT-AT N2) 
+OR: (NOT-AT N9) (NOT-AT N1) 
+OR: (NOT-AT N8) (NOT-AT N7) 
+OR: (NOT-AT N8) (NOT-AT N6) 
+OR: (NOT-AT N8) (NOT-AT N5) 
+OR: (NOT-AT N8) (NOT-AT N4) 
+OR: (NOT-AT N8) (NOT-AT N3) 
+OR: (NOT-AT N8) (NOT-AT N2) 
+OR: (NOT-AT N8) (NOT-AT N1) 
+OR: (NOT-AT N7) (NOT-AT N6) 
+OR: (NOT-AT N7) (NOT-AT N5) 
+OR: (NOT-AT N7) (NOT-AT N4) 
+OR: (NOT-AT N7) (NOT-AT N3) 
+OR: (NOT-AT N7) (NOT-AT N2) 
+OR: (NOT-AT N7) (NOT-AT N1) 
+OR: (NOT-AT N6) (NOT-AT N5) 
+OR: (NOT-AT N6) (NOT-AT N4) 
+OR: (NOT-AT N6) (NOT-AT N3) 
+OR: (NOT-AT N6) (NOT-AT N2) 
+OR: (NOT-AT N6) (NOT-AT N1) 
+OR: (NOT-AT N5) (NOT-AT N4) 
+OR: (NOT-AT N5) (NOT-AT N3) 
+OR: (NOT-AT N5) (NOT-AT N2) 
+OR: (NOT-AT N5) (NOT-AT N1) 
+OR: (NOT-AT N4) (NOT-AT N3) 
+OR: (NOT-AT N4) (NOT-AT N2) 
+OR: (NOT-AT N4) (NOT-AT N1) 
+OR: (NOT-AT N3) (NOT-AT N2) 
+OR: (NOT-AT N3) (NOT-AT N1) 
+OR: (NOT-AT N2) (NOT-AT N1) H:63
+
+
+Cueing down from goal distance:   63 into depth [1]
+                                  62            [1]
+                                  61            [1]
+                                  60            [1]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   63
+                          62
+                          61
+                          60
+                          59
+                          58
+                          57
+                          56
+                          55
+                          54
+                          53
+                          52
+                          51
+                          50
+                          49
+                          48
+                          47timeout: the monitored command dumped core
+Out of Memory
+now_time:0.8223032430105377

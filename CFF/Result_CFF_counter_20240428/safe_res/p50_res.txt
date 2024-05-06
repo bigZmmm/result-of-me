@@ -1,0 +1,1000 @@
+Cueing down from goal distance:   38 into depth [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：37
+
+var_size: 3838
+
+当前收集的断言数：1902
+
+1
+找到反例！
+
+
+第38次迭代
+当前初始状态:
+F:12 U:76
+num_Or:1226
+参数大于2的OR: 
+(RIGHT-COMBINATION C50) (RIGHT-COMBINATION C49) (RIGHT-COMBINATION C48) (RIGHT-COMBINATION C47) (RIGHT-COMBINATION C46) (RIGHT-COMBINATION C45) (RIGHT-COMBINATION C44) (RIGHT-COMBINATION C43) (RIGHT-COMBINATION C42) (RIGHT-COMBINATION C41) (RIGHT-COMBINATION C40) (RIGHT-COMBINATION C39) (RIGHT-COMBINATION C38) (RIGHT-COMBINATION C37) (RIGHT-COMBINATION C36) (RIGHT-COMBINATION C35) (RIGHT-COMBINATION C34) (RIGHT-COMBINATION C33) (RIGHT-COMBINATION C32) (RIGHT-COMBINATION C31) (RIGHT-COMBINATION C30) (RIGHT-COMBINATION C29) (RIGHT-COMBINATION C28) (RIGHT-COMBINATION C27) (RIGHT-COMBINATION C26) (RIGHT-COMBINATION C25) (RIGHT-COMBINATION C24) (RIGHT-COMBINATION C23) (RIGHT-COMBINATION C22) (RIGHT-COMBINATION C21) (RIGHT-COMBINATION C20) (RIGHT-COMBINATION C19) (RIGHT-COMBINATION C18) (RIGHT-COMBINATION C17) (RIGHT-COMBINATION C16) (RIGHT-COMBINATION C15) (RIGHT-COMBINATION C14) (RIGHT-COMBINATION C9) 
+H:39
+
+
+Cueing down from goal distance:   39 into depth [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：38
+
+var_size: 3939
+
+当前收集的断言数：1952
+
+1
+找到反例！
+
+
+第39次迭代
+当前初始状态:
+F:11 U:78
+num_Or:1226
+参数大于2的OR: 
+(RIGHT-COMBINATION C50) (RIGHT-COMBINATION C49) (RIGHT-COMBINATION C48) (RIGHT-COMBINATION C47) (RIGHT-COMBINATION C46) (RIGHT-COMBINATION C45) (RIGHT-COMBINATION C44) (RIGHT-COMBINATION C43) (RIGHT-COMBINATION C42) (RIGHT-COMBINATION C41) (RIGHT-COMBINATION C40) (RIGHT-COMBINATION C39) (RIGHT-COMBINATION C38) (RIGHT-COMBINATION C37) (RIGHT-COMBINATION C36) (RIGHT-COMBINATION C35) (RIGHT-COMBINATION C34) (RIGHT-COMBINATION C33) (RIGHT-COMBINATION C32) (RIGHT-COMBINATION C31) (RIGHT-COMBINATION C30) (RIGHT-COMBINATION C29) (RIGHT-COMBINATION C28) (RIGHT-COMBINATION C27) (RIGHT-COMBINATION C26) (RIGHT-COMBINATION C25) (RIGHT-COMBINATION C24) (RIGHT-COMBINATION C23) (RIGHT-COMBINATION C22) (RIGHT-COMBINATION C21) (RIGHT-COMBINATION C20) (RIGHT-COMBINATION C19) (RIGHT-COMBINATION C18) (RIGHT-COMBINATION C17) (RIGHT-COMBINATION C16) (RIGHT-COMBINATION C15) (RIGHT-COMBINATION C14) (RIGHT-COMBINATION C13) (RIGHT-COMBINATION C9) 
+H:40
+
+
+Cueing down from goal distance:   40 into depth [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：39
+
+var_size: 4040
+
+当前收集的断言数：2002
+
+1
+找到反例！
+
+
+第40次迭代
+当前初始状态:
+F:10 U:80
+num_Or:1226
+参数大于2的OR: 
+(RIGHT-COMBINATION C50) (RIGHT-COMBINATION C49) (RIGHT-COMBINATION C48) (RIGHT-COMBINATION C47) (RIGHT-COMBINATION C46) (RIGHT-COMBINATION C45) (RIGHT-COMBINATION C44) (RIGHT-COMBINATION C43) (RIGHT-COMBINATION C42) (RIGHT-COMBINATION C41) (RIGHT-COMBINATION C40) (RIGHT-COMBINATION C39) (RIGHT-COMBINATION C38) (RIGHT-COMBINATION C37) (RIGHT-COMBINATION C36) (RIGHT-COMBINATION C35) (RIGHT-COMBINATION C34) (RIGHT-COMBINATION C33) (RIGHT-COMBINATION C32) (RIGHT-COMBINATION C31) (RIGHT-COMBINATION C30) (RIGHT-COMBINATION C29) (RIGHT-COMBINATION C28) (RIGHT-COMBINATION C27) (RIGHT-COMBINATION C26) (RIGHT-COMBINATION C25) (RIGHT-COMBINATION C24) (RIGHT-COMBINATION C23) (RIGHT-COMBINATION C22) (RIGHT-COMBINATION C21) (RIGHT-COMBINATION C20) (RIGHT-COMBINATION C19) (RIGHT-COMBINATION C18) (RIGHT-COMBINATION C17) (RIGHT-COMBINATION C16) (RIGHT-COMBINATION C15) (RIGHT-COMBINATION C14) (RIGHT-COMBINATION C13) (RIGHT-COMBINATION C12) (RIGHT-COMBINATION C9) 
+H:41
+
+
+Cueing down from goal distance:   41 into depth [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：40
+
+var_size: 4141
+
+当前收集的断言数：2052
+
+1
+找到反例！
+
+
+第41次迭代
+当前初始状态:
+F:9 U:82
+num_Or:1226
+参数大于2的OR: 
+(RIGHT-COMBINATION C50) (RIGHT-COMBINATION C49) (RIGHT-COMBINATION C48) (RIGHT-COMBINATION C47) (RIGHT-COMBINATION C46) (RIGHT-COMBINATION C45) (RIGHT-COMBINATION C44) (RIGHT-COMBINATION C43) (RIGHT-COMBINATION C42) (RIGHT-COMBINATION C41) (RIGHT-COMBINATION C40) (RIGHT-COMBINATION C39) (RIGHT-COMBINATION C38) (RIGHT-COMBINATION C37) (RIGHT-COMBINATION C36) (RIGHT-COMBINATION C35) (RIGHT-COMBINATION C34) (RIGHT-COMBINATION C33) (RIGHT-COMBINATION C32) (RIGHT-COMBINATION C31) (RIGHT-COMBINATION C30) (RIGHT-COMBINATION C29) (RIGHT-COMBINATION C28) (RIGHT-COMBINATION C27) (RIGHT-COMBINATION C26) (RIGHT-COMBINATION C25) (RIGHT-COMBINATION C24) (RIGHT-COMBINATION C23) (RIGHT-COMBINATION C22) (RIGHT-COMBINATION C21) (RIGHT-COMBINATION C20) (RIGHT-COMBINATION C19) (RIGHT-COMBINATION C18) (RIGHT-COMBINATION C17) (RIGHT-COMBINATION C16) (RIGHT-COMBINATION C15) (RIGHT-COMBINATION C14) (RIGHT-COMBINATION C13) (RIGHT-COMBINATION C12) (RIGHT-COMBINATION C11) (RIGHT-COMBINATION C9) 
+H:42
+
+
+Cueing down from goal distance:   42 into depth [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：41
+
+var_size: 4242
+
+当前收集的断言数：2102
+
+1
+找到反例！
+
+
+第42次迭代
+当前初始状态:
+F:8 U:84
+num_Or:1226
+参数大于2的OR: 
+(RIGHT-COMBINATION C50) (RIGHT-COMBINATION C49) (RIGHT-COMBINATION C48) (RIGHT-COMBINATION C47) (RIGHT-COMBINATION C46) (RIGHT-COMBINATION C45) (RIGHT-COMBINATION C44) (RIGHT-COMBINATION C43) (RIGHT-COMBINATION C42) (RIGHT-COMBINATION C41) (RIGHT-COMBINATION C40) (RIGHT-COMBINATION C39) (RIGHT-COMBINATION C38) (RIGHT-COMBINATION C37) (RIGHT-COMBINATION C36) (RIGHT-COMBINATION C35) (RIGHT-COMBINATION C34) (RIGHT-COMBINATION C33) (RIGHT-COMBINATION C32) (RIGHT-COMBINATION C31) (RIGHT-COMBINATION C30) (RIGHT-COMBINATION C29) (RIGHT-COMBINATION C28) (RIGHT-COMBINATION C27) (RIGHT-COMBINATION C26) (RIGHT-COMBINATION C25) (RIGHT-COMBINATION C24) (RIGHT-COMBINATION C23) (RIGHT-COMBINATION C22) (RIGHT-COMBINATION C21) (RIGHT-COMBINATION C20) (RIGHT-COMBINATION C19) (RIGHT-COMBINATION C18) (RIGHT-COMBINATION C17) (RIGHT-COMBINATION C16) (RIGHT-COMBINATION C15) (RIGHT-COMBINATION C14) (RIGHT-COMBINATION C13) (RIGHT-COMBINATION C12) (RIGHT-COMBINATION C11) (RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) 
+H:43
+
+
+Cueing down from goal distance:   43 into depth [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：42
+
+var_size: 4343
+
+当前收集的断言数：2152
+
+1
+找到反例！
+
+
+第43次迭代
+当前初始状态:
+F:7 U:86
+num_Or:1226
+参数大于2的OR: 
+(RIGHT-COMBINATION C50) (RIGHT-COMBINATION C49) (RIGHT-COMBINATION C48) (RIGHT-COMBINATION C47) (RIGHT-COMBINATION C46) (RIGHT-COMBINATION C45) (RIGHT-COMBINATION C44) (RIGHT-COMBINATION C43) (RIGHT-COMBINATION C42) (RIGHT-COMBINATION C41) (RIGHT-COMBINATION C40) (RIGHT-COMBINATION C39) (RIGHT-COMBINATION C38) (RIGHT-COMBINATION C37) (RIGHT-COMBINATION C36) (RIGHT-COMBINATION C35) (RIGHT-COMBINATION C34) (RIGHT-COMBINATION C33) (RIGHT-COMBINATION C32) (RIGHT-COMBINATION C31) (RIGHT-COMBINATION C30) (RIGHT-COMBINATION C29) (RIGHT-COMBINATION C28) (RIGHT-COMBINATION C27) (RIGHT-COMBINATION C26) (RIGHT-COMBINATION C25) (RIGHT-COMBINATION C24) (RIGHT-COMBINATION C23) (RIGHT-COMBINATION C22) (RIGHT-COMBINATION C21) (RIGHT-COMBINATION C20) (RIGHT-COMBINATION C19) (RIGHT-COMBINATION C18) (RIGHT-COMBINATION C17) (RIGHT-COMBINATION C16) (RIGHT-COMBINATION C15) (RIGHT-COMBINATION C14) (RIGHT-COMBINATION C13) (RIGHT-COMBINATION C12) (RIGHT-COMBINATION C11) (RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) (RIGHT-COMBINATION C8) 
+H:44
+
+
+Cueing down from goal distance:   44 into depth [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：43
+
+var_size: 4444
+
+当前收集的断言数：2202
+
+1
+找到反例！
+
+
+第44次迭代
+当前初始状态:
+F:6 U:88
+num_Or:1226
+参数大于2的OR: 
+(RIGHT-COMBINATION C50) (RIGHT-COMBINATION C49) (RIGHT-COMBINATION C48) (RIGHT-COMBINATION C47) (RIGHT-COMBINATION C46) (RIGHT-COMBINATION C45) (RIGHT-COMBINATION C44) (RIGHT-COMBINATION C43) (RIGHT-COMBINATION C42) (RIGHT-COMBINATION C41) (RIGHT-COMBINATION C40) (RIGHT-COMBINATION C39) (RIGHT-COMBINATION C38) (RIGHT-COMBINATION C37) (RIGHT-COMBINATION C36) (RIGHT-COMBINATION C35) (RIGHT-COMBINATION C34) (RIGHT-COMBINATION C33) (RIGHT-COMBINATION C32) (RIGHT-COMBINATION C31) (RIGHT-COMBINATION C30) (RIGHT-COMBINATION C29) (RIGHT-COMBINATION C28) (RIGHT-COMBINATION C27) (RIGHT-COMBINATION C26) (RIGHT-COMBINATION C25) (RIGHT-COMBINATION C24) (RIGHT-COMBINATION C23) (RIGHT-COMBINATION C22) (RIGHT-COMBINATION C21) (RIGHT-COMBINATION C20) (RIGHT-COMBINATION C19) (RIGHT-COMBINATION C18) (RIGHT-COMBINATION C17) (RIGHT-COMBINATION C16) (RIGHT-COMBINATION C15) (RIGHT-COMBINATION C14) (RIGHT-COMBINATION C13) (RIGHT-COMBINATION C12) (RIGHT-COMBINATION C11) (RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) (RIGHT-COMBINATION C8) (RIGHT-COMBINATION C7) 
+H:45
+
+
+Cueing down from goal distance:   45 into depth [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：44
+
+var_size: 4545
+
+当前收集的断言数：2252
+
+1
+找到反例！
+
+
+第45次迭代
+当前初始状态:
+F:5 U:90
+num_Or:1226
+参数大于2的OR: 
+(RIGHT-COMBINATION C50) (RIGHT-COMBINATION C49) (RIGHT-COMBINATION C48) (RIGHT-COMBINATION C47) (RIGHT-COMBINATION C46) (RIGHT-COMBINATION C45) (RIGHT-COMBINATION C44) (RIGHT-COMBINATION C43) (RIGHT-COMBINATION C42) (RIGHT-COMBINATION C41) (RIGHT-COMBINATION C40) (RIGHT-COMBINATION C39) (RIGHT-COMBINATION C38) (RIGHT-COMBINATION C37) (RIGHT-COMBINATION C36) (RIGHT-COMBINATION C35) (RIGHT-COMBINATION C34) (RIGHT-COMBINATION C33) (RIGHT-COMBINATION C32) (RIGHT-COMBINATION C31) (RIGHT-COMBINATION C30) (RIGHT-COMBINATION C29) (RIGHT-COMBINATION C28) (RIGHT-COMBINATION C27) (RIGHT-COMBINATION C26) (RIGHT-COMBINATION C25) (RIGHT-COMBINATION C24) (RIGHT-COMBINATION C23) (RIGHT-COMBINATION C22) (RIGHT-COMBINATION C21) (RIGHT-COMBINATION C20) (RIGHT-COMBINATION C19) (RIGHT-COMBINATION C18) (RIGHT-COMBINATION C17) (RIGHT-COMBINATION C16) (RIGHT-COMBINATION C15) (RIGHT-COMBINATION C14) (RIGHT-COMBINATION C13) (RIGHT-COMBINATION C12) (RIGHT-COMBINATION C11) (RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) (RIGHT-COMBINATION C8) (RIGHT-COMBINATION C7) (RIGHT-COMBINATION C6) 
+H:46
+
+
+Cueing down from goal distance:   46 into depth [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：45
+
+var_size: 4646
+
+当前收集的断言数：2302
+
+1
+找到反例！
+
+
+第46次迭代
+当前初始状态:
+F:4 U:92
+num_Or:1226
+参数大于2的OR: 
+(RIGHT-COMBINATION C50) (RIGHT-COMBINATION C49) (RIGHT-COMBINATION C48) (RIGHT-COMBINATION C47) (RIGHT-COMBINATION C46) (RIGHT-COMBINATION C45) (RIGHT-COMBINATION C44) (RIGHT-COMBINATION C43) (RIGHT-COMBINATION C42) (RIGHT-COMBINATION C41) (RIGHT-COMBINATION C40) (RIGHT-COMBINATION C39) (RIGHT-COMBINATION C38) (RIGHT-COMBINATION C37) (RIGHT-COMBINATION C36) (RIGHT-COMBINATION C35) (RIGHT-COMBINATION C34) (RIGHT-COMBINATION C33) (RIGHT-COMBINATION C32) (RIGHT-COMBINATION C31) (RIGHT-COMBINATION C30) (RIGHT-COMBINATION C29) (RIGHT-COMBINATION C28) (RIGHT-COMBINATION C27) (RIGHT-COMBINATION C26) (RIGHT-COMBINATION C25) (RIGHT-COMBINATION C24) (RIGHT-COMBINATION C23) (RIGHT-COMBINATION C22) (RIGHT-COMBINATION C21) (RIGHT-COMBINATION C20) (RIGHT-COMBINATION C19) (RIGHT-COMBINATION C18) (RIGHT-COMBINATION C17) (RIGHT-COMBINATION C16) (RIGHT-COMBINATION C15) (RIGHT-COMBINATION C14) (RIGHT-COMBINATION C13) (RIGHT-COMBINATION C12) (RIGHT-COMBINATION C11) (RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) (RIGHT-COMBINATION C8) (RIGHT-COMBINATION C7) (RIGHT-COMBINATION C6) (RIGHT-COMBINATION C5) 
+H:47
+
+
+Cueing down from goal distance:   47 into depth [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：46
+
+var_size: 4747
+
+当前收集的断言数：2352
+
+1
+找到反例！
+
+
+第47次迭代
+当前初始状态:
+F:3 U:94
+num_Or:1226
+参数大于2的OR: 
+(RIGHT-COMBINATION C50) (RIGHT-COMBINATION C49) (RIGHT-COMBINATION C48) (RIGHT-COMBINATION C47) (RIGHT-COMBINATION C46) (RIGHT-COMBINATION C45) (RIGHT-COMBINATION C44) (RIGHT-COMBINATION C43) (RIGHT-COMBINATION C42) (RIGHT-COMBINATION C41) (RIGHT-COMBINATION C40) (RIGHT-COMBINATION C39) (RIGHT-COMBINATION C38) (RIGHT-COMBINATION C37) (RIGHT-COMBINATION C36) (RIGHT-COMBINATION C35) (RIGHT-COMBINATION C34) (RIGHT-COMBINATION C33) (RIGHT-COMBINATION C32) (RIGHT-COMBINATION C31) (RIGHT-COMBINATION C30) (RIGHT-COMBINATION C29) (RIGHT-COMBINATION C28) (RIGHT-COMBINATION C27) (RIGHT-COMBINATION C26) (RIGHT-COMBINATION C25) (RIGHT-COMBINATION C24) (RIGHT-COMBINATION C23) (RIGHT-COMBINATION C22) (RIGHT-COMBINATION C21) (RIGHT-COMBINATION C20) (RIGHT-COMBINATION C19) (RIGHT-COMBINATION C18) (RIGHT-COMBINATION C17) (RIGHT-COMBINATION C16) (RIGHT-COMBINATION C15) (RIGHT-COMBINATION C14) (RIGHT-COMBINATION C13) (RIGHT-COMBINATION C12) (RIGHT-COMBINATION C11) (RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) (RIGHT-COMBINATION C8) (RIGHT-COMBINATION C7) (RIGHT-COMBINATION C6) (RIGHT-COMBINATION C5) (RIGHT-COMBINATION C4) 
+H:48
+
+
+Cueing down from goal distance:   48 into depth [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：47
+
+var_size: 4848
+
+当前收集的断言数：2402
+
+1
+找到反例！
+
+
+第48次迭代
+当前初始状态:
+F:2 U:96
+num_Or:1226
+参数大于2的OR: 
+(RIGHT-COMBINATION C50) (RIGHT-COMBINATION C49) (RIGHT-COMBINATION C48) (RIGHT-COMBINATION C47) (RIGHT-COMBINATION C46) (RIGHT-COMBINATION C45) (RIGHT-COMBINATION C44) (RIGHT-COMBINATION C43) (RIGHT-COMBINATION C42) (RIGHT-COMBINATION C41) (RIGHT-COMBINATION C40) (RIGHT-COMBINATION C39) (RIGHT-COMBINATION C38) (RIGHT-COMBINATION C37) (RIGHT-COMBINATION C36) (RIGHT-COMBINATION C35) (RIGHT-COMBINATION C34) (RIGHT-COMBINATION C33) (RIGHT-COMBINATION C32) (RIGHT-COMBINATION C31) (RIGHT-COMBINATION C30) (RIGHT-COMBINATION C29) (RIGHT-COMBINATION C28) (RIGHT-COMBINATION C27) (RIGHT-COMBINATION C26) (RIGHT-COMBINATION C25) (RIGHT-COMBINATION C24) (RIGHT-COMBINATION C23) (RIGHT-COMBINATION C22) (RIGHT-COMBINATION C21) (RIGHT-COMBINATION C20) (RIGHT-COMBINATION C19) (RIGHT-COMBINATION C18) (RIGHT-COMBINATION C17) (RIGHT-COMBINATION C16) (RIGHT-COMBINATION C15) (RIGHT-COMBINATION C14) (RIGHT-COMBINATION C13) (RIGHT-COMBINATION C12) (RIGHT-COMBINATION C11) (RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) (RIGHT-COMBINATION C8) (RIGHT-COMBINATION C7) (RIGHT-COMBINATION C6) (RIGHT-COMBINATION C5) (RIGHT-COMBINATION C4) (RIGHT-COMBINATION C3) 
+H:49
+
+
+Cueing down from goal distance:   49 into depth [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：48
+
+var_size: 4949
+
+当前收集的断言数：2452
+
+1
+找到反例！
+
+
+第49次迭代
+当前初始状态:
+F:1 U:98
+num_Or:1226
+参数大于2的OR: 
+(RIGHT-COMBINATION C50) (RIGHT-COMBINATION C49) (RIGHT-COMBINATION C48) (RIGHT-COMBINATION C47) (RIGHT-COMBINATION C46) (RIGHT-COMBINATION C45) (RIGHT-COMBINATION C44) (RIGHT-COMBINATION C43) (RIGHT-COMBINATION C42) (RIGHT-COMBINATION C41) (RIGHT-COMBINATION C40) (RIGHT-COMBINATION C39) (RIGHT-COMBINATION C38) (RIGHT-COMBINATION C37) (RIGHT-COMBINATION C36) (RIGHT-COMBINATION C35) (RIGHT-COMBINATION C34) (RIGHT-COMBINATION C33) (RIGHT-COMBINATION C32) (RIGHT-COMBINATION C31) (RIGHT-COMBINATION C30) (RIGHT-COMBINATION C29) (RIGHT-COMBINATION C28) (RIGHT-COMBINATION C27) (RIGHT-COMBINATION C26) (RIGHT-COMBINATION C25) (RIGHT-COMBINATION C24) (RIGHT-COMBINATION C23) (RIGHT-COMBINATION C22) (RIGHT-COMBINATION C21) (RIGHT-COMBINATION C20) (RIGHT-COMBINATION C19) (RIGHT-COMBINATION C18) (RIGHT-COMBINATION C17) (RIGHT-COMBINATION C16) (RIGHT-COMBINATION C15) (RIGHT-COMBINATION C14) (RIGHT-COMBINATION C13) (RIGHT-COMBINATION C12) (RIGHT-COMBINATION C11) (RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) (RIGHT-COMBINATION C8) (RIGHT-COMBINATION C7) (RIGHT-COMBINATION C6) (RIGHT-COMBINATION C5) (RIGHT-COMBINATION C4) (RIGHT-COMBINATION C3) (RIGHT-COMBINATION C2) 
+H:50
+
+
+Cueing down from goal distance:   50 into depth [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：49
+
+var_size: 5050
+
+当前收集的断言数：2502
+
+1
+找到反例！
+
+
+第50次迭代
+当前初始状态:
+F:0 U:100
+num_Or:1226
+参数大于2的OR: 
+(RIGHT-COMBINATION C50) (RIGHT-COMBINATION C49) (RIGHT-COMBINATION C48) (RIGHT-COMBINATION C47) (RIGHT-COMBINATION C46) (RIGHT-COMBINATION C45) (RIGHT-COMBINATION C44) (RIGHT-COMBINATION C43) (RIGHT-COMBINATION C42) (RIGHT-COMBINATION C41) (RIGHT-COMBINATION C40) (RIGHT-COMBINATION C39) (RIGHT-COMBINATION C38) (RIGHT-COMBINATION C37) (RIGHT-COMBINATION C36) (RIGHT-COMBINATION C35) (RIGHT-COMBINATION C34) (RIGHT-COMBINATION C33) (RIGHT-COMBINATION C32) (RIGHT-COMBINATION C31) (RIGHT-COMBINATION C30) (RIGHT-COMBINATION C29) (RIGHT-COMBINATION C28) (RIGHT-COMBINATION C27) (RIGHT-COMBINATION C26) (RIGHT-COMBINATION C25) (RIGHT-COMBINATION C24) (RIGHT-COMBINATION C23) (RIGHT-COMBINATION C22) (RIGHT-COMBINATION C21) (RIGHT-COMBINATION C20) (RIGHT-COMBINATION C19) (RIGHT-COMBINATION C18) (RIGHT-COMBINATION C17) (RIGHT-COMBINATION C16) (RIGHT-COMBINATION C15) (RIGHT-COMBINATION C14) (RIGHT-COMBINATION C13) (RIGHT-COMBINATION C12) (RIGHT-COMBINATION C11) (RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) (RIGHT-COMBINATION C8) (RIGHT-COMBINATION C7) (RIGHT-COMBINATION C6) (RIGHT-COMBINATION C5) (RIGHT-COMBINATION C4) (RIGHT-COMBINATION C3) (RIGHT-COMBINATION C2) (RIGHT-COMBINATION C1) 
+H:51
+
+
+Cueing down from goal distance:   51 into depth [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：50
+
+var_size: 5151
+
+当前收集的断言数：2552
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: TRY C50
+        1: TRY C49
+        2: TRY C48
+        3: TRY C47
+        4: TRY C46
+        5: TRY C45
+        6: TRY C44
+        7: TRY C43
+        8: TRY C42
+        9: TRY C41
+       10: TRY C40
+       11: TRY C39
+       12: TRY C38
+       13: TRY C37
+       14: TRY C36
+       15: TRY C35
+       16: TRY C34
+       17: TRY C33
+       18: TRY C32
+       19: TRY C31
+       20: TRY C30
+       21: TRY C29
+       22: TRY C28
+       23: TRY C27
+       24: TRY C26
+       25: TRY C25
+       26: TRY C24
+       27: TRY C23
+       28: TRY C22
+       29: TRY C21
+       30: TRY C20
+       31: TRY C19
+       32: TRY C18
+       33: TRY C17
+       34: TRY C16
+       35: TRY C15
+       36: TRY C14
+       37: TRY C13
+       38: TRY C12
+       39: TRY C11
+       40: TRY C10
+       41: TRY C9
+       42: TRY C8
+       43: TRY C7
+       44: TRY C6
+       45: TRY C5
+       46: TRY C4
+       47: TRY C3
+       48: TRY C2
+       49: TRY C1
+     
+
+statistics:    0.00 seconds instantiating 50 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 101 facts and 50 actions
+               0.00 seconds creating final representation with 101 relevant facts (101 max U, 51 CNF max U)
+               0.00 seconds building connectivity graph
+               0.51 seconds (   0.51 pure) evaluating 1275 states, to a max depth of 1
+               0.00 seconds in DP for 0 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.07 seconds generating,    0.04 seconds encoding 22100 state transition base CNFs
+               0.84 seconds in DP solving 22099 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.79 seconds checking for stagnating states (0 hits), including 810852 DP calls
+              71.79 seconds altogether checking for dominated states making 291501 comparisons (291501 conformant, 0 hits),
+                    spending   22.98 seconds doing 11998091 DP calls
+            12831042 total DP calls, 12852994 total UP calls,   20.61 sec membership
+               1.20 seconds for remaining searching duties
+              75.24 seconds total time (+    1.12 secs for CNF memory allocation)
+
+初始目标状态
+Fold:0 Uold:100
+num_Orold:1226
+参数大于2的OR: 
+(RIGHT-COMBINATION C50) (RIGHT-COMBINATION C49) (RIGHT-COMBINATION C48) (RIGHT-COMBINATION C47) (RIGHT-COMBINATION C46) (RIGHT-COMBINATION C45) (RIGHT-COMBINATION C44) (RIGHT-COMBINATION C43) (RIGHT-COMBINATION C42) (RIGHT-COMBINATION C41) (RIGHT-COMBINATION C40) (RIGHT-COMBINATION C39) (RIGHT-COMBINATION C38) (RIGHT-COMBINATION C37) (RIGHT-COMBINATION C36) (RIGHT-COMBINATION C35) (RIGHT-COMBINATION C34) (RIGHT-COMBINATION C33) (RIGHT-COMBINATION C32) (RIGHT-COMBINATION C31) (RIGHT-COMBINATION C30) (RIGHT-COMBINATION C29) (RIGHT-COMBINATION C28) (RIGHT-COMBINATION C27) (RIGHT-COMBINATION C26) (RIGHT-COMBINATION C25) (RIGHT-COMBINATION C24) (RIGHT-COMBINATION C23) (RIGHT-COMBINATION C22) (RIGHT-COMBINATION C21) (RIGHT-COMBINATION C20) (RIGHT-COMBINATION C19) (RIGHT-COMBINATION C18) (RIGHT-COMBINATION C17) (RIGHT-COMBINATION C16) (RIGHT-COMBINATION C15) (RIGHT-COMBINATION C14) (RIGHT-COMBINATION C13) (RIGHT-COMBINATION C12) (RIGHT-COMBINATION C11) (RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) (RIGHT-COMBINATION C8) (RIGHT-COMBINATION C7) (RIGHT-COMBINATION C6) (RIGHT-COMBINATION C5) (RIGHT-COMBINATION C4) (RIGHT-COMBINATION C3) (RIGHT-COMBINATION C2) (RIGHT-COMBINATION C1) 
+
+
+当前反例添加的目标状态
+Fcur:0 Ucur:100
+num_Orcur:1226
+参数大于2的OR: 
+(RIGHT-COMBINATION C50) (RIGHT-COMBINATION C49) (RIGHT-COMBINATION C48) (RIGHT-COMBINATION C47) (RIGHT-COMBINATION C46) (RIGHT-COMBINATION C45) (RIGHT-COMBINATION C44) (RIGHT-COMBINATION C43) (RIGHT-COMBINATION C42) (RIGHT-COMBINATION C41) (RIGHT-COMBINATION C40) (RIGHT-COMBINATION C39) (RIGHT-COMBINATION C38) (RIGHT-COMBINATION C37) (RIGHT-COMBINATION C36) (RIGHT-COMBINATION C35) (RIGHT-COMBINATION C34) (RIGHT-COMBINATION C33) (RIGHT-COMBINATION C32) (RIGHT-COMBINATION C31) (RIGHT-COMBINATION C30) (RIGHT-COMBINATION C29) (RIGHT-COMBINATION C28) (RIGHT-COMBINATION C27) (RIGHT-COMBINATION C26) (RIGHT-COMBINATION C25) (RIGHT-COMBINATION C24) (RIGHT-COMBINATION C23) (RIGHT-COMBINATION C22) (RIGHT-COMBINATION C21) (RIGHT-COMBINATION C20) (RIGHT-COMBINATION C19) (RIGHT-COMBINATION C18) (RIGHT-COMBINATION C17) (RIGHT-COMBINATION C16) (RIGHT-COMBINATION C15) (RIGHT-COMBINATION C14) (RIGHT-COMBINATION C13) (RIGHT-COMBINATION C12) (RIGHT-COMBINATION C11) (RIGHT-COMBINATION C10) (RIGHT-COMBINATION C9) (RIGHT-COMBINATION C8) (RIGHT-COMBINATION C7) (RIGHT-COMBINATION C6) (RIGHT-COMBINATION C5) (RIGHT-COMBINATION C4) (RIGHT-COMBINATION C3) (RIGHT-COMBINATION C2) (RIGHT-COMBINATION C1) 
+
+
+counter_time:5.47
+plan length:50
+iteration:50
+now_time:84.59496489301091

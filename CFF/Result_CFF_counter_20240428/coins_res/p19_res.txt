@@ -1,0 +1,1000 @@
+                                  25            [1]
+                                  24            [1]
+                                  23            [1][2]
+                                  22            [1][2][3]
+                                  21            [1]
+                                  20            [1][2]
+                                  19            [1][2][3]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：102
+
+var_size: 13297
+
+当前收集的断言数：5564
+
+1
+找到反例！
+
+
+第36次迭代
+当前初始状态:
+F:8 U:94
+num_Or:182
+参数大于2的OR: 
+(IN E0 F2) (IN E0 F1) (IN E0 F0) 
+(IN E1 F2) (IN E1 F1) (IN E1 F0) 
+(COIN-AT C0 F2 P7) (COIN-AT C0 F2 P6) (COIN-AT C0 F2 P5) (COIN-AT C0 F2 P4) (COIN-AT C0 F2 P3) (COIN-AT C0 F2 P2) (COIN-AT C0 F2 P1) (COIN-AT C0 F2 P0) 
+(COIN-AT C1 F2 P7) (COIN-AT C1 F2 P6) (COIN-AT C1 F2 P5) (COIN-AT C1 F2 P4) (COIN-AT C1 F2 P3) (COIN-AT C1 F2 P2) (COIN-AT C1 F2 P1) (COIN-AT C1 F2 P0) 
+(COIN-AT C2 F1 P7) (COIN-AT C2 F1 P6) (COIN-AT C2 F1 P5) (COIN-AT C2 F1 P4) (COIN-AT C2 F1 P3) (COIN-AT C2 F1 P2) (COIN-AT C2 F1 P1) (COIN-AT C2 F1 P0) 
+(COIN-AT C3 F0 P7) (COIN-AT C3 F0 P5) (COIN-AT C3 F0 P4) (COIN-AT C3 F0 P3) (COIN-AT C3 F0 P2) (COIN-AT C3 F0 P1) (COIN-AT C3 F0 P0) 
+(COIN-AT C4 F0 P7) (COIN-AT C4 F0 P6) (COIN-AT C4 F0 P1) (COIN-AT C4 F0 P0) 
+(COIN-AT C5 F1 P7) (COIN-AT C5 F1 P6) (COIN-AT C5 F1 P3) (COIN-AT C5 F1 P2) (COIN-AT C5 F1 P1) (COIN-AT C5 F1 P0) 
+H:70
+
+
+Cueing down from goal distance:   70 into depth [1]
+                                  69            [1]
+                                  68            [1]
+                                  67            [1]
+                                  66            [1]
+                                  65            [1]
+                                  64            [1]
+                                  63            [1]
+                                  62            [1]
+                                  61            [1][2][3]
+                                  60            [1][2][3]
+                                  59            [1]
+                                  58            [1][2]
+                                  57            [1]
+                                  56            [1][2]
+                                  55            [1]
+                                  54            [1][2]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1][2][3]
+                                  48            [1][2][3][4][5]
+                                  47            [1][2][3][4][5]
+                                  46            [1][2][3]
+                                  45            [1][2][3]
+                                  44            [1]
+                                  43            [1][2]
+                                  42            [1]
+                                  41            [1][2]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1][2]
+                                  36            [1][2][3][4][5]
+                                  35            [1][2][3][4][5]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1][2]
+                                  24            [1][2][3]
+                                  23            [1]
+                                  22            [1][2]
+                                  21            [1]
+                                  20            [1][2][3]
+                                  19            [1][2][3]
+                                  18            [1][2][3][4][5]
+                                  17            [1][2][3][4][5]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：113
+
+var_size: 14756
+
+当前收集的断言数：6158
+
+1
+找到反例！
+
+
+第37次迭代
+当前初始状态:
+F:7 U:96
+num_Or:182
+参数大于2的OR: 
+(IN E0 F2) (IN E0 F1) (IN E0 F0) 
+(IN E1 F2) (IN E1 F1) (IN E1 F0) 
+(COIN-AT C0 F2 P7) (COIN-AT C0 F2 P6) (COIN-AT C0 F2 P5) (COIN-AT C0 F2 P4) (COIN-AT C0 F2 P3) (COIN-AT C0 F2 P2) (COIN-AT C0 F2 P1) (COIN-AT C0 F2 P0) 
+(COIN-AT C1 F2 P7) (COIN-AT C1 F2 P6) (COIN-AT C1 F2 P5) (COIN-AT C1 F2 P4) (COIN-AT C1 F2 P3) (COIN-AT C1 F2 P2) (COIN-AT C1 F2 P1) (COIN-AT C1 F2 P0) 
+(COIN-AT C2 F1 P7) (COIN-AT C2 F1 P6) (COIN-AT C2 F1 P5) (COIN-AT C2 F1 P4) (COIN-AT C2 F1 P3) (COIN-AT C2 F1 P2) (COIN-AT C2 F1 P1) (COIN-AT C2 F1 P0) 
+(COIN-AT C3 F0 P7) (COIN-AT C3 F0 P5) (COIN-AT C3 F0 P4) (COIN-AT C3 F0 P3) (COIN-AT C3 F0 P2) (COIN-AT C3 F0 P1) (COIN-AT C3 F0 P0) 
+(COIN-AT C4 F0 P7) (COIN-AT C4 F0 P6) (COIN-AT C4 F0 P1) (COIN-AT C4 F0 P0) 
+(COIN-AT C5 F1 P7) (COIN-AT C5 F1 P6) (COIN-AT C5 F1 P4) (COIN-AT C5 F1 P3) (COIN-AT C5 F1 P2) (COIN-AT C5 F1 P1) (COIN-AT C5 F1 P0) 
+H:71
+
+
+Cueing down from goal distance:   71 into depth [1]
+                                  70            [1]
+                                  69            [1]
+                                  68            [1]
+                                  67            [1]
+                                  66            [1]
+                                  65            [1]
+                                  64            [1]
+                                  63            [1]
+                                  62            [1][2][3]
+                                  61            [1][2][3]
+                                  60            [1]
+                                  59            [1][2]
+                                  58            [1]
+                                  57            [1][2]
+                                  56            [1]
+                                  55            [1][2]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1][2][3]
+                                  49            [1][2][3]
+                                  48            [1][2][3][4][5]
+                                  47            [1][2][3][4][5]
+                                  46            [1][2][3]
+                                  45            [1][2][3]
+                                  44            [1]
+                                  43            [1][2]
+                                  42            [1]
+                                  41            [1][2]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1][2]
+                                  36            [1][2][3][4][5]
+                                  35            [1][2][3][4][5]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1][2]
+                                  24            [1][2][3]
+                                  23            [1]
+                                  22            [1][2]
+                                  21            [1]
+                                  20            [1][2][3]
+                                  19            [1][2][3]
+                                  18            [1][2][3][4][5]
+                                  17            [1][2][3][4][5]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：116
+
+var_size: 15158
+
+当前收集的断言数：6320
+
+1
+找到反例！
+
+
+第38次迭代
+当前初始状态:
+F:6 U:98
+num_Or:182
+参数大于2的OR: 
+(IN E0 F2) (IN E0 F1) (IN E0 F0) 
+(IN E1 F2) (IN E1 F1) (IN E1 F0) 
+(COIN-AT C0 F2 P7) (COIN-AT C0 F2 P6) (COIN-AT C0 F2 P5) (COIN-AT C0 F2 P4) (COIN-AT C0 F2 P3) (COIN-AT C0 F2 P2) (COIN-AT C0 F2 P1) (COIN-AT C0 F2 P0) 
+(COIN-AT C1 F2 P7) (COIN-AT C1 F2 P6) (COIN-AT C1 F2 P5) (COIN-AT C1 F2 P4) (COIN-AT C1 F2 P3) (COIN-AT C1 F2 P2) (COIN-AT C1 F2 P1) (COIN-AT C1 F2 P0) 
+(COIN-AT C2 F1 P7) (COIN-AT C2 F1 P6) (COIN-AT C2 F1 P5) (COIN-AT C2 F1 P4) (COIN-AT C2 F1 P3) (COIN-AT C2 F1 P2) (COIN-AT C2 F1 P1) (COIN-AT C2 F1 P0) 
+(COIN-AT C3 F0 P7) (COIN-AT C3 F0 P6) (COIN-AT C3 F0 P5) (COIN-AT C3 F0 P4) (COIN-AT C3 F0 P3) (COIN-AT C3 F0 P2) (COIN-AT C3 F0 P1) (COIN-AT C3 F0 P0) 
+(COIN-AT C4 F0 P7) (COIN-AT C4 F0 P6) (COIN-AT C4 F0 P1) (COIN-AT C4 F0 P0) 
+(COIN-AT C5 F1 P7) (COIN-AT C5 F1 P6) (COIN-AT C5 F1 P4) (COIN-AT C5 F1 P3) (COIN-AT C5 F1 P2) (COIN-AT C5 F1 P1) (COIN-AT C5 F1 P0) 
+H:72
+
+
+Cueing down from goal distance:   72 into depth [1]
+                                  71            [1]
+                                  70            [1]
+                                  69            [1]
+                                  68            [1]
+                                  67            [1]
+                                  66            [1]
+                                  65            [1]
+                                  64            [1]
+                                  63            [1][2][3]
+                                  62            [1][2][3]
+                                  61            [1]
+                                  60            [1][2]
+                                  59            [1]
+                                  58            [1][2]
+                                  57            [1]
+                                  56            [1][2]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1][2][3]
+                                  50            [1][2][3]
+                                  49            [1][2][3][4][5]
+                                  48            [1][2][3][4][5]
+                                  47            [1][2][3]
+                                  46            [1][2][3]
+                                  45            [1]
+                                  44            [1][2]
+                                  43            [1]
+                                  42            [1][2]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1][2]
+                                  37            [1][2][3][4][5]
+                                  36            [1][2][3][4][5]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1][2]
+                                  25            [1][2][3]
+                                  24            [1]
+                                  23            [1][2]
+                                  22            [1]
+                                  21            [1][2][3]
+                                  20            [1][2][3]
+                                  19            [1][2][3][4][5]
+                                  18            [1][2][3][4][5]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：117
+
+var_size: 15275
+
+当前收集的断言数：6374
+
+1
+找到反例！
+
+
+第39次迭代
+当前初始状态:
+F:5 U:100
+num_Or:182
+参数大于2的OR: 
+(IN E0 F2) (IN E0 F1) (IN E0 F0) 
+(IN E1 F2) (IN E1 F1) (IN E1 F0) 
+(COIN-AT C0 F2 P7) (COIN-AT C0 F2 P6) (COIN-AT C0 F2 P5) (COIN-AT C0 F2 P4) (COIN-AT C0 F2 P3) (COIN-AT C0 F2 P2) (COIN-AT C0 F2 P1) (COIN-AT C0 F2 P0) 
+(COIN-AT C1 F2 P7) (COIN-AT C1 F2 P6) (COIN-AT C1 F2 P5) (COIN-AT C1 F2 P4) (COIN-AT C1 F2 P3) (COIN-AT C1 F2 P2) (COIN-AT C1 F2 P1) (COIN-AT C1 F2 P0) 
+(COIN-AT C2 F1 P7) (COIN-AT C2 F1 P6) (COIN-AT C2 F1 P5) (COIN-AT C2 F1 P4) (COIN-AT C2 F1 P3) (COIN-AT C2 F1 P2) (COIN-AT C2 F1 P1) (COIN-AT C2 F1 P0) 
+(COIN-AT C3 F0 P7) (COIN-AT C3 F0 P6) (COIN-AT C3 F0 P5) (COIN-AT C3 F0 P4) (COIN-AT C3 F0 P3) (COIN-AT C3 F0 P2) (COIN-AT C3 F0 P1) (COIN-AT C3 F0 P0) 
+(COIN-AT C4 F0 P7) (COIN-AT C4 F0 P6) (COIN-AT C4 F0 P2) (COIN-AT C4 F0 P1) (COIN-AT C4 F0 P0) 
+(COIN-AT C5 F1 P7) (COIN-AT C5 F1 P6) (COIN-AT C5 F1 P4) (COIN-AT C5 F1 P3) (COIN-AT C5 F1 P2) (COIN-AT C5 F1 P1) (COIN-AT C5 F1 P0) 
+H:73
+
+
+Cueing down from goal distance:   73 into depth [1]
+                                  72            [1]
+                                  71            [1]
+                                  70            [1]
+                                  69            [1]
+                                  68            [1]
+                                  67            [1]
+                                  66            [1]
+                                  65            [1]
+                                  64            [1]
+                                  63            [1][2][3]
+                                  62            [1][2][3]
+                                  61            [1]
+                                  60            [1][2]
+                                  59            [1]
+                                  58            [1][2]
+                                  57            [1]
+                                  56            [1][2]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1][2][3]
+                                  50            [1][2][3]
+                                  49            [1][2][3][4][5]
+                                  48            [1][2][3][4][5]
+                                  47            [1][2][3]
+                                  46            [1][2][3]
+                                  45            [1]
+                                  44            [1][2]
+                                  43            [1]
+                                  42            [1][2]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1][2]
+                                  37            [1][2][3][4][5]
+                                  36            [1][2][3][4][5]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1][2]
+                                  25            [1][2][3]
+                                  24            [1]
+                                  23            [1][2]
+                                  22            [1]
+                                  21            [1][2][3]
+                                  20            [1][2][3]
+                                  19            [1][2][3][4][5]
+                                  18            [1][2][3][4][5]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：118
+
+var_size: 15413
+
+当前收集的断言数：6428
+
+1
+找到反例！
+
+
+第40次迭代
+当前初始状态:
+F:4 U:102
+num_Or:182
+参数大于2的OR: 
+(IN E0 F2) (IN E0 F1) (IN E0 F0) 
+(IN E1 F2) (IN E1 F1) (IN E1 F0) 
+(COIN-AT C0 F2 P7) (COIN-AT C0 F2 P6) (COIN-AT C0 F2 P5) (COIN-AT C0 F2 P4) (COIN-AT C0 F2 P3) (COIN-AT C0 F2 P2) (COIN-AT C0 F2 P1) (COIN-AT C0 F2 P0) 
+(COIN-AT C1 F2 P7) (COIN-AT C1 F2 P6) (COIN-AT C1 F2 P5) (COIN-AT C1 F2 P4) (COIN-AT C1 F2 P3) (COIN-AT C1 F2 P2) (COIN-AT C1 F2 P1) (COIN-AT C1 F2 P0) 
+(COIN-AT C2 F1 P7) (COIN-AT C2 F1 P6) (COIN-AT C2 F1 P5) (COIN-AT C2 F1 P4) (COIN-AT C2 F1 P3) (COIN-AT C2 F1 P2) (COIN-AT C2 F1 P1) (COIN-AT C2 F1 P0) 
+(COIN-AT C3 F0 P7) (COIN-AT C3 F0 P6) (COIN-AT C3 F0 P5) (COIN-AT C3 F0 P4) (COIN-AT C3 F0 P3) (COIN-AT C3 F0 P2) (COIN-AT C3 F0 P1) (COIN-AT C3 F0 P0) 
+(COIN-AT C4 F0 P7) (COIN-AT C4 F0 P6) (COIN-AT C4 F0 P2) (COIN-AT C4 F0 P1) (COIN-AT C4 F0 P0) 
+(COIN-AT C5 F1 P7) (COIN-AT C5 F1 P6) (COIN-AT C5 F1 P5) (COIN-AT C5 F1 P4) (COIN-AT C5 F1 P3) (COIN-AT C5 F1 P2) (COIN-AT C5 F1 P1) (COIN-AT C5 F1 P0) 
+H:74
+
+
+Cueing down from goal distance:   74 into depth [1]
+                                  73            [1]
+                                  72            [1]
+                                  71            [1]
+                                  70            [1]
+                                  69            [1]
+                                  68            [1]
+                                  67            [1]
+                                  66            [1]
+                                  65            [1]
+                                  64            [1][2][3]
+                                  63            [1][2][3]
+                                  62            [1]
+                                  61            [1][2]
+                                  60            [1]
+                                  59            [1][2]
+                                  58            [1]
+                                  57            [1][2]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1][2][3]
+                                  51            [1][2][3]
+                                  50            [1][2][3][4][5]
+                                  49            [1][2][3][4][5]
+                                  48            [1][2][3][4][5]
+                                  47            [1][2][3]
+                                  46            [1][2][3]
+                                  45            [1]
+                                  44            [1][2]
+                                  43            [1]
+                                  42            [1][2]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1][2]
+                                  37            [1][2][3][4][5]
+                                  36            [1][2][3][4][5]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1][2]
+                                  25            [1][2][3]
+                                  24            [1]
+                                  23            [1][2]
+                                  22            [1]
+                                  21            [1][2][3]
+                                  20            [1][2][3]
+                                  19            [1][2][3][4][5]
+                                  18            [1][2][3][4][5]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：123
+
+var_size: 16083
+
+当前收集的断言数：6698
+
+1
+找到反例！
+
+
+第41次迭代
+当前初始状态:
+F:3 U:104
+num_Or:182
+参数大于2的OR: 
+(IN E0 F2) (IN E0 F1) (IN E0 F0) 
+(IN E1 F2) (IN E1 F1) (IN E1 F0) 
+(COIN-AT C0 F2 P7) (COIN-AT C0 F2 P6) (COIN-AT C0 F2 P5) (COIN-AT C0 F2 P4) (COIN-AT C0 F2 P3) (COIN-AT C0 F2 P2) (COIN-AT C0 F2 P1) (COIN-AT C0 F2 P0) 
+(COIN-AT C1 F2 P7) (COIN-AT C1 F2 P6) (COIN-AT C1 F2 P5) (COIN-AT C1 F2 P4) (COIN-AT C1 F2 P3) (COIN-AT C1 F2 P2) (COIN-AT C1 F2 P1) (COIN-AT C1 F2 P0) 
+(COIN-AT C2 F1 P7) (COIN-AT C2 F1 P6) (COIN-AT C2 F1 P5) (COIN-AT C2 F1 P4) (COIN-AT C2 F1 P3) (COIN-AT C2 F1 P2) (COIN-AT C2 F1 P1) (COIN-AT C2 F1 P0) 
+(COIN-AT C3 F0 P7) (COIN-AT C3 F0 P6) (COIN-AT C3 F0 P5) (COIN-AT C3 F0 P4) (COIN-AT C3 F0 P3) (COIN-AT C3 F0 P2) (COIN-AT C3 F0 P1) (COIN-AT C3 F0 P0) 
+(COIN-AT C4 F0 P7) (COIN-AT C4 F0 P6) (COIN-AT C4 F0 P3) (COIN-AT C4 F0 P2) (COIN-AT C4 F0 P1) (COIN-AT C4 F0 P0) 
+(COIN-AT C5 F1 P7) (COIN-AT C5 F1 P6) (COIN-AT C5 F1 P5) (COIN-AT C5 F1 P4) (COIN-AT C5 F1 P3) (COIN-AT C5 F1 P2) (COIN-AT C5 F1 P1) (COIN-AT C5 F1 P0) 
+H:75
+
+
+Cueing down from goal distance:   75 into depth [1]
+                                  74            [1]
+                                  73            [1]
+                                  72            [1]
+                                  71            [1]
+                                  70            [1]
+                                  69            [1]
+                                  68            [1]
+                                  67            [1]
+                                  66            [1]
+                                  65            [1][2][3]
+                                  64            [1][2][3]
+                                  63            [1]
+                                  62            [1][2]
+                                  61            [1]
+                                  60            [1][2]
+                                  59            [1]
+                                  58            [1][2]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1][2][3]
+                                  52            [1][2][3]
+                                  51            [1][2][3][4][5]
+                                  50            [1][2][3][4][5]
+                                  49            [1][2][3][4][5]
+                                  48            [1][2][3]
+                                  47            [1][2][3]
+                                  46            [1]
+                                  45            [1][2]
+                                  44            [1]
+                                  43            [1][2]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1][2]
+                                  38            [1][2][3][4][5]
+                                  37            [1][2][3]
+                                  36            [1][2][3][4][5]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1][2]
+                                  25            [1][2][3]
+                                  24            [1]
+                                  23            [1][2]
+                                  22            [1]
+                                  21            [1][2][3]
+                                  20            [1][2][3]
+                                  19            [1][2][3][4][5]
+                                  18            [1][2][3][4][5]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：126
+
+var_size: 16473
+
+当前收集的断言数：6860
+
+1
+找到反例！
+
+
+第42次迭代
+当前初始状态:
+F:2 U:106
+num_Or:182
+参数大于2的OR: 
+(IN E0 F2) (IN E0 F1) (IN E0 F0) 
+(IN E1 F2) (IN E1 F1) (IN E1 F0) 
+(COIN-AT C0 F2 P7) (COIN-AT C0 F2 P6) (COIN-AT C0 F2 P5) (COIN-AT C0 F2 P4) (COIN-AT C0 F2 P3) (COIN-AT C0 F2 P2) (COIN-AT C0 F2 P1) (COIN-AT C0 F2 P0) 
+(COIN-AT C1 F2 P7) (COIN-AT C1 F2 P6) (COIN-AT C1 F2 P5) (COIN-AT C1 F2 P4) (COIN-AT C1 F2 P3) (COIN-AT C1 F2 P2) (COIN-AT C1 F2 P1) (COIN-AT C1 F2 P0) 
+(COIN-AT C2 F1 P7) (COIN-AT C2 F1 P6) (COIN-AT C2 F1 P5) (COIN-AT C2 F1 P4) (COIN-AT C2 F1 P3) (COIN-AT C2 F1 P2) (COIN-AT C2 F1 P1) (COIN-AT C2 F1 P0) 
+(COIN-AT C3 F0 P7) (COIN-AT C3 F0 P6) (COIN-AT C3 F0 P5) (COIN-AT C3 F0 P4) (COIN-AT C3 F0 P3) (COIN-AT C3 F0 P2) (COIN-AT C3 F0 P1) (COIN-AT C3 F0 P0) 
+(COIN-AT C4 F0 P7) (COIN-AT C4 F0 P6) (COIN-AT C4 F0 P4) (COIN-AT C4 F0 P3) (COIN-AT C4 F0 P2) (COIN-AT C4 F0 P1) (COIN-AT C4 F0 P0) 
+(COIN-AT C5 F1 P7) (COIN-AT C5 F1 P6) (COIN-AT C5 F1 P5) (COIN-AT C5 F1 P4) (COIN-AT C5 F1 P3) (COIN-AT C5 F1 P2) (COIN-AT C5 F1 P1) (COIN-AT C5 F1 P0) 
+H:76
+
+
+Cueing down from goal distance:   76 into depth [1]
+                                  75            [1]
+                                  74            [1]
+                                  73            [1]
+                                  72            [1]
+                                  71            [1]
+                                  70            [1]
+                                  69            [1]
+                                  68            [1]
+                                  67            [1]
+                                  66            [1][2][3]
+                                  65            [1][2][3]
+                                  64            [1]
+                                  63            [1][2]
+                                  62            [1]
+                                  61            [1][2]
+                                  60            [1]
+                                  59            [1][2]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1][2][3]
+                                  53            [1][2][3]
+                                  52            [1][2][3][4][5]
+                                  51            [1][2][3][4][5]
+                                  50            [1][2][3][4][5]
+                                  49            [1][2][3]
+                                  48            [1][2][3]
+                                  47            [1]
+                                  46            [1][2]
+                                  45            [1]
+                                  44            [1][2]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1][2]
+                                  39            [1][2][3][4][5]
+                                  38            [1][2][3]
+                                  37            [1][2][3][4][5]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1][2]
+                                  26            [1][2][3]
+                                  25            [1]
+                                  24            [1][2]
+                                  23            [1]
+                                  22            [1][2][3]
+                                  21            [1][2][3]
+                                  20            [1][2][3][4][5]
+                                  19            [1][2][3][4][5]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：127
+
+var_size: 16588
+
+当前收集的断言数：6914
+
+1
+找到反例！
+
+
+第43次迭代
+当前初始状态:
+F:1 U:108
+num_Or:182
+参数大于2的OR: 
+(IN E0 F2) (IN E0 F1) (IN E0 F0) 
+(IN E1 F2) (IN E1 F1) (IN E1 F0) 
+(COIN-AT C0 F2 P7) (COIN-AT C0 F2 P6) (COIN-AT C0 F2 P5) (COIN-AT C0 F2 P4) (COIN-AT C0 F2 P3) (COIN-AT C0 F2 P2) (COIN-AT C0 F2 P1) (COIN-AT C0 F2 P0) 
+(COIN-AT C1 F2 P7) (COIN-AT C1 F2 P6) (COIN-AT C1 F2 P5) (COIN-AT C1 F2 P4) (COIN-AT C1 F2 P3) (COIN-AT C1 F2 P2) (COIN-AT C1 F2 P1) (COIN-AT C1 F2 P0) 
+(COIN-AT C2 F1 P7) (COIN-AT C2 F1 P6) (COIN-AT C2 F1 P5) (COIN-AT C2 F1 P4) (COIN-AT C2 F1 P3) (COIN-AT C2 F1 P2) (COIN-AT C2 F1 P1) (COIN-AT C2 F1 P0) 
+(COIN-AT C3 F0 P7) (COIN-AT C3 F0 P6) (COIN-AT C3 F0 P5) (COIN-AT C3 F0 P4) (COIN-AT C3 F0 P3) (COIN-AT C3 F0 P2) (COIN-AT C3 F0 P1) (COIN-AT C3 F0 P0) 
+(COIN-AT C4 F0 P7) (COIN-AT C4 F0 P6) (COIN-AT C4 F0 P5) (COIN-AT C4 F0 P4) (COIN-AT C4 F0 P3) (COIN-AT C4 F0 P2) (COIN-AT C4 F0 P1) (COIN-AT C4 F0 P0) 
+(COIN-AT C5 F1 P7) (COIN-AT C5 F1 P6) (COIN-AT C5 F1 P5) (COIN-AT C5 F1 P4) (COIN-AT C5 F1 P3) (COIN-AT C5 F1 P2) (COIN-AT C5 F1 P1) (COIN-AT C5 F1 P0) 
+H:77
+
+
+Cueing down from goal distance:   77 into depth [1]
+                                  76            [1]
+                                  75            [1]
+                                  74            [1]
+                                  73            [1]
+                                  72            [1]
+                                  71            [1]
+                                  70            [1]
+                                  69            [1]
+                                  68            [1]
+                                  67            [1][2][3]
+                                  66            [1][2][3]
+                                  65            [1]
+                                  64            [1][2]
+                                  63            [1]
+                                  62            [1][2]
+                                  61            [1]
+                                  60            [1][2]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1][2][3]
+                                  54            [1][2][3]
+                                  53            [1][2][3][4][5]
+                                  52            [1][2][3][4][5]
+                                  51            [1][2][3][4][5]
+                                  50            [1][2][3]
+                                  49            [1][2][3]
+                                  48            [1]
+                                  47            [1][2]
+                                  46            [1]
+                                  45            [1][2]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1][2]
+                                  40            [1][2][3][4][5]
+                                  39            [1][2][3]
+                                  38            [1][2][3][4][5]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1][2]
+                                  27            [1][2][3]
+                                  26            [1]
+                                  25            [1][2]
+                                  24            [1]
+                                  23            [1][2][3]
+                                  22            [1][2][3]
+                                  21            [1][2][3][4][5]
+                                  20            [1][2][3][4][5]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：128
+
+var_size: 16704
+
+当前收集的断言数：6968
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: COLLECT C4 F0 P0
+        1: COLLECT C3 F0 P0
+        2: GO-DOWN E0 F2 F1
+        3: GO-UP E0 F0 F1
+        4: MOVE-RIGHT F0 P0 P1
+        5: COLLECT C4 F0 P1
+        6: COLLECT C3 F0 P1
+        7: MOVE-RIGHT F0 P1 P2
+        8: COLLECT C4 F0 P2
+        9: COLLECT C3 F0 P2
+       10: GO-DOWN E0 F1 F0
+       11: MOVE-RIGHT F0 P2 P3
+       12: STEP-IN E0 F0 P3
+       13: GO-UP E0 F0 F1
+       14: STEP-OUT E0 F1 P3
+       15: COLLECT C5 F1 P3
+       16: COLLECT C2 F1 P3
+       17: MOVE-LEFT F1 P3 P2
+       18: COLLECT C5 F1 P2
+       19: COLLECT C2 F1 P2
+       20: MOVE-LEFT F1 P2 P1
+       21: COLLECT C5 F1 P1
+       22: COLLECT C2 F1 P1
+       23: MOVE-LEFT F1 P1 P0
+       24: COLLECT C5 F1 P0
+       25: COLLECT C2 F1 P0
+       26: MOVE-RIGHT F1 P0 P1
+       27: MOVE-RIGHT F1 P1 P2
+       28: MOVE-RIGHT F1 P2 P3
+       29: MOVE-RIGHT F1 P3 P4
+       30: COLLECT C5 F1 P4
+       31: MOVE-LEFT F1 P4 P3
+       32: MOVE-RIGHT F1 P3 P4
+       33: COLLECT C2 F1 P4
+       34: MOVE-LEFT F1 P4 P3
+       35: MOVE-RIGHT F1 P3 P4
+       36: MOVE-RIGHT F1 P4 P5
+       37: COLLECT C5 F1 P5
+       38: MOVE-LEFT F1 P5 P4
+       39: MOVE-LEFT F1 P4 P3
+       40: MOVE-RIGHT F1 P3 P4
+       41: MOVE-RIGHT F1 P4 P5
+       42: COLLECT C2 F1 P5
+       43: MOVE-LEFT F1 P5 P4
+       44: MOVE-LEFT F1 P4 P3
+       45: STEP-IN E0 F1 P3
+       46: GO-UP E0 F1 F2
+       47: STEP-OUT E0 F2 P3
+       48: COLLECT C1 F2 P3
+       49: STEP-IN E0 F2 P3
+       50: STEP-OUT E0 F2 P3
+       51: COLLECT C0 F2 P3
+       52: STEP-IN E0 F2 P3
+       53: STEP-OUT E0 F2 P3
+       54: MOVE-LEFT F2 P3 P2
+       55: COLLECT C1 F2 P2
+       56: COLLECT C0 F2 P2
+       57: MOVE-LEFT F2 P2 P1
+       58: COLLECT C1 F2 P1
+       59: COLLECT C0 F2 P1
+       60: MOVE-LEFT F2 P1 P0
+       61: COLLECT C1 F2 P0
+       62: COLLECT C0 F2 P0
+       63: MOVE-RIGHT F2 P0 P1
+       64: MOVE-RIGHT F2 P1 P2
+       65: MOVE-RIGHT F2 P2 P3
+       66: STEP-IN E0 F2 P3
+       67: GO-DOWN E0 F2 F1
+       68: GO-DOWN E0 F1 F0
+       69: STEP-OUT E0 F0 P3
+       70: COLLECT C4 F0 P3
+       71: STEP-IN E0 F0 P3
+       72: STEP-OUT E0 F0 P3
+       73: COLLECT C3 F0 P3
+       74: STEP-IN E0 F0 P3
+       75: GO-UP E0 F0 F1
+       76: STEP-OUT E0 F1 P3
+       77: MOVE-RIGHT F1 P3 P4
+       78: MOVE-RIGHT F1 P4 P5
+       79: MOVE-RIGHT F1 P5 P6
+       80: COLLECT C5 F1 P6
+       81: COLLECT C2 F1 P6
+       82: GO-DOWN E1 F2 F1
+       83: GO-DOWN E1 F1 F0
+       84: MOVE-RIGHT F1 P6 P7
+       85: COLLECT C5 F1 P7
+       86: COLLECT C2 F1 P7
+       87: GO-UP E1 F0 F1
+       88: STEP-IN E1 F1 P7
+       89: GO-UP E1 F1 F2
+       90: STEP-OUT E1 F2 P7
+       91: COLLECT C1 F2 P7
+       92: COLLECT C0 F2 P7
+       93: MOVE-LEFT F2 P7 P6
+       94: COLLECT C1 F2 P6
+       95: COLLECT C0 F2 P6
+       96: MOVE-LEFT F2 P6 P5
+       97: COLLECT C1 F2 P5
+       98: MOVE-RIGHT F2 P5 P6
+       99: MOVE-LEFT F2 P6 P5
+      100: COLLECT C0 F2 P5
+      101: MOVE-RIGHT F2 P5 P6
+      102: MOVE-LEFT F2 P6 P5
+      103: MOVE-LEFT F2 P5 P4
+      104: COLLECT C1 F2 P4
+      105: MOVE-RIGHT F2 P4 P5
+      106: MOVE-RIGHT F2 P5 P6
+      107: MOVE-LEFT F2 P6 P5
+      108: MOVE-LEFT F2 P5 P4
+      109: COLLECT C0 F2 P4
+      110: MOVE-RIGHT F2 P4 P5
+      111: MOVE-RIGHT F2 P5 P6
+      112: MOVE-RIGHT F2 P6 P7
+      113: STEP-IN E1 F2 P7
+      114: GO-DOWN E1 F2 F1
+      115: GO-DOWN E1 F1 F0
+      116: STEP-OUT E1 F0 P7
+      117: COLLECT C4 F0 P7
+      118: COLLECT C3 F0 P7
+      119: MOVE-LEFT F0 P7 P6
+      120: COLLECT C4 F0 P6
+      121: COLLECT C3 F0 P6
+      122: MOVE-LEFT F0 P6 P5
+      123: COLLECT C4 F0 P5
+      124: COLLECT C3 F0 P5
+      125: MOVE-LEFT F0 P5 P4
+      126: COLLECT C4 F0 P4
+      127: COLLECT C3 F0 P4
+     
+
+statistics:    0.00 seconds instantiating 206 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 236 facts and 206 actions
+               0.00 seconds creating final representation with 140 relevant facts (122 max U, 68 CNF max U)
+               0.00 seconds building connectivity graph
+              11.94 seconds (  11.49 pure) evaluating 18079 states, to a max depth of 5
+               0.45 seconds in DP for 200202 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.63 seconds generating,    0.25 seconds encoding 83649 state transition base CNFs
+               3.34 seconds in DP solving 43926 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.28 seconds checking for stagnating states (12142 hits), including 555344 DP calls
+              17.55 seconds altogether checking for dominated states making 29145 comparisons (29145 conformant, 29145 hits),
+                    spending    7.88 seconds doing 1477306 DP calls
+            2276778 total DP calls, 6108866 total UP calls,    3.15 sec membership
+               1.40 seconds for remaining searching duties
+              35.39 seconds total time (+    1.02 secs for CNF memory allocation)
+
+初始目标状态
+Fold:1 Uold:108
+num_Orold:182
+参数大于2的OR: 
+(IN E0 F2) (IN E0 F1) (IN E0 F0) 
+(IN E1 F2) (IN E1 F1) (IN E1 F0) 
+(COIN-AT C0 F2 P7) (COIN-AT C0 F2 P6) (COIN-AT C0 F2 P5) (COIN-AT C0 F2 P4) (COIN-AT C0 F2 P3) (COIN-AT C0 F2 P2) (COIN-AT C0 F2 P1) (COIN-AT C0 F2 P0) 
+(COIN-AT C1 F2 P7) (COIN-AT C1 F2 P6) (COIN-AT C1 F2 P5) (COIN-AT C1 F2 P4) (COIN-AT C1 F2 P3) (COIN-AT C1 F2 P2) (COIN-AT C1 F2 P1) (COIN-AT C1 F2 P0) 
+(COIN-AT C2 F1 P7) (COIN-AT C2 F1 P6) (COIN-AT C2 F1 P5) (COIN-AT C2 F1 P4) (COIN-AT C2 F1 P3) (COIN-AT C2 F1 P2) (COIN-AT C2 F1 P1) (COIN-AT C2 F1 P0) 
+(COIN-AT C3 F0 P7) (COIN-AT C3 F0 P6) (COIN-AT C3 F0 P5) (COIN-AT C3 F0 P4) (COIN-AT C3 F0 P3) (COIN-AT C3 F0 P2) (COIN-AT C3 F0 P1) (COIN-AT C3 F0 P0) 
+(COIN-AT C4 F0 P7) (COIN-AT C4 F0 P6) (COIN-AT C4 F0 P5) (COIN-AT C4 F0 P4) (COIN-AT C4 F0 P3) (COIN-AT C4 F0 P2) (COIN-AT C4 F0 P1) (COIN-AT C4 F0 P0) 
+(COIN-AT C5 F1 P7) (COIN-AT C5 F1 P6) (COIN-AT C5 F1 P5) (COIN-AT C5 F1 P4) (COIN-AT C5 F1 P3) (COIN-AT C5 F1 P2) (COIN-AT C5 F1 P1) (COIN-AT C5 F1 P0) 
+
+
+当前反例添加的目标状态
+Fcur:1 Ucur:108
+num_Orcur:182
+参数大于2的OR: 
+(IN E0 F2) (IN E0 F1) (IN E0 F0) 
+(IN E1 F2) (IN E1 F1) (IN E1 F0) 
+(COIN-AT C0 F2 P7) (COIN-AT C0 F2 P6) (COIN-AT C0 F2 P5) (COIN-AT C0 F2 P4) (COIN-AT C0 F2 P3) (COIN-AT C0 F2 P2) (COIN-AT C0 F2 P1) (COIN-AT C0 F2 P0) 
+(COIN-AT C1 F2 P7) (COIN-AT C1 F2 P6) (COIN-AT C1 F2 P5) (COIN-AT C1 F2 P4) (COIN-AT C1 F2 P3) (COIN-AT C1 F2 P2) (COIN-AT C1 F2 P1) (COIN-AT C1 F2 P0) 
+(COIN-AT C2 F1 P7) (COIN-AT C2 F1 P6) (COIN-AT C2 F1 P5) (COIN-AT C2 F1 P4) (COIN-AT C2 F1 P3) (COIN-AT C2 F1 P2) (COIN-AT C2 F1 P1) (COIN-AT C2 F1 P0) 
+(COIN-AT C3 F0 P7) (COIN-AT C3 F0 P6) (COIN-AT C3 F0 P5) (COIN-AT C3 F0 P4) (COIN-AT C3 F0 P3) (COIN-AT C3 F0 P2) (COIN-AT C3 F0 P1) (COIN-AT C3 F0 P0) 
+(COIN-AT C4 F0 P7) (COIN-AT C4 F0 P6) (COIN-AT C4 F0 P5) (COIN-AT C4 F0 P4) (COIN-AT C4 F0 P3) (COIN-AT C4 F0 P2) (COIN-AT C4 F0 P1) (COIN-AT C4 F0 P0) 
+(COIN-AT C5 F1 P7) (COIN-AT C5 F1 P6) (COIN-AT C5 F1 P5) (COIN-AT C5 F1 P4) (COIN-AT C5 F1 P3) (COIN-AT C5 F1 P2) (COIN-AT C5 F1 P1) (COIN-AT C5 F1 P0) 
+
+
+counter_time:26.75
+plan length:128
+iteration:43
+now_time:62.97289790499781

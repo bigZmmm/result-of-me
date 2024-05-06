@@ -1,0 +1,1000 @@
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：35
+
+var_size: 2695
+
+当前收集的断言数：1154
+
+1
+找到反例！
+
+
+第18次迭代
+当前初始状态:
+F:14 U:38
+num_Or:242
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P3-4) 
+H:35
+
+
+Cueing down from goal distance:   35 into depth [1]
+                                  34            [1][2]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1][2]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：36
+
+var_size: 2764
+
+当前收集的断言数：1186
+
+1
+找到反例！
+
+
+第19次迭代
+当前初始状态:
+F:13 U:40
+num_Or:242
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) 
+H:36
+
+
+Cueing down from goal distance:   36 into depth [1]
+                                  35            [1][2]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1][2]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：37
+
+var_size: 2836
+
+当前收集的断言数：1218
+
+1
+找到反例！
+
+
+第20次迭代
+当前初始状态:
+F:12 U:42
+num_Or:242
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) 
+H:37
+
+
+Cueing down from goal distance:   37 into depth [1]
+                                  36            [1][2]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1][2]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：38
+
+var_size: 2916
+
+当前收集的断言数：1250
+
+1
+找到反例！
+
+
+第21次迭代
+当前初始状态:
+F:11 U:44
+num_Or:242
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) 
+H:38
+
+
+Cueing down from goal distance:   38 into depth [1]
+                                  37            [1][2]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1][2]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：39
+
+var_size: 2995
+
+当前收集的断言数：1282
+
+1
+找到反例！
+
+
+第22次迭代
+当前初始状态:
+F:10 U:46
+num_Or:242
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P2-3) 
+H:39
+
+
+Cueing down from goal distance:   39 into depth [1]
+                                  38            [1][2]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1][2]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：40
+
+var_size: 3068
+
+当前收集的断言数：1314
+
+1
+找到反例！
+
+
+第23次迭代
+当前初始状态:
+F:9 U:48
+num_Or:242
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P2-3) 
+H:40
+
+
+Cueing down from goal distance:   40 into depth [1]
+                                  39            [1][2]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1][2]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：41
+
+var_size: 3149
+
+当前收集的断言数：1346
+
+1
+找到反例！
+
+
+第24次迭代
+当前初始状态:
+F:8 U:50
+num_Or:242
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-3) 
+H:41
+
+
+Cueing down from goal distance:   41 into depth [1]
+                                  40            [1][2]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1][2]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：42
+
+var_size: 3227
+
+当前收集的断言数：1378
+
+1
+找到反例！
+
+
+第25次迭代
+当前初始状态:
+F:7 U:52
+num_Or:242
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-3) (OBJ-AT O2 P1-2) 
+H:42
+
+
+Cueing down from goal distance:   42 into depth [1]
+                                  41            [1][2]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1][2][3]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1][2]
+                                  28            [1]
+                                  27            [1][2]
+                                  26            [1]
+                                  25            [1][2]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1][2]
+                                  19            [1]
+                                  18            [1]
+                                  16            [1]
+                                  14            [1][2]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：47
+
+var_size: 3666
+
+当前收集的断言数：1538
+
+1
+找到反例！
+
+
+第26次迭代
+当前初始状态:
+F:6 U:54
+num_Or:242
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P1-2) 
+H:43
+
+
+Cueing down from goal distance:   43 into depth [1]
+                                  42            [1][2]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1][2][3]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1][2]
+                                  29            [1]
+                                  28            [1][2]
+                                  27            [1]
+                                  26            [1][2]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1][2]
+                                  19            [1]
+                                  18            [1]
+                                  16            [1]
+                                  14            [1][2]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：48
+
+var_size: 3744
+
+当前收集的断言数：1570
+
+1
+找到反例！
+
+
+第27次迭代
+当前初始状态:
+F:5 U:56
+num_Or:242
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P1-2) 
+H:44
+
+
+Cueing down from goal distance:   44 into depth [1]
+                                  43            [1]
+                                  42            [1][2]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1][2][3]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1][2]
+                                  29            [1]
+                                  28            [1][2]
+                                  27            [1]
+                                  26            [1][2]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1][2]
+                                  19            [1]
+                                  18            [1]
+                                  16            [1]
+                                  14            [1][2]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：49
+
+var_size: 3826
+
+当前收集的断言数：1602
+
+1
+找到反例！
+
+
+第28次迭代
+当前初始状态:
+F:4 U:58
+num_Or:242
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-2) 
+H:45
+
+
+Cueing down from goal distance:   45 into depth [1]
+                                  44            [1]
+                                  43            [1][2]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1][2]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：46
+
+var_size: 3536
+
+当前收集的断言数：1506
+
+1
+找到反例！
+
+
+第29次迭代
+当前初始状态:
+F:3 U:60
+num_Or:242
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-2) 
+H:46
+
+
+Cueing down from goal distance:   46 into depth [1]
+                                  45            [1]
+                                  44            [1][2]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1][2]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：47
+
+var_size: 3603
+
+当前收集的断言数：1538
+
+1
+找到反例！
+
+
+第30次迭代
+当前初始状态:
+F:2 U:62
+num_Or:242
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) 
+H:47
+
+
+Cueing down from goal distance:   47 into depth [1]
+                                  46            [1]
+                                  45            [1][2]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1][2]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：48
+
+var_size: 3677
+
+当前收集的断言数：1570
+
+1
+找到反例！
+
+
+第31次迭代
+当前初始状态:
+F:1 U:64
+num_Or:242
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+H:48
+
+
+Cueing down from goal distance:   48 into depth [1]
+                                  47            [1]
+                                  46            [1][2]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1][2]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：49
+
+var_size: 3753
+
+当前收集的断言数：1602
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: SHOUT O2 P2-2
+        1: SHOUT O1 P2-2
+        2: MOVE P2-2 P1-2
+        3: SHOUT O2 P1-2
+        4: SHOUT O1 P1-2
+        5: MOVE P1-2 P2-2
+        6: MOVE P2-2 P3-2
+        7: SHOUT O2 P3-2
+        8: SHOUT O1 P3-2
+        9: MOVE P3-2 P4-2
+       10: SHOUT O2 P4-2
+       11: SHOUT O1 P4-2
+       12: MOVE P4-2 P4-1
+       13: SHOUT O2 P4-1
+       14: SHOUT O1 P4-1
+       15: MOVE P4-1 P3-1
+       16: SHOUT O2 P3-1
+       17: SHOUT O1 P3-1
+       18: MOVE P3-1 P2-1
+       19: SHOUT O2 P2-1
+       20: SHOUT O1 P2-1
+       21: MOVE P2-1 P1-1
+       22: SHOUT O2 P1-1
+       23: SHOUT O1 P1-1
+       24: MOVE P1-1 P1-2
+       25: MOVE P1-2 P1-3
+       26: SHOUT O2 P1-3
+       27: SHOUT O1 P1-3
+       28: MOVE P1-3 P2-3
+       29: SHOUT O2 P2-3
+       30: SHOUT O1 P2-3
+       31: MOVE P2-3 P3-3
+       32: SHOUT O2 P3-3
+       33: SHOUT O1 P3-3
+       34: MOVE P3-3 P4-3
+       35: SHOUT O2 P4-3
+       36: SHOUT O1 P4-3
+       37: MOVE P4-3 P4-4
+       38: SHOUT O2 P4-4
+       39: SHOUT O1 P4-4
+       40: MOVE P4-4 P3-4
+       41: SHOUT O2 P3-4
+       42: SHOUT O1 P3-4
+       43: MOVE P3-4 P2-4
+       44: SHOUT O2 P2-4
+       45: SHOUT O1 P2-4
+       46: MOVE P2-4 P1-4
+       47: SHOUT O2 P1-4
+       48: SHOUT O1 P1-4
+     
+
+statistics:    0.00 seconds instantiating 372 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 390 facts and 336 actions
+               0.00 seconds creating final representation with 98 relevant facts (66 max U, 34 CNF max U)
+               0.00 seconds building connectivity graph
+               0.43 seconds (   0.42 pure) evaluating 1380 states, to a max depth of 3
+               0.01 seconds in DP for 7744 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.02 seconds generating,    0.02 seconds encoding 4135 state transition base CNFs
+               0.03 seconds in DP solving 1076 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.03 seconds checking for stagnating states (457 hits), including 33514 DP calls
+               0.18 seconds altogether checking for dominated states making 1410 comparisons (1410 conformant, 198 hits),
+                    spending    0.10 seconds doing 35504 DP calls
+              77838 total DP calls, 167390 total UP calls,    0.00 sec membership
+               0.32 seconds for remaining searching duties
+               1.03 seconds total time (+    0.32 secs for CNF memory allocation)
+
+初始目标状态
+Fold:1 Uold:64
+num_Orold:242
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+
+
+当前反例添加的目标状态
+Fcur:1 Ucur:64
+num_Orcur:242
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+
+
+counter_time:2.18
+plan length:49
+iteration:31
+now_time:3.280007766035851

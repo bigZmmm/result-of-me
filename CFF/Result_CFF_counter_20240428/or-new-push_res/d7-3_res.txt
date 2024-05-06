@@ -1,0 +1,1000 @@
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：10
+
+var_size: 3374
+
+当前收集的断言数：1619
+
+1
+找到反例！
+
+
+第26次迭代
+当前初始状态:
+F:154 U:86
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:28
+
+
+Cueing down from goal distance:   28 into depth [1]
+                                  17            [1]
+                                  13            [1]
+                                  12            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：11
+
+var_size: 3680
+
+当前收集的断言数：1766
+
+1
+找到反例！
+
+
+第27次迭代
+当前初始状态:
+F:152 U:90
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:29
+
+
+Cueing down from goal distance:   29 into depth [1]
+                                  18            [1]
+                                  17            [1]
+                                  13            [1]
+                                  12            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：12
+
+var_size: 3988
+
+当前收集的断言数：1913
+
+1
+找到反例！
+
+
+第28次迭代
+当前初始状态:
+F:150 U:94
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:25
+
+
+Cueing down from goal distance:   25 into depth [1]
+                                  17            [1]
+                                  14            [1]
+                                  13            [1]
+                                  10            [1]
+                                   9            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：11
+
+var_size: 3680
+
+当前收集的断言数：1766
+
+1
+找到反例！
+
+
+第29次迭代
+当前初始状态:
+F:149 U:96
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:26
+
+
+Cueing down from goal distance:   26 into depth [1]
+                                  18            [1]
+                                  17            [1]
+                                  14            [1]
+                                  13            [1]
+                                  10            [1]
+                                   9            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：12
+
+var_size: 3988
+
+当前收集的断言数：1913
+
+1
+找到反例！
+
+
+第30次迭代
+当前初始状态:
+F:148 U:98
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:21
+
+
+Cueing down from goal distance:   21 into depth [1]
+                                  13            [1]
+                                  12            [1]
+                                  10            [1]
+                                   9            [1]
+                                   7            [1]
+                                   6            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：10
+
+var_size: 3374
+
+当前收集的断言数：1619
+
+1
+找到反例！
+
+
+第31次迭代
+当前初始状态:
+F:147 U:100
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:22
+
+
+Cueing down from goal distance:   22 into depth [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  10            [1]
+                                   9            [1]
+                                   7            [1]
+                                   6            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：11
+
+var_size: 3680
+
+当前收集的断言数：1766
+
+1
+找到反例！
+
+
+第32次迭代
+当前初始状态:
+F:145 U:104
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:17
+
+
+Cueing down from goal distance:   17 into depth [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：9
+
+var_size: 3070
+
+当前收集的断言数：1472
+
+1
+找到反例！
+
+
+第33次迭代
+当前初始状态:
+F:143 U:108
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:18
+
+
+Cueing down from goal distance:   18 into depth [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：10
+
+var_size: 3374
+
+当前收集的断言数：1619
+
+1
+找到反例！
+
+
+第34次迭代
+当前初始状态:
+F:142 U:110
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:27
+
+
+Cueing down from goal distance:   27 into depth [1]
+                                  21            [1]
+                                  16            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：13
+
+var_size: 4298
+
+当前收集的断言数：2060
+
+1
+找到反例！
+
+
+第35次迭代
+当前初始状态:
+F:140 U:114
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:27
+
+
+Cueing down from goal distance:   27 into depth [1]
+                                  21            [1]
+                                  16            [1]
+                                  13            [1][2][3][4]
+                                  12            [1]
+                                  11            [1][2][3]
+                                  10            [1]
+                                   9            [1]
+                                   7            [1]
+                                   6            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：18
+
+var_size: 5870
+
+当前收集的断言数：2795
+
+1
+找到反例！
+
+
+第36次迭代
+当前初始状态:
+F:138 U:118
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:27
+
+
+Cueing down from goal distance:   27 into depth [1]
+                                  21            [1]
+                                  18            [1]
+                                  13            [1][2]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：16
+
+var_size: 5230
+
+当前收集的断言数：2501
+
+1
+找到反例！
+
+
+第37次迭代
+当前初始状态:
+F:137 U:120
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:27
+
+
+Cueing down from goal distance:   27 into depth [1]
+                                  21            [1]
+                                  18            [1]
+                                  15            [1][2]
+                                  13            [1][2]
+                                  12            [1][2][3][4][5][6][7]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：23
+
+var_size: 7417
+
+当前收集的断言数：3530
+
+1
+找到反例！
+
+
+第38次迭代
+当前初始状态:
+F:135 U:124
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:27
+
+
+Cueing down from goal distance:   27 into depth [1]
+                                  21            [1]
+                                  18            [1]
+                                  15            [1][2][3][4]
+                                  14            [1][2][3][4][5][6]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：25
+
+var_size: 8174
+
+当前收集的断言数：3824
+
+1
+找到反例！
+
+
+第39次迭代
+当前初始状态:
+F:134 U:126
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:27
+
+
+Cueing down from goal distance:   27 into depth [1]
+                                  21            [1]
+                                  18            [1]
+                                  15            [1][2][3][4]
+                                  14            [1][2][3][4][5][6][7]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：26
+
+var_size: 8484
+
+当前收集的断言数：3971
+
+1
+找到反例！
+
+
+第40次迭代
+当前初始状态:
+F:132 U:130
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:27
+
+
+Cueing down from goal distance:   27 into depth [1]
+                                  21            [1]
+                                  18            [1]
+                                  15            [1][2][3][4]
+                                  14            [1][2][3][4][5][6][7][8]
+                                  12            [1][2][3]
+                                  11            [1]
+                                  10            [1][2][3]
+                                   9            [1]
+                                   8            [1][2][3]
+                                   7            [1]
+                                   6            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：31
+
+var_size: 10142
+
+当前收集的断言数：4706
+
+1
+找到反例！
+
+
+第41次迭代
+当前初始状态:
+F:129 U:136
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:24
+
+
+Cueing down from goal distance:   24 into depth [1]
+                                  22            [1]
+                                  19            [1]
+                                  18            [1]
+                                  16            [1]
+                                  15            [1]
+                                  13            [1]
+                                  12            [1]
+                                  10            [1]
+                                   9            [1][2][3]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：17
+
+var_size: 5530
+
+当前收集的断言数：2648
+
+1
+找到反例！
+
+
+第42次迭代
+当前初始状态:
+F:127 U:140
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:24
+
+
+Cueing down from goal distance:   24 into depth [1]
+                                  23            [1]
+                                  21            [1]
+                                  20            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1][2]
+                                  14            [1][2]
+                                  13            [1][2]
+                                  12            [1][2][3][4][5][6]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：28
+
+var_size: 8989
+
+当前收集的断言数：4265
+
+1
+找到反例！
+
+
+第43次迭代
+当前初始状态:
+F:126 U:142
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:26
+
+
+Cueing down from goal distance:   26 into depth [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  17            [1]
+                                  16            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：15
+
+var_size: 4922
+
+当前收集的断言数：2354
+
+1
+找到反例！
+
+
+第44次迭代
+当前初始状态:
+F:125 U:144
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:26
+
+
+Cueing down from goal distance:   26 into depth [1]
+                                  24            [1]
+                                  22            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  14            [1]
+                                  13            [1][2]
+                                  12            [1][2][3][4][5][6]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：26
+
+var_size: 8353
+
+当前收集的断言数：3971
+
+1
+找到反例！
+
+
+第45次迭代
+当前初始状态:
+F:122 U:150
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:27
+
+
+Cueing down from goal distance:   27 into depth [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1][2]
+                                  12            [1][2][3][4][5][6]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：30
+
+var_size: 9627
+
+当前收集的断言数：4559
+
+1
+找到反例！
+
+
+第46次迭代
+当前初始状态:
+F:120 U:154
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:29
+
+
+Cueing down from goal distance:   29 into depth [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  21            [1]
+                                  20            [1]
+                                  17            [1]
+                                  16            [1][2]
+                                  15            [1][2]
+                                  14            [1][2][3][4][5][6][7]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：31
+
+var_size: 9951
+
+当前收集的断言数：4706
+
+1
+找到反例！
+
+
+第47次迭代
+当前初始状态:
+F:116 U:162
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:29
+
+
+Cueing down from goal distance:   29 into depth [1]
+                                  26            [1]
+                                  25            [1]
+                                  23            [1]
+                                  22            [1]
+                                  18            [1]
+                                  17            [1][2][3]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：22
+
+var_size: 7148
+
+当前收集的断言数：3383
+
+1
+找到反例！
+
+
+第48次迭代
+当前初始状态:
+F:115 U:164
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:29
+
+
+Cueing down from goal distance:   29 into depth [1]
+                                  27            [1]
+                                  26            [1]
+                                  24            [1]
+                                  23            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1][2]
+                                  14            [1][2][3][4][5][6][7]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：31
+
+var_size: 9951
+
+当前收集的断言数：4706
+
+1
+找到反例！
+
+
+第49次迭代
+当前初始状态:
+F:113 U:168
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:30
+
+
+Cueing down from goal distance:   30 into depth [1]
+                                  29            [1]
+                                  27            [1]
+                                  26            [1]
+                                  24            [1]
+                                  23            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1][2]
+                                  14            [1][2][3][4][5][6][7]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：32
+
+var_size: 10273
+
+当前收集的断言数：4853
+
+1
+找到反例！
+
+
+第50次迭代
+当前初始状态:
+F:112 U:170
+num_Or:3
+参数大于2的OR: 
+(OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+(OBJ-AT O2 P7-7) (OBJ-AT O2 P7-6) (OBJ-AT O2 P7-5) (OBJ-AT O2 P7-4) (OBJ-AT O2 P7-3) (OBJ-AT O2 P7-2) (OBJ-AT O2 P7-1) (OBJ-AT O2 P6-7) (OBJ-AT O2 P6-6) (OBJ-AT O2 P6-5) (OBJ-AT O2 P6-4) (OBJ-AT O2 P6-3) (OBJ-AT O2 P6-2) (OBJ-AT O2 P6-1) (OBJ-AT O2 P5-7) (OBJ-AT O2 P5-6) (OBJ-AT O2 P5-5) (OBJ-AT O2 P5-4) (OBJ-AT O2 P5-3) (OBJ-AT O2 P5-2) (OBJ-AT O2 P5-1) (OBJ-AT O2 P4-7) (OBJ-AT O2 P4-6) (OBJ-AT O2 P4-5) (OBJ-AT O2 P4-4) (OBJ-AT O2 P4-3) (OBJ-AT O2 P4-2) (OBJ-AT O2 P4-1) (OBJ-AT O2 P3-7) (OBJ-AT O2 P3-6) (OBJ-AT O2 P3-5) (OBJ-AT O2 P3-4) (OBJ-AT O2 P3-3) (OBJ-AT O2 P3-2) (OBJ-AT O2 P3-1) (OBJ-AT O2 P2-7) (OBJ-AT O2 P2-6) (OBJ-AT O2 P2-5) (OBJ-AT O2 P2-4) (OBJ-AT O2 P2-3) (OBJ-AT O2 P2-2) (OBJ-AT O2 P2-1) (OBJ-AT O2 P1-7) (OBJ-AT O2 P1-6) (OBJ-AT O2 P1-5) (OBJ-AT O2 P1-4) (OBJ-AT O2 P1-3) (OBJ-AT O2 P1-2) (OBJ-AT O2 P1-1) 
+(OBJ-AT O3 P7-7) (OBJ-AT O3 P7-6) (OBJ-AT O3 P7-5) (OBJ-AT O3 P7-4) (OBJ-AT O3 P7-3) (OBJ-AT O3 P7-2) (OBJ-AT O3 P7-1) (OBJ-AT O3 P6-7) (OBJ-AT O3 P6-6) (OBJ-AT O3 P6-5) (OBJ-AT O3 P6-4) (OBJ-AT O3 P6-3) (OBJ-AT O3 P6-2) (OBJ-AT O3 P6-1) (OBJ-AT O3 P5-7) (OBJ-AT O3 P5-6) (OBJ-AT O3 P5-5) (OBJ-AT O3 P5-4) (OBJ-AT O3 P5-3) (OBJ-AT O3 P5-2) (OBJ-AT O3 P5-1) (OBJ-AT O3 P4-7) (OBJ-AT O3 P4-6) (OBJ-AT O3 P4-5) (OBJ-AT O3 P4-4) (OBJ-AT O3 P4-3) (OBJ-AT O3 P4-2) (OBJ-AT O3 P4-1) (OBJ-AT O3 P3-7) (OBJ-AT O3 P3-6) (OBJ-AT O3 P3-5) (OBJ-AT O3 P3-4) (OBJ-AT O3 P3-3) (OBJ-AT O3 P3-2) (OBJ-AT O3 P3-1) (OBJ-AT O3 P2-7) (OBJ-AT O3 P2-6) (OBJ-AT O3 P2-5) (OBJ-AT O3 P2-4) (OBJ-AT O3 P2-3) (OBJ-AT O3 P2-2) (OBJ-AT O3 P2-1) (OBJ-AT O3 P1-7) (OBJ-AT O3 P1-6) (OBJ-AT O3 P1-5) (OBJ-AT O3 P1-4) (OBJ-AT O3 P1-3) (OBJ-AT O3 P1-2) (OBJ-AT O3 P1-1) 
+H:154
+
+
+Cueing down from goal distance:  154 into depth [1]
+                                 149            [1]
+                                 148            [1]
+                                 146            [1]
+                                 139            [1]
+                                 110            [1]
+                                 109            [1][2]
+                                 108            [1][2]
+                                 105            [1][2]
+                                 101            [1][2][3][4][5][6]
+                                  99            [1]
+                                  98            [1][2][3][4][5][6]
+                                  95            [1]
+                                  94            [1][2][3][4][5][6]
+                                  91            [1][2][3][4][5][6][7]
+                                  89            [1][2][3][4][5][6][7][8][9]
+                                  87            [1][2][3][4][5][6][7][8]TimeOut
+now_time:3600.0578385929693

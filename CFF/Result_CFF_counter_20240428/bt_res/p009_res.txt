@@ -1,0 +1,9 @@
+
+ff: parsing domain file
+domain 'BT' defined
+ ... done.
+ff: parsing problem file
+/home/nero/Downloads/PlannerBenchmark-main3/PlannerBenchmark-main/T1/Conformant/det/bt/p009.pddl: syntax error in line 20, 'not':
+'define' expected
+Out of Memory
+now_time:0.004040131003421266

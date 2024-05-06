@@ -1,0 +1,534 @@
+
+ff: parsing domain file
+domain 'UTS' defined
+ ... done.
+ff: parsing problem file
+problem 'K10' defined
+ ... done.
+
+
+F:
+(NOT-VISITED N1)
+(NOT-VISITED N2)
+(NOT-VISITED N3)
+(NOT-VISITED N4)
+(NOT-VISITED N5)
+(NOT-VISITED N6)
+(NOT-VISITED N7)
+(NOT-VISITED N8)
+(NOT-VISITED N9)
+(NOT-VISITED N10)
+U:
+(NOT-AT N1)
+(NOT-AT N2)
+(NOT-AT N3)
+(NOT-AT N4)
+(NOT-AT N5)
+(NOT-AT N6)
+(NOT-AT N7)
+(NOT-AT N8)
+(NOT-AT N9)
+(NOT-AT N10)
+(AT N1)
+(AT N10)
+(AT N2)
+(AT N3)
+(AT N4)
+(AT N5)
+(AT N6)
+(AT N7)
+(AT N8)
+(AT N9)
+UE:
+var_size: 40
+
+当前收集的断言数：22
+
+1
+
+第1次迭代
+当前初始状态:
+F:20 U:0
+num_Or:36
+参数大于2的OR: 
+H:12
+
+
+Cueing down from goal distance:   12 into depth [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：11
+
+var_size: 491
+
+当前收集的断言数：242
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:18 U:4
+num_Or:46
+参数大于2的OR: 
+H:22
+
+
+Cueing down from goal distance:   22 into depth [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：13
+
+var_size: 573
+
+当前收集的断言数：282
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:17 U:6
+num_Or:46
+参数大于2的OR: 
+(AT N10) (AT N4) (AT N3) 
+H:30
+
+
+Cueing down from goal distance:   30 into depth [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  19            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：15
+
+var_size: 655
+
+当前收集的断言数：322
+
+1
+找到反例！
+
+
+第4次迭代
+当前初始状态:
+F:16 U:8
+num_Or:46
+参数大于2的OR: 
+(AT N10) (AT N9) (AT N4) (AT N3) 
+H:39
+
+
+Cueing down from goal distance:   39 into depth [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  31            [1]
+                                  26            [1]
+                                  19            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：17
+
+var_size: 737
+
+当前收集的断言数：362
+
+1
+找到反例！
+
+
+第5次迭代
+当前初始状态:
+F:15 U:10
+num_Or:46
+参数大于2的OR: 
+(AT N10) (AT N9) (AT N8) (AT N4) (AT N3) 
+H:44
+
+
+Cueing down from goal distance:   44 into depth [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  34            [1]
+                                  31            [1]
+                                  26            [1]
+                                  19            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：19
+
+var_size: 819
+
+当前收集的断言数：402
+
+1
+找到反例！
+
+
+第6次迭代
+当前初始状态:
+F:14 U:12
+num_Or:46
+参数大于2的OR: 
+(AT N10) (AT N9) (AT N8) (AT N7) (AT N4) (AT N3) 
+H:47
+
+
+Cueing down from goal distance:   47 into depth [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  35            [1]
+                                  34            [1]
+                                  31            [1]
+                                  26            [1]
+                                  19            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：21
+
+var_size: 901
+
+当前收集的断言数：442
+
+1
+找到反例！
+
+
+第7次迭代
+当前初始状态:
+F:13 U:14
+num_Or:46
+参数大于2的OR: 
+(AT N10) (AT N9) (AT N8) (AT N7) (AT N6) (AT N4) (AT N3) 
+H:48
+
+
+Cueing down from goal distance:   48 into depth [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  34            [1][2][3]
+                                  31            [1]
+                                  26            [1]
+                                  19            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：23
+
+var_size: 983
+
+当前收集的断言数：482
+
+1
+找到反例！
+
+
+第8次迭代
+当前初始状态:
+F:12 U:16
+num_Or:46
+参数大于2的OR: 
+(AT N10) (AT N9) (AT N8) (AT N7) (AT N6) (AT N5) (AT N4) (AT N3) 
+H:47
+
+
+Cueing down from goal distance:   47 into depth [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  31            [1][2][3][4][5]
+                                  26            [1]
+                                  19            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：25
+
+var_size: 1065
+
+当前收集的断言数：522
+
+1
+找到反例！
+
+
+第9次迭代
+当前初始状态:
+F:11 U:18
+num_Or:46
+参数大于2的OR: 
+(AT N10) (AT N9) (AT N8) (AT N7) (AT N6) (AT N5) (AT N4) (AT N3) (AT N2) 
+H:44
+
+
+Cueing down from goal distance:   44 into depth [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  26            [1][2][3][4][5][6][7]
+                                  19            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：27
+
+var_size: 1147
+
+当前收集的断言数：562
+
+1
+找到反例！
+
+
+第10次迭代
+当前初始状态:
+F:10 U:20
+num_Or:46
+参数大于2的OR: 
+(AT N10) (AT N9) (AT N8) (AT N7) (AT N6) (AT N5) (AT N4) (AT N3) (AT N2) (AT N1) 
+H:39
+
+
+Cueing down from goal distance:   39 into depth [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   39
+                          38
+                          37
+                          36
+                          35
+                          34
+                          33
+                          32
+                          31
+                          30
+                          29
+                          25
+                          19
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           0
+
+ff: found legal plan as follows
+规划长度：29
+
+var_size: 1229
+
+当前收集的断言数：602
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: START N1
+        1: START N2
+        2: START N3
+        3: START N4
+        4: START N5
+        5: START N6
+        6: START N7
+        7: START N8
+        8: START N9
+        9: START N10
+       10: RETURN N10 N1
+       11: RETURN N2 N1
+       12: RETURN N7 N1
+       13: RETURN N8 N1
+       14: RETURN N3 N1
+       15: RETURN N4 N1
+       16: RETURN N5 N1
+       17: RETURN N6 N1
+       18: RETURN N9 N1
+       19: TRAVEL N1 N2
+       20: TRAVEL N2 N3
+       21: TRAVEL N3 N4
+       22: TRAVEL N4 N5
+       23: TRAVEL N5 N6
+       24: TRAVEL N6 N7
+       25: TRAVEL N7 N8
+       26: TRAVEL N8 N9
+       27: TRAVEL N9 N10
+       28: RETURN N10 N1
+     
+
+statistics:    0.00 seconds instantiating 210 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 41 facts and 210 actions
+               0.00 seconds creating final representation with 41 relevant facts (41 max U, 21 CNF max U)
+               0.00 seconds building connectivity graph
+               0.79 seconds (   0.76 pure) evaluating 8644 states, to a max depth of 7
+               0.03 seconds in DP for 31430 RPG ini state implication checks
+               0.00 seconds in DP for 2106 RPlan extract ini state implication checks (828 lits removed)
+               0.03 seconds generating,    0.06 seconds encoding 15141 state transition base CNFs
+               0.14 seconds in DP solving 34642 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.02 seconds checking for stagnating states (2951 hits), including 41188 DP calls
+               0.49 seconds altogether checking for dominated states making 15959 comparisons (15919 conformant, 1142 hits),
+                    spending    0.17 seconds doing 184429 DP calls
+             293795 total DP calls, 451504 total UP calls,    0.09 sec membership
+               0.12 seconds for remaining searching duties
+               1.65 seconds total time (+    0.09 secs for CNF memory allocation)
+
+初始目标状态
+Fold:10 Uold:20
+num_Orold:46
+参数大于2的OR: 
+(AT N10) (AT N9) (AT N8) (AT N7) (AT N6) (AT N5) (AT N4) (AT N3) (AT N2) (AT N1) 
+
+
+当前反例添加的目标状态
+Fcur:10 Ucur:20
+num_Orcur:46
+参数大于2的OR: 
+(AT N10) (AT N9) (AT N8) (AT N7) (AT N6) (AT N5) (AT N4) (AT N3) (AT N2) (AT N1) 
+
+
+counter_time:0.31
+plan length:29
+iteration:10
+now_time:2.049220435001189

@@ -1,0 +1,296 @@
+
+ff: parsing domain file
+domain 'CUBE' defined
+ ... done.
+ff: parsing problem file
+problem 'CUBE9' defined
+ ... done.
+
+
+F:
+U:
+(NOT-Z-POS P0)
+(NOT-Z-POS P1)
+(NOT-Z-POS P2)
+(NOT-Z-POS P3)
+(NOT-Z-POS P4)
+(NOT-Z-POS P5)
+(NOT-Z-POS P6)
+(NOT-Z-POS P7)
+(NOT-Z-POS P8)
+(NOT-Y-POS P0)
+(NOT-Y-POS P1)
+(NOT-Y-POS P2)
+(NOT-Y-POS P3)
+(NOT-Y-POS P4)
+(NOT-Y-POS P5)
+(NOT-Y-POS P6)
+(NOT-Y-POS P7)
+(NOT-Y-POS P8)
+(NOT-X-POS P0)
+(NOT-X-POS P1)
+(NOT-X-POS P2)
+(NOT-X-POS P3)
+(NOT-X-POS P4)
+(NOT-X-POS P5)
+(NOT-X-POS P6)
+(NOT-X-POS P7)
+(NOT-X-POS P8)
+(X-POS P0)
+(X-POS P1)
+(X-POS P2)
+(X-POS P3)
+(X-POS P4)
+(X-POS P5)
+(X-POS P6)
+(X-POS P7)
+(X-POS P8)
+(Y-POS P0)
+(Y-POS P1)
+(Y-POS P2)
+(Y-POS P3)
+(Y-POS P4)
+(Y-POS P5)
+(Y-POS P6)
+(Y-POS P7)
+(Y-POS P8)
+(Z-POS P0)
+(Z-POS P1)
+(Z-POS P2)
+(Z-POS P3)
+(Z-POS P4)
+(Z-POS P5)
+(Z-POS P6)
+(Z-POS P7)
+(Z-POS P8)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+U:
+(NOT-Z-POS P0)
+(NOT-Z-POS P1)
+(NOT-Z-POS P2)
+(NOT-Z-POS P3)
+(NOT-Z-POS P4)
+(NOT-Z-POS P5)
+(NOT-Z-POS P6)
+(NOT-Z-POS P7)
+(NOT-Z-POS P8)
+(NOT-Y-POS P0)
+(NOT-Y-POS P1)
+(NOT-Y-POS P2)
+(NOT-Y-POS P3)
+(NOT-Y-POS P4)
+(NOT-Y-POS P5)
+(NOT-Y-POS P6)
+(NOT-Y-POS P7)
+(NOT-Y-POS P8)
+(NOT-X-POS P0)
+(NOT-X-POS P1)
+(NOT-X-POS P2)
+(NOT-X-POS P3)
+(NOT-X-POS P4)
+(NOT-X-POS P5)
+(NOT-X-POS P6)
+(NOT-X-POS P7)
+(NOT-X-POS P8)
+(X-POS P0)
+(X-POS P1)
+(X-POS P2)
+(X-POS P3)
+(X-POS P4)
+(X-POS P5)
+(X-POS P6)
+(X-POS P7)
+(X-POS P8)
+(Y-POS P0)
+(Y-POS P1)
+(Y-POS P2)
+(Y-POS P3)
+(Y-POS P4)
+(Y-POS P5)
+(Y-POS P6)
+(Y-POS P7)
+(Y-POS P8)
+(Z-POS P0)
+(Z-POS P1)
+(Z-POS P2)
+(Z-POS P3)
+(Z-POS P4)
+(Z-POS P5)
+(Z-POS P6)
+(Z-POS P7)
+(Z-POS P8)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (X-POS P8) (X-POS P7) (X-POS P6) (X-POS P5) (X-POS P4) (X-POS P3) (X-POS P2) (X-POS P1) (X-POS P0) 
+OR: (NOT-X-POS P8) (NOT-X-POS P7) 
+OR: (NOT-X-POS P8) (NOT-X-POS P6) 
+OR: (NOT-X-POS P8) (NOT-X-POS P5) 
+OR: (NOT-X-POS P8) (NOT-X-POS P4) 
+OR: (NOT-X-POS P8) (NOT-X-POS P3) 
+OR: (NOT-X-POS P8) (NOT-X-POS P2) 
+OR: (NOT-X-POS P8) (NOT-X-POS P1) 
+OR: (NOT-X-POS P8) (NOT-X-POS P0) 
+OR: (NOT-X-POS P7) (NOT-X-POS P6) 
+OR: (NOT-X-POS P7) (NOT-X-POS P5) 
+OR: (NOT-X-POS P7) (NOT-X-POS P4) 
+OR: (NOT-X-POS P7) (NOT-X-POS P3) 
+OR: (NOT-X-POS P7) (NOT-X-POS P2) 
+OR: (NOT-X-POS P7) (NOT-X-POS P1) 
+OR: (NOT-X-POS P7) (NOT-X-POS P0) 
+OR: (NOT-X-POS P6) (NOT-X-POS P5) 
+OR: (NOT-X-POS P6) (NOT-X-POS P4) 
+OR: (NOT-X-POS P6) (NOT-X-POS P3) 
+OR: (NOT-X-POS P6) (NOT-X-POS P2) 
+OR: (NOT-X-POS P6) (NOT-X-POS P1) 
+OR: (NOT-X-POS P6) (NOT-X-POS P0) 
+OR: (NOT-X-POS P5) (NOT-X-POS P4) 
+OR: (NOT-X-POS P5) (NOT-X-POS P3) 
+OR: (NOT-X-POS P5) (NOT-X-POS P2) 
+OR: (NOT-X-POS P5) (NOT-X-POS P1) 
+OR: (NOT-X-POS P5) (NOT-X-POS P0) 
+OR: (NOT-X-POS P4) (NOT-X-POS P3) 
+OR: (NOT-X-POS P4) (NOT-X-POS P2) 
+OR: (NOT-X-POS P4) (NOT-X-POS P1) 
+OR: (NOT-X-POS P4) (NOT-X-POS P0) 
+OR: (NOT-X-POS P3) (NOT-X-POS P2) 
+OR: (NOT-X-POS P3) (NOT-X-POS P1) 
+OR: (NOT-X-POS P3) (NOT-X-POS P0) 
+OR: (NOT-X-POS P2) (NOT-X-POS P1) 
+OR: (NOT-X-POS P2) (NOT-X-POS P0) 
+OR: (NOT-X-POS P1) (NOT-X-POS P0) 
+OR: (Y-POS P8) (Y-POS P7) (Y-POS P6) (Y-POS P5) (Y-POS P4) (Y-POS P3) (Y-POS P2) (Y-POS P1) (Y-POS P0) 
+OR: (NOT-Y-POS P8) (NOT-Y-POS P7) 
+OR: (NOT-Y-POS P8) (NOT-Y-POS P6) 
+OR: (NOT-Y-POS P8) (NOT-Y-POS P5) 
+OR: (NOT-Y-POS P8) (NOT-Y-POS P4) 
+OR: (NOT-Y-POS P8) (NOT-Y-POS P3) 
+OR: (NOT-Y-POS P8) (NOT-Y-POS P2) 
+OR: (NOT-Y-POS P8) (NOT-Y-POS P1) 
+OR: (NOT-Y-POS P8) (NOT-Y-POS P0) 
+OR: (NOT-Y-POS P7) (NOT-Y-POS P6) 
+OR: (NOT-Y-POS P7) (NOT-Y-POS P5) 
+OR: (NOT-Y-POS P7) (NOT-Y-POS P4) 
+OR: (NOT-Y-POS P7) (NOT-Y-POS P3) 
+OR: (NOT-Y-POS P7) (NOT-Y-POS P2) 
+OR: (NOT-Y-POS P7) (NOT-Y-POS P1) 
+OR: (NOT-Y-POS P7) (NOT-Y-POS P0) 
+OR: (NOT-Y-POS P6) (NOT-Y-POS P5) 
+OR: (NOT-Y-POS P6) (NOT-Y-POS P4) 
+OR: (NOT-Y-POS P6) (NOT-Y-POS P3) 
+OR: (NOT-Y-POS P6) (NOT-Y-POS P2) 
+OR: (NOT-Y-POS P6) (NOT-Y-POS P1) 
+OR: (NOT-Y-POS P6) (NOT-Y-POS P0) 
+OR: (NOT-Y-POS P5) (NOT-Y-POS P4) 
+OR: (NOT-Y-POS P5) (NOT-Y-POS P3) 
+OR: (NOT-Y-POS P5) (NOT-Y-POS P2) 
+OR: (NOT-Y-POS P5) (NOT-Y-POS P1) 
+OR: (NOT-Y-POS P5) (NOT-Y-POS P0) 
+OR: (NOT-Y-POS P4) (NOT-Y-POS P3) 
+OR: (NOT-Y-POS P4) (NOT-Y-POS P2) 
+OR: (NOT-Y-POS P4) (NOT-Y-POS P1) 
+OR: (NOT-Y-POS P4) (NOT-Y-POS P0) 
+OR: (NOT-Y-POS P3) (NOT-Y-POS P2) 
+OR: (NOT-Y-POS P3) (NOT-Y-POS P1) 
+OR: (NOT-Y-POS P3) (NOT-Y-POS P0) 
+OR: (NOT-Y-POS P2) (NOT-Y-POS P1) 
+OR: (NOT-Y-POS P2) (NOT-Y-POS P0) 
+OR: (NOT-Y-POS P1) (NOT-Y-POS P0) 
+OR: (Z-POS P8) (Z-POS P7) (Z-POS P6) (Z-POS P5) (Z-POS P4) (Z-POS P3) (Z-POS P2) (Z-POS P1) (Z-POS P0) 
+OR: (NOT-Z-POS P8) (NOT-Z-POS P7) 
+OR: (NOT-Z-POS P8) (NOT-Z-POS P6) 
+OR: (NOT-Z-POS P8) (NOT-Z-POS P5) 
+OR: (NOT-Z-POS P8) (NOT-Z-POS P4) 
+OR: (NOT-Z-POS P8) (NOT-Z-POS P3) 
+OR: (NOT-Z-POS P8) (NOT-Z-POS P2) 
+OR: (NOT-Z-POS P8) (NOT-Z-POS P1) 
+OR: (NOT-Z-POS P8) (NOT-Z-POS P0) 
+OR: (NOT-Z-POS P7) (NOT-Z-POS P6) 
+OR: (NOT-Z-POS P7) (NOT-Z-POS P5) 
+OR: (NOT-Z-POS P7) (NOT-Z-POS P4) 
+OR: (NOT-Z-POS P7) (NOT-Z-POS P3) 
+OR: (NOT-Z-POS P7) (NOT-Z-POS P2) 
+OR: (NOT-Z-POS P7) (NOT-Z-POS P1) 
+OR: (NOT-Z-POS P7) (NOT-Z-POS P0) 
+OR: (NOT-Z-POS P6) (NOT-Z-POS P5) 
+OR: (NOT-Z-POS P6) (NOT-Z-POS P4) 
+OR: (NOT-Z-POS P6) (NOT-Z-POS P3) 
+OR: (NOT-Z-POS P6) (NOT-Z-POS P2) 
+OR: (NOT-Z-POS P6) (NOT-Z-POS P1) 
+OR: (NOT-Z-POS P6) (NOT-Z-POS P0) 
+OR: (NOT-Z-POS P5) (NOT-Z-POS P4) 
+OR: (NOT-Z-POS P5) (NOT-Z-POS P3) 
+OR: (NOT-Z-POS P5) (NOT-Z-POS P2) 
+OR: (NOT-Z-POS P5) (NOT-Z-POS P1) 
+OR: (NOT-Z-POS P5) (NOT-Z-POS P0) 
+OR: (NOT-Z-POS P4) (NOT-Z-POS P3) 
+OR: (NOT-Z-POS P4) (NOT-Z-POS P2) 
+OR: (NOT-Z-POS P4) (NOT-Z-POS P1) 
+OR: (NOT-Z-POS P4) (NOT-Z-POS P0) 
+OR: (NOT-Z-POS P3) (NOT-Z-POS P2) 
+OR: (NOT-Z-POS P3) (NOT-Z-POS P1) 
+OR: (NOT-Z-POS P3) (NOT-Z-POS P0) 
+OR: (NOT-Z-POS P2) (NOT-Z-POS P1) 
+OR: (NOT-Z-POS P2) (NOT-Z-POS P0) 
+OR: (NOT-Z-POS P1) (NOT-Z-POS P0) H:25
+
+
+Cueing down from goal distance:   25 into depth [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   25
+                          24
+                          23
+                          22
+                          21
+                          20
+                          19
+                          18
+                          17
+                          16
+                          15
+                          14
+                          13
+                          12
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1TimeOut
+now_time:3600.021392297989

@@ -1,0 +1,156 @@
+
+ff: parsing domain file
+domain 'GRID' defined
+ ... done.
+ff: parsing problem file
+problem 'GRID-X3-Y4-T2-K12-L23-P100' defined
+ ... done.
+
+
+F:
+(ARM-EMPTY)
+(LOCKED F1-0F)
+(LOCKED F2-0F)
+(LOCKED F1-1F)
+(LOCKED F0-2F)
+(LOCKED F0-1F)
+(AT KEY0-0 F1-3F)
+(AT KEY1-0 F0-3F)
+(AT KEY1-1 F2-1F)
+(AT-ROBOT F2-1F)
+U:
+(NOT-LOCK-SHAPE F1-0F SHAPE0)
+(NOT-LOCK-SHAPE F1-0F SHAPE1)
+(NOT-LOCK-SHAPE F2-0F SHAPE0)
+(NOT-LOCK-SHAPE F2-0F SHAPE1)
+(NOT-LOCK-SHAPE F0-1F SHAPE0)
+(NOT-LOCK-SHAPE F0-1F SHAPE1)
+(NOT-LOCK-SHAPE F1-1F SHAPE0)
+(NOT-LOCK-SHAPE F1-1F SHAPE1)
+(NOT-LOCK-SHAPE F0-2F SHAPE0)
+(NOT-LOCK-SHAPE F0-2F SHAPE1)
+(LOCK-SHAPE F0-1F SHAPE0)
+(LOCK-SHAPE F0-1F SHAPE1)
+(LOCK-SHAPE F0-2F SHAPE0)
+(LOCK-SHAPE F0-2F SHAPE1)
+(LOCK-SHAPE F1-0F SHAPE0)
+(LOCK-SHAPE F1-0F SHAPE1)
+(LOCK-SHAPE F1-1F SHAPE0)
+(LOCK-SHAPE F1-1F SHAPE1)
+(LOCK-SHAPE F2-0F SHAPE0)
+(LOCK-SHAPE F2-0F SHAPE1)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(ARM-EMPTY)
+(LOCKED F1-0F)
+(LOCKED F2-0F)
+(LOCKED F1-1F)
+(LOCKED F0-2F)
+(LOCKED F0-1F)
+(AT KEY0-0 F1-3F)
+(AT KEY1-0 F0-3F)
+(AT KEY1-1 F2-1F)
+(AT-ROBOT F2-1F)
+U:
+(NOT-LOCK-SHAPE F1-0F SHAPE0)
+(NOT-LOCK-SHAPE F1-0F SHAPE1)
+(NOT-LOCK-SHAPE F2-0F SHAPE0)
+(NOT-LOCK-SHAPE F2-0F SHAPE1)
+(NOT-LOCK-SHAPE F0-1F SHAPE0)
+(NOT-LOCK-SHAPE F0-1F SHAPE1)
+(NOT-LOCK-SHAPE F1-1F SHAPE0)
+(NOT-LOCK-SHAPE F1-1F SHAPE1)
+(NOT-LOCK-SHAPE F0-2F SHAPE0)
+(NOT-LOCK-SHAPE F0-2F SHAPE1)
+(LOCK-SHAPE F0-1F SHAPE0)
+(LOCK-SHAPE F0-1F SHAPE1)
+(LOCK-SHAPE F0-2F SHAPE0)
+(LOCK-SHAPE F0-2F SHAPE1)
+(LOCK-SHAPE F1-0F SHAPE0)
+(LOCK-SHAPE F1-0F SHAPE1)
+(LOCK-SHAPE F1-1F SHAPE0)
+(LOCK-SHAPE F1-1F SHAPE1)
+(LOCK-SHAPE F2-0F SHAPE0)
+(LOCK-SHAPE F2-0F SHAPE1)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (LOCK-SHAPE F1-0F SHAPE1) (LOCK-SHAPE F1-0F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F1-0F SHAPE1) (NOT-LOCK-SHAPE F1-0F SHAPE0) 
+OR: (LOCK-SHAPE F2-0F SHAPE1) (LOCK-SHAPE F2-0F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F2-0F SHAPE1) (NOT-LOCK-SHAPE F2-0F SHAPE0) 
+OR: (LOCK-SHAPE F1-1F SHAPE1) (LOCK-SHAPE F1-1F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F1-1F SHAPE1) (NOT-LOCK-SHAPE F1-1F SHAPE0) 
+OR: (LOCK-SHAPE F0-2F SHAPE1) (LOCK-SHAPE F0-2F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F0-2F SHAPE1) (NOT-LOCK-SHAPE F0-2F SHAPE0) 
+OR: (LOCK-SHAPE F0-1F SHAPE1) (LOCK-SHAPE F0-1F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F0-1F SHAPE1) (NOT-LOCK-SHAPE F0-1F SHAPE0) H:16
+
+
+Cueing down from goal distance:   16 into depth [1][2][3][4]
+                                  12            [1][2]
+                                  11            [1][2][3][4]
+                                  10            [1]
+                                   9            [1][2]
+                                   8            [1][2][3][4]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1][2]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: MOVE F2-1F F2-2F
+        1: MOVE F2-2F F1-2F
+        2: MOVE F1-2F F1-3F
+        3: MOVE F1-3F F0-3F
+        4: PICKUP F0-3F KEY1-0
+        5: UNLOCK F0-3F F0-2F KEY1-0 SHAPE1
+        6: PUTDOWN F0-3F KEY1-0
+        7: MOVE F0-3F F1-3F
+        8: PICKUP F1-3F KEY0-0
+        9: MOVE F1-3F F0-3F
+       10: UNLOCK F0-3F F0-2F KEY0-0 SHAPE0
+       11: MOVE F0-3F F0-2F
+       12: UNLOCK F0-2F F0-1F KEY0-0 SHAPE0
+       13: MOVE F0-2F F0-3F
+       14: PUTDOWN F0-3F KEY0-0
+       15: PICKUP F0-3F KEY1-0
+       16: MOVE F0-3F F0-2F
+       17: UNLOCK F0-2F F0-1F KEY1-0 SHAPE1
+       18: PUTDOWN F0-2F KEY1-0
+       19: MOVE F0-2F F0-3F
+       20: PICKUP F0-3F KEY0-0
+       21: MOVE F0-3F F0-2F
+       22: MOVE F0-2F F0-1F
+       23: PUTDOWN F0-1F KEY0-0
+     
+
+statistics:    0.00 seconds instantiating 208 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 368 facts and 208 actions
+               0.00 seconds creating final representation with 82 relevant facts (30 max U, 20 CNF max U)
+               0.00 seconds building connectivity graph
+               0.00 seconds (   0.00 pure) evaluating 53 states, to a max depth of 4
+               0.00 seconds in DP for 115 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 120 state transition base CNFs
+               0.00 seconds in DP solving 12 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (41 hits), including 432 DP calls
+               0.00 seconds altogether checking for dominated states making 0 comparisons (0 conformant, 0 hits),
+                    spending    0.00 seconds doing 0 DP calls
+                559 total DP calls, 1043 total UP calls,    0.00 sec membership
+               0.05 seconds for remaining searching duties
+               0.05 seconds total time (+    0.04 secs for CNF memory allocation)
+
+plan length:24
+iteration:1
+now_time:0.07508234598208219

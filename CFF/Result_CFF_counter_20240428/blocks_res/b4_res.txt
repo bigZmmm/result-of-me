@@ -1,0 +1,150 @@
+
+ff: parsing domain file
+domain 'BLOCKS' defined
+ ... done.
+ff: parsing problem file
+problem 'B4' defined
+ ... done.
+
+
+F:
+(NOT-ON A A)
+(NOT-ON B B)
+(NOT-ON C C)
+(NOT-ON D D)
+U:
+(NOT-ONTABLE A)
+(NOT-ONTABLE B)
+(NOT-ONTABLE C)
+(NOT-ONTABLE D)
+(NOT-CLEAR A)
+(NOT-CLEAR B)
+(NOT-CLEAR C)
+(NOT-CLEAR D)
+(NOT-HANDEMPTY)
+(NOT-HOLDING A)
+(NOT-HOLDING B)
+(NOT-HOLDING C)
+(NOT-HOLDING D)
+(NOT-ON A B)
+(NOT-ON A C)
+(NOT-ON A D)
+(NOT-ON B A)
+(NOT-ON B C)
+(NOT-ON B D)
+(NOT-ON C A)
+(NOT-ON C B)
+(NOT-ON C D)
+(NOT-ON D A)
+(NOT-ON D B)
+(NOT-ON D C)
+(CLEAR A)
+(CLEAR B)
+(CLEAR C)
+(CLEAR D)
+(HANDEMPTY)
+(HOLDING A)
+(HOLDING B)
+(HOLDING C)
+(HOLDING D)
+(ON A B)
+(ON A C)
+(ON A D)
+(ON B A)
+(ON B C)
+(ON B D)
+(ON C A)
+(ON C B)
+(ON C D)
+(ON D A)
+(ON D B)
+(ON D C)
+(ONTABLE A)
+(ONTABLE B)
+(ONTABLE C)
+(ONTABLE D)
+UE:
+var_size: 58
+
+当前收集的断言数：31
+
+1
+
+第1次迭代
+当前初始状态:
+F:29 U:0
+num_Or:71
+参数大于2的OR: 
+(NOT-ON C A) (NOT-ON B C) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON B D) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON C D) (NOT-ON A C) 
+(NOT-ON B A) (NOT-ON D B) (NOT-ON A D) 
+(NOT-ON D B) (NOT-ON C D) (NOT-ON B C) 
+(NOT-ON D A) (NOT-ON C D) (NOT-ON B C) (NOT-ON A B) 
+(NOT-ON C A) (NOT-ON B D) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON B D) (NOT-ON A C) 
+(NOT-ON B A) (NOT-ON D B) (NOT-ON C D) (NOT-ON A C) 
+(NOT-ON C A) (NOT-ON B C) (NOT-ON D B) (NOT-ON A D) 
+H:5
+
+
+Cueing down from goal distance:    5 into depth [1][2][3][4][5][6][7]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：10
+
+var_size: 638
+
+当前收集的断言数：321
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:20 U:18
+num_Or:103
+参数大于2的OR: 
+(NOT-ON C A) (NOT-ON B C) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON B D) (NOT-ON A B) 
+(NOT-ON B A) (NOT-ON C B) (NOT-ON A C) 
+(NOT-ON D A) (NOT-ON C D) (NOT-ON A C) 
+(NOT-ON B A) (NOT-ON D B) (NOT-ON A D) 
+(NOT-ON D B) (NOT-ON C D) (NOT-ON B C) 
+(NOT-ON D A) (NOT-ON C D) (NOT-ON B C) (NOT-ON A B) 
+(NOT-ON C A) (NOT-ON B D) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON B D) (NOT-ON C B) (NOT-ON A C) 
+(NOT-ON B A) (NOT-ON D B) (NOT-ON C D) (NOT-ON A C) 
+(NOT-ON C A) (NOT-ON B C) (NOT-ON D B) (NOT-ON A D) 
+(NOT-ON B A) (NOT-ON C B) (NOT-ON A D) 
+H:12
+
+
+Cueing down from goal distance:   12 into depth [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   3            [1][2]
+                                   2            [1][2][3][4]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   12
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3TimeOut
+now_time:3600.0146228349986

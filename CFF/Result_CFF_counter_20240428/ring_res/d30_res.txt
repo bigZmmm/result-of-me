@@ -1,0 +1,314 @@
+
+ff: parsing domain file
+domain 'D-RING-30' defined
+ ... done.
+ff: parsing problem file
+problem 'RING-30' defined
+ ... done.
+
+
+F:
+U:
+(NOT-POS W1)
+(NOT-POS W2)
+(NOT-POS W3)
+(NOT-POS W4)
+(NOT-POS W5)
+(NOT-POS W6)
+(NOT-POS W7)
+(NOT-POS W8)
+(NOT-POS W9)
+(NOT-POS W10)
+(NOT-POS W11)
+(NOT-POS W12)
+(NOT-POS W13)
+(NOT-POS W14)
+(NOT-POS W15)
+(NOT-POS W16)
+(NOT-POS W17)
+(NOT-POS W18)
+(NOT-POS W19)
+(NOT-POS W20)
+(NOT-POS W21)
+(NOT-POS W22)
+(NOT-POS W23)
+(NOT-POS W24)
+(NOT-POS W25)
+(NOT-POS W26)
+(NOT-POS W27)
+(NOT-POS W28)
+(NOT-POS W29)
+(NOT-POS W30)
+(NOT-OPEN W1)
+(NOT-OPEN W2)
+(NOT-OPEN W3)
+(NOT-OPEN W4)
+(NOT-OPEN W5)
+(NOT-OPEN W6)
+(NOT-OPEN W7)
+(NOT-OPEN W8)
+(NOT-OPEN W9)
+(NOT-OPEN W10)
+(NOT-OPEN W11)
+(NOT-OPEN W12)
+(NOT-OPEN W13)
+(NOT-OPEN W14)
+(NOT-OPEN W15)
+(NOT-OPEN W16)
+(NOT-OPEN W17)
+(NOT-OPEN W18)
+(NOT-OPEN W19)
+(NOT-OPEN W20)
+(NOT-OPEN W21)
+(NOT-OPEN W22)
+(NOT-OPEN W23)
+(NOT-OPEN W24)
+(NOT-OPEN W25)
+(NOT-OPEN W26)
+(NOT-OPEN W27)
+(NOT-OPEN W28)
+(NOT-OPEN W29)
+(NOT-OPEN W30)
+(NOT-CLOSED W1)
+(NOT-CLOSED W2)
+(NOT-CLOSED W3)
+(NOT-CLOSED W4)
+(NOT-CLOSED W5)
+(NOT-CLOSED W6)
+(NOT-CLOSED W7)
+(NOT-CLOSED W8)
+(NOT-CLOSED W9)
+(NOT-CLOSED W10)
+(NOT-CLOSED W11)
+(NOT-CLOSED W12)
+(NOT-CLOSED W13)
+(NOT-CLOSED W14)
+(NOT-CLOSED W15)
+(NOT-CLOSED W16)
+(NOT-CLOSED W17)
+(NOT-CLOSED W18)
+(NOT-CLOSED W19)
+(NOT-CLOSED W20)
+(NOT-CLOSED W21)
+(NOT-CLOSED W22)
+(NOT-CLOSED W23)
+(NOT-CLOSED W24)
+(NOT-CLOSED W25)
+(NOT-CLOSED W26)
+(NOT-CLOSED W27)
+(NOT-CLOSED W28)
+(NOT-CLOSED W29)
+(NOT-CLOSED W30)
+(NOT-LOCKED W1)
+(NOT-LOCKED W2)
+(NOT-LOCKED W3)
+(NOT-LOCKED W4)
+(NOT-LOCKED W5)
+(NOT-LOCKED W6)
+(NOT-LOCKED W7)
+(NOT-LOCKED W8)
+(NOT-LOCKED W9)
+(NOT-LOCKED W10)
+(NOT-LOCKED W11)
+(NOT-LOCKED W12)
+(NOT-LOCKED W13)
+(NOT-LOCKED W14)
+(NOT-LOCKED W15)
+(NOT-LOCKED W16)
+(NOT-LOCKED W17)
+(NOT-LOCKED W18)
+(NOT-LOCKED W19)
+(NOT-LOCKED W20)
+(NOT-LOCKED W21)
+(NOT-LOCKED W22)
+(NOT-LOCKED W23)
+(NOT-LOCKED W24)
+(NOT-LOCKED W25)
+(NOT-LOCKED W26)
+(NOT-LOCKED W27)
+(NOT-LOCKED W28)
+(NOT-LOCKED W29)
+(NOT-LOCKED W30)
+(CLOSED W1)
+(CLOSED W10)
+(CLOSED W11)
+(CLOSED W12)
+(CLOSED W13)
+(CLOSED W14)
+(CLOSED W15)
+(CLOSED W16)
+(CLOSED W17)
+(CLOSED W18)
+(CLOSED W19)
+(CLOSED W2)
+(CLOSED W20)
+(CLOSED W21)
+(CLOSED W22)
+(CLOSED W23)
+(CLOSED W24)
+(CLOSED W25)
+(CLOSED W26)
+(CLOSED W27)
+(CLOSED W28)
+(CLOSED W29)
+(CLOSED W3)
+(CLOSED W30)
+(CLOSED W4)
+(CLOSED W5)
+(CLOSED W6)
+(CLOSED W7)
+(CLOSED W8)
+(CLOSED W9)
+(LOCKED W1)
+(LOCKED W10)
+(LOCKED W11)
+(LOCKED W12)
+(LOCKED W13)
+(LOCKED W14)
+(LOCKED W15)
+(LOCKED W16)
+(LOCKED W17)
+(LOCKED W18)
+(LOCKED W19)
+(LOCKED W2)
+(LOCKED W20)
+(LOCKED W21)
+(LOCKED W22)
+(LOCKED W23)
+(LOCKED W24)
+(LOCKED W25)
+(LOCKED W26)
+(LOCKED W27)
+(LOCKED W28)
+(LOCKED W29)
+(LOCKED W3)
+(LOCKED W30)
+(LOCKED W4)
+(LOCKED W5)
+(LOCKED W6)
+(LOCKED W7)
+(LOCKED W8)
+(LOCKED W9)
+(OPEN W1)
+(OPEN W10)
+(OPEN W11)
+(OPEN W12)
+(OPEN W13)
+(OPEN W14)
+(OPEN W15)
+(OPEN W16)
+(OPEN W17)
+(OPEN W18)
+(OPEN W19)
+(OPEN W2)
+(OPEN W20)
+(OPEN W21)
+(OPEN W22)
+(OPEN W23)
+(OPEN W24)
+(OPEN W25)
+(OPEN W26)
+(OPEN W27)
+(OPEN W28)
+(OPEN W29)
+(OPEN W3)
+(OPEN W30)
+(OPEN W4)
+(OPEN W5)
+(OPEN W6)
+(OPEN W7)
+(OPEN W8)
+(OPEN W9)
+(POS W1)
+(POS W10)
+(POS W11)
+(POS W12)
+(POS W13)
+(POS W14)
+(POS W15)
+(POS W16)
+(POS W17)
+(POS W18)
+(POS W19)
+(POS W2)
+(POS W20)
+(POS W21)
+(POS W22)
+(POS W23)
+(POS W24)
+(POS W25)
+(POS W26)
+(POS W27)
+(POS W28)
+(POS W29)
+(POS W3)
+(POS W30)
+(POS W4)
+(POS W5)
+(POS W6)
+(POS W7)
+(POS W8)
+(POS W9)
+UE:
+var_size: 240
+
+当前收集的断言数：122
+
+1
+
+第1次迭代
+当前初始状态:
+F:120 U:0
+num_Or:436
+参数大于2的OR: 
+H:15
+
+
+Cueing down from goal distance:   15 into depth [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：14
+
+var_size: 3600
+
+当前收集的断言数：1802
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:114 U:12
+num_Or:472
+参数大于2的OR: 
+H:3
+
+
+Cueing down from goal distance:    3 into depth 
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    3
+                           2
+                           1
+
+increase MAX_PLAN_LENGTH! currently 500
+
+Out of Memory
+now_time:6.7628197590238415

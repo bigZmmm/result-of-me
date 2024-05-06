@@ -1,0 +1,615 @@
+
+ff: parsing domain file
+domain 'RAOS_KEYS' defined
+ ... done.
+ff: parsing problem file
+problem 'RAOS_KEYS1' defined
+ ... done.
+
+
+F:
+(NOT-WEARING_SUNGLASSES)
+(NOT-OPEN L1)
+(NOT-OPEN L2)
+(NOT-OPEN L3)
+(NOT-HAVE_KEY K1)
+(NOT-HAVE_KEY K2)
+(NOT-HAVE_KEY K3)
+(AT L1)
+(NOT_WEARING_SUNGLASSES)
+U:
+(NOT-KEY_AT K1 L1)
+(NOT-KEY_AT K1 L2)
+(NOT-KEY_AT K1 L3)
+(NOT-KEY_AT K2 L1)
+(NOT-KEY_AT K2 L2)
+(NOT-KEY_AT K2 L3)
+(NOT-KEY_AT K3 L1)
+(NOT-KEY_AT K3 L2)
+(NOT-KEY_AT K3 L3)
+(NOT-OPENS K0 L1)
+(NOT-OPENS K0 L2)
+(NOT-OPENS K0 L3)
+(NOT-OPENS K1 L1)
+(NOT-OPENS K1 L2)
+(NOT-OPENS K1 L3)
+(NOT-OPENS K2 L1)
+(NOT-OPENS K2 L2)
+(NOT-OPENS K2 L3)
+(NOT-OPENS K3 L1)
+(NOT-OPENS K3 L2)
+(NOT-OPENS K3 L3)
+(KEY_AT K1 L1)
+(KEY_AT K1 L2)
+(KEY_AT K1 L3)
+(KEY_AT K2 L1)
+(KEY_AT K2 L2)
+(KEY_AT K2 L3)
+(KEY_AT K3 L1)
+(KEY_AT K3 L2)
+(KEY_AT K3 L3)
+(OPENS K0 L1)
+(OPENS K0 L2)
+(OPENS K0 L3)
+(OPENS K1 L1)
+(OPENS K1 L2)
+(OPENS K1 L3)
+(OPENS K2 L1)
+(OPENS K2 L2)
+(OPENS K2 L3)
+(OPENS K3 L1)
+(OPENS K3 L2)
+(OPENS K3 L3)
+UE:
+var_size: 58
+
+当前收集的断言数：30
+
+1
+
+第1次迭代
+当前初始状态:
+F:30 U:0
+num_Or:19
+参数大于2的OR: 
+H:10
+
+
+Cueing down from goal distance:   10 into depth [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：14
+
+var_size: 900
+
+当前收集的断言数：436
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:24 U:12
+num_Or:43
+参数大于2的OR: 
+H:8
+
+
+Cueing down from goal distance:    8 into depth [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    8
+                           7
+                           6
+                           5
+                           4
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：28
+
+var_size: 1741
+
+当前收集的断言数：842
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:19 U:22
+num_Or:59
+参数大于2的OR: 
+(OPENS K1 L3) (OPENS K1 L1) (NOT-KEY_AT K1 L2) 
+(OPENS K3 L3) (OPENS K3 L1) (NOT-KEY_AT K3 L2) 
+(KEY_AT K1 L3) (KEY_AT K1 L2) (KEY_AT K1 L1) 
+(KEY_AT K3 L1) (KEY_AT K2 L1) (KEY_AT K1 L1) 
+H:8
+
+
+Cueing down from goal distance:    8 into depth [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    8
+                           7
+                           6
+                           5
+                           4
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：30
+
+var_size: 1861
+
+当前收集的断言数：900
+
+1
+找到反例！
+
+
+第4次迭代
+当前初始状态:
+F:17 U:26
+num_Or:62
+参数大于2的OR: 
+(OPENS K1 L3) (OPENS K1 L1) (NOT-KEY_AT K1 L2) 
+(OPENS K3 L3) (OPENS K3 L1) (NOT-KEY_AT K3 L2) 
+(KEY_AT K1 L3) (KEY_AT K1 L2) (KEY_AT K1 L1) 
+(KEY_AT K3 L1) (KEY_AT K2 L1) (KEY_AT K1 L1) 
+H:9
+
+
+Cueing down from goal distance:    9 into depth [1]
+                                   7            [1][2]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    9
+                           7
+                           6
+                           5
+                           4
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：47
+
+var_size: 2901
+
+当前收集的断言数：1393
+
+1
+找到反例！
+
+
+第5次迭代
+当前初始状态:
+F:16 U:28
+num_Or:62
+参数大于2的OR: 
+(OPENS K1 L3) (OPENS K1 L1) (NOT-KEY_AT K1 L2) 
+(OPENS K3 L3) (OPENS K3 L1) (NOT-KEY_AT K3 L2) 
+(OPENS K0 L3) (OPENS K0 L2) (OPENS K0 L1) 
+(KEY_AT K1 L3) (KEY_AT K1 L2) (KEY_AT K1 L1) 
+(KEY_AT K3 L1) (KEY_AT K2 L1) (KEY_AT K1 L1) 
+H:7
+
+
+Cueing down from goal distance:    7 into depth [1][2]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    7
+                           6
+                           5
+                           4
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：62
+
+var_size: 3827
+
+当前收集的断言数：1828
+
+1
+找到反例！
+
+
+第6次迭代
+当前初始状态:
+F:12 U:36
+num_Or:70
+参数大于2的OR: 
+(OPENS K1 L3) (OPENS K1 L2) (NOT-KEY_AT K1 L1) 
+(OPENS K1 L3) (OPENS K1 L1) (NOT-KEY_AT K1 L2) 
+(OPENS K1 L2) (OPENS K1 L1) (NOT-KEY_AT K1 L3) 
+(OPENS K2 L2) (OPENS K2 L1) (NOT-KEY_AT K2 L3) 
+(OPENS K3 L3) (OPENS K3 L1) (NOT-KEY_AT K3 L2) 
+(OPENS K0 L3) (OPENS K0 L2) (OPENS K0 L1) 
+(KEY_AT K1 L3) (KEY_AT K1 L2) (KEY_AT K1 L1) 
+(OPENS K1 L3) (OPENS K1 L2) (OPENS K1 L1) 
+(KEY_AT K2 L3) (KEY_AT K2 L2) (KEY_AT K2 L1) 
+(OPENS K3 L1) (OPENS K2 L1) (OPENS K1 L1) 
+(KEY_AT K3 L1) (KEY_AT K2 L1) (KEY_AT K1 L1) 
+(KEY_AT K3 L2) (KEY_AT K2 L2) (KEY_AT K1 L2) 
+H:7
+
+
+Cueing down from goal distance:    7 into depth [1][2]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    7
+                           6
+                           5
+                           4
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：83
+
+var_size: 5102
+
+当前收集的断言数：2437
+
+1
+找到反例！
+
+
+第7次迭代
+当前初始状态:
+F:11 U:38
+num_Or:70
+参数大于2的OR: 
+(OPENS K1 L3) (OPENS K1 L2) (NOT-KEY_AT K1 L1) 
+(OPENS K1 L3) (OPENS K1 L1) (NOT-KEY_AT K1 L2) 
+(OPENS K1 L2) (OPENS K1 L1) (NOT-KEY_AT K1 L3) 
+(OPENS K2 L3) (OPENS K2 L2) (NOT-KEY_AT K2 L1) 
+(OPENS K2 L3) (OPENS K2 L1) (NOT-KEY_AT K2 L2) 
+(OPENS K2 L2) (OPENS K2 L1) (NOT-KEY_AT K2 L3) 
+(OPENS K3 L3) (OPENS K3 L1) (NOT-KEY_AT K3 L2) 
+(OPENS K0 L3) (OPENS K0 L2) (OPENS K0 L1) 
+(KEY_AT K1 L3) (KEY_AT K1 L2) (KEY_AT K1 L1) 
+(OPENS K1 L3) (OPENS K1 L2) (OPENS K1 L1) 
+(KEY_AT K2 L3) (KEY_AT K2 L2) (KEY_AT K2 L1) 
+(OPENS K2 L3) (OPENS K2 L2) (OPENS K2 L1) 
+(OPENS K3 L1) (OPENS K2 L1) (OPENS K1 L1) 
+(KEY_AT K3 L1) (KEY_AT K2 L1) (KEY_AT K1 L1) 
+(KEY_AT K3 L2) (KEY_AT K2 L2) (KEY_AT K1 L2) 
+(OPENS K3 L3) (OPENS K2 L3) (OPENS K1 L3) 
+H:7
+
+
+Cueing down from goal distance:    7 into depth [1][2]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    7
+                           6
+                           5
+                           4
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：87
+
+var_size: 5346
+
+当前收集的断言数：2553
+
+1
+找到反例！
+
+
+第8次迭代
+当前初始状态:
+F:10 U:40
+num_Or:70
+参数大于2的OR: 
+(OPENS K1 L3) (OPENS K1 L2) (NOT-KEY_AT K1 L1) 
+(OPENS K1 L3) (OPENS K1 L1) (NOT-KEY_AT K1 L2) 
+(OPENS K1 L2) (OPENS K1 L1) (NOT-KEY_AT K1 L3) 
+(OPENS K2 L3) (OPENS K2 L2) (NOT-KEY_AT K2 L1) 
+(OPENS K2 L3) (OPENS K2 L1) (NOT-KEY_AT K2 L2) 
+(OPENS K2 L2) (OPENS K2 L1) (NOT-KEY_AT K2 L3) 
+(OPENS K3 L3) (OPENS K3 L2) (NOT-KEY_AT K3 L1) 
+(OPENS K3 L3) (OPENS K3 L1) (NOT-KEY_AT K3 L2) 
+(OPENS K3 L2) (OPENS K3 L1) (NOT-KEY_AT K3 L3) 
+(OPENS K0 L3) (OPENS K0 L2) (OPENS K0 L1) 
+(KEY_AT K1 L3) (KEY_AT K1 L2) (KEY_AT K1 L1) 
+(OPENS K1 L3) (OPENS K1 L2) (OPENS K1 L1) 
+(KEY_AT K2 L3) (KEY_AT K2 L2) (KEY_AT K2 L1) 
+(OPENS K2 L3) (OPENS K2 L2) (OPENS K2 L1) 
+(OPENS K3 L3) (OPENS K3 L2) (OPENS K3 L1) 
+(OPENS K3 L1) (OPENS K2 L1) (OPENS K1 L1) 
+(KEY_AT K3 L1) (KEY_AT K2 L1) (KEY_AT K1 L1) 
+(OPENS K3 L2) (OPENS K2 L2) (OPENS K1 L2) 
+(KEY_AT K3 L2) (KEY_AT K2 L2) (KEY_AT K1 L2) 
+(OPENS K3 L3) (OPENS K2 L3) (OPENS K1 L3) 
+H:7
+
+
+Cueing down from goal distance:    7 into depth [1][2]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    7
+                           6
+                           5
+                           4
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：67
+
+var_size: 4128
+
+当前收集的断言数：1973
+
+1
+找到反例！
+
+
+第9次迭代
+当前初始状态:
+F:9 U:42
+num_Or:70
+参数大于2的OR: 
+(OPENS K1 L3) (OPENS K1 L2) (NOT-KEY_AT K1 L1) 
+(OPENS K1 L3) (OPENS K1 L1) (NOT-KEY_AT K1 L2) 
+(OPENS K1 L2) (OPENS K1 L1) (NOT-KEY_AT K1 L3) 
+(OPENS K2 L3) (OPENS K2 L2) (NOT-KEY_AT K2 L1) 
+(OPENS K2 L3) (OPENS K2 L1) (NOT-KEY_AT K2 L2) 
+(OPENS K2 L2) (OPENS K2 L1) (NOT-KEY_AT K2 L3) 
+(OPENS K3 L3) (OPENS K3 L2) (NOT-KEY_AT K3 L1) 
+(OPENS K3 L3) (OPENS K3 L1) (NOT-KEY_AT K3 L2) 
+(OPENS K3 L2) (OPENS K3 L1) (NOT-KEY_AT K3 L3) 
+(OPENS K0 L3) (OPENS K0 L2) (OPENS K0 L1) 
+(KEY_AT K1 L3) (KEY_AT K1 L2) (KEY_AT K1 L1) 
+(OPENS K1 L3) (OPENS K1 L2) (OPENS K1 L1) 
+(KEY_AT K2 L3) (KEY_AT K2 L2) (KEY_AT K2 L1) 
+(OPENS K2 L3) (OPENS K2 L2) (OPENS K2 L1) 
+(KEY_AT K3 L3) (KEY_AT K3 L2) (KEY_AT K3 L1) 
+(OPENS K3 L3) (OPENS K3 L2) (OPENS K3 L1) 
+(OPENS K3 L1) (OPENS K2 L1) (OPENS K1 L1) 
+(KEY_AT K3 L1) (KEY_AT K2 L1) (KEY_AT K1 L1) 
+(OPENS K3 L2) (OPENS K2 L2) (OPENS K1 L2) 
+(KEY_AT K3 L2) (KEY_AT K2 L2) (KEY_AT K1 L2) 
+(OPENS K3 L3) (OPENS K2 L3) (OPENS K1 L3) 
+(KEY_AT K3 L3) (KEY_AT K2 L3) (KEY_AT K1 L3) 
+H:7
+
+
+Cueing down from goal distance:    7 into depth [1][2]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    7
+                           6
+                           5
+                           4
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：83
+
+var_size: 5090
+
+当前收集的断言数：2437
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: GOTO_LIGHT L1 L2
+        1: OPEN_GATE L2 K0
+        2: GOTO_LIGHT L2 L1
+        3: OPEN_GATE L1 K0
+        4: GOTO_LIGHT L1 L3
+        5: OPEN_GATE L3 K0
+        6: EXCHANGE_SUNGLASSES
+        7: SEARCH_UNDER_LIGHT L3
+        8: EXCHANGE_SUNGLASSES
+        9: GOTO_LIGHT L3 L1
+       10: EXCHANGE_SUNGLASSES
+       11: SEARCH_UNDER_LIGHT L1
+       12: EXCHANGE_SUNGLASSES
+       13: GOTO_LIGHT L1 L3
+       14: OPEN_GATE L3 K1
+       15: GOTO_LIGHT L3 L1
+       16: OPEN_GATE L1 K1
+       17: GOTO_LIGHT L1 L3
+       18: OPEN_GATE L3 K2
+       19: GOTO_LIGHT L3 L1
+       20: OPEN_GATE L1 K2
+       21: GOTO_LIGHT L1 L3
+       22: OPEN_GATE L3 K3
+       23: GOTO_LIGHT L3 L1
+       24: OPEN_GATE L1 K3
+       25: GOTO_LIGHT L1 L3
+       26: EXCHANGE_SUNGLASSES
+       27: SEARCH_UNDER_LIGHT L3
+       28: EXCHANGE_SUNGLASSES
+       29: GOTO_LIGHT L3 L1
+       30: EXCHANGE_SUNGLASSES
+       31: SEARCH_UNDER_LIGHT L1
+       32: EXCHANGE_SUNGLASSES
+       33: GOTO_LIGHT L1 L2
+       34: EXCHANGE_SUNGLASSES
+       35: SEARCH_UNDER_LIGHT L2
+       36: EXCHANGE_SUNGLASSES
+       37: GOTO_LIGHT L2 L1
+       38: OPEN_GATE L1 K1
+       39: GOTO_LIGHT L1 L2
+       40: OPEN_GATE L2 K1
+       41: GOTO_LIGHT L2 L1
+       42: OPEN_GATE L1 K2
+       43: GOTO_LIGHT L1 L2
+       44: OPEN_GATE L2 K2
+       45: GOTO_LIGHT L2 L1
+       46: OPEN_GATE L1 K3
+       47: GOTO_LIGHT L1 L2
+       48: OPEN_GATE L2 K3
+       49: GOTO_LIGHT L2 L1
+       50: EXCHANGE_SUNGLASSES
+       51: SEARCH_UNDER_LIGHT L1
+       52: EXCHANGE_SUNGLASSES
+       53: GOTO_LIGHT L1 L2
+       54: EXCHANGE_SUNGLASSES
+       55: SEARCH_UNDER_LIGHT L2
+       56: EXCHANGE_SUNGLASSES
+       57: GOTO_LIGHT L2 L1
+       58: OPEN_GATE L1 K1
+       59: GOTO_LIGHT L1 L3
+       60: OPEN_GATE L3 K1
+       61: GOTO_LIGHT L3 L1
+       62: OPEN_GATE L1 K2
+       63: GOTO_LIGHT L1 L3
+       64: OPEN_GATE L3 K2
+       65: GOTO_LIGHT L3 L1
+       66: OPEN_GATE L1 K3
+       67: GOTO_LIGHT L1 L3
+       68: OPEN_GATE L3 K3
+       69: GOTO_LIGHT L3 L1
+       70: EXCHANGE_SUNGLASSES
+       71: SEARCH_UNDER_LIGHT L1
+       72: EXCHANGE_SUNGLASSES
+       73: GOTO_LIGHT L1 L3
+       74: EXCHANGE_SUNGLASSES
+       75: SEARCH_UNDER_LIGHT L3
+       76: EXCHANGE_SUNGLASSES
+       77: GOTO_LIGHT L3 L1
+       78: OPEN_GATE L1 K1
+       79: OPEN_GATE L1 K2
+       80: OPEN_GATE L1 K3
+       81: EXCHANGE_SUNGLASSES
+       82: SEARCH_UNDER_LIGHT L1
+     
+
+statistics:    0.00 seconds instantiating 22 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 65 facts and 22 actions
+               0.00 seconds creating final representation with 61 relevant facts (54 max U, 27 CNF max U)
+               0.00 seconds building connectivity graph
+               0.18 seconds (   0.18 pure) evaluating 1327 states, to a max depth of 2
+               0.00 seconds in DP for 2537 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.16 seconds generating,    0.08 seconds encoding 4064 state transition base CNFs
+               0.07 seconds in DP solving 1709 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.32 seconds checking for stagnating states (2278 hits), including 120945 DP calls
+               8.26 seconds altogether checking for dominated states making 10560 comparisons (10556 conformant, 449 hits),
+                    spending    6.94 seconds doing 225569 DP calls
+             350760 total DP calls, 832671 total UP calls,    0.35 sec membership
+               0.13 seconds for remaining searching duties
+               9.20 seconds total time (+    0.11 secs for CNF memory allocation)
+
+初始目标状态
+Fold:9 Uold:42
+num_Orold:70
+参数大于2的OR: 
+(OPENS K1 L3) (OPENS K1 L2) (NOT-KEY_AT K1 L1) 
+(OPENS K1 L3) (OPENS K1 L1) (NOT-KEY_AT K1 L2) 
+(OPENS K1 L2) (OPENS K1 L1) (NOT-KEY_AT K1 L3) 
+(OPENS K2 L3) (OPENS K2 L2) (NOT-KEY_AT K2 L1) 
+(OPENS K2 L3) (OPENS K2 L1) (NOT-KEY_AT K2 L2) 
+(OPENS K2 L2) (OPENS K2 L1) (NOT-KEY_AT K2 L3) 
+(OPENS K3 L3) (OPENS K3 L2) (NOT-KEY_AT K3 L1) 
+(OPENS K3 L3) (OPENS K3 L1) (NOT-KEY_AT K3 L2) 
+(OPENS K3 L2) (OPENS K3 L1) (NOT-KEY_AT K3 L3) 
+(OPENS K0 L3) (OPENS K0 L2) (OPENS K0 L1) 
+(KEY_AT K1 L3) (KEY_AT K1 L2) (KEY_AT K1 L1) 
+(OPENS K1 L3) (OPENS K1 L2) (OPENS K1 L1) 
+(KEY_AT K2 L3) (KEY_AT K2 L2) (KEY_AT K2 L1) 
+(OPENS K2 L3) (OPENS K2 L2) (OPENS K2 L1) 
+(KEY_AT K3 L3) (KEY_AT K3 L2) (KEY_AT K3 L1) 
+(OPENS K3 L3) (OPENS K3 L2) (OPENS K3 L1) 
+(OPENS K3 L1) (OPENS K2 L1) (OPENS K1 L1) 
+(KEY_AT K3 L1) (KEY_AT K2 L1) (KEY_AT K1 L1) 
+(OPENS K3 L2) (OPENS K2 L2) (OPENS K1 L2) 
+(KEY_AT K3 L2) (KEY_AT K2 L2) (KEY_AT K1 L2) 
+(OPENS K3 L3) (OPENS K2 L3) (OPENS K1 L3) 
+(KEY_AT K3 L3) (KEY_AT K2 L3) (KEY_AT K1 L3) 
+
+
+当前反例添加的目标状态
+Fcur:9 Ucur:42
+num_Orcur:70
+参数大于2的OR: 
+(OPENS K1 L3) (OPENS K1 L2) (NOT-KEY_AT K1 L1) 
+(OPENS K1 L3) (OPENS K1 L1) (NOT-KEY_AT K1 L2) 
+(OPENS K1 L2) (OPENS K1 L1) (NOT-KEY_AT K1 L3) 
+(OPENS K2 L3) (OPENS K2 L2) (NOT-KEY_AT K2 L1) 
+(OPENS K2 L3) (OPENS K2 L1) (NOT-KEY_AT K2 L2) 
+(OPENS K2 L2) (OPENS K2 L1) (NOT-KEY_AT K2 L3) 
+(OPENS K3 L3) (OPENS K3 L2) (NOT-KEY_AT K3 L1) 
+(OPENS K3 L3) (OPENS K3 L1) (NOT-KEY_AT K3 L2) 
+(OPENS K3 L2) (OPENS K3 L1) (NOT-KEY_AT K3 L3) 
+(OPENS K0 L3) (OPENS K0 L2) (OPENS K0 L1) 
+(KEY_AT K1 L3) (KEY_AT K1 L2) (KEY_AT K1 L1) 
+(OPENS K1 L3) (OPENS K1 L2) (OPENS K1 L1) 
+(KEY_AT K2 L3) (KEY_AT K2 L2) (KEY_AT K2 L1) 
+(OPENS K2 L3) (OPENS K2 L2) (OPENS K2 L1) 
+(KEY_AT K3 L3) (KEY_AT K3 L2) (KEY_AT K3 L1) 
+(OPENS K3 L3) (OPENS K3 L2) (OPENS K3 L1) 
+(OPENS K3 L1) (OPENS K2 L1) (OPENS K1 L1) 
+(KEY_AT K3 L1) (KEY_AT K2 L1) (KEY_AT K1 L1) 
+(OPENS K3 L2) (OPENS K2 L2) (OPENS K1 L2) 
+(KEY_AT K3 L2) (KEY_AT K2 L2) (KEY_AT K1 L2) 
+(OPENS K3 L3) (OPENS K2 L3) (OPENS K1 L3) 
+(KEY_AT K3 L3) (KEY_AT K2 L3) (KEY_AT K1 L3) 
+
+
+counter_time:1.10
+plan length:83
+iteration:9
+now_time:10.444912303006276

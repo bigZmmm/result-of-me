@@ -1,0 +1,1000 @@
+                                  18            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1][2]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：65
+
+var_size: 7569
+
+当前收集的断言数：3368
+
+1
+找到反例！
+
+
+第37次迭代
+当前初始状态:
+F:13 U:78
+num_Or:363
+参数大于2的OR: 
+(OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+(OBJ_AT O2 P4_4) (OBJ_AT O2 P4_3) (OBJ_AT O2 P4_2) (OBJ_AT O2 P4_1) (OBJ_AT O2 P3_4) (OBJ_AT O2 P3_3) (OBJ_AT O2 P3_2) (OBJ_AT O2 P3_1) (OBJ_AT O2 P2_4) (OBJ_AT O2 P2_2) (OBJ_AT O2 P2_1) (OBJ_AT O2 P1_1) 
+(OBJ_AT O3 P4_4) (OBJ_AT O3 P3_3) (OBJ_AT O3 P3_1) (OBJ_AT O3 P2_4) (OBJ_AT O3 P2_3) (OBJ_AT O3 P2_2) (OBJ_AT O3 P2_1) (OBJ_AT O3 P1_4) (OBJ_AT O3 P1_3) (OBJ_AT O3 P1_2) (OBJ_AT O3 P1_1) 
+H:58
+
+
+Cueing down from goal distance:   58 into depth [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1][2]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1][2][3]
+                                  45            [1][2][3]
+                                  44            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1][2]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1][2]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1][2]
+                                  30            [1]
+                                  29            [1][2]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1][2]
+                                  25            [1]
+                                  24            [1][2]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  19            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1][2]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：66
+
+var_size: 7676
+
+当前收集的断言数：3419
+
+1
+找到反例！
+
+
+第38次迭代
+当前初始状态:
+F:12 U:80
+num_Or:363
+参数大于2的OR: 
+(OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+(OBJ_AT O2 P4_4) (OBJ_AT O2 P4_3) (OBJ_AT O2 P4_2) (OBJ_AT O2 P4_1) (OBJ_AT O2 P3_4) (OBJ_AT O2 P3_3) (OBJ_AT O2 P3_2) (OBJ_AT O2 P3_1) (OBJ_AT O2 P2_4) (OBJ_AT O2 P2_2) (OBJ_AT O2 P2_1) (OBJ_AT O2 P1_1) 
+(OBJ_AT O3 P4_4) (OBJ_AT O3 P3_3) (OBJ_AT O3 P3_2) (OBJ_AT O3 P3_1) (OBJ_AT O3 P2_4) (OBJ_AT O3 P2_3) (OBJ_AT O3 P2_2) (OBJ_AT O3 P2_1) (OBJ_AT O3 P1_4) (OBJ_AT O3 P1_3) (OBJ_AT O3 P1_2) (OBJ_AT O3 P1_1) 
+H:59
+
+
+Cueing down from goal distance:   59 into depth [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1][2]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1][2]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1][2][3]
+                                  31            [1]
+                                  30            [1][2]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1][2]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1][2]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：65
+
+var_size: 7656
+
+当前收集的断言数：3368
+
+1
+找到反例！
+
+
+第39次迭代
+当前初始状态:
+F:11 U:82
+num_Or:363
+参数大于2的OR: 
+(OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+(OBJ_AT O2 P4_4) (OBJ_AT O2 P4_3) (OBJ_AT O2 P4_2) (OBJ_AT O2 P4_1) (OBJ_AT O2 P3_4) (OBJ_AT O2 P3_3) (OBJ_AT O2 P3_2) (OBJ_AT O2 P3_1) (OBJ_AT O2 P2_4) (OBJ_AT O2 P2_2) (OBJ_AT O2 P2_1) (OBJ_AT O2 P1_1) 
+(OBJ_AT O3 P4_4) (OBJ_AT O3 P4_3) (OBJ_AT O3 P3_3) (OBJ_AT O3 P3_2) (OBJ_AT O3 P3_1) (OBJ_AT O3 P2_4) (OBJ_AT O3 P2_3) (OBJ_AT O3 P2_2) (OBJ_AT O3 P2_1) (OBJ_AT O3 P1_4) (OBJ_AT O3 P1_3) (OBJ_AT O3 P1_2) (OBJ_AT O3 P1_1) 
+H:60
+
+
+Cueing down from goal distance:   60 into depth [1]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1][2]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1][2]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1][2][3]
+                                  32            [1]
+                                  31            [1][2]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1][2]
+                                  24            [1]
+                                  23            [1][2]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1][2]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1][2]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：68
+
+var_size: 7998
+
+当前收集的断言数：3521
+
+1
+找到反例！
+
+
+第40次迭代
+当前初始状态:
+F:10 U:84
+num_Or:363
+参数大于2的OR: 
+(OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+(OBJ_AT O2 P4_4) (OBJ_AT O2 P4_3) (OBJ_AT O2 P4_2) (OBJ_AT O2 P4_1) (OBJ_AT O2 P3_4) (OBJ_AT O2 P3_3) (OBJ_AT O2 P3_2) (OBJ_AT O2 P3_1) (OBJ_AT O2 P2_4) (OBJ_AT O2 P2_2) (OBJ_AT O2 P2_1) (OBJ_AT O2 P1_1) 
+(OBJ_AT O3 P4_4) (OBJ_AT O3 P4_3) (OBJ_AT O3 P3_4) (OBJ_AT O3 P3_3) (OBJ_AT O3 P3_2) (OBJ_AT O3 P3_1) (OBJ_AT O3 P2_4) (OBJ_AT O3 P2_3) (OBJ_AT O3 P2_2) (OBJ_AT O3 P2_1) (OBJ_AT O3 P1_4) (OBJ_AT O3 P1_3) (OBJ_AT O3 P1_2) (OBJ_AT O3 P1_1) 
+H:61
+
+
+Cueing down from goal distance:   61 into depth [1]
+                                  60            [1]
+                                  59            [1]
+                                  58            [1][2]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1][2]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1][2][3]
+                                  33            [1]
+                                  32            [1][2]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1][2]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1][2]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：67
+
+var_size: 7880
+
+当前收集的断言数：3470
+
+1
+找到反例！
+
+
+第41次迭代
+当前初始状态:
+F:9 U:86
+num_Or:363
+参数大于2的OR: 
+(OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+(OBJ_AT O2 P4_4) (OBJ_AT O2 P4_3) (OBJ_AT O2 P4_2) (OBJ_AT O2 P4_1) (OBJ_AT O2 P3_4) (OBJ_AT O2 P3_3) (OBJ_AT O2 P3_2) (OBJ_AT O2 P3_1) (OBJ_AT O2 P2_4) (OBJ_AT O2 P2_3) (OBJ_AT O2 P2_2) (OBJ_AT O2 P2_1) (OBJ_AT O2 P1_1) 
+(OBJ_AT O3 P4_4) (OBJ_AT O3 P4_3) (OBJ_AT O3 P3_4) (OBJ_AT O3 P3_3) (OBJ_AT O3 P3_2) (OBJ_AT O3 P3_1) (OBJ_AT O3 P2_4) (OBJ_AT O3 P2_3) (OBJ_AT O3 P2_2) (OBJ_AT O3 P2_1) (OBJ_AT O3 P1_4) (OBJ_AT O3 P1_3) (OBJ_AT O3 P1_2) (OBJ_AT O3 P1_1) 
+H:62
+
+
+Cueing down from goal distance:   62 into depth [1]
+                                  61            [1]
+                                  60            [1]
+                                  59            [1][2]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1][2]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1][2][3]
+                                  34            [1]
+                                  33            [1][2]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1][2]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1][2]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：68
+
+var_size: 7995
+
+当前收集的断言数：3521
+
+1
+找到反例！
+
+
+第42次迭代
+当前初始状态:
+F:8 U:88
+num_Or:363
+参数大于2的OR: 
+(OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+(OBJ_AT O2 P4_4) (OBJ_AT O2 P4_3) (OBJ_AT O2 P4_2) (OBJ_AT O2 P4_1) (OBJ_AT O2 P3_4) (OBJ_AT O2 P3_3) (OBJ_AT O2 P3_2) (OBJ_AT O2 P3_1) (OBJ_AT O2 P2_4) (OBJ_AT O2 P2_3) (OBJ_AT O2 P2_2) (OBJ_AT O2 P2_1) (OBJ_AT O2 P1_4) (OBJ_AT O2 P1_1) 
+(OBJ_AT O3 P4_4) (OBJ_AT O3 P4_3) (OBJ_AT O3 P3_4) (OBJ_AT O3 P3_3) (OBJ_AT O3 P3_2) (OBJ_AT O3 P3_1) (OBJ_AT O3 P2_4) (OBJ_AT O3 P2_3) (OBJ_AT O3 P2_2) (OBJ_AT O3 P2_1) (OBJ_AT O3 P1_4) (OBJ_AT O3 P1_3) (OBJ_AT O3 P1_2) (OBJ_AT O3 P1_1) 
+H:63
+
+
+Cueing down from goal distance:   63 into depth [1]
+                                  62            [1]
+                                  61            [1]
+                                  60            [1][2]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1][2]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1][2][3]
+                                  35            [1]
+                                  34            [1][2]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1][2]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1][2]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：69
+
+var_size: 8112
+
+当前收集的断言数：3572
+
+1
+找到反例！
+
+
+第43次迭代
+当前初始状态:
+F:7 U:90
+num_Or:363
+参数大于2的OR: 
+(OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+(OBJ_AT O2 P4_4) (OBJ_AT O2 P4_3) (OBJ_AT O2 P4_2) (OBJ_AT O2 P4_1) (OBJ_AT O2 P3_4) (OBJ_AT O2 P3_3) (OBJ_AT O2 P3_2) (OBJ_AT O2 P3_1) (OBJ_AT O2 P2_4) (OBJ_AT O2 P2_3) (OBJ_AT O2 P2_2) (OBJ_AT O2 P2_1) (OBJ_AT O2 P1_4) (OBJ_AT O2 P1_3) (OBJ_AT O2 P1_1) 
+(OBJ_AT O3 P4_4) (OBJ_AT O3 P4_3) (OBJ_AT O3 P3_4) (OBJ_AT O3 P3_3) (OBJ_AT O3 P3_2) (OBJ_AT O3 P3_1) (OBJ_AT O3 P2_4) (OBJ_AT O3 P2_3) (OBJ_AT O3 P2_2) (OBJ_AT O3 P2_1) (OBJ_AT O3 P1_4) (OBJ_AT O3 P1_3) (OBJ_AT O3 P1_2) (OBJ_AT O3 P1_1) 
+H:64
+
+
+Cueing down from goal distance:   64 into depth [1]
+                                  63            [1]
+                                  62            [1]
+                                  61            [1][2]
+                                  60            [1]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1][2]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1][2][3]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1][2]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1][2]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1][2]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：70
+
+var_size: 8230
+
+当前收集的断言数：3623
+
+1
+找到反例！
+
+
+第44次迭代
+当前初始状态:
+F:6 U:92
+num_Or:363
+参数大于2的OR: 
+(OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+(OBJ_AT O2 P4_4) (OBJ_AT O2 P4_3) (OBJ_AT O2 P4_2) (OBJ_AT O2 P4_1) (OBJ_AT O2 P3_4) (OBJ_AT O2 P3_3) (OBJ_AT O2 P3_2) (OBJ_AT O2 P3_1) (OBJ_AT O2 P2_4) (OBJ_AT O2 P2_3) (OBJ_AT O2 P2_2) (OBJ_AT O2 P2_1) (OBJ_AT O2 P1_4) (OBJ_AT O2 P1_3) (OBJ_AT O2 P1_1) 
+(OBJ_AT O3 P4_4) (OBJ_AT O3 P4_3) (OBJ_AT O3 P4_1) (OBJ_AT O3 P3_4) (OBJ_AT O3 P3_3) (OBJ_AT O3 P3_2) (OBJ_AT O3 P3_1) (OBJ_AT O3 P2_4) (OBJ_AT O3 P2_3) (OBJ_AT O3 P2_2) (OBJ_AT O3 P2_1) (OBJ_AT O3 P1_4) (OBJ_AT O3 P1_3) (OBJ_AT O3 P1_2) (OBJ_AT O3 P1_1) 
+H:65
+
+
+Cueing down from goal distance:   65 into depth [1]
+                                  64            [1]
+                                  63            [1]
+                                  62            [1][2]
+                                  61            [1]
+                                  60            [1]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1][2]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1][2][3]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1][2]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1][2]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1][2]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：71
+
+var_size: 8349
+
+当前收集的断言数：3674
+
+1
+找到反例！
+
+
+第45次迭代
+当前初始状态:
+F:5 U:94
+num_Or:363
+参数大于2的OR: 
+(OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+(OBJ_AT O2 P4_4) (OBJ_AT O2 P4_3) (OBJ_AT O2 P4_2) (OBJ_AT O2 P4_1) (OBJ_AT O2 P3_4) (OBJ_AT O2 P3_3) (OBJ_AT O2 P3_2) (OBJ_AT O2 P3_1) (OBJ_AT O2 P2_4) (OBJ_AT O2 P2_3) (OBJ_AT O2 P2_2) (OBJ_AT O2 P2_1) (OBJ_AT O2 P1_4) (OBJ_AT O2 P1_3) (OBJ_AT O2 P1_1) 
+(OBJ_AT O3 P4_4) (OBJ_AT O3 P4_3) (OBJ_AT O3 P4_2) (OBJ_AT O3 P4_1) (OBJ_AT O3 P3_4) (OBJ_AT O3 P3_3) (OBJ_AT O3 P3_2) (OBJ_AT O3 P3_1) (OBJ_AT O3 P2_4) (OBJ_AT O3 P2_3) (OBJ_AT O3 P2_2) (OBJ_AT O3 P2_1) (OBJ_AT O3 P1_4) (OBJ_AT O3 P1_3) (OBJ_AT O3 P1_2) (OBJ_AT O3 P1_1) 
+H:66
+
+
+Cueing down from goal distance:   66 into depth [1]
+                                  65            [1]
+                                  64            [1]
+                                  63            [1][2]
+                                  62            [1]
+                                  61            [1]
+                                  60            [1]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1][2]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1][2][3]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1][2]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1][2]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1][2]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：72
+
+var_size: 8468
+
+当前收集的断言数：3725
+
+1
+找到反例！
+
+
+第46次迭代
+当前初始状态:
+F:4 U:96
+num_Or:363
+参数大于2的OR: 
+(OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+(OBJ_AT O2 P4_4) (OBJ_AT O2 P4_3) (OBJ_AT O2 P4_2) (OBJ_AT O2 P4_1) (OBJ_AT O2 P3_4) (OBJ_AT O2 P3_3) (OBJ_AT O2 P3_2) (OBJ_AT O2 P3_1) (OBJ_AT O2 P2_4) (OBJ_AT O2 P2_3) (OBJ_AT O2 P2_2) (OBJ_AT O2 P2_1) (OBJ_AT O2 P1_4) (OBJ_AT O2 P1_3) (OBJ_AT O2 P1_2) (OBJ_AT O2 P1_1) 
+(OBJ_AT O3 P4_4) (OBJ_AT O3 P4_3) (OBJ_AT O3 P4_2) (OBJ_AT O3 P4_1) (OBJ_AT O3 P3_4) (OBJ_AT O3 P3_3) (OBJ_AT O3 P3_2) (OBJ_AT O3 P3_1) (OBJ_AT O3 P2_4) (OBJ_AT O3 P2_3) (OBJ_AT O3 P2_2) (OBJ_AT O3 P2_1) (OBJ_AT O3 P1_4) (OBJ_AT O3 P1_3) (OBJ_AT O3 P1_2) (OBJ_AT O3 P1_1) 
+H:67
+
+
+Cueing down from goal distance:   67 into depth [1]
+                                  66            [1]
+                                  65            [1]
+                                  64            [1][2]
+                                  63            [1]
+                                  62            [1]
+                                  61            [1]
+                                  60            [1]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1][2]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1][2][3]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1][2]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1][2]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1][2]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：73
+
+var_size: 8589
+
+当前收集的断言数：3776
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: PICKUP O3 P2_2
+        1: PICKUP O2 P2_2
+        2: PICKUP O1 P2_2
+        3: MOVE P2_2 P1_2
+        4: PICKUP O3 P1_2
+        5: PICKUP O2 P1_2
+        6: PICKUP O1 P1_2
+        7: MOVE P1_2 P2_2
+        8: MOVE P2_2 P3_2
+        9: PICKUP O3 P3_2
+       10: PICKUP O2 P3_2
+       11: PICKUP O1 P3_2
+       12: MOVE P3_2 P4_2
+       13: PICKUP O3 P4_2
+       14: PICKUP O2 P4_2
+       15: PICKUP O1 P4_2
+       16: MOVE P4_2 P4_1
+       17: PICKUP O3 P4_1
+       18: PICKUP O2 P4_1
+       19: PICKUP O1 P4_1
+       20: MOVE P4_1 P3_1
+       21: PICKUP O3 P3_1
+       22: PICKUP O2 P3_1
+       23: PICKUP O1 P3_1
+       24: MOVE P3_1 P2_1
+       25: PICKUP O3 P2_1
+       26: PICKUP O2 P2_1
+       27: PICKUP O1 P2_1
+       28: MOVE P2_1 P1_1
+       29: PICKUP O3 P1_1
+       30: PICKUP O2 P1_1
+       31: PICKUP O1 P1_1
+       32: MOVE P1_1 P1_2
+       33: MOVE P1_2 P1_3
+       34: PICKUP O3 P1_3
+       35: PICKUP O2 P1_3
+       36: PICKUP O1 P1_3
+       37: MOVE P1_3 P1_4
+       38: PICKUP O3 P1_4
+       39: PICKUP O2 P1_4
+       40: PICKUP O1 P1_4
+       41: MOVE P1_4 P2_4
+       42: PICKUP O3 P2_4
+       43: PICKUP O2 P2_4
+       44: PICKUP O1 P2_4
+       45: MOVE P2_4 P2_3
+       46: PICKUP O3 P2_3
+       47: PICKUP O2 P2_3
+       48: PICKUP O1 P2_3
+       49: MOVE P2_3 P3_3
+       50: PICKUP O3 P3_3
+       51: PICKUP O2 P3_3
+       52: PICKUP O1 P3_3
+       53: MOVE P3_3 P3_4
+       54: PICKUP O3 P3_4
+       55: PICKUP O2 P3_4
+       56: PICKUP O1 P3_4
+       57: MOVE P3_4 P4_4
+       58: PICKUP O3 P4_4
+       59: PICKUP O2 P4_4
+       60: PICKUP O1 P4_4
+       61: MOVE P4_4 P4_3
+       62: PICKUP O3 P4_3
+       63: PICKUP O2 P4_3
+       64: PICKUP O1 P4_3
+       65: MOVE P4_3 P4_2
+       66: MOVE P4_2 P4_1
+       67: MOVE P4_1 P3_1
+       68: MOVE P3_1 P2_1
+       69: MOVE P2_1 P1_1
+       70: DROP O1 P1_1
+       71: DROP O2 P1_1
+       72: DROP O3 P1_1
+     
+
+statistics:    0.00 seconds instantiating 99 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 121 facts and 99 actions
+               0.00 seconds creating final representation with 121 relevant facts (105 max U, 54 CNF max U)
+               0.00 seconds building connectivity graph
+               1.35 seconds (   1.19 pure) evaluating 3693 states, to a max depth of 7
+               0.16 seconds in DP for 40814 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.06 seconds generating,    0.01 seconds encoding 11774 state transition base CNFs
+               0.45 seconds in DP solving 6086 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.26 seconds checking for stagnating states (1433 hits), including 85192 DP calls
+               0.21 seconds altogether checking for dominated states making 668 comparisons (668 conformant, 668 hits),
+                    spending    0.06 seconds doing 14329 DP calls
+             146421 total DP calls, 861945 total UP calls,    0.08 sec membership
+               0.85 seconds for remaining searching duties
+               3.19 seconds total time (+    0.82 secs for CNF memory allocation)
+
+初始目标状态
+Fold:4 Uold:96
+num_Orold:363
+参数大于2的OR: 
+(OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+(OBJ_AT O2 P4_4) (OBJ_AT O2 P4_3) (OBJ_AT O2 P4_2) (OBJ_AT O2 P4_1) (OBJ_AT O2 P3_4) (OBJ_AT O2 P3_3) (OBJ_AT O2 P3_2) (OBJ_AT O2 P3_1) (OBJ_AT O2 P2_4) (OBJ_AT O2 P2_3) (OBJ_AT O2 P2_2) (OBJ_AT O2 P2_1) (OBJ_AT O2 P1_4) (OBJ_AT O2 P1_3) (OBJ_AT O2 P1_2) (OBJ_AT O2 P1_1) 
+(OBJ_AT O3 P4_4) (OBJ_AT O3 P4_3) (OBJ_AT O3 P4_2) (OBJ_AT O3 P4_1) (OBJ_AT O3 P3_4) (OBJ_AT O3 P3_3) (OBJ_AT O3 P3_2) (OBJ_AT O3 P3_1) (OBJ_AT O3 P2_4) (OBJ_AT O3 P2_3) (OBJ_AT O3 P2_2) (OBJ_AT O3 P2_1) (OBJ_AT O3 P1_4) (OBJ_AT O3 P1_3) (OBJ_AT O3 P1_2) (OBJ_AT O3 P1_1) 
+
+
+当前反例添加的目标状态
+Fcur:4 Ucur:96
+num_Orcur:363
+参数大于2的OR: 
+(OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+(OBJ_AT O2 P4_4) (OBJ_AT O2 P4_3) (OBJ_AT O2 P4_2) (OBJ_AT O2 P4_1) (OBJ_AT O2 P3_4) (OBJ_AT O2 P3_3) (OBJ_AT O2 P3_2) (OBJ_AT O2 P3_1) (OBJ_AT O2 P2_4) (OBJ_AT O2 P2_3) (OBJ_AT O2 P2_2) (OBJ_AT O2 P2_1) (OBJ_AT O2 P1_4) (OBJ_AT O2 P1_3) (OBJ_AT O2 P1_2) (OBJ_AT O2 P1_1) 
+(OBJ_AT O3 P4_4) (OBJ_AT O3 P4_3) (OBJ_AT O3 P4_2) (OBJ_AT O3 P4_1) (OBJ_AT O3 P3_4) (OBJ_AT O3 P3_3) (OBJ_AT O3 P3_2) (OBJ_AT O3 P3_1) (OBJ_AT O3 P2_4) (OBJ_AT O3 P2_3) (OBJ_AT O3 P2_2) (OBJ_AT O3 P2_1) (OBJ_AT O3 P1_4) (OBJ_AT O3 P1_3) (OBJ_AT O3 P1_2) (OBJ_AT O3 P1_1) 
+
+
+counter_time:10.93
+plan length:73
+iteration:46
+now_time:14.245131032017525

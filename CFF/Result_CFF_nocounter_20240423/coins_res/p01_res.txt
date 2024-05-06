@@ -1,0 +1,115 @@
+
+ff: parsing domain file
+domain 'COINS' defined
+ ... done.
+ff: parsing problem file
+problem 'COINS_2_2_2_21880' defined
+ ... done.
+
+
+F:
+(AT F0 P0)
+U:
+(NOT-COIN-AT C0 F1 P0)
+(NOT-COIN-AT C0 F1 P1)
+(NOT-COIN-AT C1 F1 P0)
+(NOT-COIN-AT C1 F1 P1)
+(NOT-IN E0 F0)
+(NOT-IN E0 F1)
+(NOT-IN E1 F0)
+(NOT-IN E1 F1)
+(COIN-AT C0 F1 P0)
+(COIN-AT C0 F1 P1)
+(COIN-AT C1 F1 P0)
+(COIN-AT C1 F1 P1)
+(IN E0 F0)
+(IN E0 F1)
+(IN E1 F0)
+(IN E1 F1)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(AT F0 P0)
+U:
+(NOT-COIN-AT C0 F1 P0)
+(NOT-COIN-AT C0 F1 P1)
+(NOT-COIN-AT C1 F1 P0)
+(NOT-COIN-AT C1 F1 P1)
+(NOT-IN E0 F0)
+(NOT-IN E0 F1)
+(NOT-IN E1 F0)
+(NOT-IN E1 F1)
+(COIN-AT C0 F1 P0)
+(COIN-AT C0 F1 P1)
+(COIN-AT C1 F1 P0)
+(COIN-AT C1 F1 P1)
+(IN E0 F0)
+(IN E0 F1)
+(IN E1 F0)
+(IN E1 F1)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (IN E0 F1) (IN E0 F0) 
+OR: (NOT-IN E0 F1) (NOT-IN E0 F0) 
+OR: (IN E1 F1) (IN E1 F0) 
+OR: (NOT-IN E1 F1) (NOT-IN E1 F0) 
+OR: (COIN-AT C0 F1 P1) (COIN-AT C0 F1 P0) 
+OR: (NOT-COIN-AT C0 F1 P1) (NOT-COIN-AT C0 F1 P0) 
+OR: (COIN-AT C1 F1 P1) (COIN-AT C1 F1 P0) 
+OR: (NOT-COIN-AT C1 F1 P1) (NOT-COIN-AT C1 F1 P0) H:14
+
+
+Cueing down from goal distance:   14 into depth [1]
+                                  13            [1]
+                                  12            [1][2]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: GO-UP E1 F0 F1
+        1: GO-UP E0 F0 F1
+        2: GO-DOWN E0 F1 F0
+        3: GO-DOWN E1 F1 F0
+        4: STEP-IN E0 F0 P0
+        5: GO-UP E0 F0 F1
+        6: STEP-OUT E0 F1 P0
+        7: COLLECT C1 F1 P0
+        8: COLLECT C0 F1 P0
+        9: MOVE-RIGHT F1 P0 P1
+       10: COLLECT C1 F1 P1
+       11: COLLECT C0 F1 P1
+     
+
+statistics:    0.00 seconds instantiating 24 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 28 facts and 24 actions
+               0.00 seconds creating final representation with 24 relevant facts (24 max U, 16 CNF max U)
+               0.00 seconds building connectivity graph
+               0.00 seconds (   0.00 pure) evaluating 15 states, to a max depth of 2
+               0.00 seconds in DP for 13 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 38 state transition base CNFs
+               0.00 seconds in DP solving 24 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (4 hits), including 32 DP calls
+               0.00 seconds altogether checking for dominated states making 3 comparisons (3 conformant, 3 hits),
+                    spending    0.00 seconds doing 24 DP calls
+                 93 total DP calls, 141 total UP calls,    0.00 sec membership
+               0.02 seconds for remaining searching duties
+               0.02 seconds total time (+    0.02 secs for CNF memory allocation)
+
+plan length:12
+iteration:1
+now_time:0.04623350899782963

@@ -1,0 +1,322 @@
+
+ff: parsing domain file
+domain 'BLOCKS' defined
+ ... done.
+ff: parsing problem file
+problem 'B5' defined
+ ... done.
+
+
+F:
+(NOT-ON A A)
+(NOT-ON B B)
+(NOT-ON C C)
+(NOT-ON D D)
+(NOT-ON E E)
+U:
+(NOT-ONTABLE A)
+(NOT-ONTABLE B)
+(NOT-ONTABLE C)
+(NOT-ONTABLE D)
+(NOT-ONTABLE E)
+(NOT-CLEAR A)
+(NOT-CLEAR B)
+(NOT-CLEAR C)
+(NOT-CLEAR D)
+(NOT-CLEAR E)
+(NOT-HANDEMPTY)
+(NOT-HOLDING A)
+(NOT-HOLDING B)
+(NOT-HOLDING C)
+(NOT-HOLDING D)
+(NOT-HOLDING E)
+(NOT-ON A B)
+(NOT-ON A C)
+(NOT-ON A D)
+(NOT-ON A E)
+(NOT-ON B A)
+(NOT-ON B C)
+(NOT-ON B D)
+(NOT-ON B E)
+(NOT-ON C A)
+(NOT-ON C B)
+(NOT-ON C D)
+(NOT-ON C E)
+(NOT-ON D A)
+(NOT-ON D B)
+(NOT-ON D C)
+(NOT-ON D E)
+(NOT-ON E A)
+(NOT-ON E B)
+(NOT-ON E C)
+(NOT-ON E D)
+(CLEAR A)
+(CLEAR B)
+(CLEAR C)
+(CLEAR D)
+(CLEAR E)
+(HANDEMPTY)
+(HOLDING A)
+(HOLDING B)
+(HOLDING C)
+(HOLDING D)
+(HOLDING E)
+(ON A B)
+(ON A C)
+(ON A D)
+(ON A E)
+(ON B A)
+(ON B C)
+(ON B D)
+(ON B E)
+(ON C A)
+(ON C B)
+(ON C D)
+(ON C E)
+(ON D A)
+(ON D B)
+(ON D C)
+(ON D E)
+(ON E A)
+(ON E B)
+(ON E C)
+(ON E D)
+(ONTABLE A)
+(ONTABLE B)
+(ONTABLE C)
+(ONTABLE D)
+(ONTABLE E)
+UE:
+var_size: 82
+
+当前收集的断言数：43
+
+1
+
+第1次迭代
+当前初始状态:
+F:41 U:0
+num_Or:182
+参数大于2的OR: 
+(NOT-ON C A) (NOT-ON B C) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON B D) (NOT-ON A B) 
+(NOT-ON E A) (NOT-ON B E) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON C D) (NOT-ON A C) 
+(NOT-ON E A) (NOT-ON D E) (NOT-ON A D) 
+(NOT-ON C A) (NOT-ON E C) (NOT-ON A E) 
+(NOT-ON D B) (NOT-ON C D) (NOT-ON B C) 
+(NOT-ON C B) (NOT-ON E C) (NOT-ON B E) 
+(NOT-ON E C) (NOT-ON D E) (NOT-ON C D) 
+(NOT-ON E C) (NOT-ON D E) (NOT-ON C D) 
+(NOT-ON D A) (NOT-ON C D) (NOT-ON B C) (NOT-ON A B) 
+(NOT-ON E A) (NOT-ON B C) (NOT-ON A B) 
+(NOT-ON C A) (NOT-ON B D) (NOT-ON A B) 
+(NOT-ON E A) (NOT-ON D E) (NOT-ON B D) (NOT-ON A B) 
+(NOT-ON C A) (NOT-ON E C) (NOT-ON B E) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON B E) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON B D) (NOT-ON C B) (NOT-ON A C) 
+(NOT-ON E A) (NOT-ON B E) (NOT-ON C B) (NOT-ON A C) 
+(NOT-ON D B) (NOT-ON C D) (NOT-ON A C) 
+(NOT-ON E A) (NOT-ON D E) (NOT-ON C D) (NOT-ON A C) 
+(NOT-ON C A) (NOT-ON B C) (NOT-ON D B) (NOT-ON A D) 
+(NOT-ON E A) (NOT-ON B E) (NOT-ON D B) (NOT-ON A D) 
+(NOT-ON E B) (NOT-ON D E) (NOT-ON A D) 
+(NOT-ON C A) (NOT-ON E C) (NOT-ON D E) (NOT-ON A D) 
+(NOT-ON C A) (NOT-ON B C) (NOT-ON E B) (NOT-ON A E) 
+(NOT-ON D A) (NOT-ON B D) (NOT-ON E B) (NOT-ON A E) 
+(NOT-ON C B) (NOT-ON E C) (NOT-ON A E) 
+(NOT-ON D A) (NOT-ON C D) (NOT-ON E C) (NOT-ON A E) 
+(NOT-ON E A) (NOT-ON D E) (NOT-ON C D) (NOT-ON B C) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON B C) (NOT-ON A B) 
+(NOT-ON E A) (NOT-ON B D) (NOT-ON A B) 
+(NOT-ON C A) (NOT-ON E C) (NOT-ON D E) (NOT-ON B D) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON C D) (NOT-ON E C) (NOT-ON B E) (NOT-ON A B) 
+(NOT-ON C A) (NOT-ON B E) (NOT-ON A B) 
+(NOT-ON E A) (NOT-ON D E) (NOT-ON B D) (NOT-ON C B) (NOT-ON A C) 
+(NOT-ON D A) (NOT-ON B E) (NOT-ON C B) (NOT-ON A C) 
+(NOT-ON E A) (NOT-ON B E) (NOT-ON D B) (NOT-ON C D) (NOT-ON A C) 
+(NOT-ON E B) (NOT-ON D E) (NOT-ON C D) (NOT-ON A C) 
+(NOT-ON D A) (NOT-ON B D) (NOT-ON E B) (NOT-ON A C) 
+(NOT-ON E A) (NOT-ON B C) (NOT-ON D B) (NOT-ON A D) 
+(NOT-ON C A) (NOT-ON E C) (NOT-ON B E) (NOT-ON D B) (NOT-ON A D) 
+(NOT-ON E A) (NOT-ON B E) (NOT-ON C B) (NOT-ON A D) 
+(NOT-ON C A) (NOT-ON B C) (NOT-ON E B) (NOT-ON D E) (NOT-ON A D) 
+(NOT-ON C B) (NOT-ON E C) (NOT-ON D E) (NOT-ON A D) 
+(NOT-ON D A) (NOT-ON C D) (NOT-ON B C) (NOT-ON E B) (NOT-ON A E) 
+(NOT-ON C A) (NOT-ON B D) (NOT-ON E B) (NOT-ON A E) 
+(NOT-ON D A) (NOT-ON B D) (NOT-ON C B) (NOT-ON E C) (NOT-ON A E) 
+(NOT-ON D B) (NOT-ON C D) (NOT-ON E C) (NOT-ON A E) 
+(NOT-ON C A) (NOT-ON B C) (NOT-ON D B) (NOT-ON A E) 
+H:-1
+
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+
+best first search space empty! problem proven unsolvable.
+
+
+
+规划器未寻找到规划解!
+
+
+statistics:    0.00 seconds instantiating 60 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 82 facts and 60 actions
+               0.00 seconds creating final representation with 82 relevant facts (82 max U, 41 CNF max U)
+               0.00 seconds building connectivity graph
+               0.00 seconds (   0.00 pure) evaluating 2 states, to a max depth of 0
+               0.00 seconds in DP for 0 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 0 state transition base CNFs
+               0.00 seconds in DP solving 0 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (0 hits), including 0 DP calls
+               0.00 seconds altogether checking for dominated states making 0 comparisons (0 conformant, 0 hits),
+                    spending    0.00 seconds doing 0 DP calls
+                  0 total DP calls, 0 total UP calls,    0.00 sec membership
+               0.02 seconds for remaining searching duties
+               0.02 seconds total time (+    0.04 secs for CNF memory allocation)
+
+初始目标状态
+Fold:5 Uold:72
+num_Orold:252
+参数大于2的OR: 
+(NOT-ON C A) (NOT-ON B C) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON B D) (NOT-ON A B) 
+(NOT-ON E A) (NOT-ON B E) (NOT-ON A B) 
+(NOT-ON B A) (NOT-ON C B) (NOT-ON A C) 
+(NOT-ON D A) (NOT-ON C D) (NOT-ON A C) 
+(NOT-ON E A) (NOT-ON C E) (NOT-ON A C) 
+(NOT-ON B A) (NOT-ON D B) (NOT-ON A D) 
+(NOT-ON C A) (NOT-ON D C) (NOT-ON A D) 
+(NOT-ON E A) (NOT-ON D E) (NOT-ON A D) 
+(NOT-ON B A) (NOT-ON E B) (NOT-ON A E) 
+(NOT-ON C A) (NOT-ON E C) (NOT-ON A E) 
+(NOT-ON D A) (NOT-ON E D) (NOT-ON A E) 
+(NOT-ON D B) (NOT-ON C D) (NOT-ON B C) 
+(NOT-ON E B) (NOT-ON C E) (NOT-ON B C) 
+(NOT-ON C B) (NOT-ON D C) (NOT-ON B D) 
+(NOT-ON C B) (NOT-ON E C) (NOT-ON B E) 
+(NOT-ON E C) (NOT-ON D E) (NOT-ON C D) 
+(NOT-ON E C) (NOT-ON D E) (NOT-ON C D) 
+(NOT-ON D A) (NOT-ON C D) (NOT-ON B C) (NOT-ON A B) 
+(NOT-ON E A) (NOT-ON C E) (NOT-ON B C) (NOT-ON A B) 
+(NOT-ON C A) (NOT-ON D C) (NOT-ON B D) (NOT-ON A B) 
+(NOT-ON E A) (NOT-ON D E) (NOT-ON B D) (NOT-ON A B) 
+(NOT-ON C A) (NOT-ON E C) (NOT-ON B E) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON E D) (NOT-ON B E) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON B D) (NOT-ON C B) (NOT-ON A C) 
+(NOT-ON E A) (NOT-ON B E) (NOT-ON C B) (NOT-ON A C) 
+(NOT-ON B A) (NOT-ON D B) (NOT-ON C D) (NOT-ON A C) 
+(NOT-ON E A) (NOT-ON D E) (NOT-ON C D) (NOT-ON A C) 
+(NOT-ON B A) (NOT-ON E B) (NOT-ON C E) (NOT-ON A C) 
+(NOT-ON D A) (NOT-ON E D) (NOT-ON C E) (NOT-ON A C) 
+(NOT-ON C A) (NOT-ON B C) (NOT-ON D B) (NOT-ON A D) 
+(NOT-ON E A) (NOT-ON B E) (NOT-ON D B) (NOT-ON A D) 
+(NOT-ON B A) (NOT-ON C B) (NOT-ON D C) (NOT-ON A D) 
+(NOT-ON E A) (NOT-ON C E) (NOT-ON D C) (NOT-ON A D) 
+(NOT-ON B A) (NOT-ON E B) (NOT-ON D E) (NOT-ON A D) 
+(NOT-ON C A) (NOT-ON E C) (NOT-ON D E) (NOT-ON A D) 
+(NOT-ON C A) (NOT-ON B C) (NOT-ON E B) (NOT-ON A E) 
+(NOT-ON D A) (NOT-ON B D) (NOT-ON E B) (NOT-ON A E) 
+(NOT-ON B A) (NOT-ON C B) (NOT-ON E C) (NOT-ON A E) 
+(NOT-ON D A) (NOT-ON C D) (NOT-ON E C) (NOT-ON A E) 
+(NOT-ON B A) (NOT-ON D B) (NOT-ON E D) (NOT-ON A E) 
+(NOT-ON C A) (NOT-ON D C) (NOT-ON E D) (NOT-ON A E) 
+(NOT-ON E A) (NOT-ON D E) (NOT-ON C D) (NOT-ON B C) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON E D) (NOT-ON C E) (NOT-ON B C) (NOT-ON A B) 
+(NOT-ON E A) (NOT-ON C E) (NOT-ON D C) (NOT-ON B D) (NOT-ON A B) 
+(NOT-ON C A) (NOT-ON E C) (NOT-ON D E) (NOT-ON B D) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON C D) (NOT-ON E C) (NOT-ON B E) (NOT-ON A B) 
+(NOT-ON C A) (NOT-ON D C) (NOT-ON E D) (NOT-ON B E) (NOT-ON A B) 
+(NOT-ON E A) (NOT-ON D E) (NOT-ON B D) (NOT-ON C B) (NOT-ON A C) 
+(NOT-ON D A) (NOT-ON E D) (NOT-ON B E) (NOT-ON C B) (NOT-ON A C) 
+(NOT-ON E A) (NOT-ON B E) (NOT-ON D B) (NOT-ON C D) (NOT-ON A C) 
+(NOT-ON B A) (NOT-ON E B) (NOT-ON D E) (NOT-ON C D) (NOT-ON A C) 
+(NOT-ON D A) (NOT-ON B D) (NOT-ON E B) (NOT-ON C E) (NOT-ON A C) 
+(NOT-ON B A) (NOT-ON D B) (NOT-ON E D) (NOT-ON C E) (NOT-ON A C) 
+(NOT-ON E A) (NOT-ON C E) (NOT-ON B C) (NOT-ON D B) (NOT-ON A D) 
+(NOT-ON C A) (NOT-ON E C) (NOT-ON B E) (NOT-ON D B) (NOT-ON A D) 
+(NOT-ON E A) (NOT-ON B E) (NOT-ON C B) (NOT-ON D C) (NOT-ON A D) 
+(NOT-ON B A) (NOT-ON E B) (NOT-ON C E) (NOT-ON D C) (NOT-ON A D) 
+(NOT-ON C A) (NOT-ON B C) (NOT-ON E B) (NOT-ON D E) (NOT-ON A D) 
+(NOT-ON B A) (NOT-ON C B) (NOT-ON E C) (NOT-ON D E) (NOT-ON A D) 
+(NOT-ON D A) (NOT-ON C D) (NOT-ON B C) (NOT-ON E B) (NOT-ON A E) 
+(NOT-ON C A) (NOT-ON D C) (NOT-ON B D) (NOT-ON E B) (NOT-ON A E) 
+(NOT-ON D A) (NOT-ON B D) (NOT-ON C B) (NOT-ON E C) (NOT-ON A E) 
+(NOT-ON B A) (NOT-ON D B) (NOT-ON C D) (NOT-ON E C) (NOT-ON A E) 
+(NOT-ON C A) (NOT-ON B C) (NOT-ON D B) (NOT-ON E D) (NOT-ON A E) 
+(NOT-ON B A) (NOT-ON C B) (NOT-ON D C) (NOT-ON E D) (NOT-ON A E) 
+(HOLDING E) (HOLDING D) (HOLDING C) (HOLDING B) (HOLDING A) (HANDEMPTY) 
+(ON E A) (ON D A) (ON C A) (ON B A) (CLEAR A) (HOLDING A) 
+(ON A E) (ON A D) (ON A C) (ON A B) (ONTABLE A) (HOLDING A) 
+(ON E B) (ON D B) (ON C B) (ON A B) (CLEAR B) (HOLDING B) 
+(ON B E) (ON B D) (ON B C) (ON B A) (ONTABLE B) (HOLDING B) 
+(ON E C) (ON D C) (ON B C) (ON A C) (CLEAR C) (HOLDING C) 
+(ON C E) (ON C D) (ON C B) (ON C A) (ONTABLE C) (HOLDING C) 
+(ON E D) (ON C D) (ON B D) (ON A D) (CLEAR D) (HOLDING D) 
+(ON D E) (ON D C) (ON D B) (ON D A) (ONTABLE D) (HOLDING D) 
+(ON D E) (ON C E) (ON B E) (ON A E) (CLEAR E) (HOLDING E) 
+(ON E D) (ON E C) (ON E B) (ON E A) (ONTABLE E) (HOLDING E) 
+
+
+当前反例添加的目标状态
+Fcur:41 Ucur:0
+num_Orcur:182
+参数大于2的OR: 
+(NOT-ON C A) (NOT-ON B C) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON B D) (NOT-ON A B) 
+(NOT-ON E A) (NOT-ON B E) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON C D) (NOT-ON A C) 
+(NOT-ON E A) (NOT-ON D E) (NOT-ON A D) 
+(NOT-ON C A) (NOT-ON E C) (NOT-ON A E) 
+(NOT-ON D B) (NOT-ON C D) (NOT-ON B C) 
+(NOT-ON C B) (NOT-ON E C) (NOT-ON B E) 
+(NOT-ON E C) (NOT-ON D E) (NOT-ON C D) 
+(NOT-ON E C) (NOT-ON D E) (NOT-ON C D) 
+(NOT-ON D A) (NOT-ON C D) (NOT-ON B C) (NOT-ON A B) 
+(NOT-ON E A) (NOT-ON B C) (NOT-ON A B) 
+(NOT-ON C A) (NOT-ON B D) (NOT-ON A B) 
+(NOT-ON E A) (NOT-ON D E) (NOT-ON B D) (NOT-ON A B) 
+(NOT-ON C A) (NOT-ON E C) (NOT-ON B E) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON B E) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON B D) (NOT-ON C B) (NOT-ON A C) 
+(NOT-ON E A) (NOT-ON B E) (NOT-ON C B) (NOT-ON A C) 
+(NOT-ON D B) (NOT-ON C D) (NOT-ON A C) 
+(NOT-ON E A) (NOT-ON D E) (NOT-ON C D) (NOT-ON A C) 
+(NOT-ON C A) (NOT-ON B C) (NOT-ON D B) (NOT-ON A D) 
+(NOT-ON E A) (NOT-ON B E) (NOT-ON D B) (NOT-ON A D) 
+(NOT-ON E B) (NOT-ON D E) (NOT-ON A D) 
+(NOT-ON C A) (NOT-ON E C) (NOT-ON D E) (NOT-ON A D) 
+(NOT-ON C A) (NOT-ON B C) (NOT-ON E B) (NOT-ON A E) 
+(NOT-ON D A) (NOT-ON B D) (NOT-ON E B) (NOT-ON A E) 
+(NOT-ON C B) (NOT-ON E C) (NOT-ON A E) 
+(NOT-ON D A) (NOT-ON C D) (NOT-ON E C) (NOT-ON A E) 
+(NOT-ON E A) (NOT-ON D E) (NOT-ON C D) (NOT-ON B C) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON B C) (NOT-ON A B) 
+(NOT-ON E A) (NOT-ON B D) (NOT-ON A B) 
+(NOT-ON C A) (NOT-ON E C) (NOT-ON D E) (NOT-ON B D) (NOT-ON A B) 
+(NOT-ON D A) (NOT-ON C D) (NOT-ON E C) (NOT-ON B E) (NOT-ON A B) 
+(NOT-ON C A) (NOT-ON B E) (NOT-ON A B) 
+(NOT-ON E A) (NOT-ON D E) (NOT-ON B D) (NOT-ON C B) (NOT-ON A C) 
+(NOT-ON D A) (NOT-ON B E) (NOT-ON C B) (NOT-ON A C) 
+(NOT-ON E A) (NOT-ON B E) (NOT-ON D B) (NOT-ON C D) (NOT-ON A C) 
+(NOT-ON E B) (NOT-ON D E) (NOT-ON C D) (NOT-ON A C) 
+(NOT-ON D A) (NOT-ON B D) (NOT-ON E B) (NOT-ON A C) 
+(NOT-ON E A) (NOT-ON B C) (NOT-ON D B) (NOT-ON A D) 
+(NOT-ON C A) (NOT-ON E C) (NOT-ON B E) (NOT-ON D B) (NOT-ON A D) 
+(NOT-ON E A) (NOT-ON B E) (NOT-ON C B) (NOT-ON A D) 
+(NOT-ON C A) (NOT-ON B C) (NOT-ON E B) (NOT-ON D E) (NOT-ON A D) 
+(NOT-ON C B) (NOT-ON E C) (NOT-ON D E) (NOT-ON A D) 
+(NOT-ON D A) (NOT-ON C D) (NOT-ON B C) (NOT-ON E B) (NOT-ON A E) 
+(NOT-ON C A) (NOT-ON B D) (NOT-ON E B) (NOT-ON A E) 
+(NOT-ON D A) (NOT-ON B D) (NOT-ON C B) (NOT-ON E C) (NOT-ON A E) 
+(NOT-ON D B) (NOT-ON C D) (NOT-ON E C) (NOT-ON A E) 
+(NOT-ON C A) (NOT-ON B C) (NOT-ON D B) (NOT-ON A E) 
+
+
+counter_time:0.02
+plan length:0
+iteration:1
+now_time:0.07691190899640787

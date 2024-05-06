@@ -1,0 +1,380 @@
+
+ff: parsing domain file
+domain 'UTS' defined
+ ... done.
+ff: parsing problem file
+problem 'K18' defined
+ ... done.
+
+
+F:
+U:
+(NOT-AT N1)
+(NOT-AT N2)
+(NOT-AT N3)
+(NOT-AT N4)
+(NOT-AT N5)
+(NOT-AT N6)
+(NOT-AT N7)
+(NOT-AT N8)
+(NOT-AT N9)
+(NOT-AT N10)
+(NOT-AT N11)
+(NOT-AT N12)
+(NOT-AT N13)
+(NOT-AT N14)
+(NOT-AT N15)
+(NOT-AT N16)
+(NOT-AT N17)
+(NOT-AT N18)
+(AT N1)
+(AT N10)
+(AT N11)
+(AT N12)
+(AT N13)
+(AT N14)
+(AT N15)
+(AT N16)
+(AT N17)
+(AT N18)
+(AT N2)
+(AT N3)
+(AT N4)
+(AT N5)
+(AT N6)
+(AT N7)
+(AT N8)
+(AT N9)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+U:
+(NOT-AT N1)
+(NOT-AT N2)
+(NOT-AT N3)
+(NOT-AT N4)
+(NOT-AT N5)
+(NOT-AT N6)
+(NOT-AT N7)
+(NOT-AT N8)
+(NOT-AT N9)
+(NOT-AT N10)
+(NOT-AT N11)
+(NOT-AT N12)
+(NOT-AT N13)
+(NOT-AT N14)
+(NOT-AT N15)
+(NOT-AT N16)
+(NOT-AT N17)
+(NOT-AT N18)
+(AT N1)
+(AT N10)
+(AT N11)
+(AT N12)
+(AT N13)
+(AT N14)
+(AT N15)
+(AT N16)
+(AT N17)
+(AT N18)
+(AT N2)
+(AT N3)
+(AT N4)
+(AT N5)
+(AT N6)
+(AT N7)
+(AT N8)
+(AT N9)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (AT N18) (AT N17) (AT N16) (AT N15) (AT N14) (AT N13) (AT N12) (AT N11) (AT N10) (AT N9) (AT N8) (AT N7) (AT N6) (AT N5) (AT N4) (AT N3) (AT N2) (AT N1) 
+OR: (NOT-AT N18) (NOT-AT N17) 
+OR: (NOT-AT N18) (NOT-AT N16) 
+OR: (NOT-AT N18) (NOT-AT N15) 
+OR: (NOT-AT N18) (NOT-AT N14) 
+OR: (NOT-AT N18) (NOT-AT N13) 
+OR: (NOT-AT N18) (NOT-AT N12) 
+OR: (NOT-AT N18) (NOT-AT N11) 
+OR: (NOT-AT N18) (NOT-AT N10) 
+OR: (NOT-AT N18) (NOT-AT N9) 
+OR: (NOT-AT N18) (NOT-AT N8) 
+OR: (NOT-AT N18) (NOT-AT N7) 
+OR: (NOT-AT N18) (NOT-AT N6) 
+OR: (NOT-AT N18) (NOT-AT N5) 
+OR: (NOT-AT N18) (NOT-AT N4) 
+OR: (NOT-AT N18) (NOT-AT N3) 
+OR: (NOT-AT N18) (NOT-AT N2) 
+OR: (NOT-AT N18) (NOT-AT N1) 
+OR: (NOT-AT N17) (NOT-AT N16) 
+OR: (NOT-AT N17) (NOT-AT N15) 
+OR: (NOT-AT N17) (NOT-AT N14) 
+OR: (NOT-AT N17) (NOT-AT N13) 
+OR: (NOT-AT N17) (NOT-AT N12) 
+OR: (NOT-AT N17) (NOT-AT N11) 
+OR: (NOT-AT N17) (NOT-AT N10) 
+OR: (NOT-AT N17) (NOT-AT N9) 
+OR: (NOT-AT N17) (NOT-AT N8) 
+OR: (NOT-AT N17) (NOT-AT N7) 
+OR: (NOT-AT N17) (NOT-AT N6) 
+OR: (NOT-AT N17) (NOT-AT N5) 
+OR: (NOT-AT N17) (NOT-AT N4) 
+OR: (NOT-AT N17) (NOT-AT N3) 
+OR: (NOT-AT N17) (NOT-AT N2) 
+OR: (NOT-AT N17) (NOT-AT N1) 
+OR: (NOT-AT N16) (NOT-AT N15) 
+OR: (NOT-AT N16) (NOT-AT N14) 
+OR: (NOT-AT N16) (NOT-AT N13) 
+OR: (NOT-AT N16) (NOT-AT N12) 
+OR: (NOT-AT N16) (NOT-AT N11) 
+OR: (NOT-AT N16) (NOT-AT N10) 
+OR: (NOT-AT N16) (NOT-AT N9) 
+OR: (NOT-AT N16) (NOT-AT N8) 
+OR: (NOT-AT N16) (NOT-AT N7) 
+OR: (NOT-AT N16) (NOT-AT N6) 
+OR: (NOT-AT N16) (NOT-AT N5) 
+OR: (NOT-AT N16) (NOT-AT N4) 
+OR: (NOT-AT N16) (NOT-AT N3) 
+OR: (NOT-AT N16) (NOT-AT N2) 
+OR: (NOT-AT N16) (NOT-AT N1) 
+OR: (NOT-AT N15) (NOT-AT N14) 
+OR: (NOT-AT N15) (NOT-AT N13) 
+OR: (NOT-AT N15) (NOT-AT N12) 
+OR: (NOT-AT N15) (NOT-AT N11) 
+OR: (NOT-AT N15) (NOT-AT N10) 
+OR: (NOT-AT N15) (NOT-AT N9) 
+OR: (NOT-AT N15) (NOT-AT N8) 
+OR: (NOT-AT N15) (NOT-AT N7) 
+OR: (NOT-AT N15) (NOT-AT N6) 
+OR: (NOT-AT N15) (NOT-AT N5) 
+OR: (NOT-AT N15) (NOT-AT N4) 
+OR: (NOT-AT N15) (NOT-AT N3) 
+OR: (NOT-AT N15) (NOT-AT N2) 
+OR: (NOT-AT N15) (NOT-AT N1) 
+OR: (NOT-AT N14) (NOT-AT N13) 
+OR: (NOT-AT N14) (NOT-AT N12) 
+OR: (NOT-AT N14) (NOT-AT N11) 
+OR: (NOT-AT N14) (NOT-AT N10) 
+OR: (NOT-AT N14) (NOT-AT N9) 
+OR: (NOT-AT N14) (NOT-AT N8) 
+OR: (NOT-AT N14) (NOT-AT N7) 
+OR: (NOT-AT N14) (NOT-AT N6) 
+OR: (NOT-AT N14) (NOT-AT N5) 
+OR: (NOT-AT N14) (NOT-AT N4) 
+OR: (NOT-AT N14) (NOT-AT N3) 
+OR: (NOT-AT N14) (NOT-AT N2) 
+OR: (NOT-AT N14) (NOT-AT N1) 
+OR: (NOT-AT N13) (NOT-AT N12) 
+OR: (NOT-AT N13) (NOT-AT N11) 
+OR: (NOT-AT N13) (NOT-AT N10) 
+OR: (NOT-AT N13) (NOT-AT N9) 
+OR: (NOT-AT N13) (NOT-AT N8) 
+OR: (NOT-AT N13) (NOT-AT N7) 
+OR: (NOT-AT N13) (NOT-AT N6) 
+OR: (NOT-AT N13) (NOT-AT N5) 
+OR: (NOT-AT N13) (NOT-AT N4) 
+OR: (NOT-AT N13) (NOT-AT N3) 
+OR: (NOT-AT N13) (NOT-AT N2) 
+OR: (NOT-AT N13) (NOT-AT N1) 
+OR: (NOT-AT N12) (NOT-AT N11) 
+OR: (NOT-AT N12) (NOT-AT N10) 
+OR: (NOT-AT N12) (NOT-AT N9) 
+OR: (NOT-AT N12) (NOT-AT N8) 
+OR: (NOT-AT N12) (NOT-AT N7) 
+OR: (NOT-AT N12) (NOT-AT N6) 
+OR: (NOT-AT N12) (NOT-AT N5) 
+OR: (NOT-AT N12) (NOT-AT N4) 
+OR: (NOT-AT N12) (NOT-AT N3) 
+OR: (NOT-AT N12) (NOT-AT N2) 
+OR: (NOT-AT N12) (NOT-AT N1) 
+OR: (NOT-AT N11) (NOT-AT N10) 
+OR: (NOT-AT N11) (NOT-AT N9) 
+OR: (NOT-AT N11) (NOT-AT N8) 
+OR: (NOT-AT N11) (NOT-AT N7) 
+OR: (NOT-AT N11) (NOT-AT N6) 
+OR: (NOT-AT N11) (NOT-AT N5) 
+OR: (NOT-AT N11) (NOT-AT N4) 
+OR: (NOT-AT N11) (NOT-AT N3) 
+OR: (NOT-AT N11) (NOT-AT N2) 
+OR: (NOT-AT N11) (NOT-AT N1) 
+OR: (NOT-AT N10) (NOT-AT N9) 
+OR: (NOT-AT N10) (NOT-AT N8) 
+OR: (NOT-AT N10) (NOT-AT N7) 
+OR: (NOT-AT N10) (NOT-AT N6) 
+OR: (NOT-AT N10) (NOT-AT N5) 
+OR: (NOT-AT N10) (NOT-AT N4) 
+OR: (NOT-AT N10) (NOT-AT N3) 
+OR: (NOT-AT N10) (NOT-AT N2) 
+OR: (NOT-AT N10) (NOT-AT N1) 
+OR: (NOT-AT N9) (NOT-AT N8) 
+OR: (NOT-AT N9) (NOT-AT N7) 
+OR: (NOT-AT N9) (NOT-AT N6) 
+OR: (NOT-AT N9) (NOT-AT N5) 
+OR: (NOT-AT N9) (NOT-AT N4) 
+OR: (NOT-AT N9) (NOT-AT N3) 
+OR: (NOT-AT N9) (NOT-AT N2) 
+OR: (NOT-AT N9) (NOT-AT N1) 
+OR: (NOT-AT N8) (NOT-AT N7) 
+OR: (NOT-AT N8) (NOT-AT N6) 
+OR: (NOT-AT N8) (NOT-AT N5) 
+OR: (NOT-AT N8) (NOT-AT N4) 
+OR: (NOT-AT N8) (NOT-AT N3) 
+OR: (NOT-AT N8) (NOT-AT N2) 
+OR: (NOT-AT N8) (NOT-AT N1) 
+OR: (NOT-AT N7) (NOT-AT N6) 
+OR: (NOT-AT N7) (NOT-AT N5) 
+OR: (NOT-AT N7) (NOT-AT N4) 
+OR: (NOT-AT N7) (NOT-AT N3) 
+OR: (NOT-AT N7) (NOT-AT N2) 
+OR: (NOT-AT N7) (NOT-AT N1) 
+OR: (NOT-AT N6) (NOT-AT N5) 
+OR: (NOT-AT N6) (NOT-AT N4) 
+OR: (NOT-AT N6) (NOT-AT N3) 
+OR: (NOT-AT N6) (NOT-AT N2) 
+OR: (NOT-AT N6) (NOT-AT N1) 
+OR: (NOT-AT N5) (NOT-AT N4) 
+OR: (NOT-AT N5) (NOT-AT N3) 
+OR: (NOT-AT N5) (NOT-AT N2) 
+OR: (NOT-AT N5) (NOT-AT N1) 
+OR: (NOT-AT N4) (NOT-AT N3) 
+OR: (NOT-AT N4) (NOT-AT N2) 
+OR: (NOT-AT N4) (NOT-AT N1) 
+OR: (NOT-AT N3) (NOT-AT N2) 
+OR: (NOT-AT N3) (NOT-AT N1) 
+OR: (NOT-AT N2) (NOT-AT N1) H:325
+
+
+Cueing down from goal distance:  325 into depth [1]
+                                 324            [1]
+                                 323            [1]
+                                 322            [1]
+                                 321            [1]
+                                 320            [1]
+                                 319            [1]
+                                 318            [1]
+                                 317            [1]
+                                 316            [1]
+                                 315            [1]
+                                 314            [1]
+                                 313            [1]
+                                 312            [1]
+                                 311            [1]
+                                 310            [1]
+                                 309            [1]
+                                 308            [1]
+                                 307            [1]
+                                 290            [1]
+                                 273            [1]
+                                 256            [1]
+                                 239            [1]
+                                 222            [1]
+                                 205            [1]
+                                 188            [1]
+                                 171            [1]
+                                 154            [1]
+                                 137            [1]
+                                 120            [1]
+                                 103            [1]
+                                  86            [1]
+                                  69            [1]
+                                  52            [1]
+                                  35            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: START N18
+        1: START N17
+        2: START N16
+        3: START N15
+        4: START N14
+        5: START N13
+        6: START N12
+        7: START N11
+        8: START N10
+        9: START N9
+       10: START N8
+       11: START N7
+       12: START N6
+       13: START N5
+       14: START N4
+       15: START N3
+       16: START N2
+       17: START N1
+       18: TRAVEL N17 N18
+       19: TRAVEL N16 N18
+       20: TRAVEL N15 N18
+       21: TRAVEL N14 N18
+       22: TRAVEL N13 N18
+       23: TRAVEL N12 N18
+       24: TRAVEL N11 N18
+       25: TRAVEL N10 N18
+       26: TRAVEL N9 N18
+       27: TRAVEL N8 N18
+       28: TRAVEL N7 N18
+       29: TRAVEL N6 N18
+       30: TRAVEL N5 N18
+       31: TRAVEL N4 N18
+       32: TRAVEL N3 N18
+       33: TRAVEL N2 N18
+       34: TRAVEL N1 N18
+       35: TRAVEL N18 N1
+       36: TRAVEL N1 N2
+       37: TRAVEL N2 N3
+       38: TRAVEL N3 N4
+       39: TRAVEL N4 N5
+       40: TRAVEL N5 N6
+       41: TRAVEL N6 N7
+       42: TRAVEL N7 N8
+       43: TRAVEL N8 N9
+       44: TRAVEL N9 N10
+       45: TRAVEL N10 N11
+       46: TRAVEL N11 N12
+       47: TRAVEL N12 N13
+       48: TRAVEL N13 N14
+       49: TRAVEL N14 N15
+       50: TRAVEL N15 N16
+       51: TRAVEL N16 N17
+     
+
+statistics:    0.00 seconds instantiating 342 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 55 facts and 342 actions
+               0.00 seconds creating final representation with 55 relevant facts (55 max U, 37 CNF max U)
+               0.00 seconds building connectivity graph
+               0.06 seconds (   0.06 pure) evaluating 52 states, to a max depth of 1
+               0.00 seconds in DP for 324 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.02 seconds generating,    0.00 seconds encoding 3214 state transition base CNFs
+               0.12 seconds in DP solving 9012 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.05 seconds checking for stagnating states (0 hits), including 58104 DP calls
+               2.28 seconds altogether checking for dominated states making 11628 comparisons (11628 conformant, 0 hits),
+                    spending    1.10 seconds doing 360468 DP calls
+             427908 total DP calls, 440769 total UP calls,    0.25 sec membership
+               0.04 seconds for remaining searching duties
+               2.57 seconds total time (+    0.02 secs for CNF memory allocation)
+
+plan length:52
+iteration:1
+now_time:2.7632921549957246

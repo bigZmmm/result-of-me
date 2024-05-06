@@ -1,0 +1,504 @@
+
+ff: parsing domain file
+domain 'LOOK-AND-GRAB' defined
+ ... done.
+ff: parsing problem file
+problem 'LOOK-AND-GRAB-8-3-1-NODISAPPEAR' defined
+ ... done.
+
+
+F:
+(NOT-HOLDING O1)
+(HANDEMPTY)
+(AT P4-4)
+U:
+(NOT-OBJ-AT O1 P1-1)
+(NOT-OBJ-AT O1 P1-2)
+(NOT-OBJ-AT O1 P1-3)
+(NOT-OBJ-AT O1 P1-4)
+(NOT-OBJ-AT O1 P1-5)
+(NOT-OBJ-AT O1 P1-6)
+(NOT-OBJ-AT O1 P1-7)
+(NOT-OBJ-AT O1 P1-8)
+(NOT-OBJ-AT O1 P2-1)
+(NOT-OBJ-AT O1 P2-2)
+(NOT-OBJ-AT O1 P2-3)
+(NOT-OBJ-AT O1 P2-4)
+(NOT-OBJ-AT O1 P2-5)
+(NOT-OBJ-AT O1 P2-6)
+(NOT-OBJ-AT O1 P2-7)
+(NOT-OBJ-AT O1 P2-8)
+(NOT-OBJ-AT O1 P3-1)
+(NOT-OBJ-AT O1 P3-2)
+(NOT-OBJ-AT O1 P3-3)
+(NOT-OBJ-AT O1 P3-4)
+(NOT-OBJ-AT O1 P3-5)
+(NOT-OBJ-AT O1 P3-6)
+(NOT-OBJ-AT O1 P3-7)
+(NOT-OBJ-AT O1 P3-8)
+(NOT-OBJ-AT O1 P4-1)
+(NOT-OBJ-AT O1 P4-2)
+(NOT-OBJ-AT O1 P4-3)
+(NOT-OBJ-AT O1 P4-4)
+(NOT-OBJ-AT O1 P4-5)
+(NOT-OBJ-AT O1 P4-6)
+(NOT-OBJ-AT O1 P4-7)
+(NOT-OBJ-AT O1 P4-8)
+(NOT-OBJ-AT O1 P5-1)
+(NOT-OBJ-AT O1 P5-2)
+(NOT-OBJ-AT O1 P5-3)
+(NOT-OBJ-AT O1 P5-4)
+(NOT-OBJ-AT O1 P5-5)
+(NOT-OBJ-AT O1 P5-6)
+(NOT-OBJ-AT O1 P5-7)
+(NOT-OBJ-AT O1 P5-8)
+(NOT-OBJ-AT O1 P6-1)
+(NOT-OBJ-AT O1 P6-2)
+(NOT-OBJ-AT O1 P6-3)
+(NOT-OBJ-AT O1 P6-4)
+(NOT-OBJ-AT O1 P6-5)
+(NOT-OBJ-AT O1 P6-6)
+(NOT-OBJ-AT O1 P6-7)
+(NOT-OBJ-AT O1 P6-8)
+(NOT-OBJ-AT O1 P7-1)
+(NOT-OBJ-AT O1 P7-2)
+(NOT-OBJ-AT O1 P7-3)
+(NOT-OBJ-AT O1 P7-4)
+(NOT-OBJ-AT O1 P7-5)
+(NOT-OBJ-AT O1 P7-6)
+(NOT-OBJ-AT O1 P7-7)
+(NOT-OBJ-AT O1 P7-8)
+(NOT-OBJ-AT O1 P8-1)
+(NOT-OBJ-AT O1 P8-2)
+(NOT-OBJ-AT O1 P8-3)
+(NOT-OBJ-AT O1 P8-4)
+(NOT-OBJ-AT O1 P8-5)
+(NOT-OBJ-AT O1 P8-6)
+(NOT-OBJ-AT O1 P8-7)
+(NOT-OBJ-AT O1 P8-8)
+(OBJ-AT O1 P1-1)
+(OBJ-AT O1 P1-2)
+(OBJ-AT O1 P1-3)
+(OBJ-AT O1 P1-4)
+(OBJ-AT O1 P1-5)
+(OBJ-AT O1 P1-6)
+(OBJ-AT O1 P1-7)
+(OBJ-AT O1 P1-8)
+(OBJ-AT O1 P2-1)
+(OBJ-AT O1 P2-2)
+(OBJ-AT O1 P2-3)
+(OBJ-AT O1 P2-4)
+(OBJ-AT O1 P2-5)
+(OBJ-AT O1 P2-6)
+(OBJ-AT O1 P2-7)
+(OBJ-AT O1 P2-8)
+(OBJ-AT O1 P3-1)
+(OBJ-AT O1 P3-2)
+(OBJ-AT O1 P3-3)
+(OBJ-AT O1 P3-4)
+(OBJ-AT O1 P3-5)
+(OBJ-AT O1 P3-6)
+(OBJ-AT O1 P3-7)
+(OBJ-AT O1 P3-8)
+(OBJ-AT O1 P4-1)
+(OBJ-AT O1 P4-2)
+(OBJ-AT O1 P4-3)
+(OBJ-AT O1 P4-4)
+(OBJ-AT O1 P4-5)
+(OBJ-AT O1 P4-6)
+(OBJ-AT O1 P4-7)
+(OBJ-AT O1 P4-8)
+(OBJ-AT O1 P5-1)
+(OBJ-AT O1 P5-2)
+(OBJ-AT O1 P5-3)
+(OBJ-AT O1 P5-4)
+(OBJ-AT O1 P5-5)
+(OBJ-AT O1 P5-6)
+(OBJ-AT O1 P5-7)
+(OBJ-AT O1 P5-8)
+(OBJ-AT O1 P6-1)
+(OBJ-AT O1 P6-2)
+(OBJ-AT O1 P6-3)
+(OBJ-AT O1 P6-4)
+(OBJ-AT O1 P6-5)
+(OBJ-AT O1 P6-6)
+(OBJ-AT O1 P6-7)
+(OBJ-AT O1 P6-8)
+(OBJ-AT O1 P7-1)
+(OBJ-AT O1 P7-2)
+(OBJ-AT O1 P7-3)
+(OBJ-AT O1 P7-4)
+(OBJ-AT O1 P7-5)
+(OBJ-AT O1 P7-6)
+(OBJ-AT O1 P7-7)
+(OBJ-AT O1 P7-8)
+(OBJ-AT O1 P8-1)
+(OBJ-AT O1 P8-2)
+(OBJ-AT O1 P8-3)
+(OBJ-AT O1 P8-4)
+(OBJ-AT O1 P8-5)
+(OBJ-AT O1 P8-6)
+(OBJ-AT O1 P8-7)
+(OBJ-AT O1 P8-8)
+UE:
+var_size: 132
+
+当前收集的断言数：67
+
+1
+
+第1次迭代
+当前初始状态:
+F:67 U:0
+num_Or:1953
+参数大于2的OR: 
+H:11
+
+
+Cueing down from goal distance:   11 into depth [1][2][3]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：12
+
+var_size: 1790
+
+当前收集的断言数：859
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:65 U:4
+num_Or:2017
+参数大于2的OR: 
+H:12
+
+
+Cueing down from goal distance:   12 into depth [1][2][3]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1][2][3]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   12
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：62
+
+var_size: 9318
+
+当前收集的断言数：4159
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:64 U:6
+num_Or:2017
+参数大于2的OR: 
+(OBJ-AT O1 P8-8) (OBJ-AT O1 P1-8) (OBJ-AT O1 P1-1) 
+H:13
+
+
+Cueing down from goal distance:   13 into depth [1][2][3]
+                                  12            [1][2]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1][2][3]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   13
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：185
+
+var_size: 28497
+
+当前收集的断言数：12277
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: MOVE P4-4 P3-4
+        1: MOVE P3-4 P3-3
+        2: PICKUP-3-3-LOOK-3
+        3: PUTDOWN P3-3
+        4: MOVE P3-3 P2-3
+        5: MOVE P2-3 P2-2
+        6: PICKUP-2-2-LOOK-3
+        7: PUTDOWN P2-2
+        8: MOVE P2-2 P1-2
+        9: MOVE P1-2 P1-1
+       10: PICKUP-1-1-LOOK-3
+       11: PUTDOWN P1-1
+       12: MOVE P1-1 P2-1
+       13: MOVE P2-1 P3-1
+       14: PICKUP-3-1-LOOK-3
+       15: PUTDOWN P3-1
+       16: MOVE P3-1 P2-1
+       17: MOVE P2-1 P1-1
+       18: MOVE P1-1 P1-2
+       19: MOVE P1-2 P1-3
+       20: MOVE P1-3 P1-4
+       21: MOVE P1-4 P1-5
+       22: PICKUP-1-5-LOOK-3
+       23: MOVE P1-5 P1-4
+       24: PICKUP-1-4-LOOK-3
+       25: MOVE P1-4 P1-3
+       26: MOVE P1-3 P1-2
+       27: MOVE P1-2 P1-1
+       28: PICKUP-1-1-LOOK-3
+       29: PICKUP-1-1-LOOK-3
+       30: MOVE P1-1 P2-1
+       31: PICKUP-2-1-LOOK-3
+       32: PICKUP-2-1-LOOK-3
+       33: MOVE P2-1 P1-1
+       34: MOVE P1-1 P1-2
+       35: MOVE P1-2 P1-3
+       36: MOVE P1-3 P1-4
+       37: MOVE P1-4 P1-5
+       38: MOVE P1-5 P2-5
+       39: MOVE P2-5 P3-5
+       40: MOVE P3-5 P3-4
+       41: MOVE P3-4 P3-3
+       42: PICKUP-3-3-LOOK-3
+       43: PICKUP-3-3-LOOK-3
+       44: MOVE P3-3 P2-3
+       45: MOVE P2-3 P2-2
+       46: PICKUP-2-2-LOOK-3
+       47: PICKUP-2-2-LOOK-3
+       48: MOVE P2-2 P1-2
+       49: MOVE P1-2 P1-3
+       50: MOVE P1-3 P1-4
+       51: MOVE P1-4 P1-5
+       52: PICKUP-1-5-LOOK-3
+       53: MOVE P1-5 P1-4
+       54: MOVE P1-4 P1-3
+       55: MOVE P1-3 P1-2
+       56: MOVE P1-2 P1-1
+       57: MOVE P1-1 P2-1
+       58: MOVE P2-1 P3-1
+       59: MOVE P3-1 P4-1
+       60: MOVE P4-1 P5-1
+       61: MOVE P5-1 P5-2
+       62: MOVE P5-2 P5-3
+       63: MOVE P5-3 P4-3
+       64: PICKUP-4-3-LOOK-3
+       65: PICKUP-4-3-LOOK-3
+       66: MOVE P4-3 P3-3
+       67: MOVE P3-3 P2-3
+       68: MOVE P2-3 P2-2
+       69: MOVE P2-2 P2-1
+       70: MOVE P2-1 P3-1
+       71: PICKUP-3-1-LOOK-3
+       72: PICKUP-3-1-LOOK-3
+       73: MOVE P3-1 P2-1
+       74: MOVE P2-1 P2-2
+       75: MOVE P2-2 P2-3
+       76: MOVE P2-3 P3-3
+       77: MOVE P3-3 P4-3
+       78: MOVE P4-3 P5-3
+       79: PICKUP-5-3-LOOK-3
+       80: PICKUP-5-3-LOOK-3
+       81: MOVE P5-3 P4-3
+       82: MOVE P4-3 P3-3
+       83: MOVE P3-3 P2-3
+       84: MOVE P2-3 P2-2
+       85: MOVE P2-2 P2-1
+       86: MOVE P2-1 P3-1
+       87: MOVE P3-1 P4-1
+       88: PICKUP-4-1-LOOK-3
+       89: PICKUP-4-1-LOOK-3
+       90: MOVE P4-1 P3-1
+       91: MOVE P3-1 P2-1
+       92: MOVE P2-1 P1-1
+       93: MOVE P1-1 P1-2
+       94: MOVE P1-2 P1-3
+       95: MOVE P1-3 P1-4
+       96: MOVE P1-4 P1-5
+       97: MOVE P1-5 P2-5
+       98: MOVE P2-5 P3-5
+       99: MOVE P3-5 P3-4
+      100: MOVE P3-4 P3-3
+      101: MOVE P3-3 P4-3
+      102: MOVE P4-3 P5-3
+      103: MOVE P5-3 P5-2
+      104: PICKUP-5-2-LOOK-3
+      105: PICKUP-5-2-LOOK-3
+      106: MOVE P5-2 P4-2
+      107: PICKUP-4-2-LOOK-3
+      108: PICKUP-4-2-LOOK-3
+      109: MOVE P4-2 P3-2
+      110: PICKUP-3-2-LOOK-3
+      111: PICKUP-3-2-LOOK-3
+      112: MOVE P3-2 P2-2
+      113: MOVE P2-2 P1-2
+      114: MOVE P1-2 P1-3
+      115: MOVE P1-3 P1-4
+      116: MOVE P1-4 P1-5
+      117: MOVE P1-5 P2-5
+      118: PICKUP-2-5-LOOK-3
+      119: MOVE P2-5 P2-4
+      120: MOVE P2-4 P2-3
+      121: MOVE P2-3 P2-2
+      122: MOVE P2-2 P3-2
+      123: MOVE P3-2 P4-2
+      124: MOVE P4-2 P5-2
+      125: MOVE P5-2 P5-3
+      126: MOVE P5-3 P5-4
+      127: MOVE P5-4 P4-4
+      128: MOVE P4-4 P4-5
+      129: PICKUP-4-5-LOOK-3
+      130: MOVE P4-5 P4-4
+      131: MOVE P4-4 P3-4
+      132: MOVE P3-4 P2-4
+      133: PICKUP-2-4-LOOK-3
+      134: MOVE P2-4 P2-3
+      135: MOVE P2-3 P2-2
+      136: MOVE P2-2 P3-2
+      137: MOVE P3-2 P4-2
+      138: MOVE P4-2 P5-2
+      139: MOVE P5-2 P5-1
+      140: PICKUP-5-1-LOOK-3
+      141: PICKUP-5-1-LOOK-3
+      142: MOVE P5-1 P4-1
+      143: MOVE P4-1 P3-1
+      144: MOVE P3-1 P2-1
+      145: MOVE P2-1 P1-1
+      146: MOVE P1-1 P1-2
+      147: MOVE P1-2 P1-3
+      148: MOVE P1-3 P1-4
+      149: MOVE P1-4 P1-5
+      150: MOVE P1-5 P2-5
+      151: MOVE P2-5 P3-5
+      152: MOVE P3-5 P3-4
+      153: MOVE P3-4 P3-3
+      154: MOVE P3-3 P4-3
+      155: MOVE P4-3 P5-3
+      156: MOVE P5-3 P5-4
+      157: MOVE P5-4 P5-5
+      158: PICKUP-5-5-LOOK-3
+      159: MOVE P5-5 P5-4
+      160: MOVE P5-4 P4-4
+      161: MOVE P4-4 P3-4
+      162: MOVE P3-4 P3-3
+      163: MOVE P3-3 P2-3
+      164: MOVE P2-3 P2-2
+      165: MOVE P2-2 P2-1
+      166: PICKUP-2-1-LOOK-3
+      167: PICKUP-2-1-LOOK-3
+      168: MOVE P2-1 P1-1
+      169: MOVE P1-1 P1-2
+      170: MOVE P1-2 P1-3
+      171: PICKUP-1-3-LOOK-3
+      172: MOVE P1-3 P1-2
+      173: MOVE P1-2 P1-1
+      174: MOVE P1-1 P2-1
+      175: MOVE P2-1 P3-1
+      176: PICKUP-3-1-LOOK-3
+      177: PICKUP-3-1-LOOK-3
+      178: MOVE P3-1 P2-1
+      179: MOVE P2-1 P2-2
+      180: PICKUP-2-2-LOOK-3
+      181: MOVE P2-2 P1-2
+      182: MOVE P1-2 P1-1
+      183: PICKUP-1-1-LOOK-3
+      184: PUTDOWN P1-1
+     
+
+statistics:    0.05 seconds instantiating 352 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 196 facts and 352 actions
+               0.00 seconds creating final representation with 196 relevant facts (132 max U, 66 CNF max U)
+               0.00 seconds building connectivity graph
+               1.70 seconds (   1.65 pure) evaluating 1070 states, to a max depth of 3
+               0.05 seconds in DP for 66777 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.18 seconds generating,    0.05 seconds encoding 1937 state transition base CNFs
+               0.02 seconds in DP solving 2496 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 906 DP calls
+               0.03 seconds checking for stagnating states (484 hits), including 3377 DP calls
+               0.27 seconds altogether checking for dominated states making 510 comparisons (510 conformant, 336 hits),
+                    spending    0.18 seconds doing 2742 DP calls
+              76298 total DP calls, 227571 total UP calls,    0.01 sec membership
+               0.20 seconds for remaining searching duties
+               2.50 seconds total time (+    0.23 secs for CNF memory allocation)
+
+初始目标状态
+Fold:3 Uold:128
+num_Orold:2017
+参数大于2的OR: 
+(OBJ-AT O1 P8-8) (OBJ-AT O1 P8-7) (OBJ-AT O1 P8-6) (OBJ-AT O1 P8-5) (OBJ-AT O1 P8-4) (OBJ-AT O1 P8-3) (OBJ-AT O1 P8-2) (OBJ-AT O1 P8-1) (OBJ-AT O1 P7-8) (OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-8) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-8) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-8) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-8) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-8) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-8) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+
+
+当前反例添加的目标状态
+Fcur:64 Ucur:6
+num_Orcur:2017
+参数大于2的OR: 
+(OBJ-AT O1 P8-8) (OBJ-AT O1 P1-8) (OBJ-AT O1 P1-1) 
+
+
+counter_time:5.80
+plan length:185
+iteration:3
+now_time:8.425178348988993

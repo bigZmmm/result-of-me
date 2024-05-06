@@ -1,0 +1,526 @@
+
+ff: parsing domain file
+domain 'LOOK-AND-GRAB' defined
+ ... done.
+ff: parsing problem file
+problem 'LOOK-AND-GRAB-8-2-1-NODISAPPEAR' defined
+ ... done.
+
+
+F:
+(NOT-HOLDING O1)
+(HANDEMPTY)
+(AT P4-4)
+U:
+(NOT-OBJ-AT O1 P1-1)
+(NOT-OBJ-AT O1 P1-2)
+(NOT-OBJ-AT O1 P1-3)
+(NOT-OBJ-AT O1 P1-4)
+(NOT-OBJ-AT O1 P1-5)
+(NOT-OBJ-AT O1 P1-6)
+(NOT-OBJ-AT O1 P1-7)
+(NOT-OBJ-AT O1 P1-8)
+(NOT-OBJ-AT O1 P2-1)
+(NOT-OBJ-AT O1 P2-2)
+(NOT-OBJ-AT O1 P2-3)
+(NOT-OBJ-AT O1 P2-4)
+(NOT-OBJ-AT O1 P2-5)
+(NOT-OBJ-AT O1 P2-6)
+(NOT-OBJ-AT O1 P2-7)
+(NOT-OBJ-AT O1 P2-8)
+(NOT-OBJ-AT O1 P3-1)
+(NOT-OBJ-AT O1 P3-2)
+(NOT-OBJ-AT O1 P3-3)
+(NOT-OBJ-AT O1 P3-4)
+(NOT-OBJ-AT O1 P3-5)
+(NOT-OBJ-AT O1 P3-6)
+(NOT-OBJ-AT O1 P3-7)
+(NOT-OBJ-AT O1 P3-8)
+(NOT-OBJ-AT O1 P4-1)
+(NOT-OBJ-AT O1 P4-2)
+(NOT-OBJ-AT O1 P4-3)
+(NOT-OBJ-AT O1 P4-4)
+(NOT-OBJ-AT O1 P4-5)
+(NOT-OBJ-AT O1 P4-6)
+(NOT-OBJ-AT O1 P4-7)
+(NOT-OBJ-AT O1 P4-8)
+(NOT-OBJ-AT O1 P5-1)
+(NOT-OBJ-AT O1 P5-2)
+(NOT-OBJ-AT O1 P5-3)
+(NOT-OBJ-AT O1 P5-4)
+(NOT-OBJ-AT O1 P5-5)
+(NOT-OBJ-AT O1 P5-6)
+(NOT-OBJ-AT O1 P5-7)
+(NOT-OBJ-AT O1 P5-8)
+(NOT-OBJ-AT O1 P6-1)
+(NOT-OBJ-AT O1 P6-2)
+(NOT-OBJ-AT O1 P6-3)
+(NOT-OBJ-AT O1 P6-4)
+(NOT-OBJ-AT O1 P6-5)
+(NOT-OBJ-AT O1 P6-6)
+(NOT-OBJ-AT O1 P6-7)
+(NOT-OBJ-AT O1 P6-8)
+(NOT-OBJ-AT O1 P7-1)
+(NOT-OBJ-AT O1 P7-2)
+(NOT-OBJ-AT O1 P7-3)
+(NOT-OBJ-AT O1 P7-4)
+(NOT-OBJ-AT O1 P7-5)
+(NOT-OBJ-AT O1 P7-6)
+(NOT-OBJ-AT O1 P7-7)
+(NOT-OBJ-AT O1 P7-8)
+(NOT-OBJ-AT O1 P8-1)
+(NOT-OBJ-AT O1 P8-2)
+(NOT-OBJ-AT O1 P8-3)
+(NOT-OBJ-AT O1 P8-4)
+(NOT-OBJ-AT O1 P8-5)
+(NOT-OBJ-AT O1 P8-6)
+(NOT-OBJ-AT O1 P8-7)
+(NOT-OBJ-AT O1 P8-8)
+(OBJ-AT O1 P1-1)
+(OBJ-AT O1 P1-2)
+(OBJ-AT O1 P1-3)
+(OBJ-AT O1 P1-4)
+(OBJ-AT O1 P1-5)
+(OBJ-AT O1 P1-6)
+(OBJ-AT O1 P1-7)
+(OBJ-AT O1 P1-8)
+(OBJ-AT O1 P2-1)
+(OBJ-AT O1 P2-2)
+(OBJ-AT O1 P2-3)
+(OBJ-AT O1 P2-4)
+(OBJ-AT O1 P2-5)
+(OBJ-AT O1 P2-6)
+(OBJ-AT O1 P2-7)
+(OBJ-AT O1 P2-8)
+(OBJ-AT O1 P3-1)
+(OBJ-AT O1 P3-2)
+(OBJ-AT O1 P3-3)
+(OBJ-AT O1 P3-4)
+(OBJ-AT O1 P3-5)
+(OBJ-AT O1 P3-6)
+(OBJ-AT O1 P3-7)
+(OBJ-AT O1 P3-8)
+(OBJ-AT O1 P4-1)
+(OBJ-AT O1 P4-2)
+(OBJ-AT O1 P4-3)
+(OBJ-AT O1 P4-4)
+(OBJ-AT O1 P4-5)
+(OBJ-AT O1 P4-6)
+(OBJ-AT O1 P4-7)
+(OBJ-AT O1 P4-8)
+(OBJ-AT O1 P5-1)
+(OBJ-AT O1 P5-2)
+(OBJ-AT O1 P5-3)
+(OBJ-AT O1 P5-4)
+(OBJ-AT O1 P5-5)
+(OBJ-AT O1 P5-6)
+(OBJ-AT O1 P5-7)
+(OBJ-AT O1 P5-8)
+(OBJ-AT O1 P6-1)
+(OBJ-AT O1 P6-2)
+(OBJ-AT O1 P6-3)
+(OBJ-AT O1 P6-4)
+(OBJ-AT O1 P6-5)
+(OBJ-AT O1 P6-6)
+(OBJ-AT O1 P6-7)
+(OBJ-AT O1 P6-8)
+(OBJ-AT O1 P7-1)
+(OBJ-AT O1 P7-2)
+(OBJ-AT O1 P7-3)
+(OBJ-AT O1 P7-4)
+(OBJ-AT O1 P7-5)
+(OBJ-AT O1 P7-6)
+(OBJ-AT O1 P7-7)
+(OBJ-AT O1 P7-8)
+(OBJ-AT O1 P8-1)
+(OBJ-AT O1 P8-2)
+(OBJ-AT O1 P8-3)
+(OBJ-AT O1 P8-4)
+(OBJ-AT O1 P8-5)
+(OBJ-AT O1 P8-6)
+(OBJ-AT O1 P8-7)
+(OBJ-AT O1 P8-8)
+UE:
+var_size: 132
+
+当前收集的断言数：67
+
+1
+
+第1次迭代
+当前初始状态:
+F:67 U:0
+num_Or:1953
+参数大于2的OR: 
+H:13
+
+
+Cueing down from goal distance:   13 into depth [1][2][3][4][5]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：16
+
+var_size: 2374
+
+当前收集的断言数：1123
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:65 U:4
+num_Or:2017
+参数大于2的OR: 
+H:15
+
+
+Cueing down from goal distance:   15 into depth [1][2]
+                                  14            [1][2][3][4][5][6][7]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1][2][3]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1][2][3]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   15
+                          14
+                          13
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：82
+
+var_size: 12771
+
+当前收集的断言数：5479
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:64 U:6
+num_Or:2017
+参数大于2的OR: 
+(OBJ-AT O1 P8-8) (OBJ-AT O1 P3-6) (OBJ-AT O1 P1-1) 
+H:16
+
+
+Cueing down from goal distance:   16 into depth [1][2]
+                                  15            [1][2][3]
+                                  14            [1][2][3][4]
+                                  13            [1][2][3][4][5][6]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1][2][3]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1][2][3]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   16
+                          15
+                          14
+                          13
+                          12
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：40
+
+var_size: 5954
+
+当前收集的断言数：2707
+
+1
+找到反例！
+
+
+第4次迭代
+当前初始状态:
+F:63 U:8
+num_Or:2017
+参数大于2的OR: 
+(OBJ-AT O1 P8-8) (OBJ-AT O1 P8-3) (OBJ-AT O1 P3-6) (OBJ-AT O1 P1-1) 
+H:19
+
+
+Cueing down from goal distance:   19 into depth [1][2][3]
+                                  18            [1]
+                                  17            [1][2][3]
+                                  16            [1][2][3]
+                                  15            [1][2][3][4]
+                                  14            [1][2][3][4]
+                                  13            [1][2][3][4][5][6]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1][2][3]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1][2][3]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   19
+                          18
+                          17
+                          16
+                          15
+                          13
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：39
+
+var_size: 5725
+
+当前收集的断言数：2641
+
+1
+找到反例！
+
+
+第5次迭代
+当前初始状态:
+F:62 U:10
+num_Or:2017
+参数大于2的OR: 
+(OBJ-AT O1 P8-8) (OBJ-AT O1 P8-3) (OBJ-AT O1 P3-8) (OBJ-AT O1 P3-6) (OBJ-AT O1 P1-1) 
+H:20
+
+
+Cueing down from goal distance:   20 into depth [1][2]
+                                  19            [1][2][3][4]
+                                  18            [1][2]
+                                  17            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1][2][3]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   20
+                          19
+                          18
+                          17
+                          16
+                          15
+                          14
+                          13
+                          12
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：71
+
+var_size: 10295
+
+当前收集的断言数：4753
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: MOVE P4-4 P3-4
+        1: MOVE P3-4 P3-3
+        2: PICKUP-3-3-LOOK-2
+        3: MOVE P3-3 P4-3
+        4: MOVE P4-3 P5-3
+        5: PUTDOWN P5-3
+        6: MOVE P5-3 P5-4
+        7: MOVE P5-4 P5-5
+        8: MOVE P5-5 P5-6
+        9: MOVE P5-6 P6-6
+       10: PICKUP-6-6-LOOK-2
+       11: PUTDOWN P6-6
+       12: MOVE P6-6 P5-6
+       13: MOVE P5-6 P5-5
+       14: MOVE P5-5 P5-4
+       15: MOVE P5-4 P4-4
+       16: PICKUP-4-4-LOOK-2
+       17: MOVE P4-4 P3-4
+       18: MOVE P3-4 P3-3
+       19: PUTDOWN P3-3
+       20: MOVE P3-3 P2-3
+       21: MOVE P2-3 P2-2
+       22: PICKUP-2-2-LOOK-2
+       23: PUTDOWN P2-2
+       24: MOVE P2-2 P1-2
+       25: MOVE P1-2 P1-1
+       26: PICKUP-1-1-LOOK-2
+       27: PUTDOWN P1-1
+       28: MOVE P1-1 P2-1
+       29: MOVE P2-1 P3-1
+       30: PICKUP-3-1-LOOK-2
+       31: PUTDOWN P3-1
+       32: MOVE P3-1 P2-1
+       33: MOVE P2-1 P1-1
+       34: MOVE P1-1 P1-2
+       35: MOVE P1-2 P1-3
+       36: MOVE P1-3 P1-4
+       37: MOVE P1-4 P1-5
+       38: MOVE P1-5 P1-6
+       39: PICKUP-1-6-LOOK-2
+       40: MOVE P1-6 P1-5
+       41: MOVE P1-5 P1-4
+       42: MOVE P1-4 P1-3
+       43: PICKUP-1-3-LOOK-2
+       44: MOVE P1-3 P1-2
+       45: MOVE P1-2 P1-1
+       46: PICKUP-1-1-LOOK-2
+       47: PICKUP-1-1-LOOK-2
+       48: MOVE P1-1 P2-1
+       49: PICKUP-2-1-LOOK-2
+       50: PICKUP-2-1-LOOK-2
+       51: MOVE P2-1 P3-1
+       52: PICKUP-3-1-LOOK-2
+       53: PICKUP-3-1-LOOK-2
+       54: MOVE P3-1 P4-1
+       55: PICKUP-4-1-LOOK-2
+       56: PICKUP-4-1-LOOK-2
+       57: MOVE P4-1 P5-1
+       58: PICKUP-5-1-LOOK-2
+       59: PICKUP-5-1-LOOK-2
+       60: MOVE P5-1 P6-1
+       61: PICKUP-6-1-LOOK-2
+       62: MOVE P6-1 P5-1
+       63: MOVE P5-1 P4-1
+       64: PICKUP-4-1-LOOK-2
+       65: MOVE P4-1 P3-1
+       66: MOVE P3-1 P2-1
+       67: PICKUP-2-1-LOOK-2
+       68: MOVE P2-1 P1-1
+       69: PICKUP-1-1-LOOK-2
+       70: PUTDOWN P1-1
+     
+
+statistics:    0.03 seconds instantiating 352 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 196 facts and 352 actions
+               0.00 seconds creating final representation with 196 relevant facts (132 max U, 66 CNF max U)
+               0.00 seconds building connectivity graph
+               1.98 seconds (   1.66 pure) evaluating 5581 states, to a max depth of 7
+               0.32 seconds in DP for 104817 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.64 seconds generating,    0.10 seconds encoding 17555 state transition base CNFs
+               0.10 seconds in DP solving 14153 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 1930 DP calls
+               0.11 seconds checking for stagnating states (5958 hits), including 36833 DP calls
+               1.87 seconds altogether checking for dominated states making 9409 comparisons (9344 conformant, 5675 hits),
+                    spending    0.51 seconds doing 48067 DP calls
+             205800 total DP calls, 955906 total UP calls,    0.14 sec membership
+               0.32 seconds for remaining searching duties
+               5.15 seconds total time (+    0.22 secs for CNF memory allocation)
+
+初始目标状态
+Fold:3 Uold:128
+num_Orold:2017
+参数大于2的OR: 
+(OBJ-AT O1 P8-8) (OBJ-AT O1 P8-7) (OBJ-AT O1 P8-6) (OBJ-AT O1 P8-5) (OBJ-AT O1 P8-4) (OBJ-AT O1 P8-3) (OBJ-AT O1 P8-2) (OBJ-AT O1 P8-1) (OBJ-AT O1 P7-8) (OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-8) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-8) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-8) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-8) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-8) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-8) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+
+
+当前反例添加的目标状态
+Fcur:62 Ucur:10
+num_Orcur:2017
+参数大于2的OR: 
+(OBJ-AT O1 P8-8) (OBJ-AT O1 P8-3) (OBJ-AT O1 P3-8) (OBJ-AT O1 P3-6) (OBJ-AT O1 P1-1) 
+
+
+counter_time:2.45
+plan length:71
+iteration:5
+now_time:7.723818030004622

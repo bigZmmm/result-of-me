@@ -1,0 +1,223 @@
+
+ff: parsing domain file
+domain 'COINS' defined
+ ... done.
+ff: parsing problem file
+problem 'COINS_2_4_2_29864' defined
+ ... done.
+
+
+F:
+(AT F0 P0)
+U:
+(NOT-COIN-AT C0 F0 P0)
+(NOT-COIN-AT C0 F0 P1)
+(NOT-COIN-AT C0 F0 P2)
+(NOT-COIN-AT C0 F0 P3)
+(NOT-COIN-AT C1 F0 P0)
+(NOT-COIN-AT C1 F0 P1)
+(NOT-COIN-AT C1 F0 P2)
+(NOT-COIN-AT C1 F0 P3)
+(NOT-COIN-AT C2 F0 P0)
+(NOT-COIN-AT C2 F0 P1)
+(NOT-COIN-AT C2 F0 P2)
+(NOT-COIN-AT C2 F0 P3)
+(NOT-COIN-AT C3 F1 P0)
+(NOT-COIN-AT C3 F1 P1)
+(NOT-COIN-AT C3 F1 P2)
+(NOT-COIN-AT C3 F1 P3)
+(NOT-IN E0 F0)
+(NOT-IN E0 F1)
+(NOT-IN E1 F0)
+(NOT-IN E1 F1)
+(COIN-AT C0 F0 P0)
+(COIN-AT C0 F0 P1)
+(COIN-AT C0 F0 P2)
+(COIN-AT C0 F0 P3)
+(COIN-AT C1 F0 P0)
+(COIN-AT C1 F0 P1)
+(COIN-AT C1 F0 P2)
+(COIN-AT C1 F0 P3)
+(COIN-AT C2 F0 P0)
+(COIN-AT C2 F0 P1)
+(COIN-AT C2 F0 P2)
+(COIN-AT C2 F0 P3)
+(COIN-AT C3 F1 P0)
+(COIN-AT C3 F1 P1)
+(COIN-AT C3 F1 P2)
+(COIN-AT C3 F1 P3)
+(IN E0 F0)
+(IN E0 F1)
+(IN E1 F0)
+(IN E1 F1)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(AT F0 P0)
+U:
+(NOT-COIN-AT C0 F0 P0)
+(NOT-COIN-AT C0 F0 P1)
+(NOT-COIN-AT C0 F0 P2)
+(NOT-COIN-AT C0 F0 P3)
+(NOT-COIN-AT C1 F0 P0)
+(NOT-COIN-AT C1 F0 P1)
+(NOT-COIN-AT C1 F0 P2)
+(NOT-COIN-AT C1 F0 P3)
+(NOT-COIN-AT C2 F0 P0)
+(NOT-COIN-AT C2 F0 P1)
+(NOT-COIN-AT C2 F0 P2)
+(NOT-COIN-AT C2 F0 P3)
+(NOT-COIN-AT C3 F1 P0)
+(NOT-COIN-AT C3 F1 P1)
+(NOT-COIN-AT C3 F1 P2)
+(NOT-COIN-AT C3 F1 P3)
+(NOT-IN E0 F0)
+(NOT-IN E0 F1)
+(NOT-IN E1 F0)
+(NOT-IN E1 F1)
+(COIN-AT C0 F0 P0)
+(COIN-AT C0 F0 P1)
+(COIN-AT C0 F0 P2)
+(COIN-AT C0 F0 P3)
+(COIN-AT C1 F0 P0)
+(COIN-AT C1 F0 P1)
+(COIN-AT C1 F0 P2)
+(COIN-AT C1 F0 P3)
+(COIN-AT C2 F0 P0)
+(COIN-AT C2 F0 P1)
+(COIN-AT C2 F0 P2)
+(COIN-AT C2 F0 P3)
+(COIN-AT C3 F1 P0)
+(COIN-AT C3 F1 P1)
+(COIN-AT C3 F1 P2)
+(COIN-AT C3 F1 P3)
+(IN E0 F0)
+(IN E0 F1)
+(IN E1 F0)
+(IN E1 F1)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (IN E0 F1) (IN E0 F0) 
+OR: (NOT-IN E0 F1) (NOT-IN E0 F0) 
+OR: (IN E1 F1) (IN E1 F0) 
+OR: (NOT-IN E1 F1) (NOT-IN E1 F0) 
+OR: (COIN-AT C0 F0 P3) (COIN-AT C0 F0 P2) (COIN-AT C0 F0 P1) (COIN-AT C0 F0 P0) 
+OR: (NOT-COIN-AT C0 F0 P3) (NOT-COIN-AT C0 F0 P2) 
+OR: (NOT-COIN-AT C0 F0 P3) (NOT-COIN-AT C0 F0 P1) 
+OR: (NOT-COIN-AT C0 F0 P3) (NOT-COIN-AT C0 F0 P0) 
+OR: (NOT-COIN-AT C0 F0 P2) (NOT-COIN-AT C0 F0 P1) 
+OR: (NOT-COIN-AT C0 F0 P2) (NOT-COIN-AT C0 F0 P0) 
+OR: (NOT-COIN-AT C0 F0 P1) (NOT-COIN-AT C0 F0 P0) 
+OR: (COIN-AT C1 F0 P3) (COIN-AT C1 F0 P2) (COIN-AT C1 F0 P1) (COIN-AT C1 F0 P0) 
+OR: (NOT-COIN-AT C1 F0 P3) (NOT-COIN-AT C1 F0 P2) 
+OR: (NOT-COIN-AT C1 F0 P3) (NOT-COIN-AT C1 F0 P1) 
+OR: (NOT-COIN-AT C1 F0 P3) (NOT-COIN-AT C1 F0 P0) 
+OR: (NOT-COIN-AT C1 F0 P2) (NOT-COIN-AT C1 F0 P1) 
+OR: (NOT-COIN-AT C1 F0 P2) (NOT-COIN-AT C1 F0 P0) 
+OR: (NOT-COIN-AT C1 F0 P1) (NOT-COIN-AT C1 F0 P0) 
+OR: (COIN-AT C2 F0 P3) (COIN-AT C2 F0 P2) (COIN-AT C2 F0 P1) (COIN-AT C2 F0 P0) 
+OR: (NOT-COIN-AT C2 F0 P3) (NOT-COIN-AT C2 F0 P2) 
+OR: (NOT-COIN-AT C2 F0 P3) (NOT-COIN-AT C2 F0 P1) 
+OR: (NOT-COIN-AT C2 F0 P3) (NOT-COIN-AT C2 F0 P0) 
+OR: (NOT-COIN-AT C2 F0 P2) (NOT-COIN-AT C2 F0 P1) 
+OR: (NOT-COIN-AT C2 F0 P2) (NOT-COIN-AT C2 F0 P0) 
+OR: (NOT-COIN-AT C2 F0 P1) (NOT-COIN-AT C2 F0 P0) 
+OR: (COIN-AT C3 F1 P3) (COIN-AT C3 F1 P2) (COIN-AT C3 F1 P1) (COIN-AT C3 F1 P0) 
+OR: (NOT-COIN-AT C3 F1 P3) (NOT-COIN-AT C3 F1 P2) 
+OR: (NOT-COIN-AT C3 F1 P3) (NOT-COIN-AT C3 F1 P1) 
+OR: (NOT-COIN-AT C3 F1 P3) (NOT-COIN-AT C3 F1 P0) 
+OR: (NOT-COIN-AT C3 F1 P2) (NOT-COIN-AT C3 F1 P1) 
+OR: (NOT-COIN-AT C3 F1 P2) (NOT-COIN-AT C3 F1 P0) 
+OR: (NOT-COIN-AT C3 F1 P1) (NOT-COIN-AT C3 F1 P0) H:27
+
+
+Cueing down from goal distance:   27 into depth [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1][2]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1][2][3]
+                                  18            [1][2][3]
+                                  17            [1][2][3]
+                                  16            [1][2][3]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: COLLECT C2 F0 P0
+        1: COLLECT C1 F0 P0
+        2: COLLECT C0 F0 P0
+        3: GO-UP E0 F0 F1
+        4: GO-DOWN E0 F1 F0
+        5: MOVE-RIGHT F0 P0 P1
+        6: COLLECT C2 F0 P1
+        7: COLLECT C1 F0 P1
+        8: COLLECT C0 F0 P1
+        9: MOVE-RIGHT F0 P1 P2
+       10: COLLECT C2 F0 P2
+       11: MOVE-LEFT F0 P2 P1
+       12: MOVE-RIGHT F0 P1 P2
+       13: COLLECT C1 F0 P2
+       14: MOVE-LEFT F0 P2 P1
+       15: MOVE-RIGHT F0 P1 P2
+       16: COLLECT C0 F0 P2
+       17: MOVE-LEFT F0 P2 P1
+       18: MOVE-RIGHT F0 P1 P2
+       19: GO-DOWN E1 F1 F0
+       20: MOVE-RIGHT F0 P2 P3
+       21: COLLECT C2 F0 P3
+       22: COLLECT C1 F0 P3
+       23: COLLECT C0 F0 P3
+       24: STEP-IN E1 F0 P3
+       25: GO-UP E1 F0 F1
+       26: STEP-OUT E1 F1 P3
+       27: COLLECT C3 F1 P3
+       28: MOVE-LEFT F1 P3 P2
+       29: COLLECT C3 F1 P2
+       30: MOVE-LEFT F1 P2 P1
+       31: COLLECT C3 F1 P1
+       32: MOVE-LEFT F1 P1 P0
+       33: COLLECT C3 F1 P0
+     
+
+statistics:    0.00 seconds instantiating 56 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 70 facts and 56 actions
+               0.00 seconds creating final representation with 54 relevant facts (50 max U, 30 CNF max U)
+               0.00 seconds building connectivity graph
+               0.01 seconds (   0.01 pure) evaluating 111 states, to a max depth of 3
+               0.00 seconds in DP for 362 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 494 state transition base CNFs
+               0.00 seconds in DP solving 380 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (48 hits), including 1228 DP calls
+               0.01 seconds altogether checking for dominated states making 160 comparisons (160 conformant, 160 hits),
+                    spending    0.01 seconds doing 3804 DP calls
+               5774 total DP calls, 9122 total UP calls,    0.00 sec membership
+               0.02 seconds for remaining searching duties
+               0.04 seconds total time (+    0.02 secs for CNF memory allocation)
+
+plan length:34
+iteration:1
+now_time:0.06682247000208008

@@ -1,0 +1,1000 @@
+(NOT-OBJ_AT O2 P4_8)
+(NOT-OBJ_AT O2 P5_1)
+(NOT-OBJ_AT O2 P5_2)
+(NOT-OBJ_AT O2 P5_3)
+(NOT-OBJ_AT O2 P5_4)
+(NOT-OBJ_AT O2 P5_5)
+(NOT-OBJ_AT O2 P5_6)
+(NOT-OBJ_AT O2 P5_7)
+(NOT-OBJ_AT O2 P5_8)
+(NOT-OBJ_AT O2 P6_1)
+(NOT-OBJ_AT O2 P6_2)
+(NOT-OBJ_AT O2 P6_3)
+(NOT-OBJ_AT O2 P6_4)
+(NOT-OBJ_AT O2 P6_5)
+(NOT-OBJ_AT O2 P6_6)
+(NOT-OBJ_AT O2 P6_7)
+(NOT-OBJ_AT O2 P6_8)
+(NOT-OBJ_AT O2 P7_1)
+(NOT-OBJ_AT O2 P7_2)
+(NOT-OBJ_AT O2 P7_3)
+(NOT-OBJ_AT O2 P7_4)
+(NOT-OBJ_AT O2 P7_5)
+(NOT-OBJ_AT O2 P7_6)
+(NOT-OBJ_AT O2 P7_7)
+(NOT-OBJ_AT O2 P7_8)
+(NOT-OBJ_AT O2 P8_1)
+(NOT-OBJ_AT O2 P8_2)
+(NOT-OBJ_AT O2 P8_3)
+(NOT-OBJ_AT O2 P8_4)
+(NOT-OBJ_AT O2 P8_5)
+(NOT-OBJ_AT O2 P8_6)
+(NOT-OBJ_AT O2 P8_7)
+(NOT-OBJ_AT O2 P8_8)
+(NOT-OBJ_AT O3 P1_1)
+(NOT-OBJ_AT O3 P1_2)
+(NOT-OBJ_AT O3 P1_3)
+(NOT-OBJ_AT O3 P1_4)
+(NOT-OBJ_AT O3 P1_5)
+(NOT-OBJ_AT O3 P1_6)
+(NOT-OBJ_AT O3 P1_7)
+(NOT-OBJ_AT O3 P1_8)
+(NOT-OBJ_AT O3 P2_1)
+(NOT-OBJ_AT O3 P2_2)
+(NOT-OBJ_AT O3 P2_3)
+(NOT-OBJ_AT O3 P2_4)
+(NOT-OBJ_AT O3 P2_5)
+(NOT-OBJ_AT O3 P2_6)
+(NOT-OBJ_AT O3 P2_7)
+(NOT-OBJ_AT O3 P2_8)
+(NOT-OBJ_AT O3 P3_1)
+(NOT-OBJ_AT O3 P3_2)
+(NOT-OBJ_AT O3 P3_3)
+(NOT-OBJ_AT O3 P3_4)
+(NOT-OBJ_AT O3 P3_5)
+(NOT-OBJ_AT O3 P3_6)
+(NOT-OBJ_AT O3 P3_7)
+(NOT-OBJ_AT O3 P3_8)
+(NOT-OBJ_AT O3 P4_1)
+(NOT-OBJ_AT O3 P4_2)
+(NOT-OBJ_AT O3 P4_3)
+(NOT-OBJ_AT O3 P4_4)
+(NOT-OBJ_AT O3 P4_5)
+(NOT-OBJ_AT O3 P4_6)
+(NOT-OBJ_AT O3 P4_7)
+(NOT-OBJ_AT O3 P4_8)
+(NOT-OBJ_AT O3 P5_1)
+(NOT-OBJ_AT O3 P5_2)
+(NOT-OBJ_AT O3 P5_3)
+(NOT-OBJ_AT O3 P5_4)
+(NOT-OBJ_AT O3 P5_5)
+(NOT-OBJ_AT O3 P5_6)
+(NOT-OBJ_AT O3 P5_7)
+(NOT-OBJ_AT O3 P5_8)
+(NOT-OBJ_AT O3 P6_1)
+(NOT-OBJ_AT O3 P6_2)
+(NOT-OBJ_AT O3 P6_3)
+(NOT-OBJ_AT O3 P6_4)
+(NOT-OBJ_AT O3 P6_5)
+(NOT-OBJ_AT O3 P6_6)
+(NOT-OBJ_AT O3 P6_7)
+(NOT-OBJ_AT O3 P6_8)
+(NOT-OBJ_AT O3 P7_1)
+(NOT-OBJ_AT O3 P7_2)
+(NOT-OBJ_AT O3 P7_3)
+(NOT-OBJ_AT O3 P7_4)
+(NOT-OBJ_AT O3 P7_5)
+(NOT-OBJ_AT O3 P7_6)
+(NOT-OBJ_AT O3 P7_7)
+(NOT-OBJ_AT O3 P7_8)
+(NOT-OBJ_AT O3 P8_1)
+(NOT-OBJ_AT O3 P8_2)
+(NOT-OBJ_AT O3 P8_3)
+(NOT-OBJ_AT O3 P8_4)
+(NOT-OBJ_AT O3 P8_5)
+(NOT-OBJ_AT O3 P8_6)
+(NOT-OBJ_AT O3 P8_7)
+(NOT-OBJ_AT O3 P8_8)
+(OBJ_AT O1 P1_1)
+(OBJ_AT O1 P1_2)
+(OBJ_AT O1 P1_3)
+(OBJ_AT O1 P1_4)
+(OBJ_AT O1 P1_5)
+(OBJ_AT O1 P1_6)
+(OBJ_AT O1 P1_7)
+(OBJ_AT O1 P1_8)
+(OBJ_AT O1 P2_1)
+(OBJ_AT O1 P2_2)
+(OBJ_AT O1 P2_3)
+(OBJ_AT O1 P2_4)
+(OBJ_AT O1 P2_5)
+(OBJ_AT O1 P2_6)
+(OBJ_AT O1 P2_7)
+(OBJ_AT O1 P2_8)
+(OBJ_AT O1 P3_1)
+(OBJ_AT O1 P3_2)
+(OBJ_AT O1 P3_3)
+(OBJ_AT O1 P3_4)
+(OBJ_AT O1 P3_5)
+(OBJ_AT O1 P3_6)
+(OBJ_AT O1 P3_7)
+(OBJ_AT O1 P3_8)
+(OBJ_AT O1 P4_1)
+(OBJ_AT O1 P4_2)
+(OBJ_AT O1 P4_3)
+(OBJ_AT O1 P4_4)
+(OBJ_AT O1 P4_5)
+(OBJ_AT O1 P4_6)
+(OBJ_AT O1 P4_7)
+(OBJ_AT O1 P4_8)
+(OBJ_AT O1 P5_1)
+(OBJ_AT O1 P5_2)
+(OBJ_AT O1 P5_3)
+(OBJ_AT O1 P5_4)
+(OBJ_AT O1 P5_5)
+(OBJ_AT O1 P5_6)
+(OBJ_AT O1 P5_7)
+(OBJ_AT O1 P5_8)
+(OBJ_AT O1 P6_1)
+(OBJ_AT O1 P6_2)
+(OBJ_AT O1 P6_3)
+(OBJ_AT O1 P6_4)
+(OBJ_AT O1 P6_5)
+(OBJ_AT O1 P6_6)
+(OBJ_AT O1 P6_7)
+(OBJ_AT O1 P6_8)
+(OBJ_AT O1 P7_1)
+(OBJ_AT O1 P7_2)
+(OBJ_AT O1 P7_3)
+(OBJ_AT O1 P7_4)
+(OBJ_AT O1 P7_5)
+(OBJ_AT O1 P7_6)
+(OBJ_AT O1 P7_7)
+(OBJ_AT O1 P7_8)
+(OBJ_AT O1 P8_1)
+(OBJ_AT O1 P8_2)
+(OBJ_AT O1 P8_3)
+(OBJ_AT O1 P8_4)
+(OBJ_AT O1 P8_5)
+(OBJ_AT O1 P8_6)
+(OBJ_AT O1 P8_7)
+(OBJ_AT O1 P8_8)
+(OBJ_AT O2 P1_1)
+(OBJ_AT O2 P1_2)
+(OBJ_AT O2 P1_3)
+(OBJ_AT O2 P1_4)
+(OBJ_AT O2 P1_5)
+(OBJ_AT O2 P1_6)
+(OBJ_AT O2 P1_7)
+(OBJ_AT O2 P1_8)
+(OBJ_AT O2 P2_1)
+(OBJ_AT O2 P2_2)
+(OBJ_AT O2 P2_3)
+(OBJ_AT O2 P2_4)
+(OBJ_AT O2 P2_5)
+(OBJ_AT O2 P2_6)
+(OBJ_AT O2 P2_7)
+(OBJ_AT O2 P2_8)
+(OBJ_AT O2 P3_1)
+(OBJ_AT O2 P3_2)
+(OBJ_AT O2 P3_3)
+(OBJ_AT O2 P3_4)
+(OBJ_AT O2 P3_5)
+(OBJ_AT O2 P3_6)
+(OBJ_AT O2 P3_7)
+(OBJ_AT O2 P3_8)
+(OBJ_AT O2 P4_1)
+(OBJ_AT O2 P4_2)
+(OBJ_AT O2 P4_3)
+(OBJ_AT O2 P4_4)
+(OBJ_AT O2 P4_5)
+(OBJ_AT O2 P4_6)
+(OBJ_AT O2 P4_7)
+(OBJ_AT O2 P4_8)
+(OBJ_AT O2 P5_1)
+(OBJ_AT O2 P5_2)
+(OBJ_AT O2 P5_3)
+(OBJ_AT O2 P5_4)
+(OBJ_AT O2 P5_5)
+(OBJ_AT O2 P5_6)
+(OBJ_AT O2 P5_7)
+(OBJ_AT O2 P5_8)
+(OBJ_AT O2 P6_1)
+(OBJ_AT O2 P6_2)
+(OBJ_AT O2 P6_3)
+(OBJ_AT O2 P6_4)
+(OBJ_AT O2 P6_5)
+(OBJ_AT O2 P6_6)
+(OBJ_AT O2 P6_7)
+(OBJ_AT O2 P6_8)
+(OBJ_AT O2 P7_1)
+(OBJ_AT O2 P7_2)
+(OBJ_AT O2 P7_3)
+(OBJ_AT O2 P7_4)
+(OBJ_AT O2 P7_5)
+(OBJ_AT O2 P7_6)
+(OBJ_AT O2 P7_7)
+(OBJ_AT O2 P7_8)
+(OBJ_AT O2 P8_1)
+(OBJ_AT O2 P8_2)
+(OBJ_AT O2 P8_3)
+(OBJ_AT O2 P8_4)
+(OBJ_AT O2 P8_5)
+(OBJ_AT O2 P8_6)
+(OBJ_AT O2 P8_7)
+(OBJ_AT O2 P8_8)
+(OBJ_AT O3 P1_1)
+(OBJ_AT O3 P1_2)
+(OBJ_AT O3 P1_3)
+(OBJ_AT O3 P1_4)
+(OBJ_AT O3 P1_5)
+(OBJ_AT O3 P1_6)
+(OBJ_AT O3 P1_7)
+(OBJ_AT O3 P1_8)
+(OBJ_AT O3 P2_1)
+(OBJ_AT O3 P2_2)
+(OBJ_AT O3 P2_3)
+(OBJ_AT O3 P2_4)
+(OBJ_AT O3 P2_5)
+(OBJ_AT O3 P2_6)
+(OBJ_AT O3 P2_7)
+(OBJ_AT O3 P2_8)
+(OBJ_AT O3 P3_1)
+(OBJ_AT O3 P3_2)
+(OBJ_AT O3 P3_3)
+(OBJ_AT O3 P3_4)
+(OBJ_AT O3 P3_5)
+(OBJ_AT O3 P3_6)
+(OBJ_AT O3 P3_7)
+(OBJ_AT O3 P3_8)
+(OBJ_AT O3 P4_1)
+(OBJ_AT O3 P4_2)
+(OBJ_AT O3 P4_3)
+(OBJ_AT O3 P4_4)
+(OBJ_AT O3 P4_5)
+(OBJ_AT O3 P4_6)
+(OBJ_AT O3 P4_7)
+(OBJ_AT O3 P4_8)
+(OBJ_AT O3 P5_1)
+(OBJ_AT O3 P5_2)
+(OBJ_AT O3 P5_3)
+(OBJ_AT O3 P5_4)
+(OBJ_AT O3 P5_5)
+(OBJ_AT O3 P5_6)
+(OBJ_AT O3 P5_7)
+(OBJ_AT O3 P5_8)
+(OBJ_AT O3 P6_1)
+(OBJ_AT O3 P6_2)
+(OBJ_AT O3 P6_3)
+(OBJ_AT O3 P6_4)
+(OBJ_AT O3 P6_5)
+(OBJ_AT O3 P6_6)
+(OBJ_AT O3 P6_7)
+(OBJ_AT O3 P6_8)
+(OBJ_AT O3 P7_1)
+(OBJ_AT O3 P7_2)
+(OBJ_AT O3 P7_3)
+(OBJ_AT O3 P7_4)
+(OBJ_AT O3 P7_5)
+(OBJ_AT O3 P7_6)
+(OBJ_AT O3 P7_7)
+(OBJ_AT O3 P7_8)
+(OBJ_AT O3 P8_1)
+(OBJ_AT O3 P8_2)
+(OBJ_AT O3 P8_3)
+(OBJ_AT O3 P8_4)
+(OBJ_AT O3 P8_5)
+(OBJ_AT O3 P8_6)
+(OBJ_AT O3 P8_7)
+(OBJ_AT O3 P8_8)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (OBJ_AT O1 P8_8) (OBJ_AT O1 P8_7) (OBJ_AT O1 P8_6) (OBJ_AT O1 P8_5) (OBJ_AT O1 P8_4) (OBJ_AT O1 P8_3) (OBJ_AT O1 P8_2) (OBJ_AT O1 P8_1) (OBJ_AT O1 P7_8) (OBJ_AT O1 P7_7) (OBJ_AT O1 P7_6) (OBJ_AT O1 P7_5) (OBJ_AT O1 P7_4) (OBJ_AT O1 P7_3) (OBJ_AT O1 P7_2) (OBJ_AT O1 P7_1) (OBJ_AT O1 P6_8) (OBJ_AT O1 P6_7) (OBJ_AT O1 P6_6) (OBJ_AT O1 P6_5) (OBJ_AT O1 P6_4) (OBJ_AT O1 P6_3) (OBJ_AT O1 P6_2) (OBJ_AT O1 P6_1) (OBJ_AT O1 P5_8) (OBJ_AT O1 P5_7) (OBJ_AT O1 P5_6) (OBJ_AT O1 P5_5) (OBJ_AT O1 P5_4) (OBJ_AT O1 P5_3) (OBJ_AT O1 P5_2) (OBJ_AT O1 P5_1) (OBJ_AT O1 P4_8) (OBJ_AT O1 P4_7) (OBJ_AT O1 P4_6) (OBJ_AT O1 P4_5) (OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_8) (OBJ_AT O1 P3_7) (OBJ_AT O1 P3_6) (OBJ_AT O1 P3_5) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_8) (OBJ_AT O1 P2_7) (OBJ_AT O1 P2_6) (OBJ_AT O1 P2_5) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_8) (OBJ_AT O1 P1_7) (OBJ_AT O1 P1_6) (OBJ_AT O1 P1_5) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+OR: (OBJ_AT O2 P8_8) (OBJ_AT O2 P8_7) (OBJ_AT O2 P8_6) (OBJ_AT O2 P8_5) (OBJ_AT O2 P8_4) (OBJ_AT O2 P8_3) (OBJ_AT O2 P8_2) (OBJ_AT O2 P8_1) (OBJ_AT O2 P7_8) (OBJ_AT O2 P7_7) (OBJ_AT O2 P7_6) (OBJ_AT O2 P7_5) (OBJ_AT O2 P7_4) (OBJ_AT O2 P7_3) (OBJ_AT O2 P7_2) (OBJ_AT O2 P7_1) (OBJ_AT O2 P6_8) (OBJ_AT O2 P6_7) (OBJ_AT O2 P6_6) (OBJ_AT O2 P6_5) (OBJ_AT O2 P6_4) (OBJ_AT O2 P6_3) (OBJ_AT O2 P6_2) (OBJ_AT O2 P6_1) (OBJ_AT O2 P5_8) (OBJ_AT O2 P5_7) (OBJ_AT O2 P5_6) (OBJ_AT O2 P5_5) (OBJ_AT O2 P5_4) (OBJ_AT O2 P5_3) (OBJ_AT O2 P5_2) (OBJ_AT O2 P5_1) (OBJ_AT O2 P4_8) (OBJ_AT O2 P4_7) (OBJ_AT O2 P4_6) (OBJ_AT O2 P4_5) (OBJ_AT O2 P4_4) (OBJ_AT O2 P4_3) (OBJ_AT O2 P4_2) (OBJ_AT O2 P4_1) (OBJ_AT O2 P3_8) (OBJ_AT O2 P3_7) (OBJ_AT O2 P3_6) (OBJ_AT O2 P3_5) (OBJ_AT O2 P3_4) (OBJ_AT O2 P3_3) (OBJ_AT O2 P3_2) (OBJ_AT O2 P3_1) (OBJ_AT O2 P2_8) (OBJ_AT O2 P2_7) (OBJ_AT O2 P2_6) (OBJ_AT O2 P2_5) (OBJ_AT O2 P2_4) (OBJ_AT O2 P2_3) (OBJ_AT O2 P2_2) (OBJ_AT O2 P2_1) (OBJ_AT O2 P1_8) (OBJ_AT O2 P1_7) (OBJ_AT O2 P1_6) (OBJ_AT O2 P1_5) (OBJ_AT O2 P1_4) (OBJ_AT O2 P1_3) (OBJ_AT O2 P1_2) (OBJ_AT O2 P1_1) 
+OR: (OBJ_AT O3 P8_8) (OBJ_AT O3 P8_7) (OBJ_AT O3 P8_6) (OBJ_AT O3 P8_5) (OBJ_AT O3 P8_4) (OBJ_AT O3 P8_3) (OBJ_AT O3 P8_2) (OBJ_AT O3 P8_1) (OBJ_AT O3 P7_8) (OBJ_AT O3 P7_7) (OBJ_AT O3 P7_6) (OBJ_AT O3 P7_5) (OBJ_AT O3 P7_4) (OBJ_AT O3 P7_3) (OBJ_AT O3 P7_2) (OBJ_AT O3 P7_1) (OBJ_AT O3 P6_8) (OBJ_AT O3 P6_7) (OBJ_AT O3 P6_6) (OBJ_AT O3 P6_5) (OBJ_AT O3 P6_4) (OBJ_AT O3 P6_3) (OBJ_AT O3 P6_2) (OBJ_AT O3 P6_1) (OBJ_AT O3 P5_8) (OBJ_AT O3 P5_7) (OBJ_AT O3 P5_6) (OBJ_AT O3 P5_5) (OBJ_AT O3 P5_4) (OBJ_AT O3 P5_3) (OBJ_AT O3 P5_2) (OBJ_AT O3 P5_1) (OBJ_AT O3 P4_8) (OBJ_AT O3 P4_7) (OBJ_AT O3 P4_6) (OBJ_AT O3 P4_5) (OBJ_AT O3 P4_4) (OBJ_AT O3 P4_3) (OBJ_AT O3 P4_2) (OBJ_AT O3 P4_1) (OBJ_AT O3 P3_8) (OBJ_AT O3 P3_7) (OBJ_AT O3 P3_6) (OBJ_AT O3 P3_5) (OBJ_AT O3 P3_4) (OBJ_AT O3 P3_3) (OBJ_AT O3 P3_2) (OBJ_AT O3 P3_1) (OBJ_AT O3 P2_8) (OBJ_AT O3 P2_7) (OBJ_AT O3 P2_6) (OBJ_AT O3 P2_5) (OBJ_AT O3 P2_4) (OBJ_AT O3 P2_3) (OBJ_AT O3 P2_2) (OBJ_AT O3 P2_1) (OBJ_AT O3 P1_8) (OBJ_AT O3 P1_7) (OBJ_AT O3 P1_6) (OBJ_AT O3 P1_5) (OBJ_AT O3 P1_4) (OBJ_AT O3 P1_3) (OBJ_AT O3 P1_2) (OBJ_AT O3 P1_1) H:259
+
+
+Cueing down from goal distance:  259 into depth [1]
+                                 258            [1]
+                                 257            [1]
+                                 256            [1][2]
+                                 255            [1]
+                                 254            [1]
+                                 253            [1]
+                                 252            [1]
+                                 251            [1]
+                                 250            [1]
+                                 249            [1]
+                                 248            [1]
+                                 247            [1]
+                                 246            [1]
+                                 245            [1][2]
+                                 244            [1]
+                                 243            [1]
+                                 242            [1][2]
+                                 241            [1]
+                                 240            [1]
+                                 239            [1][2]
+                                 238            [1]
+                                 237            [1]
+                                 236            [1][2]
+                                 235            [1]
+                                 234            [1]
+                                 233            [1][2]
+                                 232            [1]
+                                 231            [1]
+                                 230            [1]
+                                 229            [1]
+                                 228            [1]
+                                 227            [1]
+                                 226            [1]
+                                 225            [1]
+                                 224            [1][2]
+                                 223            [1]
+                                 222            [1]
+                                 221            [1]
+                                 220            [1][2]
+                                 219            [1]
+                                 218            [1]
+                                 217            [1][2]
+                                 216            [1]
+                                 215            [1]
+                                 214            [1][2][3]
+                                 213            [1][2][3]
+                                 212            [1][2][3]
+                                 211            [1]
+                                 210            [1][2]
+                                 209            [1]
+                                 208            [1]
+                                 207            [1]
+                                 206            [1]
+                                 205            [1]
+                                 204            [1]
+                                 203            [1]
+                                 202            [1]
+                                 201            [1]
+                                 200            [1]
+                                 199            [1]
+                                 198            [1][2]
+                                 197            [1]
+                                 196            [1]
+                                 195            [1][2]
+                                 194            [1]
+                                 193            [1]
+                                 192            [1][2]
+                                 191            [1]
+                                 190            [1]
+                                 189            [1][2]
+                                 188            [1]
+                                 187            [1]
+                                 186            [1][2]
+                                 185            [1]
+                                 184            [1]
+                                 183            [1][2]
+                                 182            [1]
+                                 181            [1]
+                                 180            [1][2]
+                                 179            [1]
+                                 178            [1]
+                                 177            [1][2][3]
+                                 176            [1]
+                                 175            [1]
+                                 174            [1]
+                                 173            [1][2][3]
+                                 172            [1][2][3]
+                                 171            [1][2][3]
+                                 170            [1][2][3][4]
+                                 169            [1][2][3]
+                                 168            [1][2][3]
+                                 167            [1]
+                                 166            [1][2]
+                                 165            [1][2][3]
+                                 164            [1]
+                                 163            [1]
+                                 162            [1][2][3]
+                                 161            [1][2][3]
+                                 160            [1][2][3]
+                                 159            [1]
+                                 157            [1][2][3]
+                                 156            [1][2][3]
+                                 155            [1][2][3]
+                                 154            [1]
+                                 152            [1][2][3]
+                                 151            [1][2][3]
+                                 150            [1][2][3]
+                                 149            [1]
+                                 147            [1]
+                                 146            [1][2][3]
+                                 145            [1]
+                                 144            [1][2]
+                                 143            [1][2]
+                                 142            [1]
+                                 141            [1]
+                                 140            [1][2]
+                                 139            [1]
+                                 138            [1]
+                                 137            [1]
+                                 136            [1]
+                                 135            [1]
+                                 134            [1]
+                                 133            [1]
+                                 132            [1]
+                                 131            [1]
+                                 130            [1]
+                                 129            [1][2]
+                                 128            [1]
+                                 127            [1]
+                                 126            [1][2][3]
+                                 125            [1][2][3]
+                                 124            [1][2][3]
+                                 123            [1][2]
+                                 122            [1]
+                                 121            [1]
+                                 120            [1][2][3]
+                                 119            [1][2][3]
+                                 118            [1][2][3]
+                                 117            [1][2]
+                                 116            [1]
+                                 115            [1]
+                                 114            [1][2][3]
+                                 113            [1][2][3]
+                                 112            [1][2][3]
+                                 111            [1][2]
+                                 110            [1]
+                                 109            [1]
+                                 108            [1]
+                                 107            [1]
+                                 106            [1]
+                                 105            [1]
+                                 104            [1][2][3]
+                                 103            [1]
+                                 102            [1]
+                                 101            [1]
+                                 100            [1][2]
+                                  99            [1]
+                                  98            [1]
+                                  97            [1][2]
+                                  96            [1]
+                                  95            [1]
+                                  94            [1]
+                                  93            [1]
+                                  92            [1]
+                                  91            [1]
+                                  90            [1][2]
+                                  89            [1][2][3][4][5]
+                                  88            [1]
+                                  87            [1]
+                                  86            [1]
+                                  85            [1]
+                                  84            [1]
+                                  83            [1][2]
+                                  82            [1]
+                                  81            [1]
+                                  80            [1]
+                                  79            [1]
+                                  78            [1]
+                                  77            [1]
+                                  76            [1][2]
+                                  73            [1][2][3]
+                                  72            [1]
+                                  71            [1]
+                                  70            [1]
+                                  69            [1][2][3]
+                                  68            [1]
+                                  67            [1][2]
+                                  66            [1][2][3][4][5][6]
+                                  65            [1][2][3][4][5]
+                                  64            [1][2][3][4][5]
+                                  63            [1]
+                                  62            [1][2][3][4][5][6]
+                                  61            [1][2]
+                                  59            [1][2][3][4][5][6]
+                                  58            [1][2][3][4][5]
+                                  57            [1][2][3][4][5]
+                                  56            [1][2][3][4][5][6]
+                                  55            [1][2][3][4][5]
+                                  54            [1][2][3][4][5]
+                                  53            [1][2]
+                                  52            [1][2][3][4][5]
+                                  51            [1][2][3]
+                                  50            [1][2][3]
+                                  49            [1][2][3][4][5]
+                                  48            [1][2]
+                                  45            [1][2][3][4]
+                                  44            [1][2][3]
+                                  43            [1][2][3]
+                                  41            [1]
+                                  40            [1][2][3]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1][2][3][4][5]
+                                  36            [1][2][3][4][5]
+                                  35            [1][2][3][4][5]
+                                  32            [1][2][3][4][5][6]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1][2]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1][2]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  17            [1]
+                                  15            [1]
+                                  13            [1]
+                                  11            [1]
+                                   9            [1][2][3]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: PICKUP O3 P4_4
+        1: PICKUP O2 P4_4
+        2: PICKUP O1 P4_4
+        3: MOVE P4_4 P3_4
+        4: PICKUP O3 P3_4
+        5: PICKUP O2 P3_4
+        6: PICKUP O1 P3_4
+        7: MOVE P3_4 P3_5
+        8: PICKUP O3 P3_5
+        9: PICKUP O2 P3_5
+       10: PICKUP O1 P3_5
+       11: MOVE P3_5 P2_5
+       12: PICKUP O3 P2_5
+       13: PICKUP O2 P2_5
+       14: PICKUP O1 P2_5
+       15: MOVE P2_5 P1_5
+       16: PICKUP O3 P1_5
+       17: PICKUP O2 P1_5
+       18: PICKUP O1 P1_5
+       19: MOVE P1_5 P1_6
+       20: PICKUP O3 P1_6
+       21: PICKUP O2 P1_6
+       22: PICKUP O1 P1_6
+       23: MOVE P1_6 P1_7
+       24: PICKUP O3 P1_7
+       25: PICKUP O2 P1_7
+       26: PICKUP O1 P1_7
+       27: MOVE P1_7 P1_8
+       28: PICKUP O3 P1_8
+       29: PICKUP O2 P1_8
+       30: PICKUP O1 P1_8
+       31: MOVE P1_8 P1_7
+       32: MOVE P1_7 P2_7
+       33: PICKUP O3 P2_7
+       34: PICKUP O2 P2_7
+       35: PICKUP O1 P2_7
+       36: MOVE P2_7 P2_6
+       37: PICKUP O3 P2_6
+       38: PICKUP O2 P2_6
+       39: PICKUP O1 P2_6
+       40: MOVE P2_6 P2_5
+       41: MOVE P2_5 P2_4
+       42: MOVE P2_4 P2_3
+       43: PICKUP O3 P2_3
+       44: PICKUP O2 P2_3
+       45: PICKUP O1 P2_3
+       46: MOVE P2_3 P2_2
+       47: PICKUP O3 P2_2
+       48: PICKUP O2 P2_2
+       49: PICKUP O1 P2_2
+       50: MOVE P2_2 P2_1
+       51: PICKUP O3 P2_1
+       52: PICKUP O2 P2_1
+       53: PICKUP O1 P2_1
+       54: MOVE P2_1 P1_1
+       55: PICKUP O3 P1_1
+       56: MOVE P1_1 P2_1
+       57: MOVE P2_1 P1_1
+       58: PICKUP O2 P1_1
+       59: MOVE P1_1 P2_1
+       60: MOVE P2_1 P1_1
+       61: PICKUP O1 P1_1
+       62: MOVE P1_1 P2_1
+       63: MOVE P2_1 P2_2
+       64: MOVE P2_2 P2_3
+       65: MOVE P2_3 P3_3
+       66: PICKUP O3 P3_3
+       67: PICKUP O2 P3_3
+       68: PICKUP O1 P3_3
+       69: MOVE P3_3 P4_3
+       70: PICKUP O3 P4_3
+       71: PICKUP O2 P4_3
+       72: PICKUP O1 P4_3
+       73: MOVE P4_3 P5_3
+       74: PICKUP O3 P5_3
+       75: PICKUP O2 P5_3
+       76: PICKUP O1 P5_3
+       77: MOVE P5_3 P5_2
+       78: PICKUP O3 P5_2
+       79: PICKUP O2 P5_2
+       80: PICKUP O1 P5_2
+       81: MOVE P5_2 P6_2
+       82: PICKUP O3 P6_2
+       83: PICKUP O2 P6_2
+       84: PICKUP O1 P6_2
+       85: MOVE P6_2 P6_3
+       86: PICKUP O3 P6_3
+       87: PICKUP O2 P6_3
+       88: PICKUP O1 P6_3
+       89: MOVE P6_3 P7_3
+       90: PICKUP O3 P7_3
+       91: PICKUP O2 P7_3
+       92: PICKUP O1 P7_3
+       93: MOVE P7_3 P7_2
+       94: PICKUP O3 P7_2
+       95: PICKUP O2 P7_2
+       96: PICKUP O1 P7_2
+       97: MOVE P7_2 P8_2
+       98: PICKUP O3 P8_2
+       99: PICKUP O2 P8_2
+      100: PICKUP O1 P8_2
+      101: MOVE P8_2 P7_2
+      102: MOVE P7_2 P7_3
+      103: MOVE P7_3 P6_3
+      104: MOVE P6_3 P5_3
+      105: MOVE P5_3 P5_4
+      106: PICKUP O3 P5_4
+      107: PICKUP O2 P5_4
+      108: PICKUP O1 P5_4
+      109: MOVE P5_4 P4_4
+      110: MOVE P4_4 P4_3
+      111: MOVE P4_3 P4_2
+      112: PICKUP O3 P4_2
+      113: MOVE P4_2 P4_3
+      114: MOVE P4_3 P4_2
+      115: PICKUP O2 P4_2
+      116: MOVE P4_2 P4_3
+      117: MOVE P4_3 P4_2
+      118: PICKUP O1 P4_2
+      119: MOVE P4_2 P4_3
+      120: MOVE P4_3 P4_2
+      121: MOVE P4_2 P3_2
+      122: PICKUP O3 P3_2
+      123: MOVE P3_2 P3_3
+      124: MOVE P3_3 P3_2
+      125: PICKUP O2 P3_2
+      126: MOVE P3_2 P3_3
+      127: MOVE P3_3 P3_2
+      128: PICKUP O1 P3_2
+      129: MOVE P3_2 P3_3
+      130: MOVE P3_3 P4_3
+      131: MOVE P4_3 P5_3
+      132: MOVE P5_3 P6_3
+      133: MOVE P6_3 P7_3
+      134: MOVE P7_3 P8_3
+      135: PICKUP O3 P8_3
+      136: PICKUP O2 P8_3
+      137: PICKUP O1 P8_3
+      138: MOVE P8_3 P8_4
+      139: PICKUP O3 P8_4
+      140: MOVE P8_4 P8_3
+      141: MOVE P8_3 P8_4
+      142: PICKUP O2 P8_4
+      143: MOVE P8_4 P8_3
+      144: MOVE P8_3 P8_4
+      145: PICKUP O1 P8_4
+      146: MOVE P8_4 P8_3
+      147: MOVE P8_3 P7_3
+      148: MOVE P7_3 P7_4
+      149: PICKUP O3 P7_4
+      150: MOVE P7_4 P7_3
+      151: MOVE P7_3 P7_4
+      152: PICKUP O2 P7_4
+      153: MOVE P7_4 P7_3
+      154: MOVE P7_3 P7_4
+      155: PICKUP O1 P7_4
+      156: MOVE P7_4 P7_3
+      157: MOVE P7_3 P6_3
+      158: MOVE P6_3 P6_4
+      159: PICKUP O3 P6_4
+      160: MOVE P6_4 P6_3
+      161: MOVE P6_3 P6_4
+      162: PICKUP O2 P6_4
+      163: MOVE P6_4 P6_3
+      164: MOVE P6_3 P6_4
+      165: PICKUP O1 P6_4
+      166: MOVE P6_4 P5_4
+      167: MOVE P5_4 P4_4
+      168: MOVE P4_4 P3_4
+      169: MOVE P3_4 P2_4
+      170: PICKUP O3 P2_4
+      171: PICKUP O2 P2_4
+      172: PICKUP O1 P2_4
+      173: MOVE P2_4 P2_5
+      174: MOVE P2_5 P3_5
+      175: MOVE P3_5 P3_6
+      176: PICKUP O3 P3_6
+      177: PICKUP O2 P3_6
+      178: PICKUP O1 P3_6
+      179: MOVE P3_6 P3_7
+      180: PICKUP O3 P3_7
+      181: PICKUP O2 P3_7
+      182: PICKUP O1 P3_7
+      183: MOVE P3_7 P4_7
+      184: PICKUP O3 P4_7
+      185: PICKUP O2 P4_7
+      186: PICKUP O1 P4_7
+      187: MOVE P4_7 P4_8
+      188: PICKUP O3 P4_8
+      189: PICKUP O2 P4_8
+      190: PICKUP O1 P4_8
+      191: MOVE P4_8 P5_8
+      192: PICKUP O3 P5_8
+      193: PICKUP O2 P5_8
+      194: PICKUP O1 P5_8
+      195: MOVE P5_8 P5_7
+      196: PICKUP O3 P5_7
+      197: MOVE P5_7 P5_8
+      198: MOVE P5_8 P5_7
+      199: PICKUP O2 P5_7
+      200: MOVE P5_7 P5_8
+      201: MOVE P5_8 P5_7
+      202: PICKUP O1 P5_7
+      203: MOVE P5_7 P5_8
+      204: MOVE P5_8 P6_8
+      205: PICKUP O3 P6_8
+      206: PICKUP O2 P6_8
+      207: PICKUP O1 P6_8
+      208: MOVE P6_8 P6_7
+      209: PICKUP O3 P6_7
+      210: MOVE P6_7 P6_8
+      211: MOVE P6_8 P6_7
+      212: PICKUP O2 P6_7
+      213: MOVE P6_7 P6_8
+      214: MOVE P6_8 P6_7
+      215: PICKUP O1 P6_7
+      216: MOVE P6_7 P6_8
+      217: MOVE P6_8 P7_8
+      218: PICKUP O3 P7_8
+      219: PICKUP O2 P7_8
+      220: PICKUP O1 P7_8
+      221: MOVE P7_8 P7_7
+      222: PICKUP O3 P7_7
+      223: MOVE P7_7 P7_8
+      224: MOVE P7_8 P7_7
+      225: PICKUP O2 P7_7
+      226: MOVE P7_7 P7_8
+      227: MOVE P7_8 P7_7
+      228: PICKUP O1 P7_7
+      229: MOVE P7_7 P7_8
+      230: MOVE P7_8 P8_8
+      231: PICKUP O3 P8_8
+      232: PICKUP O2 P8_8
+      233: PICKUP O1 P8_8
+      234: MOVE P8_8 P7_8
+      235: MOVE P7_8 P6_8
+      236: MOVE P6_8 P5_8
+      237: MOVE P5_8 P4_8
+      238: MOVE P4_8 P3_8
+      239: PICKUP O3 P3_8
+      240: PICKUP O2 P3_8
+      241: PICKUP O1 P3_8
+      242: MOVE P3_8 P3_7
+      243: MOVE P3_7 P4_7
+      244: MOVE P4_7 P4_6
+      245: PICKUP O3 P4_6
+      246: PICKUP O2 P4_6
+      247: PICKUP O1 P4_6
+      248: MOVE P4_6 P4_5
+      249: PICKUP O3 P4_5
+      250: PICKUP O2 P4_5
+      251: PICKUP O1 P4_5
+      252: MOVE P4_5 P5_5
+      253: PICKUP O3 P5_5
+      254: PICKUP O2 P5_5
+      255: PICKUP O1 P5_5
+      256: MOVE P5_5 P5_4
+      257: MOVE P5_4 P5_3
+      258: MOVE P5_3 P5_4
+      259: MOVE P5_4 P5_5
+      260: MOVE P5_5 P5_6
+      261: PICKUP O3 P5_6
+      262: PICKUP O2 P5_6
+      263: PICKUP O1 P5_6
+      264: MOVE P5_6 P6_6
+      265: PICKUP O3 P6_6
+      266: PICKUP O2 P6_6
+      267: PICKUP O1 P6_6
+      268: MOVE P6_6 P6_5
+      269: PICKUP O3 P6_5
+      270: PICKUP O2 P6_5
+      271: PICKUP O1 P6_5
+      272: MOVE P6_5 P7_5
+      273: PICKUP O3 P7_5
+      274: PICKUP O2 P7_5
+      275: PICKUP O1 P7_5
+      276: MOVE P7_5 P7_4
+      277: MOVE P7_4 P7_3
+      278: MOVE P7_3 P7_2
+      279: MOVE P7_2 P7_1
+      280: MOVE P7_1 P8_1
+      281: PICKUP O3 P8_1
+      282: PICKUP O2 P8_1
+      283: PICKUP O1 P8_1
+      284: MOVE P8_1 P7_1
+      285: PICKUP O3 P7_1
+      286: PICKUP O2 P7_1
+      287: PICKUP O1 P7_1
+      288: MOVE P7_1 P7_2
+      289: MOVE P7_2 P7_3
+      290: MOVE P7_3 P7_4
+      291: MOVE P7_4 P7_5
+      292: MOVE P7_5 P8_5
+      293: PICKUP O3 P8_5
+      294: MOVE P8_5 P8_4
+      295: MOVE P8_4 P8_3
+      296: MOVE P8_3 P8_4
+      297: MOVE P8_4 P8_5
+      298: PICKUP O2 P8_5
+      299: MOVE P8_5 P8_4
+      300: MOVE P8_4 P8_3
+      301: MOVE P8_3 P8_4
+      302: MOVE P8_4 P8_5
+      303: PICKUP O1 P8_5
+      304: MOVE P8_5 P8_4
+      305: MOVE P8_4 P8_3
+      306: MOVE P8_3 P7_3
+      307: MOVE P7_3 P6_3
+      308: MOVE P6_3 P6_2
+      309: MOVE P6_2 P6_1
+      310: PICKUP O3 P6_1
+      311: PICKUP O2 P6_1
+      312: PICKUP O1 P6_1
+      313: MOVE P6_1 P6_2
+      314: MOVE P6_2 P6_3
+      315: MOVE P6_3 P6_2
+      316: MOVE P6_2 P5_2
+      317: MOVE P5_2 P5_1
+      318: PICKUP O3 P5_1
+      319: MOVE P5_1 P5_2
+      320: MOVE P5_2 P5_3
+      321: MOVE P5_3 P5_2
+      322: MOVE P5_2 P5_1
+      323: PICKUP O2 P5_1
+      324: MOVE P5_1 P5_2
+      325: MOVE P5_2 P5_3
+      326: MOVE P5_3 P5_2
+      327: MOVE P5_2 P5_1
+      328: PICKUP O1 P5_1
+      329: MOVE P5_1 P5_2
+      330: MOVE P5_2 P5_3
+      331: MOVE P5_3 P5_2
+      332: MOVE P5_2 P4_2
+      333: MOVE P4_2 P4_1
+      334: PICKUP O3 P4_1
+      335: MOVE P4_1 P4_2
+      336: MOVE P4_2 P4_3
+      337: MOVE P4_3 P4_2
+      338: MOVE P4_2 P4_1
+      339: PICKUP O2 P4_1
+      340: MOVE P4_1 P4_2
+      341: MOVE P4_2 P4_3
+      342: MOVE P4_3 P4_2
+      343: MOVE P4_2 P4_1
+      344: PICKUP O1 P4_1
+      345: MOVE P4_1 P4_2
+      346: MOVE P4_2 P4_3
+      347: MOVE P4_3 P4_4
+      348: MOVE P4_4 P3_4
+      349: MOVE P3_4 P2_4
+      350: MOVE P2_4 P2_3
+      351: MOVE P2_3 P1_3
+      352: PICKUP O3 P1_3
+      353: MOVE P1_3 P2_3
+      354: MOVE P2_3 P1_3
+      355: PICKUP O2 P1_3
+      356: MOVE P1_3 P2_3
+      357: MOVE P2_3 P1_3
+      358: PICKUP O1 P1_3
+      359: MOVE P1_3 P2_3
+      360: MOVE P2_3 P2_4
+      361: MOVE P2_4 P1_4
+      362: PICKUP O3 P1_4
+      363: PICKUP O2 P1_4
+      364: PICKUP O1 P1_4
+      365: MOVE P1_4 P1_3
+      366: MOVE P1_3 P2_3
+      367: MOVE P2_3 P2_2
+      368: MOVE P2_2 P1_2
+      369: PICKUP O3 P1_2
+      370: MOVE P1_2 P2_2
+      371: MOVE P2_2 P1_2
+      372: PICKUP O2 P1_2
+      373: MOVE P1_2 P2_2
+      374: MOVE P2_2 P1_2
+      375: PICKUP O1 P1_2
+      376: MOVE P1_2 P2_2
+      377: MOVE P2_2 P2_3
+      378: MOVE P2_3 P3_3
+      379: MOVE P3_3 P3_4
+      380: MOVE P3_4 P3_5
+      381: MOVE P3_5 P3_6
+      382: MOVE P3_6 P3_7
+      383: MOVE P3_7 P2_7
+      384: MOVE P2_7 P2_8
+      385: PICKUP O3 P2_8
+      386: MOVE P2_8 P2_7
+      387: MOVE P2_7 P3_7
+      388: MOVE P3_7 P2_7
+      389: MOVE P2_7 P2_8
+      390: PICKUP O2 P2_8
+      391: MOVE P2_8 P2_7
+      392: MOVE P2_7 P3_7
+      393: MOVE P3_7 P2_7
+      394: MOVE P2_7 P2_8
+      395: PICKUP O1 P2_8
+      396: MOVE P2_8 P2_7
+      397: MOVE P2_7 P3_7
+      398: MOVE P3_7 P4_7
+      399: MOVE P4_7 P4_6
+      400: MOVE P4_6 P5_6
+      401: MOVE P5_6 P6_6
+      402: MOVE P6_6 P7_6
+      403: PICKUP O3 P7_6
+      404: PICKUP O2 P7_6
+      405: PICKUP O1 P7_6
+      406: MOVE P7_6 P8_6
+      407: PICKUP O3 P8_6
+      408: PICKUP O2 P8_6
+      409: PICKUP O1 P8_6
+      410: MOVE P8_6 P8_7
+      411: PICKUP O3 P8_7
+      412: PICKUP O2 P8_7
+      413: PICKUP O1 P8_7
+      414: MOVE P8_7 P8_6
+      415: MOVE P8_6 P8_5
+      416: MOVE P8_5 P8_4
+      417: MOVE P8_4 P8_3
+      418: MOVE P8_3 P7_3
+      419: MOVE P7_3 P6_3
+      420: MOVE P6_3 P5_3
+      421: MOVE P5_3 P4_3
+      422: MOVE P4_3 P3_3
+      423: MOVE P3_3 P3_2
+      424: MOVE P3_2 P3_1
+      425: PICKUP O3 P3_1
+      426: PICKUP O2 P3_1
+      427: PICKUP O1 P3_1
+      428: MOVE P3_1 P3_2
+      429: MOVE P3_2 P3_3
+      430: DROP O1 P3_3
+      431: DROP O2 P3_3
+      432: DROP O3 P3_3
+     
+
+statistics:    0.01 seconds instantiating 419 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 457 facts and 419 actions
+               0.00 seconds creating final representation with 457 relevant facts (393 max U, 198 CNF max U)
+               0.00 seconds building connectivity graph
+            1491.53 seconds (1490.40 pure) evaluating 2494 states, to a max depth of 6
+               1.13 seconds in DP for 116551 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.11 seconds generating,    0.07 seconds encoding 10954 state transition base CNFs
+              15.85 seconds in DP solving 5868 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+              26.76 seconds checking for stagnating states (1508 hits), including 464383 DP calls
+              62.12 seconds altogether checking for dominated states making 2201 comparisons (2200 conformant, 2200 hits),
+                    spending   22.22 seconds doing 157102 DP calls
+             743904 total DP calls, 18661029 total UP calls,   21.35 sec membership
+               1.05 seconds for remaining searching duties
+            1597.50 seconds total time (+    0.46 secs for CNF memory allocation)
+
+plan length:433
+iteration:1
+now_time:1595.5036298799969

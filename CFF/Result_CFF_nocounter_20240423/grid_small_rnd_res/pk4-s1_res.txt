@@ -1,0 +1,177 @@
+
+ff: parsing domain file
+domain 'GRID' defined
+ ... done.
+ff: parsing problem file
+problem 'GRID-X3-Y4-T4-K1111-L1111-P40' defined
+ ... done.
+
+
+F:
+(ARM-EMPTY)
+(LOCKED F1-3F)
+(LOCKED F0-1F)
+(LOCKED F0-2F)
+(LOCKED F2-1F)
+(AT KEY0-0 F1-3F)
+(AT KEY1-0 F2-3F)
+(AT KEY2-0 F1-2F)
+(AT KEY3-0 F2-0F)
+(AT-ROBOT F2-3F)
+U:
+(NOT-LOCK-SHAPE F0-1F SHAPE0)
+(NOT-LOCK-SHAPE F0-1F SHAPE1)
+(NOT-LOCK-SHAPE F0-1F SHAPE2)
+(NOT-LOCK-SHAPE F0-1F SHAPE3)
+(NOT-LOCK-SHAPE F2-1F SHAPE0)
+(NOT-LOCK-SHAPE F2-1F SHAPE1)
+(NOT-LOCK-SHAPE F2-1F SHAPE2)
+(NOT-LOCK-SHAPE F2-1F SHAPE3)
+(NOT-LOCK-SHAPE F0-2F SHAPE0)
+(NOT-LOCK-SHAPE F0-2F SHAPE1)
+(NOT-LOCK-SHAPE F0-2F SHAPE2)
+(NOT-LOCK-SHAPE F0-2F SHAPE3)
+(NOT-LOCK-SHAPE F1-3F SHAPE0)
+(NOT-LOCK-SHAPE F1-3F SHAPE1)
+(NOT-LOCK-SHAPE F1-3F SHAPE2)
+(NOT-LOCK-SHAPE F1-3F SHAPE3)
+(LOCK-SHAPE F0-1F SHAPE0)
+(LOCK-SHAPE F0-1F SHAPE1)
+(LOCK-SHAPE F0-1F SHAPE2)
+(LOCK-SHAPE F0-1F SHAPE3)
+(LOCK-SHAPE F0-2F SHAPE0)
+(LOCK-SHAPE F0-2F SHAPE1)
+(LOCK-SHAPE F0-2F SHAPE2)
+(LOCK-SHAPE F0-2F SHAPE3)
+(LOCK-SHAPE F1-3F SHAPE0)
+(LOCK-SHAPE F1-3F SHAPE1)
+(LOCK-SHAPE F1-3F SHAPE2)
+(LOCK-SHAPE F1-3F SHAPE3)
+(LOCK-SHAPE F2-1F SHAPE0)
+(LOCK-SHAPE F2-1F SHAPE1)
+(LOCK-SHAPE F2-1F SHAPE2)
+(LOCK-SHAPE F2-1F SHAPE3)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(ARM-EMPTY)
+(LOCKED F1-3F)
+(LOCKED F0-1F)
+(LOCKED F0-2F)
+(LOCKED F2-1F)
+(AT KEY0-0 F1-3F)
+(AT KEY1-0 F2-3F)
+(AT KEY2-0 F1-2F)
+(AT KEY3-0 F2-0F)
+(AT-ROBOT F2-3F)
+U:
+(NOT-LOCK-SHAPE F0-1F SHAPE0)
+(NOT-LOCK-SHAPE F0-1F SHAPE1)
+(NOT-LOCK-SHAPE F0-1F SHAPE2)
+(NOT-LOCK-SHAPE F0-1F SHAPE3)
+(NOT-LOCK-SHAPE F2-1F SHAPE0)
+(NOT-LOCK-SHAPE F2-1F SHAPE1)
+(NOT-LOCK-SHAPE F2-1F SHAPE2)
+(NOT-LOCK-SHAPE F2-1F SHAPE3)
+(NOT-LOCK-SHAPE F0-2F SHAPE0)
+(NOT-LOCK-SHAPE F0-2F SHAPE1)
+(NOT-LOCK-SHAPE F0-2F SHAPE2)
+(NOT-LOCK-SHAPE F0-2F SHAPE3)
+(NOT-LOCK-SHAPE F1-3F SHAPE0)
+(NOT-LOCK-SHAPE F1-3F SHAPE1)
+(NOT-LOCK-SHAPE F1-3F SHAPE2)
+(NOT-LOCK-SHAPE F1-3F SHAPE3)
+(LOCK-SHAPE F0-1F SHAPE0)
+(LOCK-SHAPE F0-1F SHAPE1)
+(LOCK-SHAPE F0-1F SHAPE2)
+(LOCK-SHAPE F0-1F SHAPE3)
+(LOCK-SHAPE F0-2F SHAPE0)
+(LOCK-SHAPE F0-2F SHAPE1)
+(LOCK-SHAPE F0-2F SHAPE2)
+(LOCK-SHAPE F0-2F SHAPE3)
+(LOCK-SHAPE F1-3F SHAPE0)
+(LOCK-SHAPE F1-3F SHAPE1)
+(LOCK-SHAPE F1-3F SHAPE2)
+(LOCK-SHAPE F1-3F SHAPE3)
+(LOCK-SHAPE F2-1F SHAPE0)
+(LOCK-SHAPE F2-1F SHAPE1)
+(LOCK-SHAPE F2-1F SHAPE2)
+(LOCK-SHAPE F2-1F SHAPE3)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (LOCK-SHAPE F1-3F SHAPE3) (LOCK-SHAPE F1-3F SHAPE2) (LOCK-SHAPE F1-3F SHAPE1) (LOCK-SHAPE F1-3F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F1-3F SHAPE3) (NOT-LOCK-SHAPE F1-3F SHAPE2) 
+OR: (NOT-LOCK-SHAPE F1-3F SHAPE3) (NOT-LOCK-SHAPE F1-3F SHAPE1) 
+OR: (NOT-LOCK-SHAPE F1-3F SHAPE3) (NOT-LOCK-SHAPE F1-3F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F1-3F SHAPE2) (NOT-LOCK-SHAPE F1-3F SHAPE1) 
+OR: (NOT-LOCK-SHAPE F1-3F SHAPE2) (NOT-LOCK-SHAPE F1-3F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F1-3F SHAPE1) (NOT-LOCK-SHAPE F1-3F SHAPE0) 
+OR: (LOCK-SHAPE F0-1F SHAPE3) (LOCK-SHAPE F0-1F SHAPE2) (LOCK-SHAPE F0-1F SHAPE1) (LOCK-SHAPE F0-1F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F0-1F SHAPE3) (NOT-LOCK-SHAPE F0-1F SHAPE2) 
+OR: (NOT-LOCK-SHAPE F0-1F SHAPE3) (NOT-LOCK-SHAPE F0-1F SHAPE1) 
+OR: (NOT-LOCK-SHAPE F0-1F SHAPE3) (NOT-LOCK-SHAPE F0-1F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F0-1F SHAPE2) (NOT-LOCK-SHAPE F0-1F SHAPE1) 
+OR: (NOT-LOCK-SHAPE F0-1F SHAPE2) (NOT-LOCK-SHAPE F0-1F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F0-1F SHAPE1) (NOT-LOCK-SHAPE F0-1F SHAPE0) 
+OR: (LOCK-SHAPE F0-2F SHAPE3) (LOCK-SHAPE F0-2F SHAPE2) (LOCK-SHAPE F0-2F SHAPE1) (LOCK-SHAPE F0-2F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F0-2F SHAPE3) (NOT-LOCK-SHAPE F0-2F SHAPE2) 
+OR: (NOT-LOCK-SHAPE F0-2F SHAPE3) (NOT-LOCK-SHAPE F0-2F SHAPE1) 
+OR: (NOT-LOCK-SHAPE F0-2F SHAPE3) (NOT-LOCK-SHAPE F0-2F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F0-2F SHAPE2) (NOT-LOCK-SHAPE F0-2F SHAPE1) 
+OR: (NOT-LOCK-SHAPE F0-2F SHAPE2) (NOT-LOCK-SHAPE F0-2F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F0-2F SHAPE1) (NOT-LOCK-SHAPE F0-2F SHAPE0) 
+OR: (LOCK-SHAPE F2-1F SHAPE3) (LOCK-SHAPE F2-1F SHAPE2) (LOCK-SHAPE F2-1F SHAPE1) (LOCK-SHAPE F2-1F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F2-1F SHAPE3) (NOT-LOCK-SHAPE F2-1F SHAPE2) 
+OR: (NOT-LOCK-SHAPE F2-1F SHAPE3) (NOT-LOCK-SHAPE F2-1F SHAPE1) 
+OR: (NOT-LOCK-SHAPE F2-1F SHAPE3) (NOT-LOCK-SHAPE F2-1F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F2-1F SHAPE2) (NOT-LOCK-SHAPE F2-1F SHAPE1) 
+OR: (NOT-LOCK-SHAPE F2-1F SHAPE2) (NOT-LOCK-SHAPE F2-1F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F2-1F SHAPE1) (NOT-LOCK-SHAPE F2-1F SHAPE0) H:8
+
+
+Cueing down from goal distance:    8 into depth [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1][2]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: MOVE F2-3F F2-2F
+        1: MOVE F2-2F F1-2F
+        2: MOVE F1-2F F1-1F
+        3: MOVE F1-1F F1-0F
+        4: MOVE F1-0F F2-0F
+        5: PICKUP F2-0F KEY3-0
+        6: MOVE F2-0F F1-0F
+        7: PUTDOWN F1-0F KEY3-0
+     
+
+statistics:    0.00 seconds instantiating 266 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 497 facts and 266 actions
+               0.00 seconds creating final representation with 105 relevant facts (40 max U, 24 CNF max U)
+               0.00 seconds building connectivity graph
+               0.00 seconds (   0.00 pure) evaluating 8 states, to a max depth of 2
+               0.00 seconds in DP for 68 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 9 state transition base CNFs
+               0.00 seconds in DP solving 0 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (1 hits), including 16 DP calls
+               0.00 seconds altogether checking for dominated states making 0 comparisons (0 conformant, 0 hits),
+                    spending    0.00 seconds doing 0 DP calls
+                 84 total DP calls, 344 total UP calls,    0.00 sec membership
+               0.05 seconds for remaining searching duties
+               0.05 seconds total time (+    0.05 secs for CNF memory allocation)
+
+plan length:8
+iteration:1
+now_time:0.07618868999998085

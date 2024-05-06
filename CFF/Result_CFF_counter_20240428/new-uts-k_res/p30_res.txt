@@ -1,0 +1,387 @@
+
+ff: parsing domain file
+domain 'UTS' defined
+ ... done.
+ff: parsing problem file
+problem 'K30' defined
+ ... done.
+
+
+F:
+(NOT-VISITED N1)
+(NOT-VISITED N2)
+(NOT-VISITED N3)
+(NOT-VISITED N4)
+(NOT-VISITED N5)
+(NOT-VISITED N6)
+(NOT-VISITED N7)
+(NOT-VISITED N8)
+(NOT-VISITED N9)
+(NOT-VISITED N10)
+(NOT-VISITED N11)
+(NOT-VISITED N12)
+(NOT-VISITED N13)
+(NOT-VISITED N14)
+(NOT-VISITED N15)
+(NOT-VISITED N16)
+(NOT-VISITED N17)
+(NOT-VISITED N18)
+(NOT-VISITED N19)
+(NOT-VISITED N20)
+(NOT-VISITED N21)
+(NOT-VISITED N22)
+(NOT-VISITED N23)
+(NOT-VISITED N24)
+(NOT-VISITED N25)
+(NOT-VISITED N26)
+(NOT-VISITED N27)
+(NOT-VISITED N28)
+(NOT-VISITED N29)
+(NOT-VISITED N30)
+(NOT-VISITED N31)
+(NOT-VISITED N32)
+(NOT-VISITED N33)
+(NOT-VISITED N34)
+(NOT-VISITED N35)
+(NOT-VISITED N36)
+(NOT-VISITED N37)
+(NOT-VISITED N38)
+(NOT-VISITED N39)
+(NOT-VISITED N40)
+(NOT-VISITED N41)
+(NOT-VISITED N42)
+(NOT-VISITED N43)
+(NOT-VISITED N44)
+(NOT-VISITED N45)
+(NOT-VISITED N46)
+(NOT-VISITED N47)
+(NOT-VISITED N48)
+(NOT-VISITED N49)
+(NOT-VISITED N50)
+(NOT-VISITED N51)
+(NOT-VISITED N52)
+(NOT-VISITED N53)
+(NOT-VISITED N54)
+(NOT-VISITED N55)
+(NOT-VISITED N56)
+(NOT-VISITED N57)
+(NOT-VISITED N58)
+(NOT-VISITED N59)
+(NOT-VISITED N60)
+U:
+(NOT-AT N1)
+(NOT-AT N2)
+(NOT-AT N3)
+(NOT-AT N4)
+(NOT-AT N5)
+(NOT-AT N6)
+(NOT-AT N7)
+(NOT-AT N8)
+(NOT-AT N9)
+(NOT-AT N10)
+(NOT-AT N11)
+(NOT-AT N12)
+(NOT-AT N13)
+(NOT-AT N14)
+(NOT-AT N15)
+(NOT-AT N16)
+(NOT-AT N17)
+(NOT-AT N18)
+(NOT-AT N19)
+(NOT-AT N20)
+(NOT-AT N21)
+(NOT-AT N22)
+(NOT-AT N23)
+(NOT-AT N24)
+(NOT-AT N25)
+(NOT-AT N26)
+(NOT-AT N27)
+(NOT-AT N28)
+(NOT-AT N29)
+(NOT-AT N30)
+(NOT-AT N31)
+(NOT-AT N32)
+(NOT-AT N33)
+(NOT-AT N34)
+(NOT-AT N35)
+(NOT-AT N36)
+(NOT-AT N37)
+(NOT-AT N38)
+(NOT-AT N39)
+(NOT-AT N40)
+(NOT-AT N41)
+(NOT-AT N42)
+(NOT-AT N43)
+(NOT-AT N44)
+(NOT-AT N45)
+(NOT-AT N46)
+(NOT-AT N47)
+(NOT-AT N48)
+(NOT-AT N49)
+(NOT-AT N50)
+(NOT-AT N51)
+(NOT-AT N52)
+(NOT-AT N53)
+(NOT-AT N54)
+(NOT-AT N55)
+(NOT-AT N56)
+(NOT-AT N57)
+(NOT-AT N58)
+(NOT-AT N59)
+(NOT-AT N60)
+(AT N1)
+(AT N10)
+(AT N11)
+(AT N12)
+(AT N13)
+(AT N14)
+(AT N15)
+(AT N16)
+(AT N17)
+(AT N18)
+(AT N19)
+(AT N2)
+(AT N20)
+(AT N21)
+(AT N22)
+(AT N23)
+(AT N24)
+(AT N25)
+(AT N26)
+(AT N27)
+(AT N28)
+(AT N29)
+(AT N3)
+(AT N30)
+(AT N31)
+(AT N32)
+(AT N33)
+(AT N34)
+(AT N35)
+(AT N36)
+(AT N37)
+(AT N38)
+(AT N39)
+(AT N4)
+(AT N40)
+(AT N41)
+(AT N42)
+(AT N43)
+(AT N44)
+(AT N45)
+(AT N46)
+(AT N47)
+(AT N48)
+(AT N49)
+(AT N5)
+(AT N50)
+(AT N51)
+(AT N52)
+(AT N53)
+(AT N54)
+(AT N55)
+(AT N56)
+(AT N57)
+(AT N58)
+(AT N59)
+(AT N6)
+(AT N60)
+(AT N7)
+(AT N8)
+(AT N9)
+UE:
+var_size: 240
+
+当前收集的断言数：122
+
+1
+
+第1次迭代
+当前初始状态:
+F:120 U:0
+num_Or:1711
+参数大于2的OR: 
+H:62
+
+
+Cueing down from goal distance:   62 into depth [1]
+                                  61            [1]
+                                  60            [1]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：61
+
+var_size: 14941
+
+当前收集的断言数：7442
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:118 U:4
+num_Or:1771
+参数大于2的OR: 
+H:122
+
+
+Cueing down from goal distance:  122 into depth [1]
+                                 121            [1]
+                                 120            [1]
+                                 119            [1]
+                                  60            [1]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：63
+
+var_size: 15423
+
+当前收集的断言数：7682
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:117 U:6
+num_Or:1771
+参数大于2的OR: 
+(AT N60) (AT N38) (AT N1) 
+H:180
+
+
+Cueing down from goal distance:  180 into depth [1]
+                                 179            [1]
+                                 178            [1]
+                                 177            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :  180
+                         179
+                         178
+                         177timeout: the monitored command dumped core
+Out of Memory
+now_time:3.3407129349943716

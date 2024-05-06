@@ -1,0 +1,536 @@
+
+ff: parsing domain file
+domain 'RING' defined
+ ... done.
+ff: parsing problem file
+problem 'RING-8' defined
+ ... done.
+
+
+F:
+U:
+(NOT-OPEN WIN1)
+(NOT-OPEN WIN2)
+(NOT-OPEN WIN3)
+(NOT-OPEN WIN4)
+(NOT-OPEN WIN5)
+(NOT-OPEN WIN6)
+(NOT-OPEN WIN7)
+(NOT-OPEN WIN8)
+(NOT-CLOSED WIN1)
+(NOT-CLOSED WIN2)
+(NOT-CLOSED WIN3)
+(NOT-CLOSED WIN4)
+(NOT-CLOSED WIN5)
+(NOT-CLOSED WIN6)
+(NOT-CLOSED WIN7)
+(NOT-CLOSED WIN8)
+(NOT-LOCKED WIN1)
+(NOT-LOCKED WIN2)
+(NOT-LOCKED WIN3)
+(NOT-LOCKED WIN4)
+(NOT-LOCKED WIN5)
+(NOT-LOCKED WIN6)
+(NOT-LOCKED WIN7)
+(NOT-LOCKED WIN8)
+(NOT-POSITION POS1)
+(NOT-POSITION POS2)
+(NOT-POSITION POS3)
+(NOT-POSITION POS4)
+(NOT-POSITION POS5)
+(NOT-POSITION POS6)
+(NOT-POSITION POS7)
+(NOT-POSITION POS8)
+(CLOSED WIN1)
+(CLOSED WIN2)
+(CLOSED WIN3)
+(CLOSED WIN4)
+(CLOSED WIN5)
+(CLOSED WIN6)
+(CLOSED WIN7)
+(CLOSED WIN8)
+(LOCKED WIN1)
+(LOCKED WIN2)
+(LOCKED WIN3)
+(LOCKED WIN4)
+(LOCKED WIN5)
+(LOCKED WIN6)
+(LOCKED WIN7)
+(LOCKED WIN8)
+(OPEN WIN1)
+(OPEN WIN2)
+(OPEN WIN3)
+(OPEN WIN4)
+(OPEN WIN5)
+(OPEN WIN6)
+(OPEN WIN7)
+(OPEN WIN8)
+(POSITION POS1)
+(POSITION POS2)
+(POSITION POS3)
+(POSITION POS4)
+(POSITION POS5)
+(POSITION POS6)
+(POSITION POS7)
+(POSITION POS8)
+UE:
+var_size: 64
+
+当前收集的断言数：34
+
+1
+
+第1次迭代
+当前初始状态:
+F:32 U:0
+num_Or:29
+参数大于2的OR: 
+H:3
+
+
+Cueing down from goal distance:    3 into depth [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：2
+
+var_size: 192
+
+当前收集的断言数：98
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:30 U:4
+num_Or:37
+参数大于2的OR: 
+H:4
+
+
+Cueing down from goal distance:    4 into depth [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：5
+
+var_size: 384
+
+当前收集的断言数：194
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:29 U:6
+num_Or:37
+参数大于2的OR: 
+(POSITION POS8) (POSITION POS7) (POSITION POS6) 
+H:6
+
+
+Cueing down from goal distance:    6 into depth [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    6
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：9
+
+var_size: 640
+
+当前收集的断言数：322
+
+1
+找到反例！
+
+
+第4次迭代
+当前初始状态:
+F:27 U:10
+num_Or:40
+参数大于2的OR: 
+(POSITION POS8) (POSITION POS7) (POSITION POS6) 
+H:7
+
+
+Cueing down from goal distance:    7 into depth [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    7
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：66
+
+var_size: 4288
+
+当前收集的断言数：2146
+
+1
+找到反例！
+
+
+第5次迭代
+当前初始状态:
+F:24 U:16
+num_Or:43
+参数大于2的OR: 
+(POSITION POS8) (POSITION POS7) (POSITION POS6) 
+(LOCKED WIN1) (CLOSED WIN1) (OPEN WIN1) 
+H:8
+
+
+Cueing down from goal distance:    8 into depth [1]
+                                   7            [1][2]
+                                   4            [1]
+                                   3            [1][2]
+                                   2            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    8
+                           6
+                           5
+                           4
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：80
+
+var_size: 5184
+
+当前收集的断言数：2594
+
+1
+找到反例！
+
+
+第6次迭代
+当前初始状态:
+F:23 U:18
+num_Or:43
+参数大于2的OR: 
+(POSITION POS8) (POSITION POS7) (POSITION POS6) 
+(LOCKED WIN1) (CLOSED WIN1) (OPEN WIN1) 
+(LOCKED WIN3) (CLOSED WIN3) (OPEN WIN3) 
+H:12
+
+
+Cueing down from goal distance:   12 into depth [1][2]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   12
+                           8
+                           7
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：53
+
+var_size: 3456
+
+当前收集的断言数：1730
+
+1
+找到反例！
+
+
+第7次迭代
+当前初始状态:
+F:22 U:20
+num_Or:43
+参数大于2的OR: 
+(POSITION POS8) (POSITION POS7) (POSITION POS6) (POSITION POS5) 
+(LOCKED WIN1) (CLOSED WIN1) (OPEN WIN1) 
+(LOCKED WIN3) (CLOSED WIN3) (OPEN WIN3) 
+H:11
+
+
+Cueing down from goal distance:   11 into depth [1]
+                                   9            [1][2]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   11
+                           9
+                           7
+                           6
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：68
+
+var_size: 4416
+
+当前收集的断言数：2210
+
+1
+找到反例！
+
+
+第8次迭代
+当前初始状态:
+F:19 U:26
+num_Or:46
+参数大于2的OR: 
+(POSITION POS8) (POSITION POS7) (POSITION POS6) (POSITION POS5) (POSITION POS3) 
+(LOCKED WIN1) (CLOSED WIN1) (OPEN WIN1) 
+(LOCKED WIN3) (CLOSED WIN3) (OPEN WIN3) 
+H:11
+
+
+Cueing down from goal distance:   11 into depth [1]
+                                  10            [1][2]
+                                   8            [1]
+                                   7            [1][2][3]
+                                   6            [1][2][3][4]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   11
+                          10
+                           9
+                           8
+                           6
+                           5
+                           4
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：64
+
+var_size: 4160
+
+当前收集的断言数：2082
+
+1
+找到反例！
+
+
+第9次迭代
+当前初始状态:
+F:17 U:30
+num_Or:49
+参数大于2的OR: 
+(POSITION POS8) (POSITION POS7) (POSITION POS6) (POSITION POS5) (POSITION POS3) 
+(LOCKED WIN1) (CLOSED WIN1) (OPEN WIN1) 
+(LOCKED WIN3) (CLOSED WIN3) (OPEN WIN3) 
+H:13
+
+
+Cueing down from goal distance:   13 into depth [1]
+                                  10            [1][2][3]
+                                   9            [1][2][3]
+                                   7            [1][2][3][4]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   13
+                          10
+                           9
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：59
+
+var_size: 3840
+
+当前收集的断言数：1922
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: MOVE-UP
+        1: LOCK
+        2: CLOSE
+        3: LOCK
+        4: MOVE-DOWN
+        5: MOVE-DOWN
+        6: LOCK
+        7: MOVE-UP
+        8: LOCK
+        9: MOVE-DOWN
+       10: MOVE-DOWN
+       11: CLOSE
+       12: LOCK
+       13: MOVE-UP
+       14: MOVE-UP
+       15: CLOSE
+       16: LOCK
+       17: MOVE-UP
+       18: MOVE-UP
+       19: CLOSE
+       20: MOVE-UP
+       21: LOCK
+       22: MOVE-UP
+       23: LOCK
+       24: MOVE-DOWN
+       25: CLOSE
+       26: LOCK
+       27: MOVE-UP
+       28: MOVE-UP
+       29: LOCK
+       30: MOVE-UP
+       31: MOVE-UP
+       32: MOVE-UP
+       33: MOVE-UP
+       34: MOVE-UP
+       35: LOCK
+       36: MOVE-UP
+       37: MOVE-UP
+       38: MOVE-UP
+       39: MOVE-UP
+       40: MOVE-UP
+       41: CLOSE
+       42: MOVE-UP
+       43: MOVE-UP
+       44: MOVE-UP
+       45: MOVE-UP
+       46: MOVE-UP
+       47: MOVE-UP
+       48: CLOSE
+       49: MOVE-UP
+       50: MOVE-UP
+       51: LOCK
+       52: MOVE-DOWN
+       53: MOVE-DOWN
+       54: MOVE-DOWN
+       55: CLOSE
+       56: LOCK
+       57: MOVE-UP
+       58: LOCK
+     
+
+statistics:    0.00 seconds instantiating 4 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 96 facts and 4 actions
+               0.00 seconds creating final representation with 64 relevant facts (64 max U, 32 CNF max U)
+               0.00 seconds building connectivity graph
+               0.18 seconds (   0.17 pure) evaluating 1043 states, to a max depth of 4
+               0.01 seconds in DP for 13665 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.12 seconds generating,    0.06 seconds encoding 2292 state transition base CNFs
+               0.30 seconds in DP solving 11583 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 6052 DP calls
+               0.02 seconds checking for stagnating states (1139 hits), including 15461 DP calls
+               0.46 seconds altogether checking for dominated states making 1499 comparisons (1499 conformant, 81 hits),
+                    spending    0.29 seconds doing 5576 DP calls
+              52337 total DP calls, 426091 total UP calls,    0.07 sec membership
+               0.09 seconds for remaining searching duties
+               1.23 seconds total time (+    0.12 secs for CNF memory allocation)
+
+初始目标状态
+Fold:0 Uold:64
+num_Orold:61
+参数大于2的OR: 
+(POSITION POS8) (POSITION POS7) (POSITION POS6) (POSITION POS5) (POSITION POS4) (POSITION POS3) (POSITION POS2) (POSITION POS1) 
+(LOCKED WIN1) (CLOSED WIN1) (OPEN WIN1) 
+(LOCKED WIN2) (CLOSED WIN2) (OPEN WIN2) 
+(LOCKED WIN3) (CLOSED WIN3) (OPEN WIN3) 
+(LOCKED WIN4) (CLOSED WIN4) (OPEN WIN4) 
+(LOCKED WIN5) (CLOSED WIN5) (OPEN WIN5) 
+(LOCKED WIN6) (CLOSED WIN6) (OPEN WIN6) 
+(LOCKED WIN7) (CLOSED WIN7) (OPEN WIN7) 
+(LOCKED WIN8) (CLOSED WIN8) (OPEN WIN8) 
+
+
+当前反例添加的目标状态
+Fcur:17 Ucur:30
+num_Orcur:49
+参数大于2的OR: 
+(POSITION POS8) (POSITION POS7) (POSITION POS6) (POSITION POS5) (POSITION POS3) 
+(LOCKED WIN1) (CLOSED WIN1) (OPEN WIN1) 
+(LOCKED WIN3) (CLOSED WIN3) (OPEN WIN3) 
+
+
+counter_time:0.97
+plan length:59
+iteration:9
+now_time:2.2700431770063005

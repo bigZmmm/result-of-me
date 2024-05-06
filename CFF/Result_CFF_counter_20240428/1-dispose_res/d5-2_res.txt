@@ -1,0 +1,298 @@
+
+ff: parsing domain file
+domain 'TO-TRASH' defined
+ ... done.
+ff: parsing problem file
+problem 'TO-TRASH-5-2-NODISAPPEAR' defined
+ ... done.
+
+
+F:
+(NOT-HOLDING O1)
+(NOT-HOLDING O2)
+(HANDEMPTY)
+(AT P3-3)
+U:
+(NOT-OBJ-AT O1 P1-1)
+(NOT-OBJ-AT O1 P1-2)
+(NOT-OBJ-AT O1 P1-3)
+(NOT-OBJ-AT O1 P1-4)
+(NOT-OBJ-AT O1 P1-5)
+(NOT-OBJ-AT O1 P2-1)
+(NOT-OBJ-AT O1 P2-2)
+(NOT-OBJ-AT O1 P2-3)
+(NOT-OBJ-AT O1 P2-4)
+(NOT-OBJ-AT O1 P2-5)
+(NOT-OBJ-AT O1 P3-1)
+(NOT-OBJ-AT O1 P3-2)
+(NOT-OBJ-AT O1 P3-3)
+(NOT-OBJ-AT O1 P3-4)
+(NOT-OBJ-AT O1 P3-5)
+(NOT-OBJ-AT O1 P4-1)
+(NOT-OBJ-AT O1 P4-2)
+(NOT-OBJ-AT O1 P4-3)
+(NOT-OBJ-AT O1 P4-4)
+(NOT-OBJ-AT O1 P4-5)
+(NOT-OBJ-AT O1 P5-1)
+(NOT-OBJ-AT O1 P5-2)
+(NOT-OBJ-AT O1 P5-3)
+(NOT-OBJ-AT O1 P5-4)
+(NOT-OBJ-AT O1 P5-5)
+(NOT-OBJ-AT O2 P1-1)
+(NOT-OBJ-AT O2 P1-2)
+(NOT-OBJ-AT O2 P1-3)
+(NOT-OBJ-AT O2 P1-4)
+(NOT-OBJ-AT O2 P1-5)
+(NOT-OBJ-AT O2 P2-1)
+(NOT-OBJ-AT O2 P2-2)
+(NOT-OBJ-AT O2 P2-3)
+(NOT-OBJ-AT O2 P2-4)
+(NOT-OBJ-AT O2 P2-5)
+(NOT-OBJ-AT O2 P3-1)
+(NOT-OBJ-AT O2 P3-2)
+(NOT-OBJ-AT O2 P3-3)
+(NOT-OBJ-AT O2 P3-4)
+(NOT-OBJ-AT O2 P3-5)
+(NOT-OBJ-AT O2 P4-1)
+(NOT-OBJ-AT O2 P4-2)
+(NOT-OBJ-AT O2 P4-3)
+(NOT-OBJ-AT O2 P4-4)
+(NOT-OBJ-AT O2 P4-5)
+(NOT-OBJ-AT O2 P5-1)
+(NOT-OBJ-AT O2 P5-2)
+(NOT-OBJ-AT O2 P5-3)
+(NOT-OBJ-AT O2 P5-4)
+(NOT-OBJ-AT O2 P5-5)
+(OBJ-AT O1 P1-1)
+(OBJ-AT O1 P1-2)
+(OBJ-AT O1 P1-3)
+(OBJ-AT O1 P1-4)
+(OBJ-AT O1 P1-5)
+(OBJ-AT O1 P2-1)
+(OBJ-AT O1 P2-2)
+(OBJ-AT O1 P2-3)
+(OBJ-AT O1 P2-4)
+(OBJ-AT O1 P2-5)
+(OBJ-AT O1 P3-1)
+(OBJ-AT O1 P3-2)
+(OBJ-AT O1 P3-3)
+(OBJ-AT O1 P3-4)
+(OBJ-AT O1 P3-5)
+(OBJ-AT O1 P4-1)
+(OBJ-AT O1 P4-2)
+(OBJ-AT O1 P4-3)
+(OBJ-AT O1 P4-4)
+(OBJ-AT O1 P4-5)
+(OBJ-AT O1 P5-1)
+(OBJ-AT O1 P5-2)
+(OBJ-AT O1 P5-3)
+(OBJ-AT O1 P5-4)
+(OBJ-AT O1 P5-5)
+(OBJ-AT O2 P1-1)
+(OBJ-AT O2 P1-2)
+(OBJ-AT O2 P1-3)
+(OBJ-AT O2 P1-4)
+(OBJ-AT O2 P1-5)
+(OBJ-AT O2 P2-1)
+(OBJ-AT O2 P2-2)
+(OBJ-AT O2 P2-3)
+(OBJ-AT O2 P2-4)
+(OBJ-AT O2 P2-5)
+(OBJ-AT O2 P3-1)
+(OBJ-AT O2 P3-2)
+(OBJ-AT O2 P3-3)
+(OBJ-AT O2 P3-4)
+(OBJ-AT O2 P3-5)
+(OBJ-AT O2 P4-1)
+(OBJ-AT O2 P4-2)
+(OBJ-AT O2 P4-3)
+(OBJ-AT O2 P4-4)
+(OBJ-AT O2 P4-5)
+(OBJ-AT O2 P5-1)
+(OBJ-AT O2 P5-2)
+(OBJ-AT O2 P5-3)
+(OBJ-AT O2 P5-4)
+(OBJ-AT O2 P5-5)
+UE:
+var_size: 106
+
+当前收集的断言数：54
+
+1
+
+第1次迭代
+当前初始状态:
+F:54 U:0
+num_Or:552
+参数大于2的OR: 
+H:16
+
+
+Cueing down from goal distance:   16 into depth [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1][2][3]
+                                  12            [1][2][3][4]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：20
+
+var_size: 2402
+
+当前收集的断言数：1114
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:52 U:4
+num_Or:577
+参数大于2的OR: 
+H:18
+
+
+Cueing down from goal distance:   18 into depth [1][2]
+                                  17            [1][2][3][4]
+                                  16            [1]
+                                  15            [1]
+                                  13            [1][2][3]
+                                  12            [1][2][3][4][5]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：26
+
+var_size: 3132
+
+当前收集的断言数：1432
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:50 U:8
+num_Or:602
+参数大于2的OR: 
+H:18
+
+
+Cueing down from goal distance:   18 into depth [1][2]
+                                  17            [1][2][3][4]
+                                  16            [1]
+                                  15            [1]
+                                  13            [1][2][3]
+                                  11            [1][2][3][4][5][6]
+                                  10            [1]
+                                   9            [1][2]
+                                   7            [1][2][3]
+                                   6            [1][2][3]
+                                   5            [1][2]
+                                   3            [1]
+                                   2            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   18
+                          17
+                          16
+                          15
+                          13
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           0
+
+ff: found legal plan as follows
+规划长度：40
+
+var_size: 4825
+
+当前收集的断言数：2174
+
+1
+找到反例！
+
+
+第4次迭代
+当前初始状态:
+F:49 U:10
+num_Or:602
+参数大于2的OR: 
+(OBJ-AT O1 P5-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P1-5) 
+H:21
+
+
+Cueing down from goal distance:   21 into depth [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1][2][3]
+                                  17            [1][2]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1][2][3]
+                                  11            [1][2]
+                                  10            [1][2][3][4][5]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1][2][3]
+                                   6            [1][2][3]
+                                   5            [1][2]
+                                   3            [1]
+                                   2            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   21
+                          20
+                          19
+                          18
+                          17
+                          15
+                          13
+                          12
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           3
+                           2
+                           1TimeOut
+now_time:3600.018223173998

@@ -1,0 +1,239 @@
+
+ff: parsing domain file
+domain 'RAOS_KEYS' defined
+ ... done.
+ff: parsing problem file
+problem 'RAOS_KEYS1' defined
+ ... done.
+
+
+F:
+(NOT-WEARING_SUNGLASSES)
+(NOT-OPEN L1)
+(NOT-OPEN L2)
+(NOT-OPEN L3)
+(NOT-OPEN L4)
+(NOT-OPEN L5)
+(NOT-HAVE_KEY K1)
+(NOT-HAVE_KEY K2)
+(NOT-HAVE_KEY K3)
+(NOT-HAVE_KEY K4)
+(NOT-HAVE_KEY K5)
+(AT L1)
+(NOT_WEARING_SUNGLASSES)
+U:
+(NOT-KEY_AT K1 L1)
+(NOT-KEY_AT K1 L2)
+(NOT-KEY_AT K1 L3)
+(NOT-KEY_AT K1 L4)
+(NOT-KEY_AT K1 L5)
+(NOT-KEY_AT K2 L1)
+(NOT-KEY_AT K2 L2)
+(NOT-KEY_AT K2 L3)
+(NOT-KEY_AT K2 L4)
+(NOT-KEY_AT K2 L5)
+(NOT-KEY_AT K3 L1)
+(NOT-KEY_AT K3 L2)
+(NOT-KEY_AT K3 L3)
+(NOT-KEY_AT K3 L4)
+(NOT-KEY_AT K3 L5)
+(NOT-KEY_AT K4 L1)
+(NOT-KEY_AT K4 L2)
+(NOT-KEY_AT K4 L3)
+(NOT-KEY_AT K4 L4)
+(NOT-KEY_AT K4 L5)
+(NOT-KEY_AT K5 L1)
+(NOT-KEY_AT K5 L2)
+(NOT-KEY_AT K5 L3)
+(NOT-KEY_AT K5 L4)
+(NOT-KEY_AT K5 L5)
+(NOT-OPENS K0 L1)
+(NOT-OPENS K0 L2)
+(NOT-OPENS K0 L3)
+(NOT-OPENS K0 L4)
+(NOT-OPENS K0 L5)
+(NOT-OPENS K1 L1)
+(NOT-OPENS K1 L2)
+(NOT-OPENS K1 L3)
+(NOT-OPENS K1 L4)
+(NOT-OPENS K1 L5)
+(NOT-OPENS K2 L1)
+(NOT-OPENS K2 L2)
+(NOT-OPENS K2 L3)
+(NOT-OPENS K2 L4)
+(NOT-OPENS K2 L5)
+(NOT-OPENS K3 L1)
+(NOT-OPENS K3 L2)
+(NOT-OPENS K3 L3)
+(NOT-OPENS K3 L4)
+(NOT-OPENS K3 L5)
+(NOT-OPENS K4 L1)
+(NOT-OPENS K4 L2)
+(NOT-OPENS K4 L3)
+(NOT-OPENS K4 L4)
+(NOT-OPENS K4 L5)
+(NOT-OPENS K5 L1)
+(NOT-OPENS K5 L2)
+(NOT-OPENS K5 L3)
+(NOT-OPENS K5 L4)
+(NOT-OPENS K5 L5)
+(KEY_AT K1 L1)
+(KEY_AT K1 L2)
+(KEY_AT K1 L3)
+(KEY_AT K1 L4)
+(KEY_AT K1 L5)
+(KEY_AT K2 L1)
+(KEY_AT K2 L2)
+(KEY_AT K2 L3)
+(KEY_AT K2 L4)
+(KEY_AT K2 L5)
+(KEY_AT K3 L1)
+(KEY_AT K3 L2)
+(KEY_AT K3 L3)
+(KEY_AT K3 L4)
+(KEY_AT K3 L5)
+(KEY_AT K4 L1)
+(KEY_AT K4 L2)
+(KEY_AT K4 L3)
+(KEY_AT K4 L4)
+(KEY_AT K4 L5)
+(KEY_AT K5 L1)
+(KEY_AT K5 L2)
+(KEY_AT K5 L3)
+(KEY_AT K5 L4)
+(KEY_AT K5 L5)
+(OPENS K0 L1)
+(OPENS K0 L2)
+(OPENS K0 L3)
+(OPENS K0 L4)
+(OPENS K0 L5)
+(OPENS K1 L1)
+(OPENS K1 L2)
+(OPENS K1 L3)
+(OPENS K1 L4)
+(OPENS K1 L5)
+(OPENS K2 L1)
+(OPENS K2 L2)
+(OPENS K2 L3)
+(OPENS K2 L4)
+(OPENS K2 L5)
+(OPENS K3 L1)
+(OPENS K3 L2)
+(OPENS K3 L3)
+(OPENS K3 L4)
+(OPENS K3 L5)
+(OPENS K4 L1)
+(OPENS K4 L2)
+(OPENS K4 L3)
+(OPENS K4 L4)
+(OPENS K4 L5)
+(OPENS K5 L1)
+(OPENS K5 L2)
+(OPENS K5 L3)
+(OPENS K5 L4)
+(OPENS K5 L5)
+UE:
+var_size: 134
+
+当前收集的断言数：68
+
+1
+
+第1次迭代
+当前初始状态:
+F:68 U:0
+num_Or:156
+参数大于2的OR: 
+H:-1
+
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+
+best first search space empty! problem proven unsolvable.
+
+
+
+规划器未寻找到规划解!
+
+
+statistics:    0.00 seconds instantiating 56 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 145 facts and 56 actions
+               0.00 seconds creating final representation with 139 relevant facts (130 max U, 65 CNF max U)
+               0.00 seconds building connectivity graph
+               0.00 seconds (   0.00 pure) evaluating 2 states, to a max depth of 0
+               0.00 seconds in DP for 0 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 0 state transition base CNFs
+               0.00 seconds in DP solving 0 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (0 hits), including 0 DP calls
+               0.00 seconds altogether checking for dominated states making 0 comparisons (0 conformant, 0 hits),
+                    spending    0.00 seconds doing 0 DP calls
+                  0 total DP calls, 0 total UP calls,    0.00 sec membership
+               0.02 seconds for remaining searching duties
+               0.02 seconds total time (+    0.09 secs for CNF memory allocation)
+
+初始目标状态
+Fold:13 Uold:110
+num_Orold:281
+参数大于2的OR: 
+(OPENS K1 L5) (OPENS K1 L4) (OPENS K1 L3) (OPENS K1 L2) (NOT-KEY_AT K1 L1) 
+(OPENS K1 L5) (OPENS K1 L4) (OPENS K1 L3) (OPENS K1 L1) (NOT-KEY_AT K1 L2) 
+(OPENS K1 L5) (OPENS K1 L4) (OPENS K1 L2) (OPENS K1 L1) (NOT-KEY_AT K1 L3) 
+(OPENS K1 L5) (OPENS K1 L3) (OPENS K1 L2) (OPENS K1 L1) (NOT-KEY_AT K1 L4) 
+(OPENS K1 L4) (OPENS K1 L3) (OPENS K1 L2) (OPENS K1 L1) (NOT-KEY_AT K1 L5) 
+(OPENS K2 L5) (OPENS K2 L4) (OPENS K2 L3) (OPENS K2 L2) (NOT-KEY_AT K2 L1) 
+(OPENS K2 L5) (OPENS K2 L4) (OPENS K2 L3) (OPENS K2 L1) (NOT-KEY_AT K2 L2) 
+(OPENS K2 L5) (OPENS K2 L4) (OPENS K2 L2) (OPENS K2 L1) (NOT-KEY_AT K2 L3) 
+(OPENS K2 L5) (OPENS K2 L3) (OPENS K2 L2) (OPENS K2 L1) (NOT-KEY_AT K2 L4) 
+(OPENS K2 L4) (OPENS K2 L3) (OPENS K2 L2) (OPENS K2 L1) (NOT-KEY_AT K2 L5) 
+(OPENS K3 L5) (OPENS K3 L4) (OPENS K3 L3) (OPENS K3 L2) (NOT-KEY_AT K3 L1) 
+(OPENS K3 L5) (OPENS K3 L4) (OPENS K3 L3) (OPENS K3 L1) (NOT-KEY_AT K3 L2) 
+(OPENS K3 L5) (OPENS K3 L4) (OPENS K3 L2) (OPENS K3 L1) (NOT-KEY_AT K3 L3) 
+(OPENS K3 L5) (OPENS K3 L3) (OPENS K3 L2) (OPENS K3 L1) (NOT-KEY_AT K3 L4) 
+(OPENS K3 L4) (OPENS K3 L3) (OPENS K3 L2) (OPENS K3 L1) (NOT-KEY_AT K3 L5) 
+(OPENS K4 L5) (OPENS K4 L4) (OPENS K4 L3) (OPENS K4 L2) (NOT-KEY_AT K4 L1) 
+(OPENS K4 L5) (OPENS K4 L4) (OPENS K4 L3) (OPENS K4 L1) (NOT-KEY_AT K4 L2) 
+(OPENS K4 L5) (OPENS K4 L4) (OPENS K4 L2) (OPENS K4 L1) (NOT-KEY_AT K4 L3) 
+(OPENS K4 L5) (OPENS K4 L3) (OPENS K4 L2) (OPENS K4 L1) (NOT-KEY_AT K4 L4) 
+(OPENS K4 L4) (OPENS K4 L3) (OPENS K4 L2) (OPENS K4 L1) (NOT-KEY_AT K4 L5) 
+(OPENS K5 L5) (OPENS K5 L4) (OPENS K5 L3) (OPENS K5 L2) (NOT-KEY_AT K5 L1) 
+(OPENS K5 L5) (OPENS K5 L4) (OPENS K5 L3) (OPENS K5 L1) (NOT-KEY_AT K5 L2) 
+(OPENS K5 L5) (OPENS K5 L4) (OPENS K5 L2) (OPENS K5 L1) (NOT-KEY_AT K5 L3) 
+(OPENS K5 L5) (OPENS K5 L3) (OPENS K5 L2) (OPENS K5 L1) (NOT-KEY_AT K5 L4) 
+(OPENS K5 L4) (OPENS K5 L3) (OPENS K5 L2) (OPENS K5 L1) (NOT-KEY_AT K5 L5) 
+(OPENS K0 L5) (OPENS K0 L4) (OPENS K0 L3) (OPENS K0 L2) (OPENS K0 L1) 
+(KEY_AT K1 L5) (KEY_AT K1 L4) (KEY_AT K1 L3) (KEY_AT K1 L2) (KEY_AT K1 L1) 
+(OPENS K1 L5) (OPENS K1 L4) (OPENS K1 L3) (OPENS K1 L2) (OPENS K1 L1) 
+(KEY_AT K2 L5) (KEY_AT K2 L4) (KEY_AT K2 L3) (KEY_AT K2 L2) (KEY_AT K2 L1) 
+(OPENS K2 L5) (OPENS K2 L4) (OPENS K2 L3) (OPENS K2 L2) (OPENS K2 L1) 
+(KEY_AT K3 L5) (KEY_AT K3 L4) (KEY_AT K3 L3) (KEY_AT K3 L2) (KEY_AT K3 L1) 
+(OPENS K3 L5) (OPENS K3 L4) (OPENS K3 L3) (OPENS K3 L2) (OPENS K3 L1) 
+(KEY_AT K4 L5) (KEY_AT K4 L4) (KEY_AT K4 L3) (KEY_AT K4 L2) (KEY_AT K4 L1) 
+(OPENS K4 L5) (OPENS K4 L4) (OPENS K4 L3) (OPENS K4 L2) (OPENS K4 L1) 
+(KEY_AT K5 L5) (KEY_AT K5 L4) (KEY_AT K5 L3) (KEY_AT K5 L2) (KEY_AT K5 L1) 
+(OPENS K5 L5) (OPENS K5 L4) (OPENS K5 L3) (OPENS K5 L2) (OPENS K5 L1) 
+(OPENS K5 L1) (OPENS K4 L1) (OPENS K3 L1) (OPENS K2 L1) (OPENS K1 L1) 
+(KEY_AT K5 L1) (KEY_AT K4 L1) (KEY_AT K3 L1) (KEY_AT K2 L1) (KEY_AT K1 L1) 
+(OPENS K5 L2) (OPENS K4 L2) (OPENS K3 L2) (OPENS K2 L2) (OPENS K1 L2) 
+(KEY_AT K5 L2) (KEY_AT K4 L2) (KEY_AT K3 L2) (KEY_AT K2 L2) (KEY_AT K1 L2) 
+(OPENS K5 L3) (OPENS K4 L3) (OPENS K3 L3) (OPENS K2 L3) (OPENS K1 L3) 
+(KEY_AT K5 L3) (KEY_AT K4 L3) (KEY_AT K3 L3) (KEY_AT K2 L3) (KEY_AT K1 L3) 
+(OPENS K5 L4) (OPENS K4 L4) (OPENS K3 L4) (OPENS K2 L4) (OPENS K1 L4) 
+(KEY_AT K5 L4) (KEY_AT K4 L4) (KEY_AT K3 L4) (KEY_AT K2 L4) (KEY_AT K1 L4) 
+(OPENS K5 L5) (OPENS K4 L5) (OPENS K3 L5) (OPENS K2 L5) (OPENS K1 L5) 
+(KEY_AT K5 L5) (KEY_AT K4 L5) (KEY_AT K3 L5) (KEY_AT K2 L5) (KEY_AT K1 L5) 
+
+
+当前反例添加的目标状态
+Fcur:68 Ucur:0
+num_Orcur:156
+参数大于2的OR: 
+
+
+counter_time:0.02
+plan length:0
+iteration:1
+now_time:0.13629839400528

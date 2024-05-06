@@ -1,0 +1,241 @@
+
+ff: parsing domain file
+domain 'GRID' defined
+ ... done.
+ff: parsing problem file
+problem 'GRID-X3-Y3-T2-K11-L22-P100' defined
+ ... done.
+
+
+F:
+(ARM-EMPTY)
+(LOCKED F0-2F)
+(LOCKED F2-1F)
+(LOCKED F0-1F)
+(LOCKED F0-0F)
+(AT KEY0-0 F2-2F)
+(AT KEY1-0 F1-2F)
+(AT-ROBOT F1-1F)
+U:
+(NOT-LOCK-SHAPE F0-0F SHAPE0)
+(NOT-LOCK-SHAPE F0-0F SHAPE1)
+(NOT-LOCK-SHAPE F0-1F SHAPE0)
+(NOT-LOCK-SHAPE F0-1F SHAPE1)
+(NOT-LOCK-SHAPE F2-1F SHAPE0)
+(NOT-LOCK-SHAPE F2-1F SHAPE1)
+(NOT-LOCK-SHAPE F0-2F SHAPE0)
+(NOT-LOCK-SHAPE F0-2F SHAPE1)
+(LOCK-SHAPE F0-0F SHAPE0)
+(LOCK-SHAPE F0-0F SHAPE1)
+(LOCK-SHAPE F0-1F SHAPE0)
+(LOCK-SHAPE F0-1F SHAPE1)
+(LOCK-SHAPE F0-2F SHAPE0)
+(LOCK-SHAPE F0-2F SHAPE1)
+(LOCK-SHAPE F2-1F SHAPE0)
+(LOCK-SHAPE F2-1F SHAPE1)
+UE:
+var_size: 26
+
+当前收集的断言数：10
+
+1
+
+第1次迭代
+当前初始状态:
+F:16 U:0
+num_Or:0
+参数大于2的OR: 
+H:12
+
+
+Cueing down from goal distance:   12 into depth [1][2][3]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1][2][3]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：17
+
+var_size: 488
+
+当前收集的断言数：146
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:14 U:4
+num_Or:2
+参数大于2的OR: 
+H:13
+
+
+Cueing down from goal distance:   13 into depth [1][2][3]
+                                  12            [1][2]
+                                  11            [1][2]
+                                  10            [1][2][3][4][5][6]
+                                   9            [1]
+                                   7            [1][2][3]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：22
+
+var_size: 659
+
+当前收集的断言数：186
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:12 U:8
+num_Or:4
+参数大于2的OR: 
+H:13
+
+
+Cueing down from goal distance:   13 into depth [1][2][3]
+                                  12            [1][2][3]
+                                  11            [1][2][3][4][5][6]
+                                  10            [1]
+                                   9            [1][2][3][4][5][6][7]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：27
+
+var_size: 795
+
+当前收集的断言数：226
+
+1
+找到反例！
+
+
+第4次迭代
+当前初始状态:
+F:10 U:12
+num_Or:6
+参数大于2的OR: 
+H:14
+
+
+Cueing down from goal distance:   14 into depth [1][2][3]
+                                  13            [1][2][3]
+                                  12            [1][2][3][4][5][6]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1][2][3][4][5][6][7]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：28
+
+var_size: 827
+
+当前收集的断言数：234
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: MOVE F1-1F F1-2F
+        1: PICKUP F1-2F KEY1-0
+        2: UNLOCK F1-2F F0-2F KEY1-0 SHAPE1
+        3: MOVE F1-2F F1-1F
+        4: MOVE F1-1F F1-0F
+        5: UNLOCK F1-0F F0-0F KEY1-0 SHAPE1
+        6: MOVE F1-0F F1-1F
+        7: PUTDOWN F1-1F KEY1-0
+        8: MOVE F1-1F F1-2F
+        9: MOVE F1-2F F2-2F
+       10: PICKUP F2-2F KEY0-0
+       11: MOVE F2-2F F1-2F
+       12: UNLOCK F1-2F F0-2F KEY0-0 SHAPE0
+       13: MOVE F1-2F F0-2F
+       14: MOVE F0-2F F1-2F
+       15: MOVE F1-2F F1-1F
+       16: MOVE F1-1F F1-0F
+       17: UNLOCK F1-0F F0-0F KEY0-0 SHAPE0
+       18: MOVE F1-0F F1-1F
+       19: MOVE F1-1F F1-2F
+       20: MOVE F1-2F F0-2F
+       21: PUTDOWN F0-2F KEY0-0
+       22: MOVE F0-2F F1-2F
+       23: MOVE F1-2F F1-1F
+       24: PICKUP F1-1F KEY1-0
+       25: MOVE F1-1F F1-0F
+       26: MOVE F1-0F F0-0F
+       27: PUTDOWN F0-0F KEY1-0
+     
+
+statistics:    0.00 seconds instantiating 108 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 220 facts and 108 actions
+               0.00 seconds creating final representation with 54 relevant facts (24 max U, 16 CNF max U)
+               0.00 seconds building connectivity graph
+               0.00 seconds (   0.00 pure) evaluating 325 states, to a max depth of 7
+               0.00 seconds in DP for 473 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 750 state transition base CNFs
+               0.00 seconds in DP solving 18 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (274 hits), including 1272 DP calls
+               0.00 seconds altogether checking for dominated states making 1 comparisons (1 conformant, 1 hits),
+                    spending    0.00 seconds doing 5 DP calls
+               1768 total DP calls, 2436 total UP calls,    0.00 sec membership
+               0.04 seconds for remaining searching duties
+               0.04 seconds total time (+    0.02 secs for CNF memory allocation)
+
+初始目标状态
+Fold:8 Uold:16
+num_Orold:8
+参数大于2的OR: 
+
+
+当前反例添加的目标状态
+Fcur:10 Ucur:12
+num_Orcur:6
+参数大于2的OR: 
+
+
+counter_time:0.11
+plan length:28
+iteration:4
+now_time:0.1467829610046465

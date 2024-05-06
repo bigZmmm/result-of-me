@@ -1,0 +1,392 @@
+
+ff: parsing domain file
+domain 'DISPOSE' defined
+ ... done.
+ff: parsing problem file
+problem 'DISPOSE_4_3' defined
+ ... done.
+
+
+F:
+(NOT-HOLDING O1)
+(NOT-HOLDING O2)
+(NOT-HOLDING O3)
+(AT P2_2)
+U:
+(NOT-OBJ_AT O1 P1_1)
+(NOT-OBJ_AT O1 P1_2)
+(NOT-OBJ_AT O1 P1_3)
+(NOT-OBJ_AT O1 P1_4)
+(NOT-OBJ_AT O1 P2_1)
+(NOT-OBJ_AT O1 P2_2)
+(NOT-OBJ_AT O1 P2_3)
+(NOT-OBJ_AT O1 P2_4)
+(NOT-OBJ_AT O1 P3_1)
+(NOT-OBJ_AT O1 P3_2)
+(NOT-OBJ_AT O1 P3_3)
+(NOT-OBJ_AT O1 P3_4)
+(NOT-OBJ_AT O1 P4_1)
+(NOT-OBJ_AT O1 P4_2)
+(NOT-OBJ_AT O1 P4_3)
+(NOT-OBJ_AT O1 P4_4)
+(NOT-OBJ_AT O2 P1_1)
+(NOT-OBJ_AT O2 P1_2)
+(NOT-OBJ_AT O2 P1_3)
+(NOT-OBJ_AT O2 P1_4)
+(NOT-OBJ_AT O2 P2_1)
+(NOT-OBJ_AT O2 P2_2)
+(NOT-OBJ_AT O2 P2_3)
+(NOT-OBJ_AT O2 P2_4)
+(NOT-OBJ_AT O2 P3_1)
+(NOT-OBJ_AT O2 P3_2)
+(NOT-OBJ_AT O2 P3_3)
+(NOT-OBJ_AT O2 P3_4)
+(NOT-OBJ_AT O2 P4_1)
+(NOT-OBJ_AT O2 P4_2)
+(NOT-OBJ_AT O2 P4_3)
+(NOT-OBJ_AT O2 P4_4)
+(NOT-OBJ_AT O3 P1_1)
+(NOT-OBJ_AT O3 P1_2)
+(NOT-OBJ_AT O3 P1_3)
+(NOT-OBJ_AT O3 P1_4)
+(NOT-OBJ_AT O3 P2_1)
+(NOT-OBJ_AT O3 P2_2)
+(NOT-OBJ_AT O3 P2_3)
+(NOT-OBJ_AT O3 P2_4)
+(NOT-OBJ_AT O3 P3_1)
+(NOT-OBJ_AT O3 P3_2)
+(NOT-OBJ_AT O3 P3_3)
+(NOT-OBJ_AT O3 P3_4)
+(NOT-OBJ_AT O3 P4_1)
+(NOT-OBJ_AT O3 P4_2)
+(NOT-OBJ_AT O3 P4_3)
+(NOT-OBJ_AT O3 P4_4)
+(OBJ_AT O1 P1_1)
+(OBJ_AT O1 P1_2)
+(OBJ_AT O1 P1_3)
+(OBJ_AT O1 P1_4)
+(OBJ_AT O1 P2_1)
+(OBJ_AT O1 P2_2)
+(OBJ_AT O1 P2_3)
+(OBJ_AT O1 P2_4)
+(OBJ_AT O1 P3_1)
+(OBJ_AT O1 P3_2)
+(OBJ_AT O1 P3_3)
+(OBJ_AT O1 P3_4)
+(OBJ_AT O1 P4_1)
+(OBJ_AT O1 P4_2)
+(OBJ_AT O1 P4_3)
+(OBJ_AT O1 P4_4)
+(OBJ_AT O2 P1_1)
+(OBJ_AT O2 P1_2)
+(OBJ_AT O2 P1_3)
+(OBJ_AT O2 P1_4)
+(OBJ_AT O2 P2_1)
+(OBJ_AT O2 P2_2)
+(OBJ_AT O2 P2_3)
+(OBJ_AT O2 P2_4)
+(OBJ_AT O2 P3_1)
+(OBJ_AT O2 P3_2)
+(OBJ_AT O2 P3_3)
+(OBJ_AT O2 P3_4)
+(OBJ_AT O2 P4_1)
+(OBJ_AT O2 P4_2)
+(OBJ_AT O2 P4_3)
+(OBJ_AT O2 P4_4)
+(OBJ_AT O3 P1_1)
+(OBJ_AT O3 P1_2)
+(OBJ_AT O3 P1_3)
+(OBJ_AT O3 P1_4)
+(OBJ_AT O3 P2_1)
+(OBJ_AT O3 P2_2)
+(OBJ_AT O3 P2_3)
+(OBJ_AT O3 P2_4)
+(OBJ_AT O3 P3_1)
+(OBJ_AT O3 P3_2)
+(OBJ_AT O3 P3_3)
+(OBJ_AT O3 P3_4)
+(OBJ_AT O3 P4_1)
+(OBJ_AT O3 P4_2)
+(OBJ_AT O3 P4_3)
+(OBJ_AT O3 P4_4)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(NOT-HOLDING O1)
+(NOT-HOLDING O2)
+(NOT-HOLDING O3)
+(AT P2_2)
+U:
+(NOT-OBJ_AT O1 P1_1)
+(NOT-OBJ_AT O1 P1_2)
+(NOT-OBJ_AT O1 P1_3)
+(NOT-OBJ_AT O1 P1_4)
+(NOT-OBJ_AT O1 P2_1)
+(NOT-OBJ_AT O1 P2_2)
+(NOT-OBJ_AT O1 P2_3)
+(NOT-OBJ_AT O1 P2_4)
+(NOT-OBJ_AT O1 P3_1)
+(NOT-OBJ_AT O1 P3_2)
+(NOT-OBJ_AT O1 P3_3)
+(NOT-OBJ_AT O1 P3_4)
+(NOT-OBJ_AT O1 P4_1)
+(NOT-OBJ_AT O1 P4_2)
+(NOT-OBJ_AT O1 P4_3)
+(NOT-OBJ_AT O1 P4_4)
+(NOT-OBJ_AT O2 P1_1)
+(NOT-OBJ_AT O2 P1_2)
+(NOT-OBJ_AT O2 P1_3)
+(NOT-OBJ_AT O2 P1_4)
+(NOT-OBJ_AT O2 P2_1)
+(NOT-OBJ_AT O2 P2_2)
+(NOT-OBJ_AT O2 P2_3)
+(NOT-OBJ_AT O2 P2_4)
+(NOT-OBJ_AT O2 P3_1)
+(NOT-OBJ_AT O2 P3_2)
+(NOT-OBJ_AT O2 P3_3)
+(NOT-OBJ_AT O2 P3_4)
+(NOT-OBJ_AT O2 P4_1)
+(NOT-OBJ_AT O2 P4_2)
+(NOT-OBJ_AT O2 P4_3)
+(NOT-OBJ_AT O2 P4_4)
+(NOT-OBJ_AT O3 P1_1)
+(NOT-OBJ_AT O3 P1_2)
+(NOT-OBJ_AT O3 P1_3)
+(NOT-OBJ_AT O3 P1_4)
+(NOT-OBJ_AT O3 P2_1)
+(NOT-OBJ_AT O3 P2_2)
+(NOT-OBJ_AT O3 P2_3)
+(NOT-OBJ_AT O3 P2_4)
+(NOT-OBJ_AT O3 P3_1)
+(NOT-OBJ_AT O3 P3_2)
+(NOT-OBJ_AT O3 P3_3)
+(NOT-OBJ_AT O3 P3_4)
+(NOT-OBJ_AT O3 P4_1)
+(NOT-OBJ_AT O3 P4_2)
+(NOT-OBJ_AT O3 P4_3)
+(NOT-OBJ_AT O3 P4_4)
+(OBJ_AT O1 P1_1)
+(OBJ_AT O1 P1_2)
+(OBJ_AT O1 P1_3)
+(OBJ_AT O1 P1_4)
+(OBJ_AT O1 P2_1)
+(OBJ_AT O1 P2_2)
+(OBJ_AT O1 P2_3)
+(OBJ_AT O1 P2_4)
+(OBJ_AT O1 P3_1)
+(OBJ_AT O1 P3_2)
+(OBJ_AT O1 P3_3)
+(OBJ_AT O1 P3_4)
+(OBJ_AT O1 P4_1)
+(OBJ_AT O1 P4_2)
+(OBJ_AT O1 P4_3)
+(OBJ_AT O1 P4_4)
+(OBJ_AT O2 P1_1)
+(OBJ_AT O2 P1_2)
+(OBJ_AT O2 P1_3)
+(OBJ_AT O2 P1_4)
+(OBJ_AT O2 P2_1)
+(OBJ_AT O2 P2_2)
+(OBJ_AT O2 P2_3)
+(OBJ_AT O2 P2_4)
+(OBJ_AT O2 P3_1)
+(OBJ_AT O2 P3_2)
+(OBJ_AT O2 P3_3)
+(OBJ_AT O2 P3_4)
+(OBJ_AT O2 P4_1)
+(OBJ_AT O2 P4_2)
+(OBJ_AT O2 P4_3)
+(OBJ_AT O2 P4_4)
+(OBJ_AT O3 P1_1)
+(OBJ_AT O3 P1_2)
+(OBJ_AT O3 P1_3)
+(OBJ_AT O3 P1_4)
+(OBJ_AT O3 P2_1)
+(OBJ_AT O3 P2_2)
+(OBJ_AT O3 P2_3)
+(OBJ_AT O3 P2_4)
+(OBJ_AT O3 P3_1)
+(OBJ_AT O3 P3_2)
+(OBJ_AT O3 P3_3)
+(OBJ_AT O3 P3_4)
+(OBJ_AT O3 P4_1)
+(OBJ_AT O3 P4_2)
+(OBJ_AT O3 P4_3)
+(OBJ_AT O3 P4_4)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+OR: (OBJ_AT O2 P4_4) (OBJ_AT O2 P4_3) (OBJ_AT O2 P4_2) (OBJ_AT O2 P4_1) (OBJ_AT O2 P3_4) (OBJ_AT O2 P3_3) (OBJ_AT O2 P3_2) (OBJ_AT O2 P3_1) (OBJ_AT O2 P2_4) (OBJ_AT O2 P2_3) (OBJ_AT O2 P2_2) (OBJ_AT O2 P2_1) (OBJ_AT O2 P1_4) (OBJ_AT O2 P1_3) (OBJ_AT O2 P1_2) (OBJ_AT O2 P1_1) 
+OR: (OBJ_AT O3 P4_4) (OBJ_AT O3 P4_3) (OBJ_AT O3 P4_2) (OBJ_AT O3 P4_1) (OBJ_AT O3 P3_4) (OBJ_AT O3 P3_3) (OBJ_AT O3 P3_2) (OBJ_AT O3 P3_1) (OBJ_AT O3 P2_4) (OBJ_AT O3 P2_3) (OBJ_AT O3 P2_2) (OBJ_AT O3 P2_1) (OBJ_AT O3 P1_4) (OBJ_AT O3 P1_3) (OBJ_AT O3 P1_2) (OBJ_AT O3 P1_1) H:67
+
+
+Cueing down from goal distance:   67 into depth [1]
+                                  66            [1]
+                                  65            [1]
+                                  64            [1][2]
+                                  63            [1]
+                                  62            [1]
+                                  61            [1]
+                                  60            [1]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1][2]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1][2][3]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1][2]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1][2]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1][2]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: PICKUP O3 P2_2
+        1: PICKUP O2 P2_2
+        2: PICKUP O1 P2_2
+        3: MOVE P2_2 P1_2
+        4: PICKUP O3 P1_2
+        5: PICKUP O2 P1_2
+        6: PICKUP O1 P1_2
+        7: MOVE P1_2 P2_2
+        8: MOVE P2_2 P3_2
+        9: PICKUP O3 P3_2
+       10: PICKUP O2 P3_2
+       11: PICKUP O1 P3_2
+       12: MOVE P3_2 P4_2
+       13: PICKUP O3 P4_2
+       14: PICKUP O2 P4_2
+       15: PICKUP O1 P4_2
+       16: MOVE P4_2 P4_1
+       17: PICKUP O3 P4_1
+       18: PICKUP O2 P4_1
+       19: PICKUP O1 P4_1
+       20: MOVE P4_1 P3_1
+       21: PICKUP O3 P3_1
+       22: PICKUP O2 P3_1
+       23: PICKUP O1 P3_1
+       24: MOVE P3_1 P2_1
+       25: PICKUP O3 P2_1
+       26: PICKUP O2 P2_1
+       27: PICKUP O1 P2_1
+       28: MOVE P2_1 P1_1
+       29: PICKUP O3 P1_1
+       30: PICKUP O2 P1_1
+       31: PICKUP O1 P1_1
+       32: MOVE P1_1 P1_2
+       33: MOVE P1_2 P1_3
+       34: PICKUP O3 P1_3
+       35: PICKUP O2 P1_3
+       36: PICKUP O1 P1_3
+       37: MOVE P1_3 P1_4
+       38: PICKUP O3 P1_4
+       39: PICKUP O2 P1_4
+       40: PICKUP O1 P1_4
+       41: MOVE P1_4 P2_4
+       42: PICKUP O3 P2_4
+       43: PICKUP O2 P2_4
+       44: PICKUP O1 P2_4
+       45: MOVE P2_4 P2_3
+       46: PICKUP O3 P2_3
+       47: PICKUP O2 P2_3
+       48: PICKUP O1 P2_3
+       49: MOVE P2_3 P3_3
+       50: PICKUP O3 P3_3
+       51: PICKUP O2 P3_3
+       52: PICKUP O1 P3_3
+       53: MOVE P3_3 P3_4
+       54: PICKUP O3 P3_4
+       55: PICKUP O2 P3_4
+       56: PICKUP O1 P3_4
+       57: MOVE P3_4 P4_4
+       58: PICKUP O3 P4_4
+       59: PICKUP O2 P4_4
+       60: PICKUP O1 P4_4
+       61: MOVE P4_4 P4_3
+       62: PICKUP O3 P4_3
+       63: PICKUP O2 P4_3
+       64: PICKUP O1 P4_3
+       65: MOVE P4_3 P4_2
+       66: MOVE P4_2 P4_1
+       67: MOVE P4_1 P3_1
+       68: MOVE P3_1 P2_1
+       69: MOVE P2_1 P1_1
+       70: DROP O1 P1_1
+       71: DROP O2 P1_1
+       72: DROP O3 P1_1
+     
+
+statistics:    0.00 seconds instantiating 99 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 121 facts and 99 actions
+               0.00 seconds creating final representation with 121 relevant facts (105 max U, 54 CNF max U)
+               0.00 seconds building connectivity graph
+               0.06 seconds (   0.06 pure) evaluating 95 states, to a max depth of 3
+               0.00 seconds in DP for 1476 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.01 seconds generating,    0.00 seconds encoding 346 state transition base CNFs
+               0.01 seconds in DP solving 258 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.01 seconds checking for stagnating states (26 hits), including 4237 DP calls
+               0.00 seconds altogether checking for dominated states making 7 comparisons (7 conformant, 7 hits),
+                    spending    0.00 seconds doing 246 DP calls
+               6217 total DP calls, 72827 total UP calls,    0.00 sec membership
+               0.08 seconds for remaining searching duties
+               0.17 seconds total time (+    0.08 secs for CNF memory allocation)
+
+plan length:73
+iteration:1
+now_time:0.19552359599038027

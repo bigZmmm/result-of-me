@@ -1,0 +1,591 @@
+
+ff: parsing domain file
+domain 'COINS' defined
+ ... done.
+ff: parsing problem file
+problem 'COINS_2_8_2_12876' defined
+ ... done.
+
+
+F:
+(AT F0 P0)
+U:
+(NOT-COIN-AT C0 F0 P0)
+(NOT-COIN-AT C0 F0 P1)
+(NOT-COIN-AT C0 F0 P2)
+(NOT-COIN-AT C0 F0 P3)
+(NOT-COIN-AT C0 F0 P4)
+(NOT-COIN-AT C0 F0 P5)
+(NOT-COIN-AT C0 F0 P6)
+(NOT-COIN-AT C0 F0 P7)
+(NOT-COIN-AT C1 F0 P0)
+(NOT-COIN-AT C1 F0 P1)
+(NOT-COIN-AT C1 F0 P2)
+(NOT-COIN-AT C1 F0 P3)
+(NOT-COIN-AT C1 F0 P4)
+(NOT-COIN-AT C1 F0 P5)
+(NOT-COIN-AT C1 F0 P6)
+(NOT-COIN-AT C1 F0 P7)
+(NOT-COIN-AT C2 F0 P0)
+(NOT-COIN-AT C2 F0 P1)
+(NOT-COIN-AT C2 F0 P2)
+(NOT-COIN-AT C2 F0 P3)
+(NOT-COIN-AT C2 F0 P4)
+(NOT-COIN-AT C2 F0 P5)
+(NOT-COIN-AT C2 F0 P6)
+(NOT-COIN-AT C2 F0 P7)
+(NOT-COIN-AT C3 F1 P0)
+(NOT-COIN-AT C3 F1 P1)
+(NOT-COIN-AT C3 F1 P2)
+(NOT-COIN-AT C3 F1 P3)
+(NOT-COIN-AT C3 F1 P4)
+(NOT-COIN-AT C3 F1 P5)
+(NOT-COIN-AT C3 F1 P6)
+(NOT-COIN-AT C3 F1 P7)
+(NOT-COIN-AT C4 F0 P0)
+(NOT-COIN-AT C4 F0 P1)
+(NOT-COIN-AT C4 F0 P2)
+(NOT-COIN-AT C4 F0 P3)
+(NOT-COIN-AT C4 F0 P4)
+(NOT-COIN-AT C4 F0 P5)
+(NOT-COIN-AT C4 F0 P6)
+(NOT-COIN-AT C4 F0 P7)
+(NOT-COIN-AT C5 F0 P0)
+(NOT-COIN-AT C5 F0 P1)
+(NOT-COIN-AT C5 F0 P2)
+(NOT-COIN-AT C5 F0 P3)
+(NOT-COIN-AT C5 F0 P4)
+(NOT-COIN-AT C5 F0 P5)
+(NOT-COIN-AT C5 F0 P6)
+(NOT-COIN-AT C5 F0 P7)
+(NOT-IN E0 F0)
+(NOT-IN E0 F1)
+(NOT-IN E1 F0)
+(NOT-IN E1 F1)
+(COIN-AT C0 F0 P0)
+(COIN-AT C0 F0 P1)
+(COIN-AT C0 F0 P2)
+(COIN-AT C0 F0 P3)
+(COIN-AT C0 F0 P4)
+(COIN-AT C0 F0 P5)
+(COIN-AT C0 F0 P6)
+(COIN-AT C0 F0 P7)
+(COIN-AT C1 F0 P0)
+(COIN-AT C1 F0 P1)
+(COIN-AT C1 F0 P2)
+(COIN-AT C1 F0 P3)
+(COIN-AT C1 F0 P4)
+(COIN-AT C1 F0 P5)
+(COIN-AT C1 F0 P6)
+(COIN-AT C1 F0 P7)
+(COIN-AT C2 F0 P0)
+(COIN-AT C2 F0 P1)
+(COIN-AT C2 F0 P2)
+(COIN-AT C2 F0 P3)
+(COIN-AT C2 F0 P4)
+(COIN-AT C2 F0 P5)
+(COIN-AT C2 F0 P6)
+(COIN-AT C2 F0 P7)
+(COIN-AT C3 F1 P0)
+(COIN-AT C3 F1 P1)
+(COIN-AT C3 F1 P2)
+(COIN-AT C3 F1 P3)
+(COIN-AT C3 F1 P4)
+(COIN-AT C3 F1 P5)
+(COIN-AT C3 F1 P6)
+(COIN-AT C3 F1 P7)
+(COIN-AT C4 F0 P0)
+(COIN-AT C4 F0 P1)
+(COIN-AT C4 F0 P2)
+(COIN-AT C4 F0 P3)
+(COIN-AT C4 F0 P4)
+(COIN-AT C4 F0 P5)
+(COIN-AT C4 F0 P6)
+(COIN-AT C4 F0 P7)
+(COIN-AT C5 F0 P0)
+(COIN-AT C5 F0 P1)
+(COIN-AT C5 F0 P2)
+(COIN-AT C5 F0 P3)
+(COIN-AT C5 F0 P4)
+(COIN-AT C5 F0 P5)
+(COIN-AT C5 F0 P6)
+(COIN-AT C5 F0 P7)
+(IN E0 F0)
+(IN E0 F1)
+(IN E1 F0)
+(IN E1 F1)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(AT F0 P0)
+U:
+(NOT-COIN-AT C0 F0 P0)
+(NOT-COIN-AT C0 F0 P1)
+(NOT-COIN-AT C0 F0 P2)
+(NOT-COIN-AT C0 F0 P3)
+(NOT-COIN-AT C0 F0 P4)
+(NOT-COIN-AT C0 F0 P5)
+(NOT-COIN-AT C0 F0 P6)
+(NOT-COIN-AT C0 F0 P7)
+(NOT-COIN-AT C1 F0 P0)
+(NOT-COIN-AT C1 F0 P1)
+(NOT-COIN-AT C1 F0 P2)
+(NOT-COIN-AT C1 F0 P3)
+(NOT-COIN-AT C1 F0 P4)
+(NOT-COIN-AT C1 F0 P5)
+(NOT-COIN-AT C1 F0 P6)
+(NOT-COIN-AT C1 F0 P7)
+(NOT-COIN-AT C2 F0 P0)
+(NOT-COIN-AT C2 F0 P1)
+(NOT-COIN-AT C2 F0 P2)
+(NOT-COIN-AT C2 F0 P3)
+(NOT-COIN-AT C2 F0 P4)
+(NOT-COIN-AT C2 F0 P5)
+(NOT-COIN-AT C2 F0 P6)
+(NOT-COIN-AT C2 F0 P7)
+(NOT-COIN-AT C3 F1 P0)
+(NOT-COIN-AT C3 F1 P1)
+(NOT-COIN-AT C3 F1 P2)
+(NOT-COIN-AT C3 F1 P3)
+(NOT-COIN-AT C3 F1 P4)
+(NOT-COIN-AT C3 F1 P5)
+(NOT-COIN-AT C3 F1 P6)
+(NOT-COIN-AT C3 F1 P7)
+(NOT-COIN-AT C4 F0 P0)
+(NOT-COIN-AT C4 F0 P1)
+(NOT-COIN-AT C4 F0 P2)
+(NOT-COIN-AT C4 F0 P3)
+(NOT-COIN-AT C4 F0 P4)
+(NOT-COIN-AT C4 F0 P5)
+(NOT-COIN-AT C4 F0 P6)
+(NOT-COIN-AT C4 F0 P7)
+(NOT-COIN-AT C5 F0 P0)
+(NOT-COIN-AT C5 F0 P1)
+(NOT-COIN-AT C5 F0 P2)
+(NOT-COIN-AT C5 F0 P3)
+(NOT-COIN-AT C5 F0 P4)
+(NOT-COIN-AT C5 F0 P5)
+(NOT-COIN-AT C5 F0 P6)
+(NOT-COIN-AT C5 F0 P7)
+(NOT-IN E0 F0)
+(NOT-IN E0 F1)
+(NOT-IN E1 F0)
+(NOT-IN E1 F1)
+(COIN-AT C0 F0 P0)
+(COIN-AT C0 F0 P1)
+(COIN-AT C0 F0 P2)
+(COIN-AT C0 F0 P3)
+(COIN-AT C0 F0 P4)
+(COIN-AT C0 F0 P5)
+(COIN-AT C0 F0 P6)
+(COIN-AT C0 F0 P7)
+(COIN-AT C1 F0 P0)
+(COIN-AT C1 F0 P1)
+(COIN-AT C1 F0 P2)
+(COIN-AT C1 F0 P3)
+(COIN-AT C1 F0 P4)
+(COIN-AT C1 F0 P5)
+(COIN-AT C1 F0 P6)
+(COIN-AT C1 F0 P7)
+(COIN-AT C2 F0 P0)
+(COIN-AT C2 F0 P1)
+(COIN-AT C2 F0 P2)
+(COIN-AT C2 F0 P3)
+(COIN-AT C2 F0 P4)
+(COIN-AT C2 F0 P5)
+(COIN-AT C2 F0 P6)
+(COIN-AT C2 F0 P7)
+(COIN-AT C3 F1 P0)
+(COIN-AT C3 F1 P1)
+(COIN-AT C3 F1 P2)
+(COIN-AT C3 F1 P3)
+(COIN-AT C3 F1 P4)
+(COIN-AT C3 F1 P5)
+(COIN-AT C3 F1 P6)
+(COIN-AT C3 F1 P7)
+(COIN-AT C4 F0 P0)
+(COIN-AT C4 F0 P1)
+(COIN-AT C4 F0 P2)
+(COIN-AT C4 F0 P3)
+(COIN-AT C4 F0 P4)
+(COIN-AT C4 F0 P5)
+(COIN-AT C4 F0 P6)
+(COIN-AT C4 F0 P7)
+(COIN-AT C5 F0 P0)
+(COIN-AT C5 F0 P1)
+(COIN-AT C5 F0 P2)
+(COIN-AT C5 F0 P3)
+(COIN-AT C5 F0 P4)
+(COIN-AT C5 F0 P5)
+(COIN-AT C5 F0 P6)
+(COIN-AT C5 F0 P7)
+(IN E0 F0)
+(IN E0 F1)
+(IN E1 F0)
+(IN E1 F1)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (IN E0 F1) (IN E0 F0) 
+OR: (NOT-IN E0 F1) (NOT-IN E0 F0) 
+OR: (IN E1 F1) (IN E1 F0) 
+OR: (NOT-IN E1 F1) (NOT-IN E1 F0) 
+OR: (COIN-AT C0 F0 P7) (COIN-AT C0 F0 P6) (COIN-AT C0 F0 P5) (COIN-AT C0 F0 P4) (COIN-AT C0 F0 P3) (COIN-AT C0 F0 P2) (COIN-AT C0 F0 P1) (COIN-AT C0 F0 P0) 
+OR: (NOT-COIN-AT C0 F0 P7) (NOT-COIN-AT C0 F0 P6) 
+OR: (NOT-COIN-AT C0 F0 P7) (NOT-COIN-AT C0 F0 P5) 
+OR: (NOT-COIN-AT C0 F0 P7) (NOT-COIN-AT C0 F0 P4) 
+OR: (NOT-COIN-AT C0 F0 P7) (NOT-COIN-AT C0 F0 P3) 
+OR: (NOT-COIN-AT C0 F0 P7) (NOT-COIN-AT C0 F0 P2) 
+OR: (NOT-COIN-AT C0 F0 P7) (NOT-COIN-AT C0 F0 P1) 
+OR: (NOT-COIN-AT C0 F0 P7) (NOT-COIN-AT C0 F0 P0) 
+OR: (NOT-COIN-AT C0 F0 P6) (NOT-COIN-AT C0 F0 P5) 
+OR: (NOT-COIN-AT C0 F0 P6) (NOT-COIN-AT C0 F0 P4) 
+OR: (NOT-COIN-AT C0 F0 P6) (NOT-COIN-AT C0 F0 P3) 
+OR: (NOT-COIN-AT C0 F0 P6) (NOT-COIN-AT C0 F0 P2) 
+OR: (NOT-COIN-AT C0 F0 P6) (NOT-COIN-AT C0 F0 P1) 
+OR: (NOT-COIN-AT C0 F0 P6) (NOT-COIN-AT C0 F0 P0) 
+OR: (NOT-COIN-AT C0 F0 P5) (NOT-COIN-AT C0 F0 P4) 
+OR: (NOT-COIN-AT C0 F0 P5) (NOT-COIN-AT C0 F0 P3) 
+OR: (NOT-COIN-AT C0 F0 P5) (NOT-COIN-AT C0 F0 P2) 
+OR: (NOT-COIN-AT C0 F0 P5) (NOT-COIN-AT C0 F0 P1) 
+OR: (NOT-COIN-AT C0 F0 P5) (NOT-COIN-AT C0 F0 P0) 
+OR: (NOT-COIN-AT C0 F0 P4) (NOT-COIN-AT C0 F0 P3) 
+OR: (NOT-COIN-AT C0 F0 P4) (NOT-COIN-AT C0 F0 P2) 
+OR: (NOT-COIN-AT C0 F0 P4) (NOT-COIN-AT C0 F0 P1) 
+OR: (NOT-COIN-AT C0 F0 P4) (NOT-COIN-AT C0 F0 P0) 
+OR: (NOT-COIN-AT C0 F0 P3) (NOT-COIN-AT C0 F0 P2) 
+OR: (NOT-COIN-AT C0 F0 P3) (NOT-COIN-AT C0 F0 P1) 
+OR: (NOT-COIN-AT C0 F0 P3) (NOT-COIN-AT C0 F0 P0) 
+OR: (NOT-COIN-AT C0 F0 P2) (NOT-COIN-AT C0 F0 P1) 
+OR: (NOT-COIN-AT C0 F0 P2) (NOT-COIN-AT C0 F0 P0) 
+OR: (NOT-COIN-AT C0 F0 P1) (NOT-COIN-AT C0 F0 P0) 
+OR: (COIN-AT C1 F0 P7) (COIN-AT C1 F0 P6) (COIN-AT C1 F0 P5) (COIN-AT C1 F0 P4) (COIN-AT C1 F0 P3) (COIN-AT C1 F0 P2) (COIN-AT C1 F0 P1) (COIN-AT C1 F0 P0) 
+OR: (NOT-COIN-AT C1 F0 P7) (NOT-COIN-AT C1 F0 P6) 
+OR: (NOT-COIN-AT C1 F0 P7) (NOT-COIN-AT C1 F0 P5) 
+OR: (NOT-COIN-AT C1 F0 P7) (NOT-COIN-AT C1 F0 P4) 
+OR: (NOT-COIN-AT C1 F0 P7) (NOT-COIN-AT C1 F0 P3) 
+OR: (NOT-COIN-AT C1 F0 P7) (NOT-COIN-AT C1 F0 P2) 
+OR: (NOT-COIN-AT C1 F0 P7) (NOT-COIN-AT C1 F0 P1) 
+OR: (NOT-COIN-AT C1 F0 P7) (NOT-COIN-AT C1 F0 P0) 
+OR: (NOT-COIN-AT C1 F0 P6) (NOT-COIN-AT C1 F0 P5) 
+OR: (NOT-COIN-AT C1 F0 P6) (NOT-COIN-AT C1 F0 P4) 
+OR: (NOT-COIN-AT C1 F0 P6) (NOT-COIN-AT C1 F0 P3) 
+OR: (NOT-COIN-AT C1 F0 P6) (NOT-COIN-AT C1 F0 P2) 
+OR: (NOT-COIN-AT C1 F0 P6) (NOT-COIN-AT C1 F0 P1) 
+OR: (NOT-COIN-AT C1 F0 P6) (NOT-COIN-AT C1 F0 P0) 
+OR: (NOT-COIN-AT C1 F0 P5) (NOT-COIN-AT C1 F0 P4) 
+OR: (NOT-COIN-AT C1 F0 P5) (NOT-COIN-AT C1 F0 P3) 
+OR: (NOT-COIN-AT C1 F0 P5) (NOT-COIN-AT C1 F0 P2) 
+OR: (NOT-COIN-AT C1 F0 P5) (NOT-COIN-AT C1 F0 P1) 
+OR: (NOT-COIN-AT C1 F0 P5) (NOT-COIN-AT C1 F0 P0) 
+OR: (NOT-COIN-AT C1 F0 P4) (NOT-COIN-AT C1 F0 P3) 
+OR: (NOT-COIN-AT C1 F0 P4) (NOT-COIN-AT C1 F0 P2) 
+OR: (NOT-COIN-AT C1 F0 P4) (NOT-COIN-AT C1 F0 P1) 
+OR: (NOT-COIN-AT C1 F0 P4) (NOT-COIN-AT C1 F0 P0) 
+OR: (NOT-COIN-AT C1 F0 P3) (NOT-COIN-AT C1 F0 P2) 
+OR: (NOT-COIN-AT C1 F0 P3) (NOT-COIN-AT C1 F0 P1) 
+OR: (NOT-COIN-AT C1 F0 P3) (NOT-COIN-AT C1 F0 P0) 
+OR: (NOT-COIN-AT C1 F0 P2) (NOT-COIN-AT C1 F0 P1) 
+OR: (NOT-COIN-AT C1 F0 P2) (NOT-COIN-AT C1 F0 P0) 
+OR: (NOT-COIN-AT C1 F0 P1) (NOT-COIN-AT C1 F0 P0) 
+OR: (COIN-AT C2 F0 P7) (COIN-AT C2 F0 P6) (COIN-AT C2 F0 P5) (COIN-AT C2 F0 P4) (COIN-AT C2 F0 P3) (COIN-AT C2 F0 P2) (COIN-AT C2 F0 P1) (COIN-AT C2 F0 P0) 
+OR: (NOT-COIN-AT C2 F0 P7) (NOT-COIN-AT C2 F0 P6) 
+OR: (NOT-COIN-AT C2 F0 P7) (NOT-COIN-AT C2 F0 P5) 
+OR: (NOT-COIN-AT C2 F0 P7) (NOT-COIN-AT C2 F0 P4) 
+OR: (NOT-COIN-AT C2 F0 P7) (NOT-COIN-AT C2 F0 P3) 
+OR: (NOT-COIN-AT C2 F0 P7) (NOT-COIN-AT C2 F0 P2) 
+OR: (NOT-COIN-AT C2 F0 P7) (NOT-COIN-AT C2 F0 P1) 
+OR: (NOT-COIN-AT C2 F0 P7) (NOT-COIN-AT C2 F0 P0) 
+OR: (NOT-COIN-AT C2 F0 P6) (NOT-COIN-AT C2 F0 P5) 
+OR: (NOT-COIN-AT C2 F0 P6) (NOT-COIN-AT C2 F0 P4) 
+OR: (NOT-COIN-AT C2 F0 P6) (NOT-COIN-AT C2 F0 P3) 
+OR: (NOT-COIN-AT C2 F0 P6) (NOT-COIN-AT C2 F0 P2) 
+OR: (NOT-COIN-AT C2 F0 P6) (NOT-COIN-AT C2 F0 P1) 
+OR: (NOT-COIN-AT C2 F0 P6) (NOT-COIN-AT C2 F0 P0) 
+OR: (NOT-COIN-AT C2 F0 P5) (NOT-COIN-AT C2 F0 P4) 
+OR: (NOT-COIN-AT C2 F0 P5) (NOT-COIN-AT C2 F0 P3) 
+OR: (NOT-COIN-AT C2 F0 P5) (NOT-COIN-AT C2 F0 P2) 
+OR: (NOT-COIN-AT C2 F0 P5) (NOT-COIN-AT C2 F0 P1) 
+OR: (NOT-COIN-AT C2 F0 P5) (NOT-COIN-AT C2 F0 P0) 
+OR: (NOT-COIN-AT C2 F0 P4) (NOT-COIN-AT C2 F0 P3) 
+OR: (NOT-COIN-AT C2 F0 P4) (NOT-COIN-AT C2 F0 P2) 
+OR: (NOT-COIN-AT C2 F0 P4) (NOT-COIN-AT C2 F0 P1) 
+OR: (NOT-COIN-AT C2 F0 P4) (NOT-COIN-AT C2 F0 P0) 
+OR: (NOT-COIN-AT C2 F0 P3) (NOT-COIN-AT C2 F0 P2) 
+OR: (NOT-COIN-AT C2 F0 P3) (NOT-COIN-AT C2 F0 P1) 
+OR: (NOT-COIN-AT C2 F0 P3) (NOT-COIN-AT C2 F0 P0) 
+OR: (NOT-COIN-AT C2 F0 P2) (NOT-COIN-AT C2 F0 P1) 
+OR: (NOT-COIN-AT C2 F0 P2) (NOT-COIN-AT C2 F0 P0) 
+OR: (NOT-COIN-AT C2 F0 P1) (NOT-COIN-AT C2 F0 P0) 
+OR: (COIN-AT C3 F1 P7) (COIN-AT C3 F1 P6) (COIN-AT C3 F1 P5) (COIN-AT C3 F1 P4) (COIN-AT C3 F1 P3) (COIN-AT C3 F1 P2) (COIN-AT C3 F1 P1) (COIN-AT C3 F1 P0) 
+OR: (NOT-COIN-AT C3 F1 P7) (NOT-COIN-AT C3 F1 P6) 
+OR: (NOT-COIN-AT C3 F1 P7) (NOT-COIN-AT C3 F1 P5) 
+OR: (NOT-COIN-AT C3 F1 P7) (NOT-COIN-AT C3 F1 P4) 
+OR: (NOT-COIN-AT C3 F1 P7) (NOT-COIN-AT C3 F1 P3) 
+OR: (NOT-COIN-AT C3 F1 P7) (NOT-COIN-AT C3 F1 P2) 
+OR: (NOT-COIN-AT C3 F1 P7) (NOT-COIN-AT C3 F1 P1) 
+OR: (NOT-COIN-AT C3 F1 P7) (NOT-COIN-AT C3 F1 P0) 
+OR: (NOT-COIN-AT C3 F1 P6) (NOT-COIN-AT C3 F1 P5) 
+OR: (NOT-COIN-AT C3 F1 P6) (NOT-COIN-AT C3 F1 P4) 
+OR: (NOT-COIN-AT C3 F1 P6) (NOT-COIN-AT C3 F1 P3) 
+OR: (NOT-COIN-AT C3 F1 P6) (NOT-COIN-AT C3 F1 P2) 
+OR: (NOT-COIN-AT C3 F1 P6) (NOT-COIN-AT C3 F1 P1) 
+OR: (NOT-COIN-AT C3 F1 P6) (NOT-COIN-AT C3 F1 P0) 
+OR: (NOT-COIN-AT C3 F1 P5) (NOT-COIN-AT C3 F1 P4) 
+OR: (NOT-COIN-AT C3 F1 P5) (NOT-COIN-AT C3 F1 P3) 
+OR: (NOT-COIN-AT C3 F1 P5) (NOT-COIN-AT C3 F1 P2) 
+OR: (NOT-COIN-AT C3 F1 P5) (NOT-COIN-AT C3 F1 P1) 
+OR: (NOT-COIN-AT C3 F1 P5) (NOT-COIN-AT C3 F1 P0) 
+OR: (NOT-COIN-AT C3 F1 P4) (NOT-COIN-AT C3 F1 P3) 
+OR: (NOT-COIN-AT C3 F1 P4) (NOT-COIN-AT C3 F1 P2) 
+OR: (NOT-COIN-AT C3 F1 P4) (NOT-COIN-AT C3 F1 P1) 
+OR: (NOT-COIN-AT C3 F1 P4) (NOT-COIN-AT C3 F1 P0) 
+OR: (NOT-COIN-AT C3 F1 P3) (NOT-COIN-AT C3 F1 P2) 
+OR: (NOT-COIN-AT C3 F1 P3) (NOT-COIN-AT C3 F1 P1) 
+OR: (NOT-COIN-AT C3 F1 P3) (NOT-COIN-AT C3 F1 P0) 
+OR: (NOT-COIN-AT C3 F1 P2) (NOT-COIN-AT C3 F1 P1) 
+OR: (NOT-COIN-AT C3 F1 P2) (NOT-COIN-AT C3 F1 P0) 
+OR: (NOT-COIN-AT C3 F1 P1) (NOT-COIN-AT C3 F1 P0) 
+OR: (COIN-AT C4 F0 P7) (COIN-AT C4 F0 P6) (COIN-AT C4 F0 P5) (COIN-AT C4 F0 P4) (COIN-AT C4 F0 P3) (COIN-AT C4 F0 P2) (COIN-AT C4 F0 P1) (COIN-AT C4 F0 P0) 
+OR: (NOT-COIN-AT C4 F0 P7) (NOT-COIN-AT C4 F0 P6) 
+OR: (NOT-COIN-AT C4 F0 P7) (NOT-COIN-AT C4 F0 P5) 
+OR: (NOT-COIN-AT C4 F0 P7) (NOT-COIN-AT C4 F0 P4) 
+OR: (NOT-COIN-AT C4 F0 P7) (NOT-COIN-AT C4 F0 P3) 
+OR: (NOT-COIN-AT C4 F0 P7) (NOT-COIN-AT C4 F0 P2) 
+OR: (NOT-COIN-AT C4 F0 P7) (NOT-COIN-AT C4 F0 P1) 
+OR: (NOT-COIN-AT C4 F0 P7) (NOT-COIN-AT C4 F0 P0) 
+OR: (NOT-COIN-AT C4 F0 P6) (NOT-COIN-AT C4 F0 P5) 
+OR: (NOT-COIN-AT C4 F0 P6) (NOT-COIN-AT C4 F0 P4) 
+OR: (NOT-COIN-AT C4 F0 P6) (NOT-COIN-AT C4 F0 P3) 
+OR: (NOT-COIN-AT C4 F0 P6) (NOT-COIN-AT C4 F0 P2) 
+OR: (NOT-COIN-AT C4 F0 P6) (NOT-COIN-AT C4 F0 P1) 
+OR: (NOT-COIN-AT C4 F0 P6) (NOT-COIN-AT C4 F0 P0) 
+OR: (NOT-COIN-AT C4 F0 P5) (NOT-COIN-AT C4 F0 P4) 
+OR: (NOT-COIN-AT C4 F0 P5) (NOT-COIN-AT C4 F0 P3) 
+OR: (NOT-COIN-AT C4 F0 P5) (NOT-COIN-AT C4 F0 P2) 
+OR: (NOT-COIN-AT C4 F0 P5) (NOT-COIN-AT C4 F0 P1) 
+OR: (NOT-COIN-AT C4 F0 P5) (NOT-COIN-AT C4 F0 P0) 
+OR: (NOT-COIN-AT C4 F0 P4) (NOT-COIN-AT C4 F0 P3) 
+OR: (NOT-COIN-AT C4 F0 P4) (NOT-COIN-AT C4 F0 P2) 
+OR: (NOT-COIN-AT C4 F0 P4) (NOT-COIN-AT C4 F0 P1) 
+OR: (NOT-COIN-AT C4 F0 P4) (NOT-COIN-AT C4 F0 P0) 
+OR: (NOT-COIN-AT C4 F0 P3) (NOT-COIN-AT C4 F0 P2) 
+OR: (NOT-COIN-AT C4 F0 P3) (NOT-COIN-AT C4 F0 P1) 
+OR: (NOT-COIN-AT C4 F0 P3) (NOT-COIN-AT C4 F0 P0) 
+OR: (NOT-COIN-AT C4 F0 P2) (NOT-COIN-AT C4 F0 P1) 
+OR: (NOT-COIN-AT C4 F0 P2) (NOT-COIN-AT C4 F0 P0) 
+OR: (NOT-COIN-AT C4 F0 P1) (NOT-COIN-AT C4 F0 P0) 
+OR: (COIN-AT C5 F0 P7) (COIN-AT C5 F0 P6) (COIN-AT C5 F0 P5) (COIN-AT C5 F0 P4) (COIN-AT C5 F0 P3) (COIN-AT C5 F0 P2) (COIN-AT C5 F0 P1) (COIN-AT C5 F0 P0) 
+OR: (NOT-COIN-AT C5 F0 P7) (NOT-COIN-AT C5 F0 P6) 
+OR: (NOT-COIN-AT C5 F0 P7) (NOT-COIN-AT C5 F0 P5) 
+OR: (NOT-COIN-AT C5 F0 P7) (NOT-COIN-AT C5 F0 P4) 
+OR: (NOT-COIN-AT C5 F0 P7) (NOT-COIN-AT C5 F0 P3) 
+OR: (NOT-COIN-AT C5 F0 P7) (NOT-COIN-AT C5 F0 P2) 
+OR: (NOT-COIN-AT C5 F0 P7) (NOT-COIN-AT C5 F0 P1) 
+OR: (NOT-COIN-AT C5 F0 P7) (NOT-COIN-AT C5 F0 P0) 
+OR: (NOT-COIN-AT C5 F0 P6) (NOT-COIN-AT C5 F0 P5) 
+OR: (NOT-COIN-AT C5 F0 P6) (NOT-COIN-AT C5 F0 P4) 
+OR: (NOT-COIN-AT C5 F0 P6) (NOT-COIN-AT C5 F0 P3) 
+OR: (NOT-COIN-AT C5 F0 P6) (NOT-COIN-AT C5 F0 P2) 
+OR: (NOT-COIN-AT C5 F0 P6) (NOT-COIN-AT C5 F0 P1) 
+OR: (NOT-COIN-AT C5 F0 P6) (NOT-COIN-AT C5 F0 P0) 
+OR: (NOT-COIN-AT C5 F0 P5) (NOT-COIN-AT C5 F0 P4) 
+OR: (NOT-COIN-AT C5 F0 P5) (NOT-COIN-AT C5 F0 P3) 
+OR: (NOT-COIN-AT C5 F0 P5) (NOT-COIN-AT C5 F0 P2) 
+OR: (NOT-COIN-AT C5 F0 P5) (NOT-COIN-AT C5 F0 P1) 
+OR: (NOT-COIN-AT C5 F0 P5) (NOT-COIN-AT C5 F0 P0) 
+OR: (NOT-COIN-AT C5 F0 P4) (NOT-COIN-AT C5 F0 P3) 
+OR: (NOT-COIN-AT C5 F0 P4) (NOT-COIN-AT C5 F0 P2) 
+OR: (NOT-COIN-AT C5 F0 P4) (NOT-COIN-AT C5 F0 P1) 
+OR: (NOT-COIN-AT C5 F0 P4) (NOT-COIN-AT C5 F0 P0) 
+OR: (NOT-COIN-AT C5 F0 P3) (NOT-COIN-AT C5 F0 P2) 
+OR: (NOT-COIN-AT C5 F0 P3) (NOT-COIN-AT C5 F0 P1) 
+OR: (NOT-COIN-AT C5 F0 P3) (NOT-COIN-AT C5 F0 P0) 
+OR: (NOT-COIN-AT C5 F0 P2) (NOT-COIN-AT C5 F0 P1) 
+OR: (NOT-COIN-AT C5 F0 P2) (NOT-COIN-AT C5 F0 P0) 
+OR: (NOT-COIN-AT C5 F0 P1) (NOT-COIN-AT C5 F0 P0) H:67
+
+
+Cueing down from goal distance:   67 into depth [1]
+                                  66            [1]
+                                  65            [1]
+                                  64            [1]
+                                  63            [1]
+                                  62            [1]
+                                  61            [1]
+                                  60            [1]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1][2]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1][2][3]
+                                  42            [1][2][3]
+                                  41            [1][2][3]
+                                  40            [1][2][3]
+                                  39            [1][2][3]
+                                  38            [1][2][3][4]
+                                  37            [1][2]
+                                  36            [1][2]
+                                  35            [1][2]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1][2]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1][2]
+                                  26            [1][2]
+                                  25            [1][2][3][4][5]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1][2]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: COLLECT C5 F0 P0
+        1: COLLECT C4 F0 P0
+        2: COLLECT C2 F0 P0
+        3: COLLECT C1 F0 P0
+        4: COLLECT C0 F0 P0
+        5: GO-UP E0 F0 F1
+        6: MOVE-RIGHT F0 P0 P1
+        7: COLLECT C5 F0 P1
+        8: COLLECT C4 F0 P1
+        9: COLLECT C2 F0 P1
+       10: COLLECT C1 F0 P1
+       11: COLLECT C0 F0 P1
+       12: MOVE-RIGHT F0 P1 P2
+       13: COLLECT C5 F0 P2
+       14: COLLECT C4 F0 P2
+       15: COLLECT C2 F0 P2
+       16: COLLECT C1 F0 P2
+       17: COLLECT C0 F0 P2
+       18: GO-DOWN E0 F1 F0
+       19: MOVE-RIGHT F0 P2 P3
+       20: COLLECT C5 F0 P3
+       21: COLLECT C4 F0 P3
+       22: COLLECT C2 F0 P3
+       23: COLLECT C1 F0 P3
+       24: COLLECT C0 F0 P3
+       25: MOVE-RIGHT F0 P3 P4
+       26: COLLECT C5 F0 P4
+       27: MOVE-LEFT F0 P4 P3
+       28: MOVE-RIGHT F0 P3 P4
+       29: COLLECT C4 F0 P4
+       30: MOVE-LEFT F0 P4 P3
+       31: MOVE-RIGHT F0 P3 P4
+       32: COLLECT C2 F0 P4
+       33: MOVE-LEFT F0 P4 P3
+       34: MOVE-RIGHT F0 P3 P4
+       35: COLLECT C1 F0 P4
+       36: MOVE-LEFT F0 P4 P3
+       37: MOVE-RIGHT F0 P3 P4
+       38: COLLECT C0 F0 P4
+       39: MOVE-LEFT F0 P4 P3
+       40: STEP-IN E0 F0 P3
+       41: GO-UP E0 F0 F1
+       42: STEP-OUT E0 F1 P3
+       43: COLLECT C3 F1 P3
+       44: MOVE-LEFT F1 P3 P2
+       45: COLLECT C3 F1 P2
+       46: MOVE-LEFT F1 P2 P1
+       47: COLLECT C3 F1 P1
+       48: MOVE-LEFT F1 P1 P0
+       49: COLLECT C3 F1 P0
+       50: MOVE-RIGHT F1 P0 P1
+       51: MOVE-RIGHT F1 P1 P2
+       52: MOVE-RIGHT F1 P2 P3
+       53: MOVE-RIGHT F1 P3 P4
+       54: MOVE-RIGHT F1 P4 P5
+       55: COLLECT C3 F1 P5
+       56: GO-DOWN E1 F1 F0
+       57: MOVE-RIGHT F1 P5 P6
+       58: COLLECT C3 F1 P6
+       59: MOVE-RIGHT F1 P6 P7
+       60: COLLECT C3 F1 P7
+       61: MOVE-LEFT F1 P7 P6
+       62: MOVE-LEFT F1 P6 P5
+       63: MOVE-LEFT F1 P5 P4
+       64: COLLECT C3 F1 P4
+       65: MOVE-RIGHT F1 P4 P5
+       66: MOVE-RIGHT F1 P5 P6
+       67: MOVE-RIGHT F1 P6 P7
+       68: GO-UP E1 F0 F1
+       69: STEP-IN E1 F1 P7
+       70: GO-DOWN E1 F1 F0
+       71: STEP-OUT E1 F0 P7
+       72: COLLECT C5 F0 P7
+       73: COLLECT C4 F0 P7
+       74: COLLECT C2 F0 P7
+       75: COLLECT C1 F0 P7
+       76: COLLECT C0 F0 P7
+       77: MOVE-LEFT F0 P7 P6
+       78: COLLECT C5 F0 P6
+       79: COLLECT C4 F0 P6
+       80: COLLECT C2 F0 P6
+       81: COLLECT C1 F0 P6
+       82: COLLECT C0 F0 P6
+       83: MOVE-LEFT F0 P6 P5
+       84: COLLECT C5 F0 P5
+       85: COLLECT C4 F0 P5
+       86: COLLECT C2 F0 P5
+       87: COLLECT C1 F0 P5
+       88: COLLECT C0 F0 P5
+     
+
+statistics:    0.00 seconds instantiating 136 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 176 facts and 136 actions
+               0.00 seconds creating final representation with 128 relevant facts (116 max U, 64 CNF max U)
+               0.00 seconds building connectivity graph
+               0.25 seconds (   0.24 pure) evaluating 335 states, to a max depth of 5
+               0.01 seconds in DP for 4748 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.01 seconds generating,    0.00 seconds encoding 1835 state transition base CNFs
+               0.05 seconds in DP solving 1738 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.01 seconds checking for stagnating states (151 hits), including 8842 DP calls
+               0.26 seconds altogether checking for dominated states making 614 comparisons (614 conformant, 614 hits),
+                    spending    0.10 seconds doing 35800 DP calls
+              51128 total DP calls, 129193 total UP calls,    0.03 sec membership
+               0.08 seconds for remaining searching duties
+               0.66 seconds total time (+    0.08 secs for CNF memory allocation)
+
+plan length:89
+iteration:1
+now_time:0.7138827759990818

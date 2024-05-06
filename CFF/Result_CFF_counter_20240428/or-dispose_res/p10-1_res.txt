@@ -1,0 +1,1000 @@
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：20
+
+var_size: 4465
+
+当前收集的断言数：2123
+
+1
+找到反例！
+
+
+第78次迭代
+当前初始状态:
+F:10 U:184
+num_Or:1
+参数大于2的OR: 
+(OBJ_AT O1 P10_10) (OBJ_AT O1 P10_9) (OBJ_AT O1 P10_8) (OBJ_AT O1 P10_7) (OBJ_AT O1 P10_6) (OBJ_AT O1 P10_5) (OBJ_AT O1 P10_4) (OBJ_AT O1 P10_3) (OBJ_AT O1 P10_2) (OBJ_AT O1 P10_1) (OBJ_AT O1 P9_10) (OBJ_AT O1 P9_9) (OBJ_AT O1 P9_8) (OBJ_AT O1 P9_7) (OBJ_AT O1 P9_6) (OBJ_AT O1 P9_5) (OBJ_AT O1 P9_4) (OBJ_AT O1 P9_3) (OBJ_AT O1 P9_2) (OBJ_AT O1 P9_1) (OBJ_AT O1 P8_10) (OBJ_AT O1 P8_9) (OBJ_AT O1 P8_8) (OBJ_AT O1 P8_7) (OBJ_AT O1 P8_6) (OBJ_AT O1 P8_5) (OBJ_AT O1 P8_4) (OBJ_AT O1 P8_3) (OBJ_AT O1 P8_2) (OBJ_AT O1 P8_1) (OBJ_AT O1 P7_10) (OBJ_AT O1 P7_9) (OBJ_AT O1 P7_8) (OBJ_AT O1 P7_7) (OBJ_AT O1 P7_6) (OBJ_AT O1 P7_5) (OBJ_AT O1 P7_4) (OBJ_AT O1 P7_3) (OBJ_AT O1 P7_2) (OBJ_AT O1 P7_1) (OBJ_AT O1 P6_10) (OBJ_AT O1 P6_9) (OBJ_AT O1 P6_8) (OBJ_AT O1 P6_7) (OBJ_AT O1 P6_6) (OBJ_AT O1 P6_5) (OBJ_AT O1 P6_4) (OBJ_AT O1 P6_3) (OBJ_AT O1 P6_2) (OBJ_AT O1 P6_1) (OBJ_AT O1 P5_10) (OBJ_AT O1 P5_9) (OBJ_AT O1 P5_8) (OBJ_AT O1 P5_7) (OBJ_AT O1 P5_6) (OBJ_AT O1 P5_5) (OBJ_AT O1 P5_4) (OBJ_AT O1 P5_3) (OBJ_AT O1 P5_2) (OBJ_AT O1 P5_1) (OBJ_AT O1 P4_10) (OBJ_AT O1 P4_9) (OBJ_AT O1 P4_8) (OBJ_AT O1 P4_7) (OBJ_AT O1 P4_6) (OBJ_AT O1 P4_5) (OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_10) (OBJ_AT O1 P3_9) (OBJ_AT O1 P3_8) (OBJ_AT O1 P3_7) (OBJ_AT O1 P3_6) (OBJ_AT O1 P3_5) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_10) (OBJ_AT O1 P2_9) (OBJ_AT O1 P2_8) (OBJ_AT O1 P2_7) (OBJ_AT O1 P2_6) (OBJ_AT O1 P2_5) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_10) (OBJ_AT O1 P1_9) (OBJ_AT O1 P1_8) (OBJ_AT O1 P1_7) (OBJ_AT O1 P1_6) (OBJ_AT O1 P1_5) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+H:14
+
+
+Cueing down from goal distance:   14 into depth [1][2][3][4][5][6][7][8]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：20
+
+var_size: 4465
+
+当前收集的断言数：2123
+
+1
+找到反例！
+
+
+第79次迭代
+当前初始状态:
+F:9 U:186
+num_Or:1
+参数大于2的OR: 
+(OBJ_AT O1 P10_10) (OBJ_AT O1 P10_9) (OBJ_AT O1 P10_8) (OBJ_AT O1 P10_7) (OBJ_AT O1 P10_6) (OBJ_AT O1 P10_5) (OBJ_AT O1 P10_4) (OBJ_AT O1 P10_3) (OBJ_AT O1 P10_2) (OBJ_AT O1 P10_1) (OBJ_AT O1 P9_10) (OBJ_AT O1 P9_9) (OBJ_AT O1 P9_8) (OBJ_AT O1 P9_7) (OBJ_AT O1 P9_6) (OBJ_AT O1 P9_5) (OBJ_AT O1 P9_4) (OBJ_AT O1 P9_3) (OBJ_AT O1 P9_2) (OBJ_AT O1 P9_1) (OBJ_AT O1 P8_10) (OBJ_AT O1 P8_9) (OBJ_AT O1 P8_8) (OBJ_AT O1 P8_7) (OBJ_AT O1 P8_6) (OBJ_AT O1 P8_5) (OBJ_AT O1 P8_4) (OBJ_AT O1 P8_3) (OBJ_AT O1 P8_2) (OBJ_AT O1 P8_1) (OBJ_AT O1 P7_10) (OBJ_AT O1 P7_9) (OBJ_AT O1 P7_8) (OBJ_AT O1 P7_7) (OBJ_AT O1 P7_6) (OBJ_AT O1 P7_5) (OBJ_AT O1 P7_4) (OBJ_AT O1 P7_3) (OBJ_AT O1 P7_2) (OBJ_AT O1 P7_1) (OBJ_AT O1 P6_10) (OBJ_AT O1 P6_9) (OBJ_AT O1 P6_8) (OBJ_AT O1 P6_7) (OBJ_AT O1 P6_6) (OBJ_AT O1 P6_5) (OBJ_AT O1 P6_4) (OBJ_AT O1 P6_3) (OBJ_AT O1 P6_2) (OBJ_AT O1 P6_1) (OBJ_AT O1 P5_10) (OBJ_AT O1 P5_9) (OBJ_AT O1 P5_8) (OBJ_AT O1 P5_7) (OBJ_AT O1 P5_6) (OBJ_AT O1 P5_5) (OBJ_AT O1 P5_4) (OBJ_AT O1 P5_3) (OBJ_AT O1 P5_2) (OBJ_AT O1 P5_1) (OBJ_AT O1 P4_10) (OBJ_AT O1 P4_9) (OBJ_AT O1 P4_8) (OBJ_AT O1 P4_7) (OBJ_AT O1 P4_6) (OBJ_AT O1 P4_5) (OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_10) (OBJ_AT O1 P3_9) (OBJ_AT O1 P3_8) (OBJ_AT O1 P3_7) (OBJ_AT O1 P3_6) (OBJ_AT O1 P3_5) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_10) (OBJ_AT O1 P2_9) (OBJ_AT O1 P2_8) (OBJ_AT O1 P2_7) (OBJ_AT O1 P2_6) (OBJ_AT O1 P2_5) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_10) (OBJ_AT O1 P1_9) (OBJ_AT O1 P1_8) (OBJ_AT O1 P1_7) (OBJ_AT O1 P1_6) (OBJ_AT O1 P1_5) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+H:14
+
+
+Cueing down from goal distance:   14 into depth [1][2][3][4][5][6][7][8]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：20
+
+var_size: 4465
+
+当前收集的断言数：2123
+
+1
+找到反例！
+
+
+第80次迭代
+当前初始状态:
+F:8 U:188
+num_Or:1
+参数大于2的OR: 
+(OBJ_AT O1 P10_10) (OBJ_AT O1 P10_9) (OBJ_AT O1 P10_8) (OBJ_AT O1 P10_7) (OBJ_AT O1 P10_6) (OBJ_AT O1 P10_5) (OBJ_AT O1 P10_4) (OBJ_AT O1 P10_3) (OBJ_AT O1 P10_2) (OBJ_AT O1 P10_1) (OBJ_AT O1 P9_10) (OBJ_AT O1 P9_9) (OBJ_AT O1 P9_8) (OBJ_AT O1 P9_7) (OBJ_AT O1 P9_6) (OBJ_AT O1 P9_5) (OBJ_AT O1 P9_4) (OBJ_AT O1 P9_3) (OBJ_AT O1 P9_2) (OBJ_AT O1 P9_1) (OBJ_AT O1 P8_10) (OBJ_AT O1 P8_9) (OBJ_AT O1 P8_8) (OBJ_AT O1 P8_7) (OBJ_AT O1 P8_6) (OBJ_AT O1 P8_5) (OBJ_AT O1 P8_4) (OBJ_AT O1 P8_3) (OBJ_AT O1 P8_2) (OBJ_AT O1 P8_1) (OBJ_AT O1 P7_10) (OBJ_AT O1 P7_9) (OBJ_AT O1 P7_8) (OBJ_AT O1 P7_7) (OBJ_AT O1 P7_6) (OBJ_AT O1 P7_5) (OBJ_AT O1 P7_4) (OBJ_AT O1 P7_3) (OBJ_AT O1 P7_2) (OBJ_AT O1 P7_1) (OBJ_AT O1 P6_10) (OBJ_AT O1 P6_9) (OBJ_AT O1 P6_8) (OBJ_AT O1 P6_7) (OBJ_AT O1 P6_6) (OBJ_AT O1 P6_5) (OBJ_AT O1 P6_4) (OBJ_AT O1 P6_3) (OBJ_AT O1 P6_2) (OBJ_AT O1 P6_1) (OBJ_AT O1 P5_10) (OBJ_AT O1 P5_9) (OBJ_AT O1 P5_8) (OBJ_AT O1 P5_7) (OBJ_AT O1 P5_6) (OBJ_AT O1 P5_5) (OBJ_AT O1 P5_4) (OBJ_AT O1 P5_3) (OBJ_AT O1 P5_2) (OBJ_AT O1 P5_1) (OBJ_AT O1 P4_10) (OBJ_AT O1 P4_9) (OBJ_AT O1 P4_8) (OBJ_AT O1 P4_7) (OBJ_AT O1 P4_6) (OBJ_AT O1 P4_5) (OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_10) (OBJ_AT O1 P3_9) (OBJ_AT O1 P3_8) (OBJ_AT O1 P3_7) (OBJ_AT O1 P3_6) (OBJ_AT O1 P3_5) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_10) (OBJ_AT O1 P2_9) (OBJ_AT O1 P2_8) (OBJ_AT O1 P2_7) (OBJ_AT O1 P2_6) (OBJ_AT O1 P2_5) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_10) (OBJ_AT O1 P1_9) (OBJ_AT O1 P1_8) (OBJ_AT O1 P1_7) (OBJ_AT O1 P1_6) (OBJ_AT O1 P1_5) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+H:15
+
+
+Cueing down from goal distance:   15 into depth [1][2][3][4][5][6][7][8][9]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：22
+
+var_size: 4913
+
+当前收集的断言数：2325
+
+1
+找到反例！
+
+
+第81次迭代
+当前初始状态:
+F:7 U:190
+num_Or:1
+参数大于2的OR: 
+(OBJ_AT O1 P10_10) (OBJ_AT O1 P10_9) (OBJ_AT O1 P10_8) (OBJ_AT O1 P10_7) (OBJ_AT O1 P10_6) (OBJ_AT O1 P10_5) (OBJ_AT O1 P10_4) (OBJ_AT O1 P10_3) (OBJ_AT O1 P10_2) (OBJ_AT O1 P10_1) (OBJ_AT O1 P9_10) (OBJ_AT O1 P9_9) (OBJ_AT O1 P9_8) (OBJ_AT O1 P9_7) (OBJ_AT O1 P9_6) (OBJ_AT O1 P9_5) (OBJ_AT O1 P9_4) (OBJ_AT O1 P9_3) (OBJ_AT O1 P9_2) (OBJ_AT O1 P9_1) (OBJ_AT O1 P8_10) (OBJ_AT O1 P8_9) (OBJ_AT O1 P8_8) (OBJ_AT O1 P8_7) (OBJ_AT O1 P8_6) (OBJ_AT O1 P8_5) (OBJ_AT O1 P8_4) (OBJ_AT O1 P8_3) (OBJ_AT O1 P8_2) (OBJ_AT O1 P8_1) (OBJ_AT O1 P7_10) (OBJ_AT O1 P7_9) (OBJ_AT O1 P7_8) (OBJ_AT O1 P7_7) (OBJ_AT O1 P7_6) (OBJ_AT O1 P7_5) (OBJ_AT O1 P7_4) (OBJ_AT O1 P7_3) (OBJ_AT O1 P7_2) (OBJ_AT O1 P7_1) (OBJ_AT O1 P6_10) (OBJ_AT O1 P6_9) (OBJ_AT O1 P6_8) (OBJ_AT O1 P6_7) (OBJ_AT O1 P6_6) (OBJ_AT O1 P6_5) (OBJ_AT O1 P6_4) (OBJ_AT O1 P6_3) (OBJ_AT O1 P6_2) (OBJ_AT O1 P6_1) (OBJ_AT O1 P5_10) (OBJ_AT O1 P5_9) (OBJ_AT O1 P5_8) (OBJ_AT O1 P5_7) (OBJ_AT O1 P5_6) (OBJ_AT O1 P5_5) (OBJ_AT O1 P5_4) (OBJ_AT O1 P5_3) (OBJ_AT O1 P5_2) (OBJ_AT O1 P5_1) (OBJ_AT O1 P4_10) (OBJ_AT O1 P4_9) (OBJ_AT O1 P4_8) (OBJ_AT O1 P4_7) (OBJ_AT O1 P4_6) (OBJ_AT O1 P4_5) (OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_10) (OBJ_AT O1 P3_9) (OBJ_AT O1 P3_8) (OBJ_AT O1 P3_7) (OBJ_AT O1 P3_6) (OBJ_AT O1 P3_5) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_10) (OBJ_AT O1 P2_9) (OBJ_AT O1 P2_8) (OBJ_AT O1 P2_7) (OBJ_AT O1 P2_6) (OBJ_AT O1 P2_5) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_10) (OBJ_AT O1 P1_9) (OBJ_AT O1 P1_8) (OBJ_AT O1 P1_7) (OBJ_AT O1 P1_6) (OBJ_AT O1 P1_5) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+H:15
+
+
+Cueing down from goal distance:   15 into depth [1][2][3][4][5][6][7][8][9]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：22
+
+var_size: 4913
+
+当前收集的断言数：2325
+
+1
+找到反例！
+
+
+第82次迭代
+当前初始状态:
+F:6 U:192
+num_Or:1
+参数大于2的OR: 
+(OBJ_AT O1 P10_10) (OBJ_AT O1 P10_9) (OBJ_AT O1 P10_8) (OBJ_AT O1 P10_7) (OBJ_AT O1 P10_6) (OBJ_AT O1 P10_5) (OBJ_AT O1 P10_4) (OBJ_AT O1 P10_3) (OBJ_AT O1 P10_2) (OBJ_AT O1 P10_1) (OBJ_AT O1 P9_10) (OBJ_AT O1 P9_9) (OBJ_AT O1 P9_8) (OBJ_AT O1 P9_7) (OBJ_AT O1 P9_6) (OBJ_AT O1 P9_5) (OBJ_AT O1 P9_4) (OBJ_AT O1 P9_3) (OBJ_AT O1 P9_2) (OBJ_AT O1 P9_1) (OBJ_AT O1 P8_10) (OBJ_AT O1 P8_9) (OBJ_AT O1 P8_8) (OBJ_AT O1 P8_7) (OBJ_AT O1 P8_6) (OBJ_AT O1 P8_5) (OBJ_AT O1 P8_4) (OBJ_AT O1 P8_3) (OBJ_AT O1 P8_2) (OBJ_AT O1 P8_1) (OBJ_AT O1 P7_10) (OBJ_AT O1 P7_9) (OBJ_AT O1 P7_8) (OBJ_AT O1 P7_7) (OBJ_AT O1 P7_6) (OBJ_AT O1 P7_5) (OBJ_AT O1 P7_4) (OBJ_AT O1 P7_3) (OBJ_AT O1 P7_2) (OBJ_AT O1 P7_1) (OBJ_AT O1 P6_10) (OBJ_AT O1 P6_9) (OBJ_AT O1 P6_8) (OBJ_AT O1 P6_7) (OBJ_AT O1 P6_6) (OBJ_AT O1 P6_5) (OBJ_AT O1 P6_4) (OBJ_AT O1 P6_3) (OBJ_AT O1 P6_2) (OBJ_AT O1 P6_1) (OBJ_AT O1 P5_10) (OBJ_AT O1 P5_9) (OBJ_AT O1 P5_8) (OBJ_AT O1 P5_7) (OBJ_AT O1 P5_6) (OBJ_AT O1 P5_5) (OBJ_AT O1 P5_4) (OBJ_AT O1 P5_3) (OBJ_AT O1 P5_2) (OBJ_AT O1 P5_1) (OBJ_AT O1 P4_10) (OBJ_AT O1 P4_9) (OBJ_AT O1 P4_8) (OBJ_AT O1 P4_7) (OBJ_AT O1 P4_6) (OBJ_AT O1 P4_5) (OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_10) (OBJ_AT O1 P3_9) (OBJ_AT O1 P3_8) (OBJ_AT O1 P3_7) (OBJ_AT O1 P3_6) (OBJ_AT O1 P3_5) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_10) (OBJ_AT O1 P2_9) (OBJ_AT O1 P2_8) (OBJ_AT O1 P2_7) (OBJ_AT O1 P2_6) (OBJ_AT O1 P2_5) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_10) (OBJ_AT O1 P1_9) (OBJ_AT O1 P1_8) (OBJ_AT O1 P1_7) (OBJ_AT O1 P1_6) (OBJ_AT O1 P1_5) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+H:15
+
+
+Cueing down from goal distance:   15 into depth [1][2][3][4][5][6][7][8][9]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：22
+
+var_size: 4913
+
+当前收集的断言数：2325
+
+1
+找到反例！
+
+
+第83次迭代
+当前初始状态:
+F:5 U:194
+num_Or:1
+参数大于2的OR: 
+(OBJ_AT O1 P10_10) (OBJ_AT O1 P10_9) (OBJ_AT O1 P10_8) (OBJ_AT O1 P10_7) (OBJ_AT O1 P10_6) (OBJ_AT O1 P10_5) (OBJ_AT O1 P10_4) (OBJ_AT O1 P10_3) (OBJ_AT O1 P10_2) (OBJ_AT O1 P10_1) (OBJ_AT O1 P9_10) (OBJ_AT O1 P9_9) (OBJ_AT O1 P9_8) (OBJ_AT O1 P9_7) (OBJ_AT O1 P9_6) (OBJ_AT O1 P9_5) (OBJ_AT O1 P9_4) (OBJ_AT O1 P9_3) (OBJ_AT O1 P9_2) (OBJ_AT O1 P9_1) (OBJ_AT O1 P8_10) (OBJ_AT O1 P8_9) (OBJ_AT O1 P8_8) (OBJ_AT O1 P8_7) (OBJ_AT O1 P8_6) (OBJ_AT O1 P8_5) (OBJ_AT O1 P8_4) (OBJ_AT O1 P8_3) (OBJ_AT O1 P8_2) (OBJ_AT O1 P8_1) (OBJ_AT O1 P7_10) (OBJ_AT O1 P7_9) (OBJ_AT O1 P7_8) (OBJ_AT O1 P7_7) (OBJ_AT O1 P7_6) (OBJ_AT O1 P7_5) (OBJ_AT O1 P7_4) (OBJ_AT O1 P7_3) (OBJ_AT O1 P7_2) (OBJ_AT O1 P7_1) (OBJ_AT O1 P6_10) (OBJ_AT O1 P6_9) (OBJ_AT O1 P6_8) (OBJ_AT O1 P6_7) (OBJ_AT O1 P6_6) (OBJ_AT O1 P6_5) (OBJ_AT O1 P6_4) (OBJ_AT O1 P6_3) (OBJ_AT O1 P6_2) (OBJ_AT O1 P6_1) (OBJ_AT O1 P5_10) (OBJ_AT O1 P5_9) (OBJ_AT O1 P5_8) (OBJ_AT O1 P5_7) (OBJ_AT O1 P5_6) (OBJ_AT O1 P5_5) (OBJ_AT O1 P5_4) (OBJ_AT O1 P5_3) (OBJ_AT O1 P5_2) (OBJ_AT O1 P5_1) (OBJ_AT O1 P4_10) (OBJ_AT O1 P4_9) (OBJ_AT O1 P4_8) (OBJ_AT O1 P4_7) (OBJ_AT O1 P4_6) (OBJ_AT O1 P4_5) (OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_10) (OBJ_AT O1 P3_9) (OBJ_AT O1 P3_8) (OBJ_AT O1 P3_7) (OBJ_AT O1 P3_6) (OBJ_AT O1 P3_5) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_10) (OBJ_AT O1 P2_9) (OBJ_AT O1 P2_8) (OBJ_AT O1 P2_7) (OBJ_AT O1 P2_6) (OBJ_AT O1 P2_5) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_10) (OBJ_AT O1 P1_9) (OBJ_AT O1 P1_8) (OBJ_AT O1 P1_7) (OBJ_AT O1 P1_6) (OBJ_AT O1 P1_5) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+H:16
+
+
+Cueing down from goal distance:   16 into depth [1][2][3][4][5][6][7][8][9][10]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：24
+
+var_size: 5365
+
+当前收集的断言数：2527
+
+1
+找到反例！
+
+
+第84次迭代
+当前初始状态:
+F:4 U:196
+num_Or:1
+参数大于2的OR: 
+(OBJ_AT O1 P10_10) (OBJ_AT O1 P10_9) (OBJ_AT O1 P10_8) (OBJ_AT O1 P10_7) (OBJ_AT O1 P10_6) (OBJ_AT O1 P10_5) (OBJ_AT O1 P10_4) (OBJ_AT O1 P10_3) (OBJ_AT O1 P10_2) (OBJ_AT O1 P10_1) (OBJ_AT O1 P9_10) (OBJ_AT O1 P9_9) (OBJ_AT O1 P9_8) (OBJ_AT O1 P9_7) (OBJ_AT O1 P9_6) (OBJ_AT O1 P9_5) (OBJ_AT O1 P9_4) (OBJ_AT O1 P9_3) (OBJ_AT O1 P9_2) (OBJ_AT O1 P9_1) (OBJ_AT O1 P8_10) (OBJ_AT O1 P8_9) (OBJ_AT O1 P8_8) (OBJ_AT O1 P8_7) (OBJ_AT O1 P8_6) (OBJ_AT O1 P8_5) (OBJ_AT O1 P8_4) (OBJ_AT O1 P8_3) (OBJ_AT O1 P8_2) (OBJ_AT O1 P8_1) (OBJ_AT O1 P7_10) (OBJ_AT O1 P7_9) (OBJ_AT O1 P7_8) (OBJ_AT O1 P7_7) (OBJ_AT O1 P7_6) (OBJ_AT O1 P7_5) (OBJ_AT O1 P7_4) (OBJ_AT O1 P7_3) (OBJ_AT O1 P7_2) (OBJ_AT O1 P7_1) (OBJ_AT O1 P6_10) (OBJ_AT O1 P6_9) (OBJ_AT O1 P6_8) (OBJ_AT O1 P6_7) (OBJ_AT O1 P6_6) (OBJ_AT O1 P6_5) (OBJ_AT O1 P6_4) (OBJ_AT O1 P6_3) (OBJ_AT O1 P6_2) (OBJ_AT O1 P6_1) (OBJ_AT O1 P5_10) (OBJ_AT O1 P5_9) (OBJ_AT O1 P5_8) (OBJ_AT O1 P5_7) (OBJ_AT O1 P5_6) (OBJ_AT O1 P5_5) (OBJ_AT O1 P5_4) (OBJ_AT O1 P5_3) (OBJ_AT O1 P5_2) (OBJ_AT O1 P5_1) (OBJ_AT O1 P4_10) (OBJ_AT O1 P4_9) (OBJ_AT O1 P4_8) (OBJ_AT O1 P4_7) (OBJ_AT O1 P4_6) (OBJ_AT O1 P4_5) (OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_10) (OBJ_AT O1 P3_9) (OBJ_AT O1 P3_8) (OBJ_AT O1 P3_7) (OBJ_AT O1 P3_6) (OBJ_AT O1 P3_5) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_10) (OBJ_AT O1 P2_9) (OBJ_AT O1 P2_8) (OBJ_AT O1 P2_7) (OBJ_AT O1 P2_6) (OBJ_AT O1 P2_5) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_10) (OBJ_AT O1 P1_9) (OBJ_AT O1 P1_8) (OBJ_AT O1 P1_7) (OBJ_AT O1 P1_6) (OBJ_AT O1 P1_5) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+H:16
+
+
+Cueing down from goal distance:   16 into depth [1][2][3][4][5][6][7][8][9][10]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：24
+
+var_size: 5365
+
+当前收集的断言数：2527
+
+1
+找到反例！
+
+
+第85次迭代
+当前初始状态:
+F:3 U:198
+num_Or:1
+参数大于2的OR: 
+(OBJ_AT O1 P10_10) (OBJ_AT O1 P10_9) (OBJ_AT O1 P10_8) (OBJ_AT O1 P10_7) (OBJ_AT O1 P10_6) (OBJ_AT O1 P10_5) (OBJ_AT O1 P10_4) (OBJ_AT O1 P10_3) (OBJ_AT O1 P10_2) (OBJ_AT O1 P10_1) (OBJ_AT O1 P9_10) (OBJ_AT O1 P9_9) (OBJ_AT O1 P9_8) (OBJ_AT O1 P9_7) (OBJ_AT O1 P9_6) (OBJ_AT O1 P9_5) (OBJ_AT O1 P9_4) (OBJ_AT O1 P9_3) (OBJ_AT O1 P9_2) (OBJ_AT O1 P9_1) (OBJ_AT O1 P8_10) (OBJ_AT O1 P8_9) (OBJ_AT O1 P8_8) (OBJ_AT O1 P8_7) (OBJ_AT O1 P8_6) (OBJ_AT O1 P8_5) (OBJ_AT O1 P8_4) (OBJ_AT O1 P8_3) (OBJ_AT O1 P8_2) (OBJ_AT O1 P8_1) (OBJ_AT O1 P7_10) (OBJ_AT O1 P7_9) (OBJ_AT O1 P7_8) (OBJ_AT O1 P7_7) (OBJ_AT O1 P7_6) (OBJ_AT O1 P7_5) (OBJ_AT O1 P7_4) (OBJ_AT O1 P7_3) (OBJ_AT O1 P7_2) (OBJ_AT O1 P7_1) (OBJ_AT O1 P6_10) (OBJ_AT O1 P6_9) (OBJ_AT O1 P6_8) (OBJ_AT O1 P6_7) (OBJ_AT O1 P6_6) (OBJ_AT O1 P6_5) (OBJ_AT O1 P6_4) (OBJ_AT O1 P6_3) (OBJ_AT O1 P6_2) (OBJ_AT O1 P6_1) (OBJ_AT O1 P5_10) (OBJ_AT O1 P5_9) (OBJ_AT O1 P5_8) (OBJ_AT O1 P5_7) (OBJ_AT O1 P5_6) (OBJ_AT O1 P5_5) (OBJ_AT O1 P5_4) (OBJ_AT O1 P5_3) (OBJ_AT O1 P5_2) (OBJ_AT O1 P5_1) (OBJ_AT O1 P4_10) (OBJ_AT O1 P4_9) (OBJ_AT O1 P4_8) (OBJ_AT O1 P4_7) (OBJ_AT O1 P4_6) (OBJ_AT O1 P4_5) (OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_10) (OBJ_AT O1 P3_9) (OBJ_AT O1 P3_8) (OBJ_AT O1 P3_7) (OBJ_AT O1 P3_6) (OBJ_AT O1 P3_5) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_10) (OBJ_AT O1 P2_9) (OBJ_AT O1 P2_8) (OBJ_AT O1 P2_7) (OBJ_AT O1 P2_6) (OBJ_AT O1 P2_5) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_10) (OBJ_AT O1 P1_9) (OBJ_AT O1 P1_8) (OBJ_AT O1 P1_7) (OBJ_AT O1 P1_6) (OBJ_AT O1 P1_5) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+H:17
+
+
+Cueing down from goal distance:   17 into depth [1][2][3][4][5][6][7][8][9][10][11]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：26
+
+var_size: 5821
+
+当前收集的断言数：2729
+
+1
+找到反例！
+
+
+第86次迭代
+当前初始状态:
+F:2 U:200
+num_Or:1
+参数大于2的OR: 
+(OBJ_AT O1 P10_10) (OBJ_AT O1 P10_9) (OBJ_AT O1 P10_8) (OBJ_AT O1 P10_7) (OBJ_AT O1 P10_6) (OBJ_AT O1 P10_5) (OBJ_AT O1 P10_4) (OBJ_AT O1 P10_3) (OBJ_AT O1 P10_2) (OBJ_AT O1 P10_1) (OBJ_AT O1 P9_10) (OBJ_AT O1 P9_9) (OBJ_AT O1 P9_8) (OBJ_AT O1 P9_7) (OBJ_AT O1 P9_6) (OBJ_AT O1 P9_5) (OBJ_AT O1 P9_4) (OBJ_AT O1 P9_3) (OBJ_AT O1 P9_2) (OBJ_AT O1 P9_1) (OBJ_AT O1 P8_10) (OBJ_AT O1 P8_9) (OBJ_AT O1 P8_8) (OBJ_AT O1 P8_7) (OBJ_AT O1 P8_6) (OBJ_AT O1 P8_5) (OBJ_AT O1 P8_4) (OBJ_AT O1 P8_3) (OBJ_AT O1 P8_2) (OBJ_AT O1 P8_1) (OBJ_AT O1 P7_10) (OBJ_AT O1 P7_9) (OBJ_AT O1 P7_8) (OBJ_AT O1 P7_7) (OBJ_AT O1 P7_6) (OBJ_AT O1 P7_5) (OBJ_AT O1 P7_4) (OBJ_AT O1 P7_3) (OBJ_AT O1 P7_2) (OBJ_AT O1 P7_1) (OBJ_AT O1 P6_10) (OBJ_AT O1 P6_9) (OBJ_AT O1 P6_8) (OBJ_AT O1 P6_7) (OBJ_AT O1 P6_6) (OBJ_AT O1 P6_5) (OBJ_AT O1 P6_4) (OBJ_AT O1 P6_3) (OBJ_AT O1 P6_2) (OBJ_AT O1 P6_1) (OBJ_AT O1 P5_10) (OBJ_AT O1 P5_9) (OBJ_AT O1 P5_8) (OBJ_AT O1 P5_7) (OBJ_AT O1 P5_6) (OBJ_AT O1 P5_5) (OBJ_AT O1 P5_4) (OBJ_AT O1 P5_3) (OBJ_AT O1 P5_2) (OBJ_AT O1 P5_1) (OBJ_AT O1 P4_10) (OBJ_AT O1 P4_9) (OBJ_AT O1 P4_8) (OBJ_AT O1 P4_7) (OBJ_AT O1 P4_6) (OBJ_AT O1 P4_5) (OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_10) (OBJ_AT O1 P3_9) (OBJ_AT O1 P3_8) (OBJ_AT O1 P3_7) (OBJ_AT O1 P3_6) (OBJ_AT O1 P3_5) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_10) (OBJ_AT O1 P2_9) (OBJ_AT O1 P2_8) (OBJ_AT O1 P2_7) (OBJ_AT O1 P2_6) (OBJ_AT O1 P2_5) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_10) (OBJ_AT O1 P1_9) (OBJ_AT O1 P1_8) (OBJ_AT O1 P1_7) (OBJ_AT O1 P1_6) (OBJ_AT O1 P1_5) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+H:201
+
+
+Cueing down from goal distance:  201 into depth [1]
+                                 200            [1][2]
+                                 199            [1]
+                                 198            [1]
+                                 197            [1]
+                                 196            [1]
+                                 195            [1]
+                                 194            [1]
+                                 193            [1]
+                                 192            [1]
+                                 191            [1][2]
+                                 190            [1]
+                                 189            [1]
+                                 188            [1][2]
+                                 187            [1][2][3]
+                                 186            [1][2][3]
+                                 185            [1][2]
+                                 184            [1][2][3]
+                                 183            [1][2]
+                                 182            [1]
+                                 181            [1][2]
+                                 180            [1][2]
+                                 179            [1][2]
+                                 178            [1][2]
+                                 177            [1][2]
+                                 176            [1]
+                                 175            [1]
+                                 174            [1]
+                                 173            [1]
+                                 172            [1]
+                                 171            [1]
+                                 170            [1]
+                                 169            [1]
+                                 165            [1]
+                                 164            [1]
+                                 163            [1]
+                                 162            [1]
+                                 161            [1][2]
+                                 160            [1][2]
+                                 159            [1]
+                                 158            [1]
+                                 157            [1][2]
+                                 156            [1][2]
+                                 155            [1][2]
+                                 154            [1][2]
+                                 153            [1][2]
+                                 152            [1][2]
+                                 151            [1]
+                                 150            [1]
+                                 149            [1]
+                                 148            [1]
+                                 146            [1]
+                                 145            [1]
+                                 144            [1]
+                                 143            [1][2]
+                                 142            [1][2]
+                                 141            [1][2][3]
+                                 140            [1][2][3][4]
+                                 139            [1]
+                                 138            [1][2][3][4]
+                                 137            [1][2]
+                                 136            [1][2][3]
+                                 135            [1][2]
+                                 134            [1][2][3]
+                                 133            [1][2][3]
+                                 132            [1][2][3]
+                                 130            [1]
+                                 129            [1]
+                                 128            [1][2]
+                                 127            [1][2]
+                                 126            [1][2][3][4][5]
+                                 125            [1]
+                                 124            [1][2][3][4][5]
+                                 123            [1][2][3][4][5]
+                                 122            [1][2][3][4]
+                                 121            [1][2][3]
+                                 120            [1][2][3][4][5]
+                                 119            [1][2][3][4]
+                                 118            [1][2][3][4][5]
+                                 117            [1]
+                                 116            [1]
+                                 115            [1]
+                                 114            [1][2][3]
+                                 113            [1]
+                                 112            [1][2][3][4][5]
+                                 111            [1][2][3][4][5][6]
+                                 110            [1]
+                                 109            [1][2][3][4]
+                                 108            [1]
+                                 107            [1]
+                                 106            [1]
+                                 105            [1]
+                                 104            [1][2]
+                                 103            [1][2]
+                                 102            [1][2]
+                                 101            [1]
+                                 100            [1]
+                                  99            [1]
+                                  98            [1][2]
+                                  97            [1][2]
+                                  96            [1][2][3]
+                                  95            [1]
+                                  94            [1]
+                                  93            [1]
+                                  92            [1]
+                                  91            [1][2][3][4]
+                                  90            [1]
+                                  89            [1]
+                                  88            [1]
+                                  87            [1]
+                                  86            [1]
+                                  85            [1]
+                                  84            [1][2][3][4][5]
+                                  83            [1][2][3][4][5][6]
+                                  81            [1][2]
+                                  80            [1][2][3]
+                                  79            [1][2]
+                                  78            [1][2][3]
+                                  77            [1][2][3][4][5]
+                                  76            [1][2]
+                                  75            [1][2]
+                                  74            [1]
+                                  72            [1]
+                                  71            [1][2][3][4][5][6]
+                                  70            [1][2][3][4][5]
+                                  68            [1][2][3][4][5]
+                                  67            [1][2][3][4][5]
+                                  66            [1][2][3][4][5][6]
+                                  65            [1][2]
+                                  64            [1][2][3]
+                                  63            [1][2][3][4][5][6]
+                                  62            [1]
+                                  61            [1][2]
+                                  60            [1][2][3]
+                                  59            [1]
+                                  57            [1]
+                                  55            [1]
+                                  53            [1]
+                                  51            [1][2][3][4][5][6][7]
+                                  50            [1][2][3][4][5][6][7][8]
+                                  49            [1][2][3]
+                                  48            [1][2][3][4]
+                                  47            [1]
+                                  46            [1][2][3][4][5][6][7]
+                                  45            [1]
+                                  44            [1][2][3][4][5][6][7]
+                                  43            [1]
+                                  42            [1][2][3][4][5][6][7][8]
+                                  40            [1]
+                                  37            [1][2][3][4][5][6][7][8][9]
+                                  36            [1]
+                                  35            [1][2][3][4][5][6][7][8][9]
+                                  34            [1]
+                                  33            [1][2][3][4][5][6][7][8][9]
+                                  32            [1]
+                                  31            [1][2][3][4][5][6][7][8][9]
+                                  28            [1][2][3][4][5]
+                                  27            [1][2][3][4][5][6][7]
+                                  26            [1][2][3][4][5][6][7][8][9]
+                                  25            [1][2][3][4][5][6][7][8][9]
+                                  24            [1][2][3][4]
+                                  23            [1][2][3]
+                                  22            [1][2][3]
+                                  21            [1][2][3]
+                                  20            [1]
+                                  18            [1]
+                                  17            [1][2][3]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1][2][3][4][5][6][7][8][9][10][11]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：449
+
+var_size: 119977
+
+当前收集的断言数：45452
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: PICKUP O1 P5_5
+        1: MOVE P5_5 P4_5
+        2: PICKUP O1 P4_5
+        3: MOVE P4_5 P4_4
+        4: PICKUP O1 P4_4
+        5: MOVE P4_4 P3_4
+        6: PICKUP O1 P3_4
+        7: MOVE P3_4 P3_3
+        8: PICKUP O1 P3_3
+        9: MOVE P3_3 P2_3
+       10: PICKUP O1 P2_3
+       11: MOVE P2_3 P1_3
+       12: PICKUP O1 P1_3
+       13: MOVE P1_3 P1_2
+       14: PICKUP O1 P1_2
+       15: MOVE P1_2 P1_1
+       16: PICKUP O1 P1_1
+       17: MOVE P1_1 P1_2
+       18: MOVE P1_2 P1_3
+       19: MOVE P1_3 P2_3
+       20: MOVE P2_3 P2_2
+       21: PICKUP O1 P2_2
+       22: MOVE P2_2 P2_3
+       23: MOVE P2_3 P2_4
+       24: MOVE P2_4 P3_4
+       25: MOVE P3_4 P2_4
+       26: PICKUP O1 P2_4
+       27: MOVE P2_4 P3_4
+       28: MOVE P3_4 P3_5
+       29: MOVE P3_5 P3_6
+       30: PICKUP O1 P3_6
+       31: MOVE P3_6 P3_7
+       32: PICKUP O1 P3_7
+       33: MOVE P3_7 P3_8
+       34: PICKUP O1 P3_8
+       35: MOVE P3_8 P3_9
+       36: PICKUP O1 P3_9
+       37: MOVE P3_9 P3_10
+       38: PICKUP O1 P3_10
+       39: MOVE P3_10 P3_9
+       40: MOVE P3_9 P4_9
+       41: PICKUP O1 P4_9
+       42: MOVE P4_9 P4_8
+       43: PICKUP O1 P4_8
+       44: MOVE P4_8 P4_7
+       45: PICKUP O1 P4_7
+       46: MOVE P4_7 P4_6
+       47: PICKUP O1 P4_6
+       48: MOVE P4_6 P5_6
+       49: PICKUP O1 P5_6
+       50: MOVE P5_6 P5_5
+       51: MOVE P5_5 P6_5
+       52: PICKUP O1 P6_5
+       53: MOVE P6_5 P7_5
+       54: PICKUP O1 P7_5
+       55: MOVE P7_5 P7_4
+       56: PICKUP O1 P7_4
+       57: MOVE P7_4 P8_4
+       58: PICKUP O1 P8_4
+       59: MOVE P8_4 P8_3
+       60: PICKUP O1 P8_3
+       61: MOVE P8_3 P9_3
+       62: PICKUP O1 P9_3
+       63: MOVE P9_3 P9_4
+       64: PICKUP O1 P9_4
+       65: MOVE P9_4 P10_4
+       66: PICKUP O1 P10_4
+       67: MOVE P10_4 P10_3
+       68: PICKUP O1 P10_3
+       69: MOVE P10_3 P9_3
+       70: MOVE P9_3 P9_4
+       71: MOVE P9_4 P8_4
+       72: MOVE P8_4 P8_5
+       73: PICKUP O1 P8_5
+       74: MOVE P8_5 P7_5
+       75: MOVE P7_5 P6_5
+       76: MOVE P6_5 P6_6
+       77: PICKUP O1 P6_6
+       78: MOVE P6_6 P6_7
+       79: PICKUP O1 P6_7
+       80: MOVE P6_7 P7_7
+       81: PICKUP O1 P7_7
+       82: MOVE P7_7 P7_6
+       83: PICKUP O1 P7_6
+       84: MOVE P7_6 P6_6
+       85: MOVE P6_6 P5_6
+       86: MOVE P5_6 P5_7
+       87: PICKUP O1 P5_7
+       88: MOVE P5_7 P5_6
+       89: MOVE P5_6 P6_6
+       90: MOVE P6_6 P6_7
+       91: MOVE P6_7 P7_7
+       92: MOVE P7_7 P7_8
+       93: PICKUP O1 P7_8
+       94: MOVE P7_8 P8_8
+       95: PICKUP O1 P8_8
+       96: MOVE P8_8 P8_7
+       97: PICKUP O1 P8_7
+       98: MOVE P8_7 P8_8
+       99: MOVE P8_8 P9_8
+      100: PICKUP O1 P9_8
+      101: MOVE P9_8 P9_7
+      102: PICKUP O1 P9_7
+      103: MOVE P9_7 P9_8
+      104: MOVE P9_8 P9_9
+      105: PICKUP O1 P9_9
+      106: MOVE P9_9 P9_8
+      107: MOVE P9_8 P10_8
+      108: PICKUP O1 P10_8
+      109: MOVE P10_8 P9_8
+      110: MOVE P9_8 P8_8
+      111: MOVE P8_8 P7_8
+      112: MOVE P7_8 P6_8
+      113: PICKUP O1 P6_8
+      114: MOVE P6_8 P6_7
+      115: MOVE P6_7 P6_6
+      116: MOVE P6_6 P6_5
+      117: MOVE P6_5 P6_4
+      118: PICKUP O1 P6_4
+      119: MOVE P6_4 P6_5
+      120: MOVE P6_5 P6_6
+      121: MOVE P6_6 P5_6
+      122: MOVE P5_6 P5_5
+      123: MOVE P5_5 P5_4
+      124: PICKUP O1 P5_4
+      125: MOVE P5_4 P5_5
+      126: MOVE P5_5 P5_6
+      127: MOVE P5_6 P6_6
+      128: MOVE P6_6 P7_6
+      129: MOVE P7_6 P8_6
+      130: PICKUP O1 P8_6
+      131: MOVE P8_6 P7_6
+      132: MOVE P7_6 P7_5
+      133: MOVE P7_5 P8_5
+      134: MOVE P8_5 P9_5
+      135: PICKUP O1 P9_5
+      136: MOVE P9_5 P8_5
+      137: MOVE P8_5 P7_5
+      138: MOVE P7_5 P7_6
+      139: MOVE P7_6 P7_7
+      140: MOVE P7_7 P7_8
+      141: MOVE P7_8 P7_9
+      142: PICKUP O1 P7_9
+      143: MOVE P7_9 P7_8
+      144: MOVE P7_8 P7_9
+      145: MOVE P7_9 P8_9
+      146: PICKUP O1 P8_9
+      147: MOVE P8_9 P8_8
+      148: MOVE P8_8 P8_7
+      149: MOVE P8_7 P9_7
+      150: MOVE P9_7 P10_7
+      151: PICKUP O1 P10_7
+      152: MOVE P10_7 P10_8
+      153: MOVE P10_8 P9_8
+      154: MOVE P9_8 P8_8
+      155: MOVE P8_8 P7_8
+      156: MOVE P7_8 P7_7
+      157: MOVE P7_7 P6_7
+      158: MOVE P6_7 P5_7
+      159: MOVE P5_7 P5_6
+      160: MOVE P5_6 P5_7
+      161: MOVE P5_7 P5_8
+      162: PICKUP O1 P5_8
+      163: MOVE P5_8 P5_7
+      164: MOVE P5_7 P5_6
+      165: MOVE P5_6 P4_6
+      166: MOVE P4_6 P4_5
+      167: MOVE P4_5 P3_5
+      168: PICKUP O1 P3_5
+      169: MOVE P3_5 P4_5
+      170: MOVE P4_5 P4_6
+      171: MOVE P4_6 P5_6
+      172: MOVE P5_6 P6_6
+      173: MOVE P6_6 P6_7
+      174: MOVE P6_7 P6_8
+      175: MOVE P6_8 P6_9
+      176: PICKUP O1 P6_9
+      177: MOVE P6_9 P7_9
+      178: MOVE P7_9 P7_10
+      179: PICKUP O1 P7_10
+      180: MOVE P7_10 P8_10
+      181: PICKUP O1 P8_10
+      182: MOVE P8_10 P9_10
+      183: PICKUP O1 P9_10
+      184: MOVE P9_10 P10_10
+      185: PICKUP O1 P10_10
+      186: MOVE P10_10 P9_10
+      187: MOVE P9_10 P8_10
+      188: MOVE P8_10 P7_10
+      189: MOVE P7_10 P6_10
+      190: PICKUP O1 P6_10
+      191: MOVE P6_10 P5_10
+      192: PICKUP O1 P5_10
+      193: MOVE P5_10 P4_10
+      194: PICKUP O1 P4_10
+      195: MOVE P4_10 P4_9
+      196: MOVE P4_9 P5_9
+      197: PICKUP O1 P5_9
+      198: MOVE P5_9 P6_9
+      199: MOVE P6_9 P7_9
+      200: MOVE P7_9 P8_9
+      201: MOVE P8_9 P9_9
+      202: MOVE P9_9 P10_9
+      203: PICKUP O1 P10_9
+      204: MOVE P10_9 P9_9
+      205: MOVE P9_9 P8_9
+      206: MOVE P8_9 P7_9
+      207: MOVE P7_9 P7_8
+      208: MOVE P7_8 P7_7
+      209: MOVE P7_7 P7_6
+      210: MOVE P7_6 P8_6
+      211: MOVE P8_6 P9_6
+      212: PICKUP O1 P9_6
+      213: MOVE P9_6 P8_6
+      214: MOVE P8_6 P7_6
+      215: MOVE P7_6 P7_5
+      216: MOVE P7_5 P8_5
+      217: MOVE P8_5 P8_4
+      218: MOVE P8_4 P9_4
+      219: MOVE P9_4 P9_3
+      220: MOVE P9_3 P10_3
+      221: MOVE P10_3 P10_2
+      222: PICKUP O1 P10_2
+      223: MOVE P10_2 P9_2
+      224: PICKUP O1 P9_2
+      225: MOVE P9_2 P10_2
+      226: MOVE P10_2 P10_1
+      227: PICKUP O1 P10_1
+      228: MOVE P10_1 P9_1
+      229: PICKUP O1 P9_1
+      230: MOVE P9_1 P10_1
+      231: MOVE P10_1 P10_2
+      232: MOVE P10_2 P9_2
+      233: MOVE P9_2 P8_2
+      234: PICKUP O1 P8_2
+      235: MOVE P8_2 P8_3
+      236: MOVE P8_3 P7_3
+      237: PICKUP O1 P7_3
+      238: MOVE P7_3 P7_4
+      239: MOVE P7_4 P7_5
+      240: MOVE P7_5 P7_6
+      241: MOVE P7_6 P6_6
+      242: MOVE P6_6 P5_6
+      243: MOVE P5_6 P4_6
+      244: MOVE P4_6 P3_6
+      245: MOVE P3_6 P2_6
+      246: PICKUP O1 P2_6
+      247: MOVE P2_6 P3_6
+      248: MOVE P3_6 P3_5
+      249: MOVE P3_5 P2_5
+      250: PICKUP O1 P2_5
+      251: MOVE P2_5 P3_5
+      252: MOVE P3_5 P3_6
+      253: MOVE P3_6 P2_6
+      254: MOVE P2_6 P1_6
+      255: PICKUP O1 P1_6
+      256: MOVE P1_6 P2_6
+      257: MOVE P2_6 P3_6
+      258: MOVE P3_6 P2_6
+      259: MOVE P2_6 P2_7
+      260: PICKUP O1 P2_7
+      261: MOVE P2_7 P2_6
+      262: MOVE P2_6 P3_6
+      263: MOVE P3_6 P2_6
+      264: MOVE P2_6 P2_7
+      265: MOVE P2_7 P2_8
+      266: PICKUP O1 P2_8
+      267: MOVE P2_8 P1_8
+      268: PICKUP O1 P1_8
+      269: MOVE P1_8 P1_7
+      270: PICKUP O1 P1_7
+      271: MOVE P1_7 P1_6
+      272: MOVE P1_6 P2_6
+      273: MOVE P2_6 P3_6
+      274: MOVE P3_6 P2_6
+      275: MOVE P2_6 P2_7
+      276: MOVE P2_7 P2_8
+      277: MOVE P2_8 P2_9
+      278: PICKUP O1 P2_9
+      279: MOVE P2_9 P1_9
+      280: PICKUP O1 P1_9
+      281: MOVE P1_9 P1_10
+      282: PICKUP O1 P1_10
+      283: MOVE P1_10 P2_10
+      284: PICKUP O1 P2_10
+      285: MOVE P2_10 P2_9
+      286: MOVE P2_9 P2_8
+      287: MOVE P2_8 P2_7
+      288: MOVE P2_7 P2_6
+      289: MOVE P2_6 P3_6
+      290: MOVE P3_6 P2_6
+      291: MOVE P2_6 P2_5
+      292: MOVE P2_5 P1_5
+      293: PICKUP O1 P1_5
+      294: MOVE P1_5 P1_6
+      295: MOVE P1_6 P2_6
+      296: MOVE P2_6 P3_6
+      297: MOVE P3_6 P4_6
+      298: MOVE P4_6 P5_6
+      299: MOVE P5_6 P6_6
+      300: MOVE P6_6 P6_5
+      301: MOVE P6_5 P6_4
+      302: MOVE P6_4 P6_3
+      303: PICKUP O1 P6_3
+      304: MOVE P6_3 P7_3
+      305: MOVE P7_3 P7_2
+      306: PICKUP O1 P7_2
+      307: MOVE P7_2 P7_3
+      308: MOVE P7_3 P7_4
+      309: MOVE P7_4 P6_4
+      310: MOVE P6_4 P6_5
+      311: MOVE P6_5 P6_6
+      312: MOVE P6_6 P5_6
+      313: MOVE P5_6 P5_5
+      314: MOVE P5_5 P5_4
+      315: MOVE P5_4 P5_3
+      316: PICKUP O1 P5_3
+      317: MOVE P5_3 P5_4
+      318: MOVE P5_4 P5_5
+      319: MOVE P5_5 P5_6
+      320: MOVE P5_6 P4_6
+      321: MOVE P4_6 P4_5
+      322: MOVE P4_5 P4_4
+      323: MOVE P4_4 P4_3
+      324: PICKUP O1 P4_3
+      325: MOVE P4_3 P4_4
+      326: MOVE P4_4 P4_5
+      327: MOVE P4_5 P4_6
+      328: MOVE P4_6 P3_6
+      329: MOVE P3_6 P2_6
+      330: MOVE P2_6 P2_5
+      331: MOVE P2_5 P2_4
+      332: MOVE P2_4 P1_4
+      333: PICKUP O1 P1_4
+      334: MOVE P1_4 P1_5
+      335: MOVE P1_5 P1_6
+      336: MOVE P1_6 P2_6
+      337: MOVE P2_6 P3_6
+      338: MOVE P3_6 P3_5
+      339: MOVE P3_5 P3_4
+      340: MOVE P3_4 P3_3
+      341: MOVE P3_3 P3_2
+      342: PICKUP O1 P3_2
+      343: MOVE P3_2 P3_3
+      344: MOVE P3_3 P3_4
+      345: MOVE P3_4 P3_5
+      346: MOVE P3_5 P3_6
+      347: MOVE P3_6 P4_6
+      348: MOVE P4_6 P4_5
+      349: MOVE P4_5 P4_4
+      350: MOVE P4_4 P4_3
+      351: MOVE P4_3 P4_2
+      352: PICKUP O1 P4_2
+      353: MOVE P4_2 P4_3
+      354: MOVE P4_3 P4_4
+      355: MOVE P4_4 P4_5
+      356: MOVE P4_5 P4_6
+      357: MOVE P4_6 P5_6
+      358: MOVE P5_6 P5_5
+      359: MOVE P5_5 P5_4
+      360: MOVE P5_4 P5_3
+      361: MOVE P5_3 P5_2
+      362: PICKUP O1 P5_2
+      363: MOVE P5_2 P5_3
+      364: MOVE P5_3 P5_4
+      365: MOVE P5_4 P5_5
+      366: MOVE P5_5 P5_6
+      367: MOVE P5_6 P6_6
+      368: MOVE P6_6 P6_5
+      369: MOVE P6_5 P7_5
+      370: MOVE P7_5 P7_4
+      371: MOVE P7_4 P8_4
+      372: MOVE P8_4 P8_3
+      373: MOVE P8_3 P9_3
+      374: MOVE P9_3 P9_2
+      375: MOVE P9_2 P10_2
+      376: MOVE P10_2 P10_1
+      377: MOVE P10_1 P9_1
+      378: MOVE P9_1 P8_1
+      379: PICKUP O1 P8_1
+      380: MOVE P8_1 P9_1
+      381: MOVE P9_1 P10_1
+      382: MOVE P10_1 P9_1
+      383: MOVE P9_1 P8_1
+      384: MOVE P8_1 P7_1
+      385: PICKUP O1 P7_1
+      386: MOVE P7_1 P8_1
+      387: MOVE P8_1 P9_1
+      388: MOVE P9_1 P10_1
+      389: MOVE P10_1 P9_1
+      390: MOVE P9_1 P8_1
+      391: MOVE P8_1 P7_1
+      392: MOVE P7_1 P6_1
+      393: PICKUP O1 P6_1
+      394: MOVE P6_1 P7_1
+      395: MOVE P7_1 P8_1
+      396: MOVE P8_1 P9_1
+      397: MOVE P9_1 P10_1
+      398: MOVE P10_1 P10_2
+      399: MOVE P10_2 P10_3
+      400: MOVE P10_3 P10_4
+      401: MOVE P10_4 P10_5
+      402: PICKUP O1 P10_5
+      403: MOVE P10_5 P10_4
+      404: MOVE P10_4 P10_3
+      405: MOVE P10_3 P10_2
+      406: MOVE P10_2 P10_1
+      407: MOVE P10_1 P9_1
+      408: MOVE P9_1 P8_1
+      409: MOVE P8_1 P7_1
+      410: MOVE P7_1 P6_1
+      411: MOVE P6_1 P5_1
+      412: PICKUP O1 P5_1
+      413: MOVE P5_1 P6_1
+      414: MOVE P6_1 P6_2
+      415: PICKUP O1 P6_2
+      416: MOVE P6_2 P6_1
+      417: MOVE P6_1 P5_1
+      418: MOVE P5_1 P4_1
+      419: PICKUP O1 P4_1
+      420: MOVE P4_1 P3_1
+      421: PICKUP O1 P3_1
+      422: MOVE P3_1 P2_1
+      423: PICKUP O1 P2_1
+      424: MOVE P2_1 P3_1
+      425: MOVE P3_1 P3_2
+      426: MOVE P3_2 P3_3
+      427: MOVE P3_3 P3_4
+      428: MOVE P3_4 P3_5
+      429: MOVE P3_5 P3_6
+      430: MOVE P3_6 P4_6
+      431: MOVE P4_6 P5_6
+      432: MOVE P5_6 P6_6
+      433: MOVE P6_6 P7_6
+      434: MOVE P7_6 P8_6
+      435: MOVE P8_6 P9_6
+      436: MOVE P9_6 P10_6
+      437: PICKUP O1 P10_6
+      438: MOVE P10_6 P10_5
+      439: MOVE P10_5 P10_4
+      440: MOVE P10_4 P10_3
+      441: MOVE P10_3 P9_3
+      442: MOVE P9_3 P8_3
+      443: MOVE P8_3 P7_3
+      444: MOVE P7_3 P6_3
+      445: MOVE P6_3 P5_3
+      446: MOVE P5_3 P4_3
+      447: MOVE P4_3 P3_3
+      448: DROP O1 P3_3
+     
+
+statistics:    0.00 seconds instantiating 461 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 303 facts and 461 actions
+               0.00 seconds creating final representation with 303 relevant facts (203 max U, 102 CNF max U)
+               0.01 seconds building connectivity graph
+            1657.07 seconds (1656.56 pure) evaluating 5690 states, to a max depth of 11
+               0.51 seconds in DP for 70406 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.25 seconds generating,    0.28 seconds encoding 17217 state transition base CNFs
+               3.58 seconds in DP solving 2438 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               5.27 seconds checking for stagnating states (3458 hits), including 212247 DP calls
+              54.38 seconds altogether checking for dominated states making 3913 comparisons (3911 conformant, 3911 hits),
+                    spending   14.37 seconds doing 144406 DP calls
+             429497 total DP calls, 2116960 total UP calls,   18.33 sec membership
+               8.05 seconds for remaining searching duties
+            1728.89 seconds total time (+    7.71 secs for CNF memory allocation)
+
+初始目标状态
+Fold:2 Uold:200
+num_Orold:1
+参数大于2的OR: 
+(OBJ_AT O1 P10_10) (OBJ_AT O1 P10_9) (OBJ_AT O1 P10_8) (OBJ_AT O1 P10_7) (OBJ_AT O1 P10_6) (OBJ_AT O1 P10_5) (OBJ_AT O1 P10_4) (OBJ_AT O1 P10_3) (OBJ_AT O1 P10_2) (OBJ_AT O1 P10_1) (OBJ_AT O1 P9_10) (OBJ_AT O1 P9_9) (OBJ_AT O1 P9_8) (OBJ_AT O1 P9_7) (OBJ_AT O1 P9_6) (OBJ_AT O1 P9_5) (OBJ_AT O1 P9_4) (OBJ_AT O1 P9_3) (OBJ_AT O1 P9_2) (OBJ_AT O1 P9_1) (OBJ_AT O1 P8_10) (OBJ_AT O1 P8_9) (OBJ_AT O1 P8_8) (OBJ_AT O1 P8_7) (OBJ_AT O1 P8_6) (OBJ_AT O1 P8_5) (OBJ_AT O1 P8_4) (OBJ_AT O1 P8_3) (OBJ_AT O1 P8_2) (OBJ_AT O1 P8_1) (OBJ_AT O1 P7_10) (OBJ_AT O1 P7_9) (OBJ_AT O1 P7_8) (OBJ_AT O1 P7_7) (OBJ_AT O1 P7_6) (OBJ_AT O1 P7_5) (OBJ_AT O1 P7_4) (OBJ_AT O1 P7_3) (OBJ_AT O1 P7_2) (OBJ_AT O1 P7_1) (OBJ_AT O1 P6_10) (OBJ_AT O1 P6_9) (OBJ_AT O1 P6_8) (OBJ_AT O1 P6_7) (OBJ_AT O1 P6_6) (OBJ_AT O1 P6_5) (OBJ_AT O1 P6_4) (OBJ_AT O1 P6_3) (OBJ_AT O1 P6_2) (OBJ_AT O1 P6_1) (OBJ_AT O1 P5_10) (OBJ_AT O1 P5_9) (OBJ_AT O1 P5_8) (OBJ_AT O1 P5_7) (OBJ_AT O1 P5_6) (OBJ_AT O1 P5_5) (OBJ_AT O1 P5_4) (OBJ_AT O1 P5_3) (OBJ_AT O1 P5_2) (OBJ_AT O1 P5_1) (OBJ_AT O1 P4_10) (OBJ_AT O1 P4_9) (OBJ_AT O1 P4_8) (OBJ_AT O1 P4_7) (OBJ_AT O1 P4_6) (OBJ_AT O1 P4_5) (OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_10) (OBJ_AT O1 P3_9) (OBJ_AT O1 P3_8) (OBJ_AT O1 P3_7) (OBJ_AT O1 P3_6) (OBJ_AT O1 P3_5) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_10) (OBJ_AT O1 P2_9) (OBJ_AT O1 P2_8) (OBJ_AT O1 P2_7) (OBJ_AT O1 P2_6) (OBJ_AT O1 P2_5) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_10) (OBJ_AT O1 P1_9) (OBJ_AT O1 P1_8) (OBJ_AT O1 P1_7) (OBJ_AT O1 P1_6) (OBJ_AT O1 P1_5) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+
+
+当前反例添加的目标状态
+Fcur:2 Ucur:200
+num_Orcur:1
+参数大于2的OR: 
+(OBJ_AT O1 P10_10) (OBJ_AT O1 P10_9) (OBJ_AT O1 P10_8) (OBJ_AT O1 P10_7) (OBJ_AT O1 P10_6) (OBJ_AT O1 P10_5) (OBJ_AT O1 P10_4) (OBJ_AT O1 P10_3) (OBJ_AT O1 P10_2) (OBJ_AT O1 P10_1) (OBJ_AT O1 P9_10) (OBJ_AT O1 P9_9) (OBJ_AT O1 P9_8) (OBJ_AT O1 P9_7) (OBJ_AT O1 P9_6) (OBJ_AT O1 P9_5) (OBJ_AT O1 P9_4) (OBJ_AT O1 P9_3) (OBJ_AT O1 P9_2) (OBJ_AT O1 P9_1) (OBJ_AT O1 P8_10) (OBJ_AT O1 P8_9) (OBJ_AT O1 P8_8) (OBJ_AT O1 P8_7) (OBJ_AT O1 P8_6) (OBJ_AT O1 P8_5) (OBJ_AT O1 P8_4) (OBJ_AT O1 P8_3) (OBJ_AT O1 P8_2) (OBJ_AT O1 P8_1) (OBJ_AT O1 P7_10) (OBJ_AT O1 P7_9) (OBJ_AT O1 P7_8) (OBJ_AT O1 P7_7) (OBJ_AT O1 P7_6) (OBJ_AT O1 P7_5) (OBJ_AT O1 P7_4) (OBJ_AT O1 P7_3) (OBJ_AT O1 P7_2) (OBJ_AT O1 P7_1) (OBJ_AT O1 P6_10) (OBJ_AT O1 P6_9) (OBJ_AT O1 P6_8) (OBJ_AT O1 P6_7) (OBJ_AT O1 P6_6) (OBJ_AT O1 P6_5) (OBJ_AT O1 P6_4) (OBJ_AT O1 P6_3) (OBJ_AT O1 P6_2) (OBJ_AT O1 P6_1) (OBJ_AT O1 P5_10) (OBJ_AT O1 P5_9) (OBJ_AT O1 P5_8) (OBJ_AT O1 P5_7) (OBJ_AT O1 P5_6) (OBJ_AT O1 P5_5) (OBJ_AT O1 P5_4) (OBJ_AT O1 P5_3) (OBJ_AT O1 P5_2) (OBJ_AT O1 P5_1) (OBJ_AT O1 P4_10) (OBJ_AT O1 P4_9) (OBJ_AT O1 P4_8) (OBJ_AT O1 P4_7) (OBJ_AT O1 P4_6) (OBJ_AT O1 P4_5) (OBJ_AT O1 P4_4) (OBJ_AT O1 P4_3) (OBJ_AT O1 P4_2) (OBJ_AT O1 P4_1) (OBJ_AT O1 P3_10) (OBJ_AT O1 P3_9) (OBJ_AT O1 P3_8) (OBJ_AT O1 P3_7) (OBJ_AT O1 P3_6) (OBJ_AT O1 P3_5) (OBJ_AT O1 P3_4) (OBJ_AT O1 P3_3) (OBJ_AT O1 P3_2) (OBJ_AT O1 P3_1) (OBJ_AT O1 P2_10) (OBJ_AT O1 P2_9) (OBJ_AT O1 P2_8) (OBJ_AT O1 P2_7) (OBJ_AT O1 P2_6) (OBJ_AT O1 P2_5) (OBJ_AT O1 P2_4) (OBJ_AT O1 P2_3) (OBJ_AT O1 P2_2) (OBJ_AT O1 P2_1) (OBJ_AT O1 P1_10) (OBJ_AT O1 P1_9) (OBJ_AT O1 P1_8) (OBJ_AT O1 P1_7) (OBJ_AT O1 P1_6) (OBJ_AT O1 P1_5) (OBJ_AT O1 P1_4) (OBJ_AT O1 P1_3) (OBJ_AT O1 P1_2) (OBJ_AT O1 P1_1) 
+
+
+counter_time:81.20
+plan length:449
+iteration:86
+now_time:1810.3841633939883

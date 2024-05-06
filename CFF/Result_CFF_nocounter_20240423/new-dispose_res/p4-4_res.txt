@@ -1,0 +1,13 @@
+
+ff: parsing domain file
+domain 'DISPOSE' defined
+ ... done.
+ff: parsing problem file
+problem 'DISPOSE_4_4' defined
+ ... done.
+
+
+sorry -- this version of cff can't handle disjunctive goals.
+
+Out of Memory
+now_time:0.023855142993852496

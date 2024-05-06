@@ -1,0 +1,336 @@
+
+ff: parsing domain file
+domain 'CUBE' defined
+ ... done.
+ff: parsing problem file
+problem 'CUBE9' defined
+ ... done.
+
+
+F:
+U:
+(NOT-Z-POS P0)
+(NOT-Z-POS P1)
+(NOT-Z-POS P2)
+(NOT-Z-POS P3)
+(NOT-Z-POS P4)
+(NOT-Z-POS P5)
+(NOT-Z-POS P6)
+(NOT-Z-POS P7)
+(NOT-Z-POS P8)
+(NOT-Y-POS P0)
+(NOT-Y-POS P1)
+(NOT-Y-POS P2)
+(NOT-Y-POS P3)
+(NOT-Y-POS P4)
+(NOT-Y-POS P5)
+(NOT-Y-POS P6)
+(NOT-Y-POS P7)
+(NOT-Y-POS P8)
+(NOT-X-POS P0)
+(NOT-X-POS P1)
+(NOT-X-POS P2)
+(NOT-X-POS P3)
+(NOT-X-POS P4)
+(NOT-X-POS P5)
+(NOT-X-POS P6)
+(NOT-X-POS P7)
+(NOT-X-POS P8)
+(X-POS P0)
+(X-POS P1)
+(X-POS P2)
+(X-POS P3)
+(X-POS P4)
+(X-POS P5)
+(X-POS P6)
+(X-POS P7)
+(X-POS P8)
+(Y-POS P0)
+(Y-POS P1)
+(Y-POS P2)
+(Y-POS P3)
+(Y-POS P4)
+(Y-POS P5)
+(Y-POS P6)
+(Y-POS P7)
+(Y-POS P8)
+(Z-POS P0)
+(Z-POS P1)
+(Z-POS P2)
+(Z-POS P3)
+(Z-POS P4)
+(Z-POS P5)
+(Z-POS P6)
+(Z-POS P7)
+(Z-POS P8)
+UE:
+var_size: 54
+
+当前收集的断言数：29
+
+1
+
+第1次迭代
+当前初始状态:
+F:27 U:0
+num_Or:84
+参数大于2的OR: 
+H:12
+
+
+Cueing down from goal distance:   12 into depth [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：11
+
+var_size: 648
+
+当前收集的断言数：326
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:25 U:4
+num_Or:93
+参数大于2的OR: 
+H:13
+
+
+Cueing down from goal distance:   13 into depth [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   13
+                          12
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：20
+
+var_size: 1134
+
+当前收集的断言数：569
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:23 U:8
+num_Or:102
+参数大于2的OR: 
+H:13
+
+
+Cueing down from goal distance:   13 into depth [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   13
+                          12
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：28
+
+var_size: 1566
+
+当前收集的断言数：785
+
+1
+找到反例！
+
+
+第4次迭代
+当前初始状态:
+F:21 U:12
+num_Or:111
+参数大于2的OR: 
+H:13
+
+
+Cueing down from goal distance:   13 into depth [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   13
+                          12
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：36
+
+var_size: 1998
+
+当前收集的断言数：1001
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: DOWN-X
+        1: DOWN-X
+        2: DOWN-X
+        3: DOWN-X
+        4: DOWN-Y
+        5: DOWN-Y
+        6: DOWN-Y
+        7: DOWN-Y
+        8: DOWN-Z
+        9: DOWN-Z
+       10: DOWN-Z
+       11: DOWN-Z
+       12: DOWN-Z
+       13: DOWN-Z
+       14: DOWN-Z
+       15: DOWN-Z
+       16: UP-Z
+       17: UP-Z
+       18: UP-Z
+       19: UP-Z
+       20: DOWN-Y
+       21: DOWN-Y
+       22: DOWN-Y
+       23: DOWN-Y
+       24: UP-Y
+       25: UP-Y
+       26: UP-Y
+       27: UP-Y
+       28: DOWN-X
+       29: DOWN-X
+       30: DOWN-X
+       31: DOWN-X
+       32: UP-X
+       33: UP-X
+       34: UP-X
+       35: UP-X
+     
+
+statistics:    0.00 seconds instantiating 6 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 54 facts and 6 actions
+               0.00 seconds creating final representation with 54 relevant facts (54 max U, 27 CNF max U)
+               0.00 seconds building connectivity graph
+               0.02 seconds (   0.02 pure) evaluating 1492 states, to a max depth of 1
+               0.00 seconds in DP for 3003 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.07 seconds generating,    0.03 seconds encoding 4425 state transition base CNFs
+               0.03 seconds in DP solving 10222 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 10068 DP calls
+               0.02 seconds checking for stagnating states (726 hits), including 5124 DP calls
+               0.08 seconds altogether checking for dominated states making 2157 comparisons (2152 conformant, 2152 hits),
+                    spending    0.03 seconds doing 15628 DP calls
+              44045 total DP calls, 127495 total UP calls,    0.01 sec membership
+               0.05 seconds for remaining searching duties
+               0.30 seconds total time (+    0.08 secs for CNF memory allocation)
+
+初始目标状态
+Fold:0 Uold:54
+num_Orold:111
+参数大于2的OR: 
+(X-POS P8) (X-POS P7) (X-POS P6) (X-POS P5) (X-POS P4) (X-POS P3) (X-POS P2) (X-POS P1) (X-POS P0) 
+(Y-POS P8) (Y-POS P7) (Y-POS P6) (Y-POS P5) (Y-POS P4) (Y-POS P3) (Y-POS P2) (Y-POS P1) (Y-POS P0) 
+(Z-POS P8) (Z-POS P7) (Z-POS P6) (Z-POS P5) (Z-POS P4) (Z-POS P3) (Z-POS P2) (Z-POS P1) (Z-POS P0) 
+
+
+当前反例添加的目标状态
+Fcur:21 Ucur:12
+num_Orcur:111
+参数大于2的OR: 
+
+
+counter_time:0.20
+plan length:36
+iteration:4
+now_time:0.5779189249878982

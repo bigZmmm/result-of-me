@@ -1,0 +1,1000 @@
+OR: (NOT-AT N36) (NOT-AT N18) 
+OR: (NOT-AT N36) (NOT-AT N17) 
+OR: (NOT-AT N36) (NOT-AT N16) 
+OR: (NOT-AT N36) (NOT-AT N15) 
+OR: (NOT-AT N36) (NOT-AT N14) 
+OR: (NOT-AT N36) (NOT-AT N13) 
+OR: (NOT-AT N36) (NOT-AT N12) 
+OR: (NOT-AT N36) (NOT-AT N11) 
+OR: (NOT-AT N36) (NOT-AT N10) 
+OR: (NOT-AT N36) (NOT-AT N9) 
+OR: (NOT-AT N36) (NOT-AT N8) 
+OR: (NOT-AT N36) (NOT-AT N7) 
+OR: (NOT-AT N36) (NOT-AT N6) 
+OR: (NOT-AT N36) (NOT-AT N5) 
+OR: (NOT-AT N36) (NOT-AT N4) 
+OR: (NOT-AT N36) (NOT-AT N3) 
+OR: (NOT-AT N36) (NOT-AT N2) 
+OR: (NOT-AT N36) (NOT-AT N1) 
+OR: (NOT-AT N35) (NOT-AT N34) 
+OR: (NOT-AT N35) (NOT-AT N33) 
+OR: (NOT-AT N35) (NOT-AT N32) 
+OR: (NOT-AT N35) (NOT-AT N31) 
+OR: (NOT-AT N35) (NOT-AT N30) 
+OR: (NOT-AT N35) (NOT-AT N29) 
+OR: (NOT-AT N35) (NOT-AT N28) 
+OR: (NOT-AT N35) (NOT-AT N27) 
+OR: (NOT-AT N35) (NOT-AT N26) 
+OR: (NOT-AT N35) (NOT-AT N25) 
+OR: (NOT-AT N35) (NOT-AT N24) 
+OR: (NOT-AT N35) (NOT-AT N23) 
+OR: (NOT-AT N35) (NOT-AT N22) 
+OR: (NOT-AT N35) (NOT-AT N21) 
+OR: (NOT-AT N35) (NOT-AT N20) 
+OR: (NOT-AT N35) (NOT-AT N19) 
+OR: (NOT-AT N35) (NOT-AT N18) 
+OR: (NOT-AT N35) (NOT-AT N17) 
+OR: (NOT-AT N35) (NOT-AT N16) 
+OR: (NOT-AT N35) (NOT-AT N15) 
+OR: (NOT-AT N35) (NOT-AT N14) 
+OR: (NOT-AT N35) (NOT-AT N13) 
+OR: (NOT-AT N35) (NOT-AT N12) 
+OR: (NOT-AT N35) (NOT-AT N11) 
+OR: (NOT-AT N35) (NOT-AT N10) 
+OR: (NOT-AT N35) (NOT-AT N9) 
+OR: (NOT-AT N35) (NOT-AT N8) 
+OR: (NOT-AT N35) (NOT-AT N7) 
+OR: (NOT-AT N35) (NOT-AT N6) 
+OR: (NOT-AT N35) (NOT-AT N5) 
+OR: (NOT-AT N35) (NOT-AT N4) 
+OR: (NOT-AT N35) (NOT-AT N3) 
+OR: (NOT-AT N35) (NOT-AT N2) 
+OR: (NOT-AT N35) (NOT-AT N1) 
+OR: (NOT-AT N34) (NOT-AT N33) 
+OR: (NOT-AT N34) (NOT-AT N32) 
+OR: (NOT-AT N34) (NOT-AT N31) 
+OR: (NOT-AT N34) (NOT-AT N30) 
+OR: (NOT-AT N34) (NOT-AT N29) 
+OR: (NOT-AT N34) (NOT-AT N28) 
+OR: (NOT-AT N34) (NOT-AT N27) 
+OR: (NOT-AT N34) (NOT-AT N26) 
+OR: (NOT-AT N34) (NOT-AT N25) 
+OR: (NOT-AT N34) (NOT-AT N24) 
+OR: (NOT-AT N34) (NOT-AT N23) 
+OR: (NOT-AT N34) (NOT-AT N22) 
+OR: (NOT-AT N34) (NOT-AT N21) 
+OR: (NOT-AT N34) (NOT-AT N20) 
+OR: (NOT-AT N34) (NOT-AT N19) 
+OR: (NOT-AT N34) (NOT-AT N18) 
+OR: (NOT-AT N34) (NOT-AT N17) 
+OR: (NOT-AT N34) (NOT-AT N16) 
+OR: (NOT-AT N34) (NOT-AT N15) 
+OR: (NOT-AT N34) (NOT-AT N14) 
+OR: (NOT-AT N34) (NOT-AT N13) 
+OR: (NOT-AT N34) (NOT-AT N12) 
+OR: (NOT-AT N34) (NOT-AT N11) 
+OR: (NOT-AT N34) (NOT-AT N10) 
+OR: (NOT-AT N34) (NOT-AT N9) 
+OR: (NOT-AT N34) (NOT-AT N8) 
+OR: (NOT-AT N34) (NOT-AT N7) 
+OR: (NOT-AT N34) (NOT-AT N6) 
+OR: (NOT-AT N34) (NOT-AT N5) 
+OR: (NOT-AT N34) (NOT-AT N4) 
+OR: (NOT-AT N34) (NOT-AT N3) 
+OR: (NOT-AT N34) (NOT-AT N2) 
+OR: (NOT-AT N34) (NOT-AT N1) 
+OR: (NOT-AT N33) (NOT-AT N32) 
+OR: (NOT-AT N33) (NOT-AT N31) 
+OR: (NOT-AT N33) (NOT-AT N30) 
+OR: (NOT-AT N33) (NOT-AT N29) 
+OR: (NOT-AT N33) (NOT-AT N28) 
+OR: (NOT-AT N33) (NOT-AT N27) 
+OR: (NOT-AT N33) (NOT-AT N26) 
+OR: (NOT-AT N33) (NOT-AT N25) 
+OR: (NOT-AT N33) (NOT-AT N24) 
+OR: (NOT-AT N33) (NOT-AT N23) 
+OR: (NOT-AT N33) (NOT-AT N22) 
+OR: (NOT-AT N33) (NOT-AT N21) 
+OR: (NOT-AT N33) (NOT-AT N20) 
+OR: (NOT-AT N33) (NOT-AT N19) 
+OR: (NOT-AT N33) (NOT-AT N18) 
+OR: (NOT-AT N33) (NOT-AT N17) 
+OR: (NOT-AT N33) (NOT-AT N16) 
+OR: (NOT-AT N33) (NOT-AT N15) 
+OR: (NOT-AT N33) (NOT-AT N14) 
+OR: (NOT-AT N33) (NOT-AT N13) 
+OR: (NOT-AT N33) (NOT-AT N12) 
+OR: (NOT-AT N33) (NOT-AT N11) 
+OR: (NOT-AT N33) (NOT-AT N10) 
+OR: (NOT-AT N33) (NOT-AT N9) 
+OR: (NOT-AT N33) (NOT-AT N8) 
+OR: (NOT-AT N33) (NOT-AT N7) 
+OR: (NOT-AT N33) (NOT-AT N6) 
+OR: (NOT-AT N33) (NOT-AT N5) 
+OR: (NOT-AT N33) (NOT-AT N4) 
+OR: (NOT-AT N33) (NOT-AT N3) 
+OR: (NOT-AT N33) (NOT-AT N2) 
+OR: (NOT-AT N33) (NOT-AT N1) 
+OR: (NOT-AT N32) (NOT-AT N31) 
+OR: (NOT-AT N32) (NOT-AT N30) 
+OR: (NOT-AT N32) (NOT-AT N29) 
+OR: (NOT-AT N32) (NOT-AT N28) 
+OR: (NOT-AT N32) (NOT-AT N27) 
+OR: (NOT-AT N32) (NOT-AT N26) 
+OR: (NOT-AT N32) (NOT-AT N25) 
+OR: (NOT-AT N32) (NOT-AT N24) 
+OR: (NOT-AT N32) (NOT-AT N23) 
+OR: (NOT-AT N32) (NOT-AT N22) 
+OR: (NOT-AT N32) (NOT-AT N21) 
+OR: (NOT-AT N32) (NOT-AT N20) 
+OR: (NOT-AT N32) (NOT-AT N19) 
+OR: (NOT-AT N32) (NOT-AT N18) 
+OR: (NOT-AT N32) (NOT-AT N17) 
+OR: (NOT-AT N32) (NOT-AT N16) 
+OR: (NOT-AT N32) (NOT-AT N15) 
+OR: (NOT-AT N32) (NOT-AT N14) 
+OR: (NOT-AT N32) (NOT-AT N13) 
+OR: (NOT-AT N32) (NOT-AT N12) 
+OR: (NOT-AT N32) (NOT-AT N11) 
+OR: (NOT-AT N32) (NOT-AT N10) 
+OR: (NOT-AT N32) (NOT-AT N9) 
+OR: (NOT-AT N32) (NOT-AT N8) 
+OR: (NOT-AT N32) (NOT-AT N7) 
+OR: (NOT-AT N32) (NOT-AT N6) 
+OR: (NOT-AT N32) (NOT-AT N5) 
+OR: (NOT-AT N32) (NOT-AT N4) 
+OR: (NOT-AT N32) (NOT-AT N3) 
+OR: (NOT-AT N32) (NOT-AT N2) 
+OR: (NOT-AT N32) (NOT-AT N1) 
+OR: (NOT-AT N31) (NOT-AT N30) 
+OR: (NOT-AT N31) (NOT-AT N29) 
+OR: (NOT-AT N31) (NOT-AT N28) 
+OR: (NOT-AT N31) (NOT-AT N27) 
+OR: (NOT-AT N31) (NOT-AT N26) 
+OR: (NOT-AT N31) (NOT-AT N25) 
+OR: (NOT-AT N31) (NOT-AT N24) 
+OR: (NOT-AT N31) (NOT-AT N23) 
+OR: (NOT-AT N31) (NOT-AT N22) 
+OR: (NOT-AT N31) (NOT-AT N21) 
+OR: (NOT-AT N31) (NOT-AT N20) 
+OR: (NOT-AT N31) (NOT-AT N19) 
+OR: (NOT-AT N31) (NOT-AT N18) 
+OR: (NOT-AT N31) (NOT-AT N17) 
+OR: (NOT-AT N31) (NOT-AT N16) 
+OR: (NOT-AT N31) (NOT-AT N15) 
+OR: (NOT-AT N31) (NOT-AT N14) 
+OR: (NOT-AT N31) (NOT-AT N13) 
+OR: (NOT-AT N31) (NOT-AT N12) 
+OR: (NOT-AT N31) (NOT-AT N11) 
+OR: (NOT-AT N31) (NOT-AT N10) 
+OR: (NOT-AT N31) (NOT-AT N9) 
+OR: (NOT-AT N31) (NOT-AT N8) 
+OR: (NOT-AT N31) (NOT-AT N7) 
+OR: (NOT-AT N31) (NOT-AT N6) 
+OR: (NOT-AT N31) (NOT-AT N5) 
+OR: (NOT-AT N31) (NOT-AT N4) 
+OR: (NOT-AT N31) (NOT-AT N3) 
+OR: (NOT-AT N31) (NOT-AT N2) 
+OR: (NOT-AT N31) (NOT-AT N1) 
+OR: (NOT-AT N30) (NOT-AT N29) 
+OR: (NOT-AT N30) (NOT-AT N28) 
+OR: (NOT-AT N30) (NOT-AT N27) 
+OR: (NOT-AT N30) (NOT-AT N26) 
+OR: (NOT-AT N30) (NOT-AT N25) 
+OR: (NOT-AT N30) (NOT-AT N24) 
+OR: (NOT-AT N30) (NOT-AT N23) 
+OR: (NOT-AT N30) (NOT-AT N22) 
+OR: (NOT-AT N30) (NOT-AT N21) 
+OR: (NOT-AT N30) (NOT-AT N20) 
+OR: (NOT-AT N30) (NOT-AT N19) 
+OR: (NOT-AT N30) (NOT-AT N18) 
+OR: (NOT-AT N30) (NOT-AT N17) 
+OR: (NOT-AT N30) (NOT-AT N16) 
+OR: (NOT-AT N30) (NOT-AT N15) 
+OR: (NOT-AT N30) (NOT-AT N14) 
+OR: (NOT-AT N30) (NOT-AT N13) 
+OR: (NOT-AT N30) (NOT-AT N12) 
+OR: (NOT-AT N30) (NOT-AT N11) 
+OR: (NOT-AT N30) (NOT-AT N10) 
+OR: (NOT-AT N30) (NOT-AT N9) 
+OR: (NOT-AT N30) (NOT-AT N8) 
+OR: (NOT-AT N30) (NOT-AT N7) 
+OR: (NOT-AT N30) (NOT-AT N6) 
+OR: (NOT-AT N30) (NOT-AT N5) 
+OR: (NOT-AT N30) (NOT-AT N4) 
+OR: (NOT-AT N30) (NOT-AT N3) 
+OR: (NOT-AT N30) (NOT-AT N2) 
+OR: (NOT-AT N30) (NOT-AT N1) 
+OR: (NOT-AT N29) (NOT-AT N28) 
+OR: (NOT-AT N29) (NOT-AT N27) 
+OR: (NOT-AT N29) (NOT-AT N26) 
+OR: (NOT-AT N29) (NOT-AT N25) 
+OR: (NOT-AT N29) (NOT-AT N24) 
+OR: (NOT-AT N29) (NOT-AT N23) 
+OR: (NOT-AT N29) (NOT-AT N22) 
+OR: (NOT-AT N29) (NOT-AT N21) 
+OR: (NOT-AT N29) (NOT-AT N20) 
+OR: (NOT-AT N29) (NOT-AT N19) 
+OR: (NOT-AT N29) (NOT-AT N18) 
+OR: (NOT-AT N29) (NOT-AT N17) 
+OR: (NOT-AT N29) (NOT-AT N16) 
+OR: (NOT-AT N29) (NOT-AT N15) 
+OR: (NOT-AT N29) (NOT-AT N14) 
+OR: (NOT-AT N29) (NOT-AT N13) 
+OR: (NOT-AT N29) (NOT-AT N12) 
+OR: (NOT-AT N29) (NOT-AT N11) 
+OR: (NOT-AT N29) (NOT-AT N10) 
+OR: (NOT-AT N29) (NOT-AT N9) 
+OR: (NOT-AT N29) (NOT-AT N8) 
+OR: (NOT-AT N29) (NOT-AT N7) 
+OR: (NOT-AT N29) (NOT-AT N6) 
+OR: (NOT-AT N29) (NOT-AT N5) 
+OR: (NOT-AT N29) (NOT-AT N4) 
+OR: (NOT-AT N29) (NOT-AT N3) 
+OR: (NOT-AT N29) (NOT-AT N2) 
+OR: (NOT-AT N29) (NOT-AT N1) 
+OR: (NOT-AT N28) (NOT-AT N27) 
+OR: (NOT-AT N28) (NOT-AT N26) 
+OR: (NOT-AT N28) (NOT-AT N25) 
+OR: (NOT-AT N28) (NOT-AT N24) 
+OR: (NOT-AT N28) (NOT-AT N23) 
+OR: (NOT-AT N28) (NOT-AT N22) 
+OR: (NOT-AT N28) (NOT-AT N21) 
+OR: (NOT-AT N28) (NOT-AT N20) 
+OR: (NOT-AT N28) (NOT-AT N19) 
+OR: (NOT-AT N28) (NOT-AT N18) 
+OR: (NOT-AT N28) (NOT-AT N17) 
+OR: (NOT-AT N28) (NOT-AT N16) 
+OR: (NOT-AT N28) (NOT-AT N15) 
+OR: (NOT-AT N28) (NOT-AT N14) 
+OR: (NOT-AT N28) (NOT-AT N13) 
+OR: (NOT-AT N28) (NOT-AT N12) 
+OR: (NOT-AT N28) (NOT-AT N11) 
+OR: (NOT-AT N28) (NOT-AT N10) 
+OR: (NOT-AT N28) (NOT-AT N9) 
+OR: (NOT-AT N28) (NOT-AT N8) 
+OR: (NOT-AT N28) (NOT-AT N7) 
+OR: (NOT-AT N28) (NOT-AT N6) 
+OR: (NOT-AT N28) (NOT-AT N5) 
+OR: (NOT-AT N28) (NOT-AT N4) 
+OR: (NOT-AT N28) (NOT-AT N3) 
+OR: (NOT-AT N28) (NOT-AT N2) 
+OR: (NOT-AT N28) (NOT-AT N1) 
+OR: (NOT-AT N27) (NOT-AT N26) 
+OR: (NOT-AT N27) (NOT-AT N25) 
+OR: (NOT-AT N27) (NOT-AT N24) 
+OR: (NOT-AT N27) (NOT-AT N23) 
+OR: (NOT-AT N27) (NOT-AT N22) 
+OR: (NOT-AT N27) (NOT-AT N21) 
+OR: (NOT-AT N27) (NOT-AT N20) 
+OR: (NOT-AT N27) (NOT-AT N19) 
+OR: (NOT-AT N27) (NOT-AT N18) 
+OR: (NOT-AT N27) (NOT-AT N17) 
+OR: (NOT-AT N27) (NOT-AT N16) 
+OR: (NOT-AT N27) (NOT-AT N15) 
+OR: (NOT-AT N27) (NOT-AT N14) 
+OR: (NOT-AT N27) (NOT-AT N13) 
+OR: (NOT-AT N27) (NOT-AT N12) 
+OR: (NOT-AT N27) (NOT-AT N11) 
+OR: (NOT-AT N27) (NOT-AT N10) 
+OR: (NOT-AT N27) (NOT-AT N9) 
+OR: (NOT-AT N27) (NOT-AT N8) 
+OR: (NOT-AT N27) (NOT-AT N7) 
+OR: (NOT-AT N27) (NOT-AT N6) 
+OR: (NOT-AT N27) (NOT-AT N5) 
+OR: (NOT-AT N27) (NOT-AT N4) 
+OR: (NOT-AT N27) (NOT-AT N3) 
+OR: (NOT-AT N27) (NOT-AT N2) 
+OR: (NOT-AT N27) (NOT-AT N1) 
+OR: (NOT-AT N26) (NOT-AT N25) 
+OR: (NOT-AT N26) (NOT-AT N24) 
+OR: (NOT-AT N26) (NOT-AT N23) 
+OR: (NOT-AT N26) (NOT-AT N22) 
+OR: (NOT-AT N26) (NOT-AT N21) 
+OR: (NOT-AT N26) (NOT-AT N20) 
+OR: (NOT-AT N26) (NOT-AT N19) 
+OR: (NOT-AT N26) (NOT-AT N18) 
+OR: (NOT-AT N26) (NOT-AT N17) 
+OR: (NOT-AT N26) (NOT-AT N16) 
+OR: (NOT-AT N26) (NOT-AT N15) 
+OR: (NOT-AT N26) (NOT-AT N14) 
+OR: (NOT-AT N26) (NOT-AT N13) 
+OR: (NOT-AT N26) (NOT-AT N12) 
+OR: (NOT-AT N26) (NOT-AT N11) 
+OR: (NOT-AT N26) (NOT-AT N10) 
+OR: (NOT-AT N26) (NOT-AT N9) 
+OR: (NOT-AT N26) (NOT-AT N8) 
+OR: (NOT-AT N26) (NOT-AT N7) 
+OR: (NOT-AT N26) (NOT-AT N6) 
+OR: (NOT-AT N26) (NOT-AT N5) 
+OR: (NOT-AT N26) (NOT-AT N4) 
+OR: (NOT-AT N26) (NOT-AT N3) 
+OR: (NOT-AT N26) (NOT-AT N2) 
+OR: (NOT-AT N26) (NOT-AT N1) 
+OR: (NOT-AT N25) (NOT-AT N24) 
+OR: (NOT-AT N25) (NOT-AT N23) 
+OR: (NOT-AT N25) (NOT-AT N22) 
+OR: (NOT-AT N25) (NOT-AT N21) 
+OR: (NOT-AT N25) (NOT-AT N20) 
+OR: (NOT-AT N25) (NOT-AT N19) 
+OR: (NOT-AT N25) (NOT-AT N18) 
+OR: (NOT-AT N25) (NOT-AT N17) 
+OR: (NOT-AT N25) (NOT-AT N16) 
+OR: (NOT-AT N25) (NOT-AT N15) 
+OR: (NOT-AT N25) (NOT-AT N14) 
+OR: (NOT-AT N25) (NOT-AT N13) 
+OR: (NOT-AT N25) (NOT-AT N12) 
+OR: (NOT-AT N25) (NOT-AT N11) 
+OR: (NOT-AT N25) (NOT-AT N10) 
+OR: (NOT-AT N25) (NOT-AT N9) 
+OR: (NOT-AT N25) (NOT-AT N8) 
+OR: (NOT-AT N25) (NOT-AT N7) 
+OR: (NOT-AT N25) (NOT-AT N6) 
+OR: (NOT-AT N25) (NOT-AT N5) 
+OR: (NOT-AT N25) (NOT-AT N4) 
+OR: (NOT-AT N25) (NOT-AT N3) 
+OR: (NOT-AT N25) (NOT-AT N2) 
+OR: (NOT-AT N25) (NOT-AT N1) 
+OR: (NOT-AT N24) (NOT-AT N23) 
+OR: (NOT-AT N24) (NOT-AT N22) 
+OR: (NOT-AT N24) (NOT-AT N21) 
+OR: (NOT-AT N24) (NOT-AT N20) 
+OR: (NOT-AT N24) (NOT-AT N19) 
+OR: (NOT-AT N24) (NOT-AT N18) 
+OR: (NOT-AT N24) (NOT-AT N17) 
+OR: (NOT-AT N24) (NOT-AT N16) 
+OR: (NOT-AT N24) (NOT-AT N15) 
+OR: (NOT-AT N24) (NOT-AT N14) 
+OR: (NOT-AT N24) (NOT-AT N13) 
+OR: (NOT-AT N24) (NOT-AT N12) 
+OR: (NOT-AT N24) (NOT-AT N11) 
+OR: (NOT-AT N24) (NOT-AT N10) 
+OR: (NOT-AT N24) (NOT-AT N9) 
+OR: (NOT-AT N24) (NOT-AT N8) 
+OR: (NOT-AT N24) (NOT-AT N7) 
+OR: (NOT-AT N24) (NOT-AT N6) 
+OR: (NOT-AT N24) (NOT-AT N5) 
+OR: (NOT-AT N24) (NOT-AT N4) 
+OR: (NOT-AT N24) (NOT-AT N3) 
+OR: (NOT-AT N24) (NOT-AT N2) 
+OR: (NOT-AT N24) (NOT-AT N1) 
+OR: (NOT-AT N23) (NOT-AT N22) 
+OR: (NOT-AT N23) (NOT-AT N21) 
+OR: (NOT-AT N23) (NOT-AT N20) 
+OR: (NOT-AT N23) (NOT-AT N19) 
+OR: (NOT-AT N23) (NOT-AT N18) 
+OR: (NOT-AT N23) (NOT-AT N17) 
+OR: (NOT-AT N23) (NOT-AT N16) 
+OR: (NOT-AT N23) (NOT-AT N15) 
+OR: (NOT-AT N23) (NOT-AT N14) 
+OR: (NOT-AT N23) (NOT-AT N13) 
+OR: (NOT-AT N23) (NOT-AT N12) 
+OR: (NOT-AT N23) (NOT-AT N11) 
+OR: (NOT-AT N23) (NOT-AT N10) 
+OR: (NOT-AT N23) (NOT-AT N9) 
+OR: (NOT-AT N23) (NOT-AT N8) 
+OR: (NOT-AT N23) (NOT-AT N7) 
+OR: (NOT-AT N23) (NOT-AT N6) 
+OR: (NOT-AT N23) (NOT-AT N5) 
+OR: (NOT-AT N23) (NOT-AT N4) 
+OR: (NOT-AT N23) (NOT-AT N3) 
+OR: (NOT-AT N23) (NOT-AT N2) 
+OR: (NOT-AT N23) (NOT-AT N1) 
+OR: (NOT-AT N22) (NOT-AT N21) 
+OR: (NOT-AT N22) (NOT-AT N20) 
+OR: (NOT-AT N22) (NOT-AT N19) 
+OR: (NOT-AT N22) (NOT-AT N18) 
+OR: (NOT-AT N22) (NOT-AT N17) 
+OR: (NOT-AT N22) (NOT-AT N16) 
+OR: (NOT-AT N22) (NOT-AT N15) 
+OR: (NOT-AT N22) (NOT-AT N14) 
+OR: (NOT-AT N22) (NOT-AT N13) 
+OR: (NOT-AT N22) (NOT-AT N12) 
+OR: (NOT-AT N22) (NOT-AT N11) 
+OR: (NOT-AT N22) (NOT-AT N10) 
+OR: (NOT-AT N22) (NOT-AT N9) 
+OR: (NOT-AT N22) (NOT-AT N8) 
+OR: (NOT-AT N22) (NOT-AT N7) 
+OR: (NOT-AT N22) (NOT-AT N6) 
+OR: (NOT-AT N22) (NOT-AT N5) 
+OR: (NOT-AT N22) (NOT-AT N4) 
+OR: (NOT-AT N22) (NOT-AT N3) 
+OR: (NOT-AT N22) (NOT-AT N2) 
+OR: (NOT-AT N22) (NOT-AT N1) 
+OR: (NOT-AT N21) (NOT-AT N20) 
+OR: (NOT-AT N21) (NOT-AT N19) 
+OR: (NOT-AT N21) (NOT-AT N18) 
+OR: (NOT-AT N21) (NOT-AT N17) 
+OR: (NOT-AT N21) (NOT-AT N16) 
+OR: (NOT-AT N21) (NOT-AT N15) 
+OR: (NOT-AT N21) (NOT-AT N14) 
+OR: (NOT-AT N21) (NOT-AT N13) 
+OR: (NOT-AT N21) (NOT-AT N12) 
+OR: (NOT-AT N21) (NOT-AT N11) 
+OR: (NOT-AT N21) (NOT-AT N10) 
+OR: (NOT-AT N21) (NOT-AT N9) 
+OR: (NOT-AT N21) (NOT-AT N8) 
+OR: (NOT-AT N21) (NOT-AT N7) 
+OR: (NOT-AT N21) (NOT-AT N6) 
+OR: (NOT-AT N21) (NOT-AT N5) 
+OR: (NOT-AT N21) (NOT-AT N4) 
+OR: (NOT-AT N21) (NOT-AT N3) 
+OR: (NOT-AT N21) (NOT-AT N2) 
+OR: (NOT-AT N21) (NOT-AT N1) 
+OR: (NOT-AT N20) (NOT-AT N19) 
+OR: (NOT-AT N20) (NOT-AT N18) 
+OR: (NOT-AT N20) (NOT-AT N17) 
+OR: (NOT-AT N20) (NOT-AT N16) 
+OR: (NOT-AT N20) (NOT-AT N15) 
+OR: (NOT-AT N20) (NOT-AT N14) 
+OR: (NOT-AT N20) (NOT-AT N13) 
+OR: (NOT-AT N20) (NOT-AT N12) 
+OR: (NOT-AT N20) (NOT-AT N11) 
+OR: (NOT-AT N20) (NOT-AT N10) 
+OR: (NOT-AT N20) (NOT-AT N9) 
+OR: (NOT-AT N20) (NOT-AT N8) 
+OR: (NOT-AT N20) (NOT-AT N7) 
+OR: (NOT-AT N20) (NOT-AT N6) 
+OR: (NOT-AT N20) (NOT-AT N5) 
+OR: (NOT-AT N20) (NOT-AT N4) 
+OR: (NOT-AT N20) (NOT-AT N3) 
+OR: (NOT-AT N20) (NOT-AT N2) 
+OR: (NOT-AT N20) (NOT-AT N1) 
+OR: (NOT-AT N19) (NOT-AT N18) 
+OR: (NOT-AT N19) (NOT-AT N17) 
+OR: (NOT-AT N19) (NOT-AT N16) 
+OR: (NOT-AT N19) (NOT-AT N15) 
+OR: (NOT-AT N19) (NOT-AT N14) 
+OR: (NOT-AT N19) (NOT-AT N13) 
+OR: (NOT-AT N19) (NOT-AT N12) 
+OR: (NOT-AT N19) (NOT-AT N11) 
+OR: (NOT-AT N19) (NOT-AT N10) 
+OR: (NOT-AT N19) (NOT-AT N9) 
+OR: (NOT-AT N19) (NOT-AT N8) 
+OR: (NOT-AT N19) (NOT-AT N7) 
+OR: (NOT-AT N19) (NOT-AT N6) 
+OR: (NOT-AT N19) (NOT-AT N5) 
+OR: (NOT-AT N19) (NOT-AT N4) 
+OR: (NOT-AT N19) (NOT-AT N3) 
+OR: (NOT-AT N19) (NOT-AT N2) 
+OR: (NOT-AT N19) (NOT-AT N1) 
+OR: (NOT-AT N18) (NOT-AT N17) 
+OR: (NOT-AT N18) (NOT-AT N16) 
+OR: (NOT-AT N18) (NOT-AT N15) 
+OR: (NOT-AT N18) (NOT-AT N14) 
+OR: (NOT-AT N18) (NOT-AT N13) 
+OR: (NOT-AT N18) (NOT-AT N12) 
+OR: (NOT-AT N18) (NOT-AT N11) 
+OR: (NOT-AT N18) (NOT-AT N10) 
+OR: (NOT-AT N18) (NOT-AT N9) 
+OR: (NOT-AT N18) (NOT-AT N8) 
+OR: (NOT-AT N18) (NOT-AT N7) 
+OR: (NOT-AT N18) (NOT-AT N6) 
+OR: (NOT-AT N18) (NOT-AT N5) 
+OR: (NOT-AT N18) (NOT-AT N4) 
+OR: (NOT-AT N18) (NOT-AT N3) 
+OR: (NOT-AT N18) (NOT-AT N2) 
+OR: (NOT-AT N18) (NOT-AT N1) 
+OR: (NOT-AT N17) (NOT-AT N16) 
+OR: (NOT-AT N17) (NOT-AT N15) 
+OR: (NOT-AT N17) (NOT-AT N14) 
+OR: (NOT-AT N17) (NOT-AT N13) 
+OR: (NOT-AT N17) (NOT-AT N12) 
+OR: (NOT-AT N17) (NOT-AT N11) 
+OR: (NOT-AT N17) (NOT-AT N10) 
+OR: (NOT-AT N17) (NOT-AT N9) 
+OR: (NOT-AT N17) (NOT-AT N8) 
+OR: (NOT-AT N17) (NOT-AT N7) 
+OR: (NOT-AT N17) (NOT-AT N6) 
+OR: (NOT-AT N17) (NOT-AT N5) 
+OR: (NOT-AT N17) (NOT-AT N4) 
+OR: (NOT-AT N17) (NOT-AT N3) 
+OR: (NOT-AT N17) (NOT-AT N2) 
+OR: (NOT-AT N17) (NOT-AT N1) 
+OR: (NOT-AT N16) (NOT-AT N15) 
+OR: (NOT-AT N16) (NOT-AT N14) 
+OR: (NOT-AT N16) (NOT-AT N13) 
+OR: (NOT-AT N16) (NOT-AT N12) 
+OR: (NOT-AT N16) (NOT-AT N11) 
+OR: (NOT-AT N16) (NOT-AT N10) 
+OR: (NOT-AT N16) (NOT-AT N9) 
+OR: (NOT-AT N16) (NOT-AT N8) 
+OR: (NOT-AT N16) (NOT-AT N7) 
+OR: (NOT-AT N16) (NOT-AT N6) 
+OR: (NOT-AT N16) (NOT-AT N5) 
+OR: (NOT-AT N16) (NOT-AT N4) 
+OR: (NOT-AT N16) (NOT-AT N3) 
+OR: (NOT-AT N16) (NOT-AT N2) 
+OR: (NOT-AT N16) (NOT-AT N1) 
+OR: (NOT-AT N15) (NOT-AT N14) 
+OR: (NOT-AT N15) (NOT-AT N13) 
+OR: (NOT-AT N15) (NOT-AT N12) 
+OR: (NOT-AT N15) (NOT-AT N11) 
+OR: (NOT-AT N15) (NOT-AT N10) 
+OR: (NOT-AT N15) (NOT-AT N9) 
+OR: (NOT-AT N15) (NOT-AT N8) 
+OR: (NOT-AT N15) (NOT-AT N7) 
+OR: (NOT-AT N15) (NOT-AT N6) 
+OR: (NOT-AT N15) (NOT-AT N5) 
+OR: (NOT-AT N15) (NOT-AT N4) 
+OR: (NOT-AT N15) (NOT-AT N3) 
+OR: (NOT-AT N15) (NOT-AT N2) 
+OR: (NOT-AT N15) (NOT-AT N1) 
+OR: (NOT-AT N14) (NOT-AT N13) 
+OR: (NOT-AT N14) (NOT-AT N12) 
+OR: (NOT-AT N14) (NOT-AT N11) 
+OR: (NOT-AT N14) (NOT-AT N10) 
+OR: (NOT-AT N14) (NOT-AT N9) 
+OR: (NOT-AT N14) (NOT-AT N8) 
+OR: (NOT-AT N14) (NOT-AT N7) 
+OR: (NOT-AT N14) (NOT-AT N6) 
+OR: (NOT-AT N14) (NOT-AT N5) 
+OR: (NOT-AT N14) (NOT-AT N4) 
+OR: (NOT-AT N14) (NOT-AT N3) 
+OR: (NOT-AT N14) (NOT-AT N2) 
+OR: (NOT-AT N14) (NOT-AT N1) 
+OR: (NOT-AT N13) (NOT-AT N12) 
+OR: (NOT-AT N13) (NOT-AT N11) 
+OR: (NOT-AT N13) (NOT-AT N10) 
+OR: (NOT-AT N13) (NOT-AT N9) 
+OR: (NOT-AT N13) (NOT-AT N8) 
+OR: (NOT-AT N13) (NOT-AT N7) 
+OR: (NOT-AT N13) (NOT-AT N6) 
+OR: (NOT-AT N13) (NOT-AT N5) 
+OR: (NOT-AT N13) (NOT-AT N4) 
+OR: (NOT-AT N13) (NOT-AT N3) 
+OR: (NOT-AT N13) (NOT-AT N2) 
+OR: (NOT-AT N13) (NOT-AT N1) 
+OR: (NOT-AT N12) (NOT-AT N11) 
+OR: (NOT-AT N12) (NOT-AT N10) 
+OR: (NOT-AT N12) (NOT-AT N9) 
+OR: (NOT-AT N12) (NOT-AT N8) 
+OR: (NOT-AT N12) (NOT-AT N7) 
+OR: (NOT-AT N12) (NOT-AT N6) 
+OR: (NOT-AT N12) (NOT-AT N5) 
+OR: (NOT-AT N12) (NOT-AT N4) 
+OR: (NOT-AT N12) (NOT-AT N3) 
+OR: (NOT-AT N12) (NOT-AT N2) 
+OR: (NOT-AT N12) (NOT-AT N1) 
+OR: (NOT-AT N11) (NOT-AT N10) 
+OR: (NOT-AT N11) (NOT-AT N9) 
+OR: (NOT-AT N11) (NOT-AT N8) 
+OR: (NOT-AT N11) (NOT-AT N7) 
+OR: (NOT-AT N11) (NOT-AT N6) 
+OR: (NOT-AT N11) (NOT-AT N5) 
+OR: (NOT-AT N11) (NOT-AT N4) 
+OR: (NOT-AT N11) (NOT-AT N3) 
+OR: (NOT-AT N11) (NOT-AT N2) 
+OR: (NOT-AT N11) (NOT-AT N1) 
+OR: (NOT-AT N10) (NOT-AT N9) 
+OR: (NOT-AT N10) (NOT-AT N8) 
+OR: (NOT-AT N10) (NOT-AT N7) 
+OR: (NOT-AT N10) (NOT-AT N6) 
+OR: (NOT-AT N10) (NOT-AT N5) 
+OR: (NOT-AT N10) (NOT-AT N4) 
+OR: (NOT-AT N10) (NOT-AT N3) 
+OR: (NOT-AT N10) (NOT-AT N2) 
+OR: (NOT-AT N10) (NOT-AT N1) 
+OR: (NOT-AT N9) (NOT-AT N8) 
+OR: (NOT-AT N9) (NOT-AT N7) 
+OR: (NOT-AT N9) (NOT-AT N6) 
+OR: (NOT-AT N9) (NOT-AT N5) 
+OR: (NOT-AT N9) (NOT-AT N4) 
+OR: (NOT-AT N9) (NOT-AT N3) 
+OR: (NOT-AT N9) (NOT-AT N2) 
+OR: (NOT-AT N9) (NOT-AT N1) 
+OR: (NOT-AT N8) (NOT-AT N7) 
+OR: (NOT-AT N8) (NOT-AT N6) 
+OR: (NOT-AT N8) (NOT-AT N5) 
+OR: (NOT-AT N8) (NOT-AT N4) 
+OR: (NOT-AT N8) (NOT-AT N3) 
+OR: (NOT-AT N8) (NOT-AT N2) 
+OR: (NOT-AT N8) (NOT-AT N1) 
+OR: (NOT-AT N7) (NOT-AT N6) 
+OR: (NOT-AT N7) (NOT-AT N5) 
+OR: (NOT-AT N7) (NOT-AT N4) 
+OR: (NOT-AT N7) (NOT-AT N3) 
+OR: (NOT-AT N7) (NOT-AT N2) 
+OR: (NOT-AT N7) (NOT-AT N1) 
+OR: (NOT-AT N6) (NOT-AT N5) 
+OR: (NOT-AT N6) (NOT-AT N4) 
+OR: (NOT-AT N6) (NOT-AT N3) 
+OR: (NOT-AT N6) (NOT-AT N2) 
+OR: (NOT-AT N6) (NOT-AT N1) 
+OR: (NOT-AT N5) (NOT-AT N4) 
+OR: (NOT-AT N5) (NOT-AT N3) 
+OR: (NOT-AT N5) (NOT-AT N2) 
+OR: (NOT-AT N5) (NOT-AT N1) 
+OR: (NOT-AT N4) (NOT-AT N3) 
+OR: (NOT-AT N4) (NOT-AT N2) 
+OR: (NOT-AT N4) (NOT-AT N1) 
+OR: (NOT-AT N3) (NOT-AT N2) 
+OR: (NOT-AT N3) (NOT-AT N1) 
+OR: (NOT-AT N2) (NOT-AT N1) H:1049
+
+
+Cueing down from goal distance: 1049 into depth [1]
+                                1048            [1]
+                                1047            [1]
+                                1046            [1]
+                                1045            [1]
+                                1044            [1]
+                                1043            [1]
+                                1042            [1]
+                                1041            [1]
+                                1040            [1]
+                                1039            [1]
+                                1038            [1]
+                                1037            [1]
+                                1036            [1]
+                                1035            [1]
+                                1034            [1]
+                                1033            [1]
+                                1032            [1]
+                                1031            [1]
+                                1030            [1]
+                                1029            [1]
+                                1028            [1]
+                                1027            [1]
+                                1026            [1]
+                                1025            [1]
+                                1024            [1]
+                                1023            [1]
+                                1022            [1]
+                                1021            [1]
+                                1020            [1]
+                                1019            [1]
+                                1018            [1]
+                                1017            [1]
+                                1016            [1]
+                                1015            [1]
+                                1014            [1]
+                                1013            [1]
+                                1012            [1]
+                                1011            [1]
+                                1010            [1]
+                                1009            [1]
+                                1008            [1]
+                                1007            [1]
+                                1006            [1]
+                                1005            [1]
+                                1004            [1]
+                                1003            [1]
+                                1002            [1]
+                                1001            [1]
+                                1000            [1]
+                                 999            [1]
+                                 998            [1]
+                                 997            [1]
+                                 996            [1]
+                                 995            [1]
+                                 994            [1]
+                                 993            [1]
+                                 992            [1]
+                                 991            [1]
+                                 990            [1]
+                                 989            [1]
+                                 930            [1]
+                                 929            [1]
+                                 872            [1]
+                                 871            [1]
+                                 816            [1]
+                                 815            [1]
+                                 762            [1]
+                                 761            [1]
+                                 710            [1]
+                                 709            [1]
+                                 660            [1]
+                                 659            [1]
+                                 612            [1]
+                                 611            [1]
+                                 566            [1]
+                                 565            [1]
+                                 522            [1]
+                                 521            [1]
+                                 480            [1]
+                                 479            [1]
+                                 440            [1]
+                                 439            [1]
+                                 402            [1]
+                                 401            [1]
+                                 366            [1]
+                                 365            [1]
+                                 332            [1]
+                                 331            [1]
+                                 300            [1]
+                                 299            [1]
+                                 270            [1]
+                                 269            [1]
+                                 242            [1]
+                                 241            [1]
+                                 216            [1]
+                                 215            [1]
+                                 192            [1]
+                                 191            [1]
+                                 170            [1]
+                                 169            [1]
+                                 150            [1]
+                                 149            [1]
+                                 132            [1]
+                                 131            [1]
+                                 116            [1]
+                                 115            [1]
+                                 102            [1]
+                                 101            [1]
+                                  90            [1]
+                                  89            [1]
+                                  80            [1]
+                                  79            [1]
+                                  72            [1]
+                                  71            [1]
+                                  66            [1]
+                                  65            [1]
+                                  62            [1]
+                                  61            [1]
+                                  60            [1][2]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: START N31
+        1: START N30
+        2: START N60
+        3: START N59
+        4: START N58
+        5: START N57
+        6: START N56
+        7: START N55
+        8: START N54
+        9: START N53
+       10: START N52
+       11: START N51
+       12: START N50
+       13: START N49
+       14: START N48
+       15: START N47
+       16: START N46
+       17: START N45
+       18: START N44
+       19: START N43
+       20: START N42
+       21: START N41
+       22: START N40
+       23: START N39
+       24: START N38
+       25: START N37
+       26: START N36
+       27: START N35
+       28: START N34
+       29: START N33
+       30: START N32
+       31: START N29
+       32: START N28
+       33: START N27
+       34: START N26
+       35: START N25
+       36: START N24
+       37: START N23
+       38: START N22
+       39: START N21
+       40: START N20
+       41: START N19
+       42: START N18
+       43: START N17
+       44: START N16
+       45: START N15
+       46: START N14
+       47: START N13
+       48: START N12
+       49: START N11
+       50: START N10
+       51: START N9
+       52: START N8
+       53: START N7
+       54: START N6
+       55: START N5
+       56: START N4
+       57: START N3
+       58: START N2
+       59: START N1
+       60: TRAVEL N60 N59
+       61: TRAVEL N59 N58
+       62: TRAVEL N58 N57
+       63: TRAVEL N57 N56
+       64: TRAVEL N56 N55
+       65: TRAVEL N55 N54
+       66: TRAVEL N54 N53
+       67: TRAVEL N53 N52
+       68: TRAVEL N52 N51
+       69: TRAVEL N51 N50
+       70: TRAVEL N50 N49
+       71: TRAVEL N49 N48
+       72: TRAVEL N48 N47
+       73: TRAVEL N47 N46
+       74: TRAVEL N46 N45
+       75: TRAVEL N45 N44
+       76: TRAVEL N44 N43
+       77: TRAVEL N43 N42
+       78: TRAVEL N42 N41
+       79: TRAVEL N41 N40
+       80: TRAVEL N40 N39
+       81: TRAVEL N39 N38
+       82: TRAVEL N38 N37
+       83: TRAVEL N37 N36
+       84: TRAVEL N36 N35
+       85: TRAVEL N35 N34
+       86: TRAVEL N34 N33
+       87: TRAVEL N33 N32
+       88: TRAVEL N32 N31
+       89: TRAVEL N31 N30
+       90: TRAVEL N30 N29
+       91: TRAVEL N29 N28
+       92: TRAVEL N28 N27
+       93: TRAVEL N27 N26
+       94: TRAVEL N26 N25
+       95: TRAVEL N25 N24
+       96: TRAVEL N24 N23
+       97: TRAVEL N23 N22
+       98: TRAVEL N22 N21
+       99: TRAVEL N21 N20
+      100: TRAVEL N20 N19
+      101: TRAVEL N19 N18
+      102: TRAVEL N18 N17
+      103: TRAVEL N17 N16
+      104: TRAVEL N16 N15
+      105: TRAVEL N15 N14
+      106: TRAVEL N14 N13
+      107: TRAVEL N13 N12
+      108: TRAVEL N12 N11
+      109: TRAVEL N11 N10
+      110: TRAVEL N10 N9
+      111: TRAVEL N9 N8
+      112: TRAVEL N8 N7
+      113: TRAVEL N7 N6
+      114: TRAVEL N6 N5
+      115: TRAVEL N5 N4
+      116: TRAVEL N4 N3
+      117: TRAVEL N3 N2
+      118: TRAVEL N1 N2
+      119: TRAVEL N2 N1
+      120: TRAVEL N1 N2
+      121: TRAVEL N2 N3
+      122: TRAVEL N3 N4
+      123: TRAVEL N4 N5
+      124: TRAVEL N5 N6
+      125: TRAVEL N6 N7
+      126: TRAVEL N7 N8
+      127: TRAVEL N8 N9
+      128: TRAVEL N9 N10
+      129: TRAVEL N10 N11
+      130: TRAVEL N11 N12
+      131: TRAVEL N12 N13
+      132: TRAVEL N13 N14
+      133: TRAVEL N14 N15
+      134: TRAVEL N15 N16
+      135: TRAVEL N16 N17
+      136: TRAVEL N17 N18
+      137: TRAVEL N18 N19
+      138: TRAVEL N19 N20
+      139: TRAVEL N20 N21
+      140: TRAVEL N21 N22
+      141: TRAVEL N22 N23
+      142: TRAVEL N23 N24
+      143: TRAVEL N24 N25
+      144: TRAVEL N25 N26
+      145: TRAVEL N26 N27
+      146: TRAVEL N27 N28
+      147: TRAVEL N28 N29
+      148: TRAVEL N29 N30
+      149: TRAVEL N30 N31
+      150: TRAVEL N31 N32
+      151: TRAVEL N32 N33
+      152: TRAVEL N33 N34
+      153: TRAVEL N34 N35
+      154: TRAVEL N35 N36
+      155: TRAVEL N36 N37
+      156: TRAVEL N37 N38
+      157: TRAVEL N38 N39
+      158: TRAVEL N39 N40
+      159: TRAVEL N40 N41
+      160: TRAVEL N41 N42
+      161: TRAVEL N42 N43
+      162: TRAVEL N43 N44
+      163: TRAVEL N44 N45
+      164: TRAVEL N45 N46
+      165: TRAVEL N46 N47
+      166: TRAVEL N47 N48
+      167: TRAVEL N48 N49
+      168: TRAVEL N49 N50
+      169: TRAVEL N50 N51
+      170: TRAVEL N51 N52
+      171: TRAVEL N52 N53
+      172: TRAVEL N53 N54
+      173: TRAVEL N54 N55
+      174: TRAVEL N55 N56
+      175: TRAVEL N56 N57
+      176: TRAVEL N57 N58
+      177: TRAVEL N58 N59
+      178: TRAVEL N59 N60
+     
+
+statistics:    0.00 seconds instantiating 3660 easy, 0 hard action templates
+               0.01 seconds reachability analysis, yielding 181 facts and 3660 actions
+               0.00 seconds creating final representation with 181 relevant facts (181 max U, 121 CNF max U)
+               0.00 seconds building connectivity graph
+             528.32 seconds ( 526.83 pure) evaluating 180 states, to a max depth of 2
+               1.49 seconds in DP for 490452 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.01 seconds generating,    0.05 seconds encoding 3693 state transition base CNFs
+               0.93 seconds in DP solving 9060 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.98 seconds checking for stagnating states (0 hits), including 177190 DP calls
+               0.00 seconds altogether checking for dominated states making 1 comparisons (0 conformant, 0 hits),
+                    spending    0.00 seconds doing 0 DP calls
+             676702 total DP calls, 1161982 total UP calls,    0.00 sec membership
+               0.29 seconds for remaining searching duties
+             530.59 seconds total time (+    0.24 secs for CNF memory allocation)
+
+plan length:179
+iteration:1
+now_time:531.0899744220078

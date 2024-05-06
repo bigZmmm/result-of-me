@@ -1,0 +1,9 @@
+
+ff: parsing domain file
+domain 'UTS_CYCLE_7' defined
+ ... done.
+ff: parsing problem file
+/home/nero/Downloads/PlannerBenchmark-main2/PlannerBenchmark-main/T1/Conformant/det/new-uts-cycle/p7.pddl: syntax error in line 7, 'and':
+'define' expected
+Out of Memory
+now_time:0.006457999988924712

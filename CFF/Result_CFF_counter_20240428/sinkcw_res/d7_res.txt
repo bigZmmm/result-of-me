@@ -1,0 +1,116 @@
+
+ff: parsing domain file
+domain 'GRID' defined
+ ... done.
+ff: parsing problem file
+problem 'INSTANCE_7__12345' defined
+ ... done.
+
+
+F:
+(NOT-CANMOVE)
+U:
+(NOT-X ZERO)
+(NOT-X ONE)
+(NOT-X TWO)
+(NOT-X THREE)
+(NOT-X FOUR)
+(NOT-X FIVE)
+(NOT-X SIX)
+(NOT-Y ZERO)
+(NOT-Y ONE)
+(NOT-Y TWO)
+(NOT-Y THREE)
+(NOT-Y FOUR)
+(NOT-Y FIVE)
+(NOT-Y SIX)
+(X FIVE)
+(X FOUR)
+(X ONE)
+(X SIX)
+(X THREE)
+(X TWO)
+(X ZERO)
+(Y FIVE)
+(Y FOUR)
+(Y ONE)
+(Y SIX)
+(Y THREE)
+(Y TWO)
+(Y ZERO)
+UE:
+var_size: 30
+
+当前收集的断言数：17
+
+1
+
+第1次迭代
+当前初始状态:
+F:15 U:0
+num_Or:31
+参数大于2的OR: 
+H:11
+
+
+Cueing down from goal distance:   11 into depth [1]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：18
+
+var_size: 570
+
+当前收集的断言数：287
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:13 U:4
+num_Or:38
+参数大于2的OR: 
+H:11
+
+
+Cueing down from goal distance:   11 into depth [1]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+negated effcond -- in rplan-nodel-noops -- is not unknown?
+
+Out of Memory
+now_time:0.18799441697774455

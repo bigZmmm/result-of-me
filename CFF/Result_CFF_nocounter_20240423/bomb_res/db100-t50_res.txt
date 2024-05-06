@@ -1,0 +1,800 @@
+
+ff: parsing domain file
+domain 'BOMB' defined
+ ... done.
+ff: parsing problem file
+problem 'BOMB-100-50' defined
+ ... done.
+
+
+F:
+(NOT-CLOGGED TOILET1)
+(NOT-CLOGGED TOILET2)
+(NOT-CLOGGED TOILET3)
+(NOT-CLOGGED TOILET4)
+(NOT-CLOGGED TOILET5)
+(NOT-CLOGGED TOILET6)
+(NOT-CLOGGED TOILET7)
+(NOT-CLOGGED TOILET8)
+(NOT-CLOGGED TOILET9)
+(NOT-CLOGGED TOILET10)
+(NOT-CLOGGED TOILET11)
+(NOT-CLOGGED TOILET12)
+(NOT-CLOGGED TOILET13)
+(NOT-CLOGGED TOILET14)
+(NOT-CLOGGED TOILET15)
+(NOT-CLOGGED TOILET16)
+(NOT-CLOGGED TOILET17)
+(NOT-CLOGGED TOILET18)
+(NOT-CLOGGED TOILET19)
+(NOT-CLOGGED TOILET20)
+(NOT-CLOGGED TOILET21)
+(NOT-CLOGGED TOILET22)
+(NOT-CLOGGED TOILET23)
+(NOT-CLOGGED TOILET24)
+(NOT-CLOGGED TOILET25)
+(NOT-CLOGGED TOILET26)
+(NOT-CLOGGED TOILET27)
+(NOT-CLOGGED TOILET28)
+(NOT-CLOGGED TOILET29)
+(NOT-CLOGGED TOILET30)
+(NOT-CLOGGED TOILET31)
+(NOT-CLOGGED TOILET32)
+(NOT-CLOGGED TOILET33)
+(NOT-CLOGGED TOILET34)
+(NOT-CLOGGED TOILET35)
+(NOT-CLOGGED TOILET36)
+(NOT-CLOGGED TOILET37)
+(NOT-CLOGGED TOILET38)
+(NOT-CLOGGED TOILET39)
+(NOT-CLOGGED TOILET40)
+(NOT-CLOGGED TOILET41)
+(NOT-CLOGGED TOILET42)
+(NOT-CLOGGED TOILET43)
+(NOT-CLOGGED TOILET44)
+(NOT-CLOGGED TOILET45)
+(NOT-CLOGGED TOILET46)
+(NOT-CLOGGED TOILET47)
+(NOT-CLOGGED TOILET48)
+(NOT-CLOGGED TOILET49)
+(NOT-CLOGGED TOILET50)
+U:
+(NOT-ARMED BOMB1)
+(NOT-ARMED BOMB2)
+(NOT-ARMED BOMB3)
+(NOT-ARMED BOMB4)
+(NOT-ARMED BOMB5)
+(NOT-ARMED BOMB6)
+(NOT-ARMED BOMB7)
+(NOT-ARMED BOMB8)
+(NOT-ARMED BOMB9)
+(NOT-ARMED BOMB10)
+(NOT-ARMED BOMB11)
+(NOT-ARMED BOMB12)
+(NOT-ARMED BOMB13)
+(NOT-ARMED BOMB14)
+(NOT-ARMED BOMB15)
+(NOT-ARMED BOMB16)
+(NOT-ARMED BOMB17)
+(NOT-ARMED BOMB18)
+(NOT-ARMED BOMB19)
+(NOT-ARMED BOMB20)
+(NOT-ARMED BOMB21)
+(NOT-ARMED BOMB22)
+(NOT-ARMED BOMB23)
+(NOT-ARMED BOMB24)
+(NOT-ARMED BOMB25)
+(NOT-ARMED BOMB26)
+(NOT-ARMED BOMB27)
+(NOT-ARMED BOMB28)
+(NOT-ARMED BOMB29)
+(NOT-ARMED BOMB30)
+(NOT-ARMED BOMB31)
+(NOT-ARMED BOMB32)
+(NOT-ARMED BOMB33)
+(NOT-ARMED BOMB34)
+(NOT-ARMED BOMB35)
+(NOT-ARMED BOMB36)
+(NOT-ARMED BOMB37)
+(NOT-ARMED BOMB38)
+(NOT-ARMED BOMB39)
+(NOT-ARMED BOMB40)
+(NOT-ARMED BOMB41)
+(NOT-ARMED BOMB42)
+(NOT-ARMED BOMB43)
+(NOT-ARMED BOMB44)
+(NOT-ARMED BOMB45)
+(NOT-ARMED BOMB46)
+(NOT-ARMED BOMB47)
+(NOT-ARMED BOMB48)
+(NOT-ARMED BOMB49)
+(NOT-ARMED BOMB50)
+(NOT-ARMED BOMB51)
+(NOT-ARMED BOMB52)
+(NOT-ARMED BOMB53)
+(NOT-ARMED BOMB54)
+(NOT-ARMED BOMB55)
+(NOT-ARMED BOMB56)
+(NOT-ARMED BOMB57)
+(NOT-ARMED BOMB58)
+(NOT-ARMED BOMB59)
+(NOT-ARMED BOMB60)
+(NOT-ARMED BOMB61)
+(NOT-ARMED BOMB62)
+(NOT-ARMED BOMB63)
+(NOT-ARMED BOMB64)
+(NOT-ARMED BOMB65)
+(NOT-ARMED BOMB66)
+(NOT-ARMED BOMB67)
+(NOT-ARMED BOMB68)
+(NOT-ARMED BOMB69)
+(NOT-ARMED BOMB70)
+(NOT-ARMED BOMB71)
+(NOT-ARMED BOMB72)
+(NOT-ARMED BOMB73)
+(NOT-ARMED BOMB74)
+(NOT-ARMED BOMB75)
+(NOT-ARMED BOMB76)
+(NOT-ARMED BOMB77)
+(NOT-ARMED BOMB78)
+(NOT-ARMED BOMB79)
+(NOT-ARMED BOMB80)
+(NOT-ARMED BOMB81)
+(NOT-ARMED BOMB82)
+(NOT-ARMED BOMB83)
+(NOT-ARMED BOMB84)
+(NOT-ARMED BOMB85)
+(NOT-ARMED BOMB86)
+(NOT-ARMED BOMB87)
+(NOT-ARMED BOMB88)
+(NOT-ARMED BOMB89)
+(NOT-ARMED BOMB90)
+(NOT-ARMED BOMB91)
+(NOT-ARMED BOMB92)
+(NOT-ARMED BOMB93)
+(NOT-ARMED BOMB94)
+(NOT-ARMED BOMB95)
+(NOT-ARMED BOMB96)
+(NOT-ARMED BOMB97)
+(NOT-ARMED BOMB98)
+(NOT-ARMED BOMB99)
+(NOT-ARMED BOMB100)
+(ARMED BOMB1)
+(ARMED BOMB2)
+(ARMED BOMB3)
+(ARMED BOMB4)
+(ARMED BOMB5)
+(ARMED BOMB6)
+(ARMED BOMB7)
+(ARMED BOMB8)
+(ARMED BOMB9)
+(ARMED BOMB10)
+(ARMED BOMB11)
+(ARMED BOMB12)
+(ARMED BOMB13)
+(ARMED BOMB14)
+(ARMED BOMB15)
+(ARMED BOMB16)
+(ARMED BOMB17)
+(ARMED BOMB18)
+(ARMED BOMB19)
+(ARMED BOMB20)
+(ARMED BOMB21)
+(ARMED BOMB22)
+(ARMED BOMB23)
+(ARMED BOMB24)
+(ARMED BOMB25)
+(ARMED BOMB26)
+(ARMED BOMB27)
+(ARMED BOMB28)
+(ARMED BOMB29)
+(ARMED BOMB30)
+(ARMED BOMB31)
+(ARMED BOMB32)
+(ARMED BOMB33)
+(ARMED BOMB34)
+(ARMED BOMB35)
+(ARMED BOMB36)
+(ARMED BOMB37)
+(ARMED BOMB38)
+(ARMED BOMB39)
+(ARMED BOMB40)
+(ARMED BOMB41)
+(ARMED BOMB42)
+(ARMED BOMB43)
+(ARMED BOMB44)
+(ARMED BOMB45)
+(ARMED BOMB46)
+(ARMED BOMB47)
+(ARMED BOMB48)
+(ARMED BOMB49)
+(ARMED BOMB50)
+(ARMED BOMB51)
+(ARMED BOMB52)
+(ARMED BOMB53)
+(ARMED BOMB54)
+(ARMED BOMB55)
+(ARMED BOMB56)
+(ARMED BOMB57)
+(ARMED BOMB58)
+(ARMED BOMB59)
+(ARMED BOMB60)
+(ARMED BOMB61)
+(ARMED BOMB62)
+(ARMED BOMB63)
+(ARMED BOMB64)
+(ARMED BOMB65)
+(ARMED BOMB66)
+(ARMED BOMB67)
+(ARMED BOMB68)
+(ARMED BOMB69)
+(ARMED BOMB70)
+(ARMED BOMB71)
+(ARMED BOMB72)
+(ARMED BOMB73)
+(ARMED BOMB74)
+(ARMED BOMB75)
+(ARMED BOMB76)
+(ARMED BOMB77)
+(ARMED BOMB78)
+(ARMED BOMB79)
+(ARMED BOMB80)
+(ARMED BOMB81)
+(ARMED BOMB82)
+(ARMED BOMB83)
+(ARMED BOMB84)
+(ARMED BOMB85)
+(ARMED BOMB86)
+(ARMED BOMB87)
+(ARMED BOMB88)
+(ARMED BOMB89)
+(ARMED BOMB90)
+(ARMED BOMB91)
+(ARMED BOMB92)
+(ARMED BOMB93)
+(ARMED BOMB94)
+(ARMED BOMB95)
+(ARMED BOMB96)
+(ARMED BOMB97)
+(ARMED BOMB98)
+(ARMED BOMB99)
+(ARMED BOMB100)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(NOT-CLOGGED TOILET1)
+(NOT-CLOGGED TOILET2)
+(NOT-CLOGGED TOILET3)
+(NOT-CLOGGED TOILET4)
+(NOT-CLOGGED TOILET5)
+(NOT-CLOGGED TOILET6)
+(NOT-CLOGGED TOILET7)
+(NOT-CLOGGED TOILET8)
+(NOT-CLOGGED TOILET9)
+(NOT-CLOGGED TOILET10)
+(NOT-CLOGGED TOILET11)
+(NOT-CLOGGED TOILET12)
+(NOT-CLOGGED TOILET13)
+(NOT-CLOGGED TOILET14)
+(NOT-CLOGGED TOILET15)
+(NOT-CLOGGED TOILET16)
+(NOT-CLOGGED TOILET17)
+(NOT-CLOGGED TOILET18)
+(NOT-CLOGGED TOILET19)
+(NOT-CLOGGED TOILET20)
+(NOT-CLOGGED TOILET21)
+(NOT-CLOGGED TOILET22)
+(NOT-CLOGGED TOILET23)
+(NOT-CLOGGED TOILET24)
+(NOT-CLOGGED TOILET25)
+(NOT-CLOGGED TOILET26)
+(NOT-CLOGGED TOILET27)
+(NOT-CLOGGED TOILET28)
+(NOT-CLOGGED TOILET29)
+(NOT-CLOGGED TOILET30)
+(NOT-CLOGGED TOILET31)
+(NOT-CLOGGED TOILET32)
+(NOT-CLOGGED TOILET33)
+(NOT-CLOGGED TOILET34)
+(NOT-CLOGGED TOILET35)
+(NOT-CLOGGED TOILET36)
+(NOT-CLOGGED TOILET37)
+(NOT-CLOGGED TOILET38)
+(NOT-CLOGGED TOILET39)
+(NOT-CLOGGED TOILET40)
+(NOT-CLOGGED TOILET41)
+(NOT-CLOGGED TOILET42)
+(NOT-CLOGGED TOILET43)
+(NOT-CLOGGED TOILET44)
+(NOT-CLOGGED TOILET45)
+(NOT-CLOGGED TOILET46)
+(NOT-CLOGGED TOILET47)
+(NOT-CLOGGED TOILET48)
+(NOT-CLOGGED TOILET49)
+(NOT-CLOGGED TOILET50)
+U:
+(NOT-ARMED BOMB1)
+(NOT-ARMED BOMB2)
+(NOT-ARMED BOMB3)
+(NOT-ARMED BOMB4)
+(NOT-ARMED BOMB5)
+(NOT-ARMED BOMB6)
+(NOT-ARMED BOMB7)
+(NOT-ARMED BOMB8)
+(NOT-ARMED BOMB9)
+(NOT-ARMED BOMB10)
+(NOT-ARMED BOMB11)
+(NOT-ARMED BOMB12)
+(NOT-ARMED BOMB13)
+(NOT-ARMED BOMB14)
+(NOT-ARMED BOMB15)
+(NOT-ARMED BOMB16)
+(NOT-ARMED BOMB17)
+(NOT-ARMED BOMB18)
+(NOT-ARMED BOMB19)
+(NOT-ARMED BOMB20)
+(NOT-ARMED BOMB21)
+(NOT-ARMED BOMB22)
+(NOT-ARMED BOMB23)
+(NOT-ARMED BOMB24)
+(NOT-ARMED BOMB25)
+(NOT-ARMED BOMB26)
+(NOT-ARMED BOMB27)
+(NOT-ARMED BOMB28)
+(NOT-ARMED BOMB29)
+(NOT-ARMED BOMB30)
+(NOT-ARMED BOMB31)
+(NOT-ARMED BOMB32)
+(NOT-ARMED BOMB33)
+(NOT-ARMED BOMB34)
+(NOT-ARMED BOMB35)
+(NOT-ARMED BOMB36)
+(NOT-ARMED BOMB37)
+(NOT-ARMED BOMB38)
+(NOT-ARMED BOMB39)
+(NOT-ARMED BOMB40)
+(NOT-ARMED BOMB41)
+(NOT-ARMED BOMB42)
+(NOT-ARMED BOMB43)
+(NOT-ARMED BOMB44)
+(NOT-ARMED BOMB45)
+(NOT-ARMED BOMB46)
+(NOT-ARMED BOMB47)
+(NOT-ARMED BOMB48)
+(NOT-ARMED BOMB49)
+(NOT-ARMED BOMB50)
+(NOT-ARMED BOMB51)
+(NOT-ARMED BOMB52)
+(NOT-ARMED BOMB53)
+(NOT-ARMED BOMB54)
+(NOT-ARMED BOMB55)
+(NOT-ARMED BOMB56)
+(NOT-ARMED BOMB57)
+(NOT-ARMED BOMB58)
+(NOT-ARMED BOMB59)
+(NOT-ARMED BOMB60)
+(NOT-ARMED BOMB61)
+(NOT-ARMED BOMB62)
+(NOT-ARMED BOMB63)
+(NOT-ARMED BOMB64)
+(NOT-ARMED BOMB65)
+(NOT-ARMED BOMB66)
+(NOT-ARMED BOMB67)
+(NOT-ARMED BOMB68)
+(NOT-ARMED BOMB69)
+(NOT-ARMED BOMB70)
+(NOT-ARMED BOMB71)
+(NOT-ARMED BOMB72)
+(NOT-ARMED BOMB73)
+(NOT-ARMED BOMB74)
+(NOT-ARMED BOMB75)
+(NOT-ARMED BOMB76)
+(NOT-ARMED BOMB77)
+(NOT-ARMED BOMB78)
+(NOT-ARMED BOMB79)
+(NOT-ARMED BOMB80)
+(NOT-ARMED BOMB81)
+(NOT-ARMED BOMB82)
+(NOT-ARMED BOMB83)
+(NOT-ARMED BOMB84)
+(NOT-ARMED BOMB85)
+(NOT-ARMED BOMB86)
+(NOT-ARMED BOMB87)
+(NOT-ARMED BOMB88)
+(NOT-ARMED BOMB89)
+(NOT-ARMED BOMB90)
+(NOT-ARMED BOMB91)
+(NOT-ARMED BOMB92)
+(NOT-ARMED BOMB93)
+(NOT-ARMED BOMB94)
+(NOT-ARMED BOMB95)
+(NOT-ARMED BOMB96)
+(NOT-ARMED BOMB97)
+(NOT-ARMED BOMB98)
+(NOT-ARMED BOMB99)
+(NOT-ARMED BOMB100)
+(ARMED BOMB1)
+(ARMED BOMB2)
+(ARMED BOMB3)
+(ARMED BOMB4)
+(ARMED BOMB5)
+(ARMED BOMB6)
+(ARMED BOMB7)
+(ARMED BOMB8)
+(ARMED BOMB9)
+(ARMED BOMB10)
+(ARMED BOMB11)
+(ARMED BOMB12)
+(ARMED BOMB13)
+(ARMED BOMB14)
+(ARMED BOMB15)
+(ARMED BOMB16)
+(ARMED BOMB17)
+(ARMED BOMB18)
+(ARMED BOMB19)
+(ARMED BOMB20)
+(ARMED BOMB21)
+(ARMED BOMB22)
+(ARMED BOMB23)
+(ARMED BOMB24)
+(ARMED BOMB25)
+(ARMED BOMB26)
+(ARMED BOMB27)
+(ARMED BOMB28)
+(ARMED BOMB29)
+(ARMED BOMB30)
+(ARMED BOMB31)
+(ARMED BOMB32)
+(ARMED BOMB33)
+(ARMED BOMB34)
+(ARMED BOMB35)
+(ARMED BOMB36)
+(ARMED BOMB37)
+(ARMED BOMB38)
+(ARMED BOMB39)
+(ARMED BOMB40)
+(ARMED BOMB41)
+(ARMED BOMB42)
+(ARMED BOMB43)
+(ARMED BOMB44)
+(ARMED BOMB45)
+(ARMED BOMB46)
+(ARMED BOMB47)
+(ARMED BOMB48)
+(ARMED BOMB49)
+(ARMED BOMB50)
+(ARMED BOMB51)
+(ARMED BOMB52)
+(ARMED BOMB53)
+(ARMED BOMB54)
+(ARMED BOMB55)
+(ARMED BOMB56)
+(ARMED BOMB57)
+(ARMED BOMB58)
+(ARMED BOMB59)
+(ARMED BOMB60)
+(ARMED BOMB61)
+(ARMED BOMB62)
+(ARMED BOMB63)
+(ARMED BOMB64)
+(ARMED BOMB65)
+(ARMED BOMB66)
+(ARMED BOMB67)
+(ARMED BOMB68)
+(ARMED BOMB69)
+(ARMED BOMB70)
+(ARMED BOMB71)
+(ARMED BOMB72)
+(ARMED BOMB73)
+(ARMED BOMB74)
+(ARMED BOMB75)
+(ARMED BOMB76)
+(ARMED BOMB77)
+(ARMED BOMB78)
+(ARMED BOMB79)
+(ARMED BOMB80)
+(ARMED BOMB81)
+(ARMED BOMB82)
+(ARMED BOMB83)
+(ARMED BOMB84)
+(ARMED BOMB85)
+(ARMED BOMB86)
+(ARMED BOMB87)
+(ARMED BOMB88)
+(ARMED BOMB89)
+(ARMED BOMB90)
+(ARMED BOMB91)
+(ARMED BOMB92)
+(ARMED BOMB93)
+(ARMED BOMB94)
+(ARMED BOMB95)
+(ARMED BOMB96)
+(ARMED BOMB97)
+(ARMED BOMB98)
+(ARMED BOMB99)
+(ARMED BOMB100)
+UE:
+
+----------------------INITIAL ORS:-----------------------------H:101
+
+
+Cueing down from goal distance:  101 into depth [1]
+                                 100            [1]
+                                  99            [1]
+                                  98            [1]
+                                  97            [1]
+                                  96            [1]
+                                  95            [1]
+                                  94            [1]
+                                  93            [1]
+                                  92            [1]
+                                  91            [1]
+                                  90            [1]
+                                  89            [1]
+                                  88            [1]
+                                  87            [1]
+                                  86            [1]
+                                  85            [1]
+                                  84            [1]
+                                  83            [1]
+                                  82            [1]
+                                  81            [1]
+                                  80            [1]
+                                  79            [1]
+                                  78            [1]
+                                  77            [1]
+                                  76            [1]
+                                  75            [1]
+                                  74            [1]
+                                  73            [1]
+                                  72            [1]
+                                  71            [1]
+                                  70            [1]
+                                  69            [1]
+                                  68            [1]
+                                  67            [1]
+                                  66            [1]
+                                  65            [1]
+                                  64            [1]
+                                  63            [1]
+                                  62            [1]
+                                  61            [1]
+                                  60            [1]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1][2]
+                                  51            [1][2]
+                                  50            [1][2]
+                                  49            [1][2]
+                                  48            [1][2]
+                                  47            [1][2]
+                                  46            [1][2]
+                                  45            [1][2]
+                                  44            [1][2]
+                                  43            [1][2]
+                                  42            [1][2]
+                                  41            [1][2]
+                                  40            [1][2]
+                                  39            [1][2]
+                                  38            [1][2]
+                                  37            [1][2]
+                                  36            [1][2]
+                                  35            [1][2]
+                                  34            [1][2]
+                                  33            [1][2]
+                                  32            [1][2]
+                                  31            [1][2]
+                                  30            [1][2]
+                                  29            [1][2]
+                                  28            [1][2]
+                                  27            [1][2]
+                                  26            [1][2]
+                                  25            [1][2]
+                                  24            [1][2]
+                                  23            [1][2]
+                                  22            [1][2]
+                                  21            [1][2]
+                                  20            [1][2]
+                                  19            [1][2]
+                                  18            [1][2]
+                                  17            [1][2]
+                                  16            [1][2]
+                                  15            [1][2]
+                                  14            [1][2]
+                                  13            [1][2]
+                                  12            [1][2]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: DUNK BOMB100 TOILET50
+        1: DUNK BOMB99 TOILET49
+        2: DUNK BOMB98 TOILET48
+        3: DUNK BOMB97 TOILET47
+        4: DUNK BOMB96 TOILET46
+        5: DUNK BOMB95 TOILET45
+        6: DUNK BOMB94 TOILET44
+        7: DUNK BOMB93 TOILET43
+        8: DUNK BOMB92 TOILET42
+        9: DUNK BOMB91 TOILET41
+       10: DUNK BOMB90 TOILET40
+       11: DUNK BOMB89 TOILET39
+       12: DUNK BOMB88 TOILET38
+       13: DUNK BOMB87 TOILET37
+       14: DUNK BOMB86 TOILET36
+       15: DUNK BOMB85 TOILET35
+       16: DUNK BOMB84 TOILET34
+       17: DUNK BOMB83 TOILET33
+       18: DUNK BOMB82 TOILET32
+       19: DUNK BOMB81 TOILET31
+       20: DUNK BOMB80 TOILET30
+       21: DUNK BOMB79 TOILET29
+       22: DUNK BOMB78 TOILET28
+       23: DUNK BOMB77 TOILET27
+       24: DUNK BOMB76 TOILET26
+       25: DUNK BOMB75 TOILET25
+       26: DUNK BOMB74 TOILET24
+       27: DUNK BOMB73 TOILET23
+       28: DUNK BOMB72 TOILET22
+       29: DUNK BOMB71 TOILET21
+       30: DUNK BOMB70 TOILET20
+       31: DUNK BOMB69 TOILET19
+       32: DUNK BOMB68 TOILET18
+       33: DUNK BOMB67 TOILET17
+       34: DUNK BOMB66 TOILET16
+       35: DUNK BOMB65 TOILET15
+       36: DUNK BOMB64 TOILET14
+       37: DUNK BOMB63 TOILET13
+       38: DUNK BOMB62 TOILET12
+       39: DUNK BOMB61 TOILET11
+       40: DUNK BOMB60 TOILET10
+       41: DUNK BOMB59 TOILET9
+       42: DUNK BOMB58 TOILET8
+       43: DUNK BOMB57 TOILET7
+       44: DUNK BOMB56 TOILET6
+       45: DUNK BOMB55 TOILET5
+       46: DUNK BOMB54 TOILET4
+       47: DUNK BOMB53 TOILET3
+       48: DUNK BOMB52 TOILET2
+       49: DUNK BOMB51 TOILET1
+       50: FLUSH TOILET50
+       51: DUNK BOMB50 TOILET50
+       52: FLUSH TOILET50
+       53: DUNK BOMB49 TOILET50
+       54: FLUSH TOILET50
+       55: DUNK BOMB48 TOILET50
+       56: FLUSH TOILET50
+       57: DUNK BOMB47 TOILET50
+       58: FLUSH TOILET50
+       59: DUNK BOMB46 TOILET50
+       60: FLUSH TOILET50
+       61: DUNK BOMB45 TOILET50
+       62: FLUSH TOILET50
+       63: DUNK BOMB44 TOILET50
+       64: FLUSH TOILET50
+       65: DUNK BOMB43 TOILET50
+       66: FLUSH TOILET50
+       67: DUNK BOMB42 TOILET50
+       68: FLUSH TOILET50
+       69: DUNK BOMB41 TOILET50
+       70: FLUSH TOILET50
+       71: DUNK BOMB40 TOILET50
+       72: FLUSH TOILET50
+       73: DUNK BOMB39 TOILET50
+       74: FLUSH TOILET50
+       75: DUNK BOMB38 TOILET50
+       76: FLUSH TOILET50
+       77: DUNK BOMB37 TOILET50
+       78: FLUSH TOILET50
+       79: DUNK BOMB36 TOILET50
+       80: FLUSH TOILET50
+       81: DUNK BOMB35 TOILET50
+       82: FLUSH TOILET50
+       83: DUNK BOMB34 TOILET50
+       84: FLUSH TOILET50
+       85: DUNK BOMB33 TOILET50
+       86: FLUSH TOILET50
+       87: DUNK BOMB32 TOILET50
+       88: FLUSH TOILET50
+       89: DUNK BOMB31 TOILET50
+       90: FLUSH TOILET50
+       91: DUNK BOMB30 TOILET50
+       92: FLUSH TOILET50
+       93: DUNK BOMB29 TOILET50
+       94: FLUSH TOILET50
+       95: DUNK BOMB28 TOILET50
+       96: FLUSH TOILET50
+       97: DUNK BOMB27 TOILET50
+       98: FLUSH TOILET50
+       99: DUNK BOMB26 TOILET50
+      100: FLUSH TOILET50
+      101: DUNK BOMB25 TOILET50
+      102: FLUSH TOILET50
+      103: DUNK BOMB24 TOILET50
+      104: FLUSH TOILET50
+      105: DUNK BOMB23 TOILET50
+      106: FLUSH TOILET50
+      107: DUNK BOMB22 TOILET50
+      108: FLUSH TOILET50
+      109: DUNK BOMB21 TOILET50
+      110: FLUSH TOILET50
+      111: DUNK BOMB20 TOILET50
+      112: FLUSH TOILET50
+      113: DUNK BOMB19 TOILET50
+      114: FLUSH TOILET50
+      115: DUNK BOMB18 TOILET50
+      116: FLUSH TOILET50
+      117: DUNK BOMB17 TOILET50
+      118: FLUSH TOILET50
+      119: DUNK BOMB16 TOILET50
+      120: FLUSH TOILET50
+      121: DUNK BOMB15 TOILET50
+      122: FLUSH TOILET50
+      123: DUNK BOMB14 TOILET50
+      124: FLUSH TOILET50
+      125: DUNK BOMB13 TOILET50
+      126: FLUSH TOILET50
+      127: DUNK BOMB12 TOILET50
+      128: FLUSH TOILET50
+      129: DUNK BOMB11 TOILET50
+      130: FLUSH TOILET50
+      131: DUNK BOMB10 TOILET50
+      132: FLUSH TOILET50
+      133: DUNK BOMB9 TOILET50
+      134: FLUSH TOILET50
+      135: DUNK BOMB8 TOILET50
+      136: FLUSH TOILET50
+      137: DUNK BOMB7 TOILET50
+      138: FLUSH TOILET50
+      139: DUNK BOMB6 TOILET50
+      140: FLUSH TOILET50
+      141: DUNK BOMB5 TOILET50
+      142: FLUSH TOILET50
+      143: DUNK BOMB4 TOILET50
+      144: FLUSH TOILET50
+      145: DUNK BOMB3 TOILET50
+      146: FLUSH TOILET50
+      147: DUNK BOMB2 TOILET50
+      148: FLUSH TOILET50
+      149: DUNK BOMB1 TOILET50
+     
+
+statistics:    0.00 seconds instantiating 5050 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 450 facts and 5050 actions
+               0.01 seconds creating final representation with 300 relevant facts (200 max U, 100 CNF max U)
+               0.01 seconds building connectivity graph
+               2.54 seconds (   2.54 pure) evaluating 1425 states, to a max depth of 2
+               0.00 seconds in DP for 0 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.01 seconds generating,    0.00 seconds encoding 6375 state transition base CNFs
+               0.00 seconds in DP solving 5050 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.01 seconds checking for stagnating states (0 hits), including 0 DP calls
+               0.02 seconds altogether checking for dominated states making 0 comparisons (0 conformant, 0 hits),
+                    spending    0.00 seconds doing 0 DP calls
+               5050 total DP calls, 5050 total UP calls,    0.00 sec membership
+               0.28 seconds for remaining searching duties
+               2.88 seconds total time (+    0.26 secs for CNF memory allocation)
+
+plan length:150
+iteration:1
+now_time:2.9167889230011497

@@ -1,0 +1,156 @@
+
+ff: parsing domain file
+domain 'GRID' defined
+ ... done.
+ff: parsing problem file
+problem 'INSTANCE_5__12345' defined
+ ... done.
+
+
+F:
+(NOT-CANMOVE)
+U:
+(NOT-X ZERO)
+(NOT-X ONE)
+(NOT-X TWO)
+(NOT-X THREE)
+(NOT-X FOUR)
+(NOT-Y ZERO)
+(NOT-Y ONE)
+(NOT-Y TWO)
+(NOT-Y THREE)
+(NOT-Y FOUR)
+(X FOUR)
+(X ONE)
+(X THREE)
+(X TWO)
+(X ZERO)
+(Y FOUR)
+(Y ONE)
+(Y THREE)
+(Y TWO)
+(Y ZERO)
+UE:
+var_size: 22
+
+当前收集的断言数：13
+
+1
+
+第1次迭代
+当前初始状态:
+F:11 U:0
+num_Or:12
+参数大于2的OR: 
+H:4
+
+
+Cueing down from goal distance:    4 into depth [1]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：4
+
+var_size: 110
+
+当前收集的断言数：57
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:9 U:4
+num_Or:18
+参数大于2的OR: 
+H:4
+
+
+Cueing down from goal distance:    4 into depth [1]
+                                   3            [1][2]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：12
+
+var_size: 286
+
+当前收集的断言数：145
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:7 U:8
+num_Or:23
+参数大于2的OR: 
+H:5
+
+
+Cueing down from goal distance:    5 into depth [1]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：14
+
+var_size: 330
+
+当前收集的断言数：167
+
+1
+找到反例！
+
+
+第4次迭代
+当前初始状态:
+F:6 U:10
+num_Or:23
+参数大于2的OR: 
+(Y TWO) (Y ONE) (Y ZERO) 
+H:4
+
+
+Cueing down from goal distance:    4 into depth [1][2][3]
+                                   3            [1][2]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    4
+                           3
+                           2
+                           1
+negated effcond -- in rplan-nodel-noops -- is not unknown?
+
+Out of Memory
+now_time:0.1927802279824391

@@ -1,0 +1,11 @@
+
+ff: parsing domain file
+domain 'DISPOSE' defined
+ ... done.
+ff: parsing problem file
+problem 'DISPOSE-16-2' defined
+
+/home/nero/Downloads/PlannerBenchmark-main3/PlannerBenchmark-main/T1/Conformant/det/dispose/p16_2.pddl: syntax error in line 2740, ':goal':
+'define' expected
+Out of Memory
+now_time:0.041113102983217686

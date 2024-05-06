@@ -1,0 +1,141 @@
+
+ff: parsing domain file
+domain 'GRID' defined
+ ... done.
+ff: parsing problem file
+problem 'INSTANCE_7__12345' defined
+ ... done.
+
+
+F:
+(NOT-CANMOVE)
+U:
+(NOT-X ZERO)
+(NOT-X ONE)
+(NOT-X TWO)
+(NOT-X THREE)
+(NOT-X FOUR)
+(NOT-X FIVE)
+(NOT-X SIX)
+(NOT-Y ZERO)
+(NOT-Y ONE)
+(NOT-Y TWO)
+(NOT-Y THREE)
+(NOT-Y FOUR)
+(NOT-Y FIVE)
+(NOT-Y SIX)
+(X FIVE)
+(X FOUR)
+(X ONE)
+(X SIX)
+(X THREE)
+(X TWO)
+(X ZERO)
+(Y FIVE)
+(Y FOUR)
+(Y ONE)
+(Y SIX)
+(Y THREE)
+(Y TWO)
+(Y ZERO)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(NOT-CANMOVE)
+U:
+(NOT-X ZERO)
+(NOT-X ONE)
+(NOT-X TWO)
+(NOT-X THREE)
+(NOT-X FOUR)
+(NOT-X FIVE)
+(NOT-X SIX)
+(NOT-Y ZERO)
+(NOT-Y ONE)
+(NOT-Y TWO)
+(NOT-Y THREE)
+(NOT-Y FOUR)
+(NOT-Y FIVE)
+(NOT-Y SIX)
+(X FIVE)
+(X FOUR)
+(X ONE)
+(X SIX)
+(X THREE)
+(X TWO)
+(X ZERO)
+(Y FIVE)
+(Y FOUR)
+(Y ONE)
+(Y SIX)
+(Y THREE)
+(Y TWO)
+(Y ZERO)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (NOT-Y TWO) (NOT-X FIVE) 
+OR: (X SIX) (X FIVE) (X FOUR) (X THREE) (X TWO) (X ONE) (X ZERO) 
+OR: (NOT-X SIX) (NOT-X FIVE) 
+OR: (NOT-X SIX) (NOT-X FOUR) 
+OR: (NOT-X SIX) (NOT-X THREE) 
+OR: (NOT-X SIX) (NOT-X TWO) 
+OR: (NOT-X SIX) (NOT-X ONE) 
+OR: (NOT-X SIX) (NOT-X ZERO) 
+OR: (NOT-X FIVE) (NOT-X FOUR) 
+OR: (NOT-X FIVE) (NOT-X THREE) 
+OR: (NOT-X FIVE) (NOT-X TWO) 
+OR: (NOT-X FIVE) (NOT-X ONE) 
+OR: (NOT-X FIVE) (NOT-X ZERO) 
+OR: (NOT-X FOUR) (NOT-X THREE) 
+OR: (NOT-X FOUR) (NOT-X TWO) 
+OR: (NOT-X FOUR) (NOT-X ONE) 
+OR: (NOT-X FOUR) (NOT-X ZERO) 
+OR: (NOT-X THREE) (NOT-X TWO) 
+OR: (NOT-X THREE) (NOT-X ONE) 
+OR: (NOT-X THREE) (NOT-X ZERO) 
+OR: (NOT-X TWO) (NOT-X ONE) 
+OR: (NOT-X TWO) (NOT-X ZERO) 
+OR: (NOT-X ONE) (NOT-X ZERO) 
+OR: (Y SIX) (Y FIVE) (Y FOUR) (Y THREE) (Y TWO) (Y ONE) (Y ZERO) 
+OR: (NOT-Y SIX) (NOT-Y FIVE) 
+OR: (NOT-Y SIX) (NOT-Y FOUR) 
+OR: (NOT-Y SIX) (NOT-Y THREE) 
+OR: (NOT-Y SIX) (NOT-Y TWO) 
+OR: (NOT-Y SIX) (NOT-Y ONE) 
+OR: (NOT-Y SIX) (NOT-Y ZERO) 
+OR: (NOT-Y FIVE) (NOT-Y FOUR) 
+OR: (NOT-Y FIVE) (NOT-Y THREE) 
+OR: (NOT-Y FIVE) (NOT-Y TWO) 
+OR: (NOT-Y FIVE) (NOT-Y ONE) 
+OR: (NOT-Y FIVE) (NOT-Y ZERO) 
+OR: (NOT-Y FOUR) (NOT-Y THREE) 
+OR: (NOT-Y FOUR) (NOT-Y TWO) 
+OR: (NOT-Y FOUR) (NOT-Y ONE) 
+OR: (NOT-Y FOUR) (NOT-Y ZERO) 
+OR: (NOT-Y THREE) (NOT-Y TWO) 
+OR: (NOT-Y THREE) (NOT-Y ONE) 
+OR: (NOT-Y THREE) (NOT-Y ZERO) 
+OR: (NOT-Y TWO) (NOT-Y ONE) 
+OR: (NOT-Y TWO) (NOT-Y ZERO) 
+OR: (NOT-Y ONE) (NOT-Y ZERO) H:4
+
+
+Cueing down from goal distance:    4 into depth [1][2][3]
+                                   3            [1][2]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    4
+                           3
+                           2
+                           1
+negated effcond -- in rplan-nodel-noops -- is not unknown?
+
+Out of Memory
+now_time:4.049769005971029

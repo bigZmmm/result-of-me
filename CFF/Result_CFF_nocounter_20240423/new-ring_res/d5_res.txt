@@ -1,0 +1,9 @@
+
+ff: parsing domain file
+domain 'D-RING-NEW-5' defined
+ ... done.
+ff: parsing problem file
+/home/nero/Downloads/PlannerBenchmark-main2/PlannerBenchmark-main/T1/Conformant/det/new-ring/p5.pddl: syntax error in line 24, 'not':
+'define' expected
+Out of Memory
+now_time:0.0240317810093984

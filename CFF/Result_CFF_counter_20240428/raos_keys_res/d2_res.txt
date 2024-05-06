@@ -1,0 +1,200 @@
+
+ff: parsing domain file
+domain 'RAOS_KEYS' defined
+ ... done.
+ff: parsing problem file
+problem 'RAOS_KEYS1' defined
+ ... done.
+
+
+F:
+(NOT-WEARING_SUNGLASSES)
+(NOT-OPEN L1)
+(NOT-OPEN L2)
+(NOT-HAVE_KEY K1)
+(NOT-HAVE_KEY K2)
+(AT L1)
+(NOT_WEARING_SUNGLASSES)
+U:
+(NOT-KEY_AT K1 L1)
+(NOT-KEY_AT K1 L2)
+(NOT-KEY_AT K2 L1)
+(NOT-KEY_AT K2 L2)
+(NOT-OPENS K0 L1)
+(NOT-OPENS K0 L2)
+(NOT-OPENS K1 L1)
+(NOT-OPENS K1 L2)
+(NOT-OPENS K2 L1)
+(NOT-OPENS K2 L2)
+(KEY_AT K1 L1)
+(KEY_AT K1 L2)
+(KEY_AT K2 L1)
+(KEY_AT K2 L2)
+(OPENS K0 L1)
+(OPENS K0 L2)
+(OPENS K1 L1)
+(OPENS K1 L2)
+(OPENS K2 L1)
+(OPENS K2 L2)
+UE:
+var_size: 32
+
+当前收集的断言数：17
+
+1
+
+第1次迭代
+当前初始状态:
+F:17 U:0
+num_Or:0
+参数大于2的OR: 
+H:7
+
+
+Cueing down from goal distance:    7 into depth [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：9
+
+var_size: 334
+
+当前收集的断言数：161
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:15 U:4
+num_Or:2
+参数大于2的OR: 
+H:11
+
+
+Cueing down from goal distance:   11 into depth [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1][2][3]
+                                   7            [1]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：14
+
+var_size: 504
+
+当前收集的断言数：241
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:7 U:20
+num_Or:26
+参数大于2的OR: 
+H:5
+
+
+Cueing down from goal distance:    5 into depth [1][2]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    5
+                           4
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：27
+
+var_size: 947
+
+当前收集的断言数：449
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: GOTO_LIGHT L1 L2
+        1: OPEN_GATE L2 K0
+        2: GOTO_LIGHT L2 L1
+        3: OPEN_GATE L1 K0
+        4: GOTO_LIGHT L1 L2
+        5: EXCHANGE_SUNGLASSES
+        6: SEARCH_UNDER_LIGHT L2
+        7: EXCHANGE_SUNGLASSES
+        8: GOTO_LIGHT L2 L1
+        9: EXCHANGE_SUNGLASSES
+       10: SEARCH_UNDER_LIGHT L1
+       11: EXCHANGE_SUNGLASSES
+       12: GOTO_LIGHT L1 L2
+       13: OPEN_GATE L2 K1
+       14: GOTO_LIGHT L2 L1
+       15: OPEN_GATE L1 K1
+       16: GOTO_LIGHT L1 L2
+       17: OPEN_GATE L2 K2
+       18: GOTO_LIGHT L2 L1
+       19: OPEN_GATE L1 K2
+       20: GOTO_LIGHT L1 L2
+       21: EXCHANGE_SUNGLASSES
+       22: SEARCH_UNDER_LIGHT L2
+       23: EXCHANGE_SUNGLASSES
+       24: GOTO_LIGHT L2 L1
+       25: EXCHANGE_SUNGLASSES
+       26: SEARCH_UNDER_LIGHT L1
+     
+
+statistics:    0.01 seconds instantiating 11 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 37 facts and 11 actions
+               0.00 seconds creating final representation with 34 relevant facts (28 max U, 14 CNF max U)
+               0.00 seconds building connectivity graph
+               0.00 seconds (   0.00 pure) evaluating 82 states, to a max depth of 3
+               0.00 seconds in DP for 147 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.01 seconds encoding 179 state transition base CNFs
+               0.00 seconds in DP solving 53 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (86 hits), including 1315 DP calls
+               0.00 seconds altogether checking for dominated states making 64 comparisons (64 conformant, 0 hits),
+                    spending    0.00 seconds doing 779 DP calls
+               2294 total DP calls, 2884 total UP calls,    0.00 sec membership
+               0.03 seconds for remaining searching duties
+               0.05 seconds total time (+    0.04 secs for CNF memory allocation)
+
+初始目标状态
+Fold:7 Uold:20
+num_Orold:26
+参数大于2的OR: 
+
+
+当前反例添加的目标状态
+Fcur:7 Ucur:20
+num_Orcur:26
+参数大于2的OR: 
+
+
+counter_time:0.09
+plan length:27
+iteration:3
+now_time:0.17662961198948324

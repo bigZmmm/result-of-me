@@ -1,0 +1,160 @@
+
+ff: parsing domain file
+domain 'UTS' defined
+ ... done.
+ff: parsing problem file
+problem 'R8' defined
+ ... done.
+
+
+F:
+U:
+(NOT-AT N1)
+(NOT-AT N2)
+(NOT-AT N3)
+(NOT-AT N4)
+(NOT-AT N5)
+(NOT-AT N6)
+(NOT-AT N7)
+(NOT-AT N8)
+(AT N1)
+(AT N2)
+(AT N3)
+(AT N4)
+(AT N5)
+(AT N6)
+(AT N7)
+(AT N8)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+U:
+(NOT-AT N1)
+(NOT-AT N2)
+(NOT-AT N3)
+(NOT-AT N4)
+(NOT-AT N5)
+(NOT-AT N6)
+(NOT-AT N7)
+(NOT-AT N8)
+(AT N1)
+(AT N2)
+(AT N3)
+(AT N4)
+(AT N5)
+(AT N6)
+(AT N7)
+(AT N8)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (AT N8) (AT N7) (AT N6) (AT N5) (AT N4) (AT N3) (AT N2) (AT N1) 
+OR: (NOT-AT N8) (NOT-AT N7) 
+OR: (NOT-AT N8) (NOT-AT N6) 
+OR: (NOT-AT N8) (NOT-AT N5) 
+OR: (NOT-AT N8) (NOT-AT N4) 
+OR: (NOT-AT N8) (NOT-AT N3) 
+OR: (NOT-AT N8) (NOT-AT N2) 
+OR: (NOT-AT N8) (NOT-AT N1) 
+OR: (NOT-AT N7) (NOT-AT N6) 
+OR: (NOT-AT N7) (NOT-AT N5) 
+OR: (NOT-AT N7) (NOT-AT N4) 
+OR: (NOT-AT N7) (NOT-AT N3) 
+OR: (NOT-AT N7) (NOT-AT N2) 
+OR: (NOT-AT N7) (NOT-AT N1) 
+OR: (NOT-AT N6) (NOT-AT N5) 
+OR: (NOT-AT N6) (NOT-AT N4) 
+OR: (NOT-AT N6) (NOT-AT N3) 
+OR: (NOT-AT N6) (NOT-AT N2) 
+OR: (NOT-AT N6) (NOT-AT N1) 
+OR: (NOT-AT N5) (NOT-AT N4) 
+OR: (NOT-AT N5) (NOT-AT N3) 
+OR: (NOT-AT N5) (NOT-AT N2) 
+OR: (NOT-AT N5) (NOT-AT N1) 
+OR: (NOT-AT N4) (NOT-AT N3) 
+OR: (NOT-AT N4) (NOT-AT N2) 
+OR: (NOT-AT N4) (NOT-AT N1) 
+OR: (NOT-AT N3) (NOT-AT N2) 
+OR: (NOT-AT N3) (NOT-AT N1) 
+OR: (NOT-AT N2) (NOT-AT N1) H:46
+
+
+Cueing down from goal distance:   46 into depth [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  32            [1]
+                                  29            [1]
+                                  27            [1]
+                                  24            [1]
+                                  18            [1]
+                                  15            [1]
+                                  14            [1]
+                                  10            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: START N2
+        1: START N7
+        2: START N5
+        3: START N4
+        4: START N8
+        5: START N6
+        6: START N3
+        7: START N1
+        8: TRAVEL N7 N8
+        9: TRAVEL N6 N2
+       10: TRAVEL N8 N2
+       11: TRAVEL N5 N4
+       12: TRAVEL N3 N4
+       13: TRAVEL N2 N8
+       14: TRAVEL N1 N7
+       15: TRAVEL N4 N7
+       16: TRAVEL N7 N8
+       17: TRAVEL N8 N4
+       18: TRAVEL N4 N6
+       19: TRAVEL N6 N2
+       20: TRAVEL N2 N6
+       21: TRAVEL N6 N3
+       22: TRAVEL N3 N4
+       23: TRAVEL N4 N5
+       24: TRAVEL N5 N1
+       25: TRAVEL N1 N7
+     
+
+statistics:    0.00 seconds instantiating 72 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 25 facts and 72 actions
+               0.00 seconds creating final representation with 25 relevant facts (25 max U, 17 CNF max U)
+               0.00 seconds building connectivity graph
+               0.00 seconds (   0.00 pure) evaluating 39 states, to a max depth of 2
+               0.00 seconds in DP for 538 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 259 state transition base CNFs
+               0.01 seconds in DP solving 501 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (38 hits), including 1799 DP calls
+               0.00 seconds altogether checking for dominated states making 68 comparisons (68 conformant, 0 hits),
+                    spending    0.00 seconds doing 822 DP calls
+               3660 total DP calls, 4949 total UP calls,    0.00 sec membership
+               0.05 seconds for remaining searching duties
+               0.06 seconds total time (+    0.05 secs for CNF memory allocation)
+
+plan length:26
+iteration:1
+now_time:0.08418202196480706

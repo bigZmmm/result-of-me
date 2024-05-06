@@ -1,0 +1,764 @@
+
+ff: parsing domain file
+domain 'LOGISTICS-STRIPS' defined
+ ... done.
+ff: parsing problem file
+problem 'LOGISTICS-C2-S4-P20-A2' defined
+ ... done.
+
+
+F:
+(NOT-AT A0 L10)
+(NOT-AT A1 L00)
+(NOT-AT T0 L00)
+(NOT-AT T0 L02)
+(NOT-AT T0 L03)
+(NOT-AT T0 L04)
+(NOT-AT T0 L05)
+(NOT-AT T1 L10)
+(NOT-AT T1 L12)
+(NOT-AT T1 L13)
+(NOT-AT T1 L14)
+(NOT-AT T1 L15)
+(NOT-AT P0 L00)
+(NOT-AT P0 L01)
+(NOT-AT P0 L02)
+(NOT-AT P0 L03)
+(NOT-AT P0 L04)
+(NOT-AT P0 L05)
+(NOT-AT P1 L10)
+(NOT-AT P1 L11)
+(NOT-AT P1 L12)
+(NOT-AT P1 L13)
+(NOT-AT P1 L14)
+(NOT-AT P1 L15)
+(NOT-AT P2 L00)
+(NOT-AT P2 L01)
+(NOT-AT P2 L02)
+(NOT-AT P2 L03)
+(NOT-AT P2 L04)
+(NOT-AT P2 L05)
+(NOT-AT P3 L10)
+(NOT-AT P3 L11)
+(NOT-AT P3 L12)
+(NOT-AT P3 L13)
+(NOT-AT P3 L14)
+(NOT-AT P3 L15)
+(NOT-AT P4 L01)
+(NOT-AT P4 L02)
+(NOT-AT P4 L03)
+(NOT-AT P4 L04)
+(NOT-AT P4 L05)
+(NOT-AT P4 L10)
+(NOT-AT P5 L10)
+(NOT-AT P5 L11)
+(NOT-AT P5 L12)
+(NOT-AT P5 L13)
+(NOT-AT P5 L14)
+(NOT-AT P5 L15)
+(NOT-AT P6 L00)
+(NOT-AT P6 L01)
+(NOT-AT P6 L02)
+(NOT-AT P6 L03)
+(NOT-AT P6 L04)
+(NOT-AT P6 L05)
+(NOT-AT P7 L10)
+(NOT-AT P7 L11)
+(NOT-AT P7 L12)
+(NOT-AT P7 L13)
+(NOT-AT P7 L14)
+(NOT-AT P7 L15)
+(NOT-AT P8 L00)
+(NOT-AT P8 L01)
+(NOT-AT P8 L02)
+(NOT-AT P8 L03)
+(NOT-AT P8 L04)
+(NOT-AT P8 L05)
+(NOT-AT P9 L10)
+(NOT-AT P9 L11)
+(NOT-AT P9 L12)
+(NOT-AT P9 L13)
+(NOT-AT P9 L14)
+(NOT-AT P9 L15)
+(NOT-AT P10 L00)
+(NOT-AT P10 L01)
+(NOT-AT P10 L02)
+(NOT-AT P10 L03)
+(NOT-AT P10 L04)
+(NOT-AT P10 L05)
+(NOT-AT P11 L10)
+(NOT-AT P11 L11)
+(NOT-AT P11 L12)
+(NOT-AT P11 L13)
+(NOT-AT P11 L14)
+(NOT-AT P11 L15)
+(NOT-AT P12 L00)
+(NOT-AT P12 L01)
+(NOT-AT P12 L02)
+(NOT-AT P12 L03)
+(NOT-AT P12 L04)
+(NOT-AT P12 L05)
+(NOT-AT P13 L10)
+(NOT-AT P13 L11)
+(NOT-AT P13 L12)
+(NOT-AT P13 L13)
+(NOT-AT P13 L14)
+(NOT-AT P13 L15)
+(NOT-AT P14 L00)
+(NOT-AT P14 L01)
+(NOT-AT P14 L02)
+(NOT-AT P14 L03)
+(NOT-AT P14 L04)
+(NOT-AT P14 L05)
+(NOT-AT P15 L10)
+(NOT-AT P15 L11)
+(NOT-AT P15 L12)
+(NOT-AT P15 L13)
+(NOT-AT P15 L14)
+(NOT-AT P15 L15)
+(NOT-AT P16 L00)
+(NOT-AT P16 L01)
+(NOT-AT P16 L02)
+(NOT-AT P16 L03)
+(NOT-AT P16 L04)
+(NOT-AT P16 L05)
+(NOT-AT P17 L10)
+(NOT-AT P17 L11)
+(NOT-AT P17 L12)
+(NOT-AT P17 L13)
+(NOT-AT P17 L14)
+(NOT-AT P17 L15)
+(NOT-AT P18 L00)
+(NOT-AT P18 L01)
+(NOT-AT P18 L02)
+(NOT-AT P18 L03)
+(NOT-AT P18 L04)
+(NOT-AT P18 L05)
+(NOT-AT P19 L10)
+(NOT-AT P19 L11)
+(NOT-AT P19 L12)
+(NOT-AT P19 L13)
+(NOT-AT P19 L14)
+(NOT-AT P19 L15)
+(AT T0 L01)
+(AT T1 L11)
+(AT A0 L00)
+(AT A1 L10)
+U:
+(NOT-AT P0 L10)
+(NOT-AT P0 L11)
+(NOT-AT P0 L12)
+(NOT-AT P0 L13)
+(NOT-AT P0 L14)
+(NOT-AT P0 L15)
+(NOT-AT P1 L00)
+(NOT-AT P1 L01)
+(NOT-AT P1 L02)
+(NOT-AT P1 L03)
+(NOT-AT P1 L04)
+(NOT-AT P1 L05)
+(NOT-AT P2 L10)
+(NOT-AT P2 L11)
+(NOT-AT P2 L12)
+(NOT-AT P2 L13)
+(NOT-AT P2 L14)
+(NOT-AT P2 L15)
+(NOT-AT P3 L00)
+(NOT-AT P3 L01)
+(NOT-AT P3 L02)
+(NOT-AT P3 L03)
+(NOT-AT P3 L04)
+(NOT-AT P3 L05)
+(NOT-AT P4 L00)
+(NOT-AT P4 L11)
+(NOT-AT P4 L12)
+(NOT-AT P4 L13)
+(NOT-AT P4 L14)
+(NOT-AT P4 L15)
+(NOT-AT P5 L00)
+(NOT-AT P5 L01)
+(NOT-AT P5 L02)
+(NOT-AT P5 L03)
+(NOT-AT P5 L04)
+(NOT-AT P5 L05)
+(NOT-AT P6 L10)
+(NOT-AT P6 L11)
+(NOT-AT P6 L12)
+(NOT-AT P6 L13)
+(NOT-AT P6 L14)
+(NOT-AT P6 L15)
+(NOT-AT P7 L00)
+(NOT-AT P7 L01)
+(NOT-AT P7 L02)
+(NOT-AT P7 L03)
+(NOT-AT P7 L04)
+(NOT-AT P7 L05)
+(NOT-AT P8 L10)
+(NOT-AT P8 L11)
+(NOT-AT P8 L12)
+(NOT-AT P8 L13)
+(NOT-AT P8 L14)
+(NOT-AT P8 L15)
+(NOT-AT P9 L00)
+(NOT-AT P9 L01)
+(NOT-AT P9 L02)
+(NOT-AT P9 L03)
+(NOT-AT P9 L04)
+(NOT-AT P9 L05)
+(NOT-AT P10 L10)
+(NOT-AT P10 L11)
+(NOT-AT P10 L12)
+(NOT-AT P10 L13)
+(NOT-AT P10 L14)
+(NOT-AT P10 L15)
+(NOT-AT P11 L00)
+(NOT-AT P11 L01)
+(NOT-AT P11 L02)
+(NOT-AT P11 L03)
+(NOT-AT P11 L04)
+(NOT-AT P11 L05)
+(NOT-AT P12 L10)
+(NOT-AT P12 L11)
+(NOT-AT P12 L12)
+(NOT-AT P12 L13)
+(NOT-AT P12 L14)
+(NOT-AT P12 L15)
+(NOT-AT P13 L00)
+(NOT-AT P13 L01)
+(NOT-AT P13 L02)
+(NOT-AT P13 L03)
+(NOT-AT P13 L04)
+(NOT-AT P13 L05)
+(NOT-AT P14 L10)
+(NOT-AT P14 L11)
+(NOT-AT P14 L12)
+(NOT-AT P14 L13)
+(NOT-AT P14 L14)
+(NOT-AT P14 L15)
+(NOT-AT P15 L00)
+(NOT-AT P15 L01)
+(NOT-AT P15 L02)
+(NOT-AT P15 L03)
+(NOT-AT P15 L04)
+(NOT-AT P15 L05)
+(NOT-AT P16 L10)
+(NOT-AT P16 L11)
+(NOT-AT P16 L12)
+(NOT-AT P16 L13)
+(NOT-AT P16 L14)
+(NOT-AT P16 L15)
+(NOT-AT P17 L00)
+(NOT-AT P17 L01)
+(NOT-AT P17 L02)
+(NOT-AT P17 L03)
+(NOT-AT P17 L04)
+(NOT-AT P17 L05)
+(NOT-AT P18 L10)
+(NOT-AT P18 L11)
+(NOT-AT P18 L12)
+(NOT-AT P18 L13)
+(NOT-AT P18 L14)
+(NOT-AT P18 L15)
+(NOT-AT P19 L00)
+(NOT-AT P19 L01)
+(NOT-AT P19 L02)
+(NOT-AT P19 L03)
+(NOT-AT P19 L04)
+(NOT-AT P19 L05)
+(AT P0 L10)
+(AT P0 L11)
+(AT P0 L12)
+(AT P0 L13)
+(AT P0 L14)
+(AT P0 L15)
+(AT P1 L00)
+(AT P1 L01)
+(AT P1 L02)
+(AT P1 L03)
+(AT P1 L04)
+(AT P1 L05)
+(AT P10 L10)
+(AT P10 L11)
+(AT P10 L12)
+(AT P10 L13)
+(AT P10 L14)
+(AT P10 L15)
+(AT P11 L00)
+(AT P11 L01)
+(AT P11 L02)
+(AT P11 L03)
+(AT P11 L04)
+(AT P11 L05)
+(AT P12 L10)
+(AT P12 L11)
+(AT P12 L12)
+(AT P12 L13)
+(AT P12 L14)
+(AT P12 L15)
+(AT P13 L00)
+(AT P13 L01)
+(AT P13 L02)
+(AT P13 L03)
+(AT P13 L04)
+(AT P13 L05)
+(AT P14 L10)
+(AT P14 L11)
+(AT P14 L12)
+(AT P14 L13)
+(AT P14 L14)
+(AT P14 L15)
+(AT P15 L00)
+(AT P15 L01)
+(AT P15 L02)
+(AT P15 L03)
+(AT P15 L04)
+(AT P15 L05)
+(AT P16 L10)
+(AT P16 L11)
+(AT P16 L12)
+(AT P16 L13)
+(AT P16 L14)
+(AT P16 L15)
+(AT P17 L00)
+(AT P17 L01)
+(AT P17 L02)
+(AT P17 L03)
+(AT P17 L04)
+(AT P17 L05)
+(AT P18 L10)
+(AT P18 L11)
+(AT P18 L12)
+(AT P18 L13)
+(AT P18 L14)
+(AT P18 L15)
+(AT P19 L00)
+(AT P19 L01)
+(AT P19 L02)
+(AT P19 L03)
+(AT P19 L04)
+(AT P19 L05)
+(AT P2 L10)
+(AT P2 L11)
+(AT P2 L12)
+(AT P2 L13)
+(AT P2 L14)
+(AT P2 L15)
+(AT P3 L00)
+(AT P3 L01)
+(AT P3 L02)
+(AT P3 L03)
+(AT P3 L04)
+(AT P3 L05)
+(AT P4 L00)
+(AT P4 L11)
+(AT P4 L12)
+(AT P4 L13)
+(AT P4 L14)
+(AT P4 L15)
+(AT P5 L00)
+(AT P5 L01)
+(AT P5 L02)
+(AT P5 L03)
+(AT P5 L04)
+(AT P5 L05)
+(AT P6 L10)
+(AT P6 L11)
+(AT P6 L12)
+(AT P6 L13)
+(AT P6 L14)
+(AT P6 L15)
+(AT P7 L00)
+(AT P7 L01)
+(AT P7 L02)
+(AT P7 L03)
+(AT P7 L04)
+(AT P7 L05)
+(AT P8 L10)
+(AT P8 L11)
+(AT P8 L12)
+(AT P8 L13)
+(AT P8 L14)
+(AT P8 L15)
+(AT P9 L00)
+(AT P9 L01)
+(AT P9 L02)
+(AT P9 L03)
+(AT P9 L04)
+(AT P9 L05)
+UE:
+var_size: 508
+
+当前收集的断言数：254
+
+1
+
+第1次迭代
+当前初始状态:
+F:256 U:0
+num_Or:200
+参数大于2的OR: 
+H:123
+
+
+Cueing down from goal distance:  123 into depth [1]
+                                 122            [1][2]
+                                 121            [1]
+                                 120            [1]
+                                 119            [1]
+                                 118            [1]
+                                 117            [1]
+                                 116            [1]
+                                 115            [1]
+                                 114            [1]
+                                 113            [1]
+                                 112            [1][2]
+                                 111            [1]
+                                 110            [1]
+                                 109            [1]
+                                 108            [1]
+                                 107            [1]
+                                 106            [1]
+                                 105            [1]
+                                 104            [1]
+                                 103            [1]
+                                 102            [1]
+                                 101            [1]
+                                 100            [1]
+                                  99            [1]
+                                  98            [1]
+                                  97            [1]
+                                  96            [1]
+                                  95            [1]
+                                  94            [1][2]
+                                  93            [1]
+                                  92            [1]
+                                  91            [1]
+                                  90            [1]
+                                  89            [1]
+                                  88            [1]
+                                  87            [1]
+                                  86            [1]
+                                  85            [1][2]
+                                  84            [1]
+                                  83            [1]
+                                  82            [1]
+                                  81            [1]
+                                  80            [1]
+                                  79            [1]
+                                  78            [1]
+                                  77            [1]
+                                  76            [1][2]
+                                  75            [1]
+                                  74            [1]
+                                  73            [1]
+                                  72            [1]
+                                  71            [1]
+                                  70            [1]
+                                  69            [1]
+                                  68            [1]
+                                  67            [1]
+                                  66            [1]
+                                  65            [1]
+                                  64            [1]
+                                  63            [1]
+                                  62            [1]
+                                  61            [1][2]
+                                  60            [1]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1][2]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：129
+
+var_size: 70572
+
+当前收集的断言数：33278
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:244 U:24
+num_Or:236
+参数大于2的OR: 
+H:129
+
+
+Cueing down from goal distance:  129 into depth [1]
+                                 128            [1]
+                                 127            [1][2]
+                                 126            [1]
+                                 125            [1]
+                                 124            [1][2]
+                                 123            [1]
+                                 122            [1]
+                                 121            [1]
+                                 120            [1]
+                                 119            [1]
+                                 118            [1]
+                                 117            [1]
+                                 116            [1]
+                                 115            [1]
+                                 114            [1][2]
+                                 113            [1]
+                                 112            [1]
+                                 111            [1]
+                                 110            [1]
+                                 109            [1]
+                                 108            [1]
+                                 107            [1]
+                                 106            [1]
+                                 105            [1]
+                                 104            [1]
+                                 103            [1]
+                                 102            [1]
+                                 101            [1]
+                                 100            [1]
+                                  99            [1]
+                                  98            [1]
+                                  97            [1]
+                                  96            [1][2]
+                                  95            [1]
+                                  94            [1]
+                                  93            [1]
+                                  92            [1]
+                                  91            [1]
+                                  90            [1]
+                                  89            [1]
+                                  88            [1]
+                                  87            [1]
+                                  86            [1]
+                                  85            [1]
+                                  84            [1]
+                                  83            [1]
+                                  82            [1]
+                                  81            [1]
+                                  80            [1]
+                                  79            [1]
+                                  78            [1][2]
+                                  77            [1]
+                                  76            [1]
+                                  75            [1]
+                                  74            [1]
+                                  73            [1]
+                                  72            [1]
+                                  71            [1]
+                                  70            [1]
+                                  69            [1]
+                                  68            [1]
+                                  67            [1]
+                                  66            [1]
+                                  65            [1]
+                                  64            [1]
+                                  63            [1][2]
+                                  62            [1]
+                                  61            [1]
+                                  60            [1]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1][2]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：135
+
+var_size: 73912
+
+当前收集的断言数：34814
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:235 U:42
+num_Or:254
+参数大于2的OR: 
+(AT P1 L05) (AT P1 L04) (AT P1 L02) 
+(AT P4 L15) (AT P4 L11) (AT P4 L00) 
+(AT P15 L05) (AT P15 L04) (AT P15 L00) 
+H:-1
+
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+
+best first search space empty! problem proven unsolvable.
+
+
+
+规划器未寻找到规划解!
+
+
+statistics:    0.00 seconds instantiating 2072 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 1780 facts and 720 actions
+               0.00 seconds creating final representation with 592 relevant facts (261 max U, 141 CNF max U)
+               0.00 seconds building connectivity graph
+               0.07 seconds (   0.07 pure) evaluating 788 states, to a max depth of 2
+               0.00 seconds in DP for 86 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.06 seconds generating,    0.00 seconds encoding 10002 state transition base CNFs
+               0.00 seconds in DP solving 270 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.02 seconds checking for stagnating states (499 hits), including 1676 DP calls
+               0.42 seconds altogether checking for dominated states making 2907 comparisons (1427 conformant, 1427 hits),
+                    spending    0.00 seconds doing 11892 DP calls
+              13924 total DP calls, 20438 total UP calls,    0.01 sec membership
+               0.18 seconds for remaining searching duties
+               0.75 seconds total time (+    0.19 secs for CNF memory allocation)
+
+初始目标状态
+Fold:136 Uold:240
+num_Orold:320
+参数大于2的OR: 
+(AT P0 L15) (AT P0 L14) (AT P0 L13) (AT P0 L12) (AT P0 L11) (AT P0 L10) 
+(AT P1 L05) (AT P1 L04) (AT P1 L03) (AT P1 L02) (AT P1 L01) (AT P1 L00) 
+(AT P2 L15) (AT P2 L14) (AT P2 L13) (AT P2 L12) (AT P2 L11) (AT P2 L10) 
+(AT P3 L05) (AT P3 L04) (AT P3 L03) (AT P3 L02) (AT P3 L01) (AT P3 L00) 
+(AT P4 L15) (AT P4 L14) (AT P4 L13) (AT P4 L12) (AT P4 L11) (AT P4 L00) 
+(AT P5 L05) (AT P5 L04) (AT P5 L03) (AT P5 L02) (AT P5 L01) (AT P5 L00) 
+(AT P6 L15) (AT P6 L14) (AT P6 L13) (AT P6 L12) (AT P6 L11) (AT P6 L10) 
+(AT P7 L05) (AT P7 L04) (AT P7 L03) (AT P7 L02) (AT P7 L01) (AT P7 L00) 
+(AT P8 L15) (AT P8 L14) (AT P8 L13) (AT P8 L12) (AT P8 L11) (AT P8 L10) 
+(AT P9 L05) (AT P9 L04) (AT P9 L03) (AT P9 L02) (AT P9 L01) (AT P9 L00) 
+(AT P10 L15) (AT P10 L14) (AT P10 L13) (AT P10 L12) (AT P10 L11) (AT P10 L10) 
+(AT P11 L05) (AT P11 L04) (AT P11 L03) (AT P11 L02) (AT P11 L01) (AT P11 L00) 
+(AT P12 L15) (AT P12 L14) (AT P12 L13) (AT P12 L12) (AT P12 L11) (AT P12 L10) 
+(AT P13 L05) (AT P13 L04) (AT P13 L03) (AT P13 L02) (AT P13 L01) (AT P13 L00) 
+(AT P14 L15) (AT P14 L14) (AT P14 L13) (AT P14 L12) (AT P14 L11) (AT P14 L10) 
+(AT P15 L05) (AT P15 L04) (AT P15 L03) (AT P15 L02) (AT P15 L01) (AT P15 L00) 
+(AT P16 L15) (AT P16 L14) (AT P16 L13) (AT P16 L12) (AT P16 L11) (AT P16 L10) 
+(AT P17 L05) (AT P17 L04) (AT P17 L03) (AT P17 L02) (AT P17 L01) (AT P17 L00) 
+(AT P18 L15) (AT P18 L14) (AT P18 L13) (AT P18 L12) (AT P18 L11) (AT P18 L10) 
+(AT P19 L05) (AT P19 L04) (AT P19 L03) (AT P19 L02) (AT P19 L01) (AT P19 L00) 
+
+
+当前反例添加的目标状态
+Fcur:235 Ucur:42
+num_Orcur:254
+参数大于2的OR: 
+(AT P1 L05) (AT P1 L04) (AT P1 L02) 
+(AT P4 L15) (AT P4 L11) (AT P4 L00) 
+(AT P15 L05) (AT P15 L04) (AT P15 L00) 
+
+
+counter_time:43.58
+plan length:0
+iteration:3
+now_time:44.447423374978825

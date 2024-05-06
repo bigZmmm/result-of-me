@@ -1,0 +1,1000 @@
+参数大于2的OR: 
+(OBJ-AT O1 P8-8) (OBJ-AT O1 P8-7) (OBJ-AT O1 P8-6) (OBJ-AT O1 P8-5) (OBJ-AT O1 P8-4) (OBJ-AT O1 P8-3) (OBJ-AT O1 P8-2) (OBJ-AT O1 P8-1) (OBJ-AT O1 P7-8) (OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-8) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-8) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P3-8) (OBJ-AT O1 P3-5) 
+H:131
+
+
+Cueing down from goal distance:  131 into depth [1]
+                                  95            [1]
+                                  90            [1]
+                                  86            [1]
+                                  80            [1]
+                                  79            [1][2]
+                                  78            [1][2][3]
+                                  76            [1]
+                                  75            [1]
+                                  74            [1]
+                                  73            [1][2]
+                                  71            [1]
+                                  70            [1][2][3][4][5][6]
+                                  69            [1][2]
+                                  66            [1]
+                                  65            [1]
+                                  64            [1]
+                                  63            [1]
+                                  60            [1]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1][2]
+                                  55            [1]
+                                  54            [1][2][3]
+                                  53            [1]
+                                  52            [1][2]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1][2]
+                                  44            [1]
+                                  43            [1]
+                                  41            [1]
+                                  40            [1][2][3]
+                                  39            [1]
+                                  37            [1]
+                                  36            [1][2]
+                                  34            [1]
+                                  33            [1][2][3][4]
+                                  31            [1]
+                                  30            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :  131
+                          92
+                          89
+                          88
+                          84
+                          82
+                          77
+                          76
+                          75
+                          72
+                          69
+                          68
+                          67
+                          66
+                          63
+                          62
+                          61
+                          60
+                          57
+                          56
+                          55
+                          54
+                          53
+                          52
+                          49
+                          48
+                          47
+                          44
+                          43
+                          42
+                          41
+                          40
+                          38
+                          37
+                          36
+                          35
+                          34
+                          32
+                          31
+                          30
+                          29
+                          28
+                          27
+                          26
+                          25
+                          24
+                          22
+                          21
+                          20
+                          19
+                          18
+                          17
+                          15
+                          14
+                          13
+                          12
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           0
+
+ff: found legal plan as follows
+规划长度：97
+
+var_size: 16911
+
+当前收集的断言数：6274
+
+1
+找到反例！
+
+
+第35次迭代
+当前初始状态:
+F:94 U:70
+num_Or:2017
+参数大于2的OR: 
+(OBJ-AT O1 P8-8) (OBJ-AT O1 P8-7) (OBJ-AT O1 P8-6) (OBJ-AT O1 P8-5) (OBJ-AT O1 P8-4) (OBJ-AT O1 P8-3) (OBJ-AT O1 P8-2) (OBJ-AT O1 P8-1) (OBJ-AT O1 P7-8) (OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-8) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-8) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P3-8) (OBJ-AT O1 P3-5) 
+H:132
+
+
+Cueing down from goal distance:  132 into depth [1]
+                                  96            [1]
+                                  91            [1]
+                                  87            [1]
+                                  84            [1]
+                                  83            [1]
+                                  82            [1]
+                                  81            [1]
+                                  80            [1]
+                                  79            [1]
+                                  77            [1]
+                                  76            [1]
+                                  75            [1]
+                                  74            [1][2]
+                                  73            [1]
+                                  72            [1]
+                                  71            [1]
+                                  70            [1]
+                                  69            [1]
+                                  68            [1]
+                                  67            [1]
+                                  66            [1]
+                                  65            [1]
+                                  64            [1]
+                                  63            [1]
+                                  61            [1]
+                                  60            [1]
+                                  59            [1]
+                                  58            [1][2]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1][2]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1][2][3]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1][2][3]
+                                  37            [1]
+                                  36            [1][2]
+                                  35            [1][2]
+                                  34            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :  132
+                          96
+                          91
+                          87
+                          82
+                          81
+                          80
+                          79
+                          78
+                          77
+                          76
+                          75
+                          74
+                          73
+                          72
+                          71
+                          70
+                          69
+                          68
+                          67
+                          66
+                          65
+                          64
+                          63
+                          62
+                          61
+                          60
+                          59
+                          58
+                          57
+                          56
+                          55
+                          54
+                          53
+                          52
+                          46
+                          45
+                          44
+                          43
+                          42
+                          41
+                          39
+                          38
+                          37
+                          35
+                          34
+                          33
+                          32
+                          30
+                          29
+                          28
+                          27
+                          25
+                          24
+                          23
+                          22
+                          21
+                          20
+                          19
+                          18
+                          17
+                          16
+                          15
+                          12
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           0
+
+ff: found legal plan as follows
+规划长度：91
+
+var_size: 15988
+
+当前收集的断言数：5890
+
+1
+找到反例！
+
+
+第36次迭代
+当前初始状态:
+F:93 U:72
+num_Or:2017
+参数大于2的OR: 
+(OBJ-AT O1 P8-8) (OBJ-AT O1 P8-7) (OBJ-AT O1 P8-6) (OBJ-AT O1 P8-5) (OBJ-AT O1 P8-4) (OBJ-AT O1 P8-3) (OBJ-AT O1 P8-2) (OBJ-AT O1 P8-1) (OBJ-AT O1 P7-8) (OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-8) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-8) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P3-8) (OBJ-AT O1 P3-5) 
+H:135
+
+
+Cueing down from goal distance:  135 into depth [1]
+                                  97            [1]
+                                  92            [1]
+                                  88            [1][2]
+                                  87            [1]
+                                  85            [1]
+                                  84            [1]
+                                  81            [1]
+                                  80            [1]
+                                  78            [1]
+                                  77            [1]
+                                  76            [1]
+                                  75            [1][2]
+                                  74            [1][2][3][4]
+                                  73            [1]
+                                  72            [1]
+                                  71            [1]
+                                  69            [1]
+                                  68            [1]
+                                  65            [1]
+                                  64            [1]
+                                  62            [1]
+                                  61            [1]
+                                  60            [1]
+                                  59            [1][2]
+                                  58            [1][2][3][4]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  51            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1][2][3]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1][2][3]
+                                  37            [1]
+                                  36            [1][2]
+                                  35            [1]
+                                  33            [1]
+                                  32            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :  135
+                          97
+                          92
+                          88
+                          83
+                          82
+                          81
+                          80
+                          79
+                          74
+                          73
+                          68
+                          67
+                          65
+                          63
+                          62
+                          61
+                          60
+                          58
+                          54
+                          52
+                          48
+                          47
+                          45
+                          44
+                          43
+                          41
+                          40
+                          39
+                          38
+                          36
+                          32
+                          31
+                          30
+                          29
+                          28
+                          27
+                          26
+                          25
+                          20
+                          19
+                          18
+                          16
+                          15
+                          14
+                          13
+                          12
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           0
+
+ff: found legal plan as follows
+规划长度：106
+
+var_size: 18623
+
+当前收集的断言数：6850
+
+1
+找到反例！
+
+
+第37次迭代
+当前初始状态:
+F:92 U:74
+num_Or:2017
+参数大于2的OR: 
+(OBJ-AT O1 P8-8) (OBJ-AT O1 P8-7) (OBJ-AT O1 P8-6) (OBJ-AT O1 P8-5) (OBJ-AT O1 P8-4) (OBJ-AT O1 P8-3) (OBJ-AT O1 P8-2) (OBJ-AT O1 P8-1) (OBJ-AT O1 P7-8) (OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-8) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-8) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-4) (OBJ-AT O1 P3-8) (OBJ-AT O1 P3-5) 
+H:136
+
+
+Cueing down from goal distance:  136 into depth [1]
+                                 101            [1]
+                                  98            [1]
+                                  97            [1]
+                                  96            [1]
+                                  95            [1]
+                                  88            [1]
+                                  87            [1]
+                                  84            [1]
+                                  80            [1]
+                                  79            [1]
+                                  77            [1]
+                                  76            [1][2][3][4][5][6]
+                                  75            [1]
+                                  74            [1][2][3][4][5]
+                                  73            [1]
+                                  72            [1]
+                                  70            [1]
+                                  69            [1]
+                                  64            [1]
+                                  63            [1]
+                                  62            [1]
+                                  61            [1]
+                                  59            [1]
+                                  58            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1][2]
+                                  52            [1][2]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  47            [1]
+                                  46            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1][2]
+                                  40            [1]
+                                  39            [1]
+                                  37            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1][2]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :  136
+                          98
+                          93
+                          89
+                          87
+                          85
+                          84
+                          83
+                          81
+                          80
+                          79
+                          76
+                          71
+                          69
+                          67
+                          65
+                          63
+                          61
+                          60
+                          58
+                          57
+                          55
+                          54
+                          53
+                          50
+                          49
+                          48
+                          47
+                          46
+                          45
+                          44
+                          43
+                          40
+                          39
+                          38
+                          37
+                          36
+                          35
+                          34
+                          33
+                          30
+                          29
+                          28
+                          27
+                          26
+                          25
+                          24
+                          23
+                          20
+                          19
+                          18
+                          17
+                          16
+                          15
+                          14
+                          13
+                          12
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           0
+
+ff: found legal plan as follows
+规划长度：117
+
+var_size: 20796
+
+当前收集的断言数：7554
+
+1
+找到反例！
+
+
+第38次迭代
+当前初始状态:
+F:91 U:76
+num_Or:2017
+参数大于2的OR: 
+(OBJ-AT O1 P8-8) (OBJ-AT O1 P8-7) (OBJ-AT O1 P8-6) (OBJ-AT O1 P8-5) (OBJ-AT O1 P8-4) (OBJ-AT O1 P8-3) (OBJ-AT O1 P8-2) (OBJ-AT O1 P8-1) (OBJ-AT O1 P7-8) (OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-8) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-8) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-8) (OBJ-AT O1 P3-5) 
+H:141
+
+
+Cueing down from goal distance:  141 into depth [1]
+                                 102            [1][2]
+                                  96            [1]
+                                  91            [1]
+                                  84            [1][2][3][4][5][6][7]
+                                  82            [1]
+                                  81            [1]
+                                  79            [1]
+                                  78            [1]
+                                  77            [1]
+                                  76            [1][2]
+                                  75            [1][2][3][4][5]
+                                  74            [1]
+                                  73            [1]
+                                  72            [1][2]
+                                  71            [1]
+                                  68            [1]
+                                  67            [1]
+                                  66            [1]
+                                  65            [1][2][3]
+                                  64            [1]
+                                  63            [1]
+                                  62            [1]
+                                  61            [1][2][3]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1][2]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1][2]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1][2][3]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1][2]
+                                  26            [1]
+                                  24            [1]
+                                  23            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :  141
+                          99
+                          94
+                          90
+                          88
+                          87
+                          85
+                          84
+                          83
+                          81
+                          80
+                          79
+                          75
+                          68
+                          65
+                          63
+                          61
+                          59
+                          58
+                          57
+                          56
+                          55
+                          54
+                          53
+                          50
+                          49
+                          48
+                          47
+                          46
+                          45
+                          44
+                          43
+                          40
+                          39
+                          38
+                          37
+                          36
+                          35
+                          34
+                          33
+                          30
+                          29
+                          28
+                          27
+                          26
+                          25
+                          24
+                          23
+                          20
+                          19
+                          18
+                          17
+                          16
+                          15
+                          14
+                          13
+                          12
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           0
+
+ff: found legal plan as follows
+规划长度：114
+
+var_size: 20184
+
+当前收集的断言数：7362
+
+1
+找到反例！
+
+
+第39次迭代
+当前初始状态:
+F:90 U:78
+num_Or:2017
+参数大于2的OR: 
+(OBJ-AT O1 P8-8) (OBJ-AT O1 P8-7) (OBJ-AT O1 P8-6) (OBJ-AT O1 P8-5) (OBJ-AT O1 P8-4) (OBJ-AT O1 P8-3) (OBJ-AT O1 P8-2) (OBJ-AT O1 P8-1) (OBJ-AT O1 P7-8) (OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-8) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-8) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-8) (OBJ-AT O1 P3-5) (OBJ-AT O1 P2-1) 
+H:146
+
+
+Cueing down from goal distance:  146 into depth [1]
+                                 130            [1]
+                                 129            [1]
+                                 125            [1]
+                                 120            [1]
+                                 113            [1]
+                                  94            [1]
+                                  93            [1]
+                                  88            [1]
+                                  87            [1][2][3][4][5][6][7]
+                                  86            [1]
+                                  85            [1][2][3][4][5][6][7][8][9]
+                                  84            [1]
+                                  83            [1][2][3][4][5][6][7][8][9][10]
+                                  82            [1]
+                                  81            [1]
+                                  80            [1]
+                                  79            [1]
+                                  78            [1]
+                                  77            [1]
+                                  76            [1]
+                                  75            [1]
+                                  73            [1]
+                                  69            [1]
+                                  68            [1]
+                                  65            [1]
+                                  64            [1][2][3][4][5][6][7]
+                                  63            [1]
+                                  62            [1][2]
+                                  61            [1]
+                                  60            [1][2]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1][2]
+                                  56            [1][2]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1]
+                                  48            [1]
+                                  47            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :  146
+                         126
+                         121
+                         118
+                         115
+                          95
+                          94
+                          89
+                          88
+                          87
+                          85
+                          84
+                          83
+                          81
+                          80
+                          79
+                          75
+                          68
+                          65
+                          63
+                          61
+                          59
+                          58
+                          57
+                          56
+                          55
+                          54
+                          53
+                          50
+                          49
+                          48
+                          47
+                          46
+                          45
+                          44
+                          43
+                          40
+                          39
+                          38
+                          37
+                          36
+                          35
+                          34
+                          33
+                          30
+                          29
+                          28
+                          27
+                          26
+                          25
+                          24
+                          23
+                          20
+                          19
+                          18
+                          17
+                          16
+                          15
+                          14
+                          13
+                          12
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           0
+
+ff: found legal plan as follows
+规划长度：120
+
+var_size: 21536
+
+当前收集的断言数：7746
+
+1
+找到反例！
+
+
+第40次迭代
+当前初始状态:
+F:89 U:80
+num_Or:2017
+参数大于2的OR: 
+(OBJ-AT O1 P8-8) (OBJ-AT O1 P8-7) (OBJ-AT O1 P8-6) (OBJ-AT O1 P8-5) (OBJ-AT O1 P8-4) (OBJ-AT O1 P8-3) (OBJ-AT O1 P8-2) (OBJ-AT O1 P8-1) (OBJ-AT O1 P7-8) (OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-8) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-8) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-8) (OBJ-AT O1 P3-5) (OBJ-AT O1 P2-1) 
+H:146
+
+
+Cueing down from goal distance:  146 into depth [1]
+                                 130            [1]
+                                 129            [1]
+                                 125            [1]
+                                 120            [1]
+                                 113            [1]
+                                  94            [1]
+                                  93            [1]
+                                  88            [1]
+                                  87            [1][2][3][4][5][6][7]
+                                  86            [1]
+                                  85            [1][2][3][4][5][6][7][8][9]
+                                  84            [1]
+                                  83            [1][2][3][4][5][6][7][8][9][10]
+                                  82            [1]
+                                  81            [1]
+                                  80            [1]
+                                  79            [1]
+                                  78            [1]
+                                  77            [1]
+                                  76            [1]
+                                  75            [1]
+                                  73            [1]
+                                  69            [1]
+                                  68            [1]
+                                  65            [1]
+                                  64            [1][2][3][4][5][6][7]
+                                  63            [1]
+                                  62            [1][2]
+                                  61            [1]
+                                  60            [1][2]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1][2]
+                                  56            [1][2]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1]
+                                  48            [1]
+                                  47            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :  146
+                         128
+                         123
+                         120
+                         117
+                          96
+                          95
+                          90
+                          89
+                          85
+                          84
+                          81
+                          80
+                          79
+                          78
+                          77
+                          76
+                          74
+                          70
+                          64
+                          63
+                          61
+                          60
+                          59
+                          55
+                          54
+                          52
+                          48
+                          42
+                          41
+                          40
+                          39
+                          38
+                          30
+                          29
+                          28
+                          27
+                          26
+                          25
+                          24
+                          23
+                          22
+                          21
+                          20
+                          19
+                          17
+                          16
+                          15
+                          14
+                          13
+                          12
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           0
+
+ff: found legal plan as follows
+规划长度：123
+
+var_size: 22014
+
+当前收集的断言数：7938
+
+1
+找到反例！
+
+
+第41次迭代
+当前初始状态:
+F:88 U:82
+num_Or:2017
+参数大于2的OR: 
+(OBJ-AT O1 P8-8) (OBJ-AT O1 P8-7) (OBJ-AT O1 P8-6) (OBJ-AT O1 P8-5) (OBJ-AT O1 P8-4) (OBJ-AT O1 P8-3) (OBJ-AT O1 P8-2) (OBJ-AT O1 P8-1) (OBJ-AT O1 P7-8) (OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-8) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-8) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-8) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-5) (OBJ-AT O1 P2-1) 
+H:150
+
+
+Cueing down from goal distance:  150 into depth [1]
+                                 136            [1]
+                                 130            [1]
+                                 126            [1]
+                                 121            [1]
+                                 114            [1]
+                                  95            [1]
+                                  94            [1]
+                                  89            [1]
+                                  88            [1][2][3][4][5][6][7]
+                                  87            [1]
+                                  86            [1][2][3][4][5][6][7][8][9]
+                                  85            [1]
+                                  84            [1][2][3][4][5][6][7][8][9]TimeOut
+now_time:3600.047278571001

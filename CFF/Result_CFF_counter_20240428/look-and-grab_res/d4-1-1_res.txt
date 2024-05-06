@@ -1,0 +1,282 @@
+
+ff: parsing domain file
+domain 'LOOK-AND-GRAB' defined
+ ... done.
+ff: parsing problem file
+problem 'LOOK-AND-GRAB-4-1-1-NODISAPPEAR' defined
+ ... done.
+
+
+F:
+(NOT-HOLDING O1)
+(HANDEMPTY)
+(AT P2-2)
+U:
+(NOT-OBJ-AT O1 P1-1)
+(NOT-OBJ-AT O1 P1-2)
+(NOT-OBJ-AT O1 P1-3)
+(NOT-OBJ-AT O1 P1-4)
+(NOT-OBJ-AT O1 P2-1)
+(NOT-OBJ-AT O1 P2-2)
+(NOT-OBJ-AT O1 P2-3)
+(NOT-OBJ-AT O1 P2-4)
+(NOT-OBJ-AT O1 P3-1)
+(NOT-OBJ-AT O1 P3-2)
+(NOT-OBJ-AT O1 P3-3)
+(NOT-OBJ-AT O1 P3-4)
+(NOT-OBJ-AT O1 P4-1)
+(NOT-OBJ-AT O1 P4-2)
+(NOT-OBJ-AT O1 P4-3)
+(NOT-OBJ-AT O1 P4-4)
+(OBJ-AT O1 P1-1)
+(OBJ-AT O1 P1-2)
+(OBJ-AT O1 P1-3)
+(OBJ-AT O1 P1-4)
+(OBJ-AT O1 P2-1)
+(OBJ-AT O1 P2-2)
+(OBJ-AT O1 P2-3)
+(OBJ-AT O1 P2-4)
+(OBJ-AT O1 P3-1)
+(OBJ-AT O1 P3-2)
+(OBJ-AT O1 P3-3)
+(OBJ-AT O1 P3-4)
+(OBJ-AT O1 P4-1)
+(OBJ-AT O1 P4-2)
+(OBJ-AT O1 P4-3)
+(OBJ-AT O1 P4-4)
+UE:
+var_size: 36
+
+当前收集的断言数：19
+
+1
+
+第1次迭代
+当前初始状态:
+F:19 U:0
+num_Or:105
+参数大于2的OR: 
+H:7
+
+
+Cueing down from goal distance:    7 into depth [1][2][3]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：8
+
+var_size: 356
+
+当前收集的断言数：163
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:17 U:4
+num_Or:121
+参数大于2的OR: 
+H:8
+
+
+Cueing down from goal distance:    8 into depth [1][2][3]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1][2]
+                                   3            [1]
+                                   2            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    8
+                           6
+                           5
+                           4
+                           3
+                           2
+                           0
+
+ff: found legal plan as follows
+规划长度：17
+
+var_size: 747
+
+当前收集的断言数：325
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:16 U:6
+num_Or:121
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P3-1) (OBJ-AT O1 P1-4) 
+H:9
+
+
+Cueing down from goal distance:    9 into depth [1][2][3]
+                                   8            [1][2]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1][2]
+                                   3            [1]
+                                   2            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    9
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：35
+
+var_size: 1505
+
+当前收集的断言数：649
+
+1
+找到反例！
+
+
+第4次迭代
+当前初始状态:
+F:15 U:8
+num_Or:121
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-1) (OBJ-AT O1 P1-4) 
+H:11
+
+
+Cueing down from goal distance:   11 into depth [1]
+                                  10            [1][2][3]
+                                   9            [1]
+                                   8            [1][2]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1][2]
+                                   3            [1]
+                                   2            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   11
+                          10
+                           9
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：37
+
+var_size: 1597
+
+当前收集的断言数：685
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: MOVE P2-2 P3-2
+        1: MOVE P3-2 P3-1
+        2: PICKUP-3-1-LOOK-1
+        3: MOVE P3-1 P2-1
+        4: PUTDOWN P2-1
+        5: MOVE P2-1 P1-1
+        6: MOVE P1-1 P1-2
+        7: MOVE P1-2 P1-3
+        8: PICKUP-1-3-LOOK-1
+        9: MOVE P1-3 P1-2
+       10: PICKUP-1-2-LOOK-1
+       11: MOVE P1-2 P1-1
+       12: PICKUP-1-1-LOOK-1
+       13: PICKUP-1-1-LOOK-1
+       14: MOVE P1-1 P2-1
+       15: PICKUP-2-1-LOOK-1
+       16: PICKUP-2-1-LOOK-1
+       17: MOVE P2-1 P1-1
+       18: MOVE P1-1 P1-2
+       19: MOVE P1-2 P1-3
+       20: MOVE P1-3 P2-3
+       21: MOVE P2-3 P3-3
+       22: PICKUP-3-3-LOOK-1
+       23: MOVE P3-3 P3-2
+       24: MOVE P3-2 P2-2
+       25: MOVE P2-2 P1-2
+       26: PICKUP-1-2-LOOK-1
+       27: MOVE P1-2 P1-3
+       28: PICKUP-1-3-LOOK-1
+       29: PICKUP-1-3-LOOK-1
+       30: MOVE P1-3 P1-2
+       31: MOVE P1-2 P2-2
+       32: PICKUP-2-2-LOOK-1
+       33: MOVE P2-2 P1-2
+       34: MOVE P1-2 P1-1
+       35: PICKUP-1-1-LOOK-1
+       36: PUTDOWN P1-1
+     
+
+statistics:    0.00 seconds instantiating 80 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 52 facts and 80 actions
+               0.00 seconds creating final representation with 52 relevant facts (36 max U, 18 CNF max U)
+               0.00 seconds building connectivity graph
+               0.04 seconds (   0.04 pure) evaluating 592 states, to a max depth of 3
+               0.00 seconds in DP for 4765 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.01 seconds generating,    0.00 seconds encoding 1139 state transition base CNFs
+               0.01 seconds in DP solving 1453 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 482 DP calls
+               0.00 seconds checking for stagnating states (280 hits), including 1981 DP calls
+               0.04 seconds altogether checking for dominated states making 396 comparisons (396 conformant, 199 hits),
+                    spending    0.02 seconds doing 1867 DP calls
+              10548 total DP calls, 52167 total UP calls,    0.00 sec membership
+               0.07 seconds for remaining searching duties
+               0.17 seconds total time (+    0.08 secs for CNF memory allocation)
+
+初始目标状态
+Fold:3 Uold:32
+num_Orold:121
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+
+
+当前反例添加的目标状态
+Fcur:15 Ucur:8
+num_Orcur:121
+参数大于2的OR: 
+(OBJ-AT O1 P4-4) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-1) (OBJ-AT O1 P1-4) 
+
+
+counter_time:0.18
+plan length:37
+iteration:4
+now_time:0.3885065969952848

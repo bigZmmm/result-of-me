@@ -1,0 +1,253 @@
+
+ff: parsing domain file
+domain 'COMM' defined
+ ... done.
+ff: parsing problem file
+problem 'COMM_14_11' defined
+ ... done.
+
+
+F:
+(NOT-BAD P0)
+(NOT-BAD P1)
+(NOT-BAD P2)
+(NOT-BAD P3)
+(NOT-BAD P4)
+(NOT-BAD P5)
+(NOT-BAD P6)
+(NOT-BAD P7)
+(NOT-BAD P8)
+(NOT-BAD P9)
+(NOT-BAD P10)
+(CURRENT-STAGE S0)
+(IN-CHANNEL P0)
+(IN-CHANNEL P1)
+(IN-CHANNEL P2)
+(IN-CHANNEL P3)
+(IN-CHANNEL P4)
+(IN-CHANNEL P5)
+(IN-CHANNEL P6)
+(IN-CHANNEL P7)
+(IN-CHANNEL P8)
+(IN-CHANNEL P9)
+(IN-CHANNEL P10)
+U:
+(NOT-NOISY P0)
+(NOT-NOISY P1)
+(NOT-NOISY P2)
+(NOT-NOISY P3)
+(NOT-NOISY P4)
+(NOT-NOISY P5)
+(NOT-NOISY P6)
+(NOT-NOISY P7)
+(NOT-NOISY P8)
+(NOT-NOISY P9)
+(NOT-NOISY P10)
+(NOISY P0)
+(NOISY P1)
+(NOISY P2)
+(NOISY P3)
+(NOISY P4)
+(NOISY P5)
+(NOISY P6)
+(NOISY P7)
+(NOISY P8)
+(NOISY P9)
+(NOISY P10)
+UE:
+var_size: 67
+
+当前收集的断言数：24
+
+1
+
+第1次迭代
+当前初始状态:
+F:34 U:0
+num_Or:0
+参数大于2的OR: 
+H:55
+
+
+Cueing down from goal distance:   55 into depth [1]
+                                  54            [1]
+                                  53            [1][2]
+                                  52            [1]
+                                  51            [1][2]
+                                  50            [1]
+                                  49            [1][2]
+                                  48            [1]
+                                  47            [1][2]
+                                  46            [1]
+                                  45            [1][2]
+                                  44            [1]
+                                  43            [1][2]
+                                  42            [1]
+                                  41            [1][2]
+                                  40            [1]
+                                  39            [1][2]
+                                  38            [1]
+                                  37            [1][2]
+                                  36            [1]
+                                  35            [1][2]
+                                  34            [1]
+                                  33            [1][2]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1][2]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1][2]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1][2]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1][2]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1][2]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1][2]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1][2]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1][2]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1][2]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：75
+
+var_size: 7060
+
+当前收集的断言数：2499
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: OBTAIN P0 S0
+        1: CERTIFY P0
+        2: ADVANCE S0 S1
+        3: OBTAIN P1 S1
+        4: CERTIFY P1
+        5: ADVANCE S1 S2
+        6: OBTAIN P2 S2
+        7: CERTIFY P2
+        8: ADVANCE S2 S3
+        9: OBTAIN P3 S3
+       10: CERTIFY P3
+       11: ADVANCE S3 S4
+       12: OBTAIN P4 S4
+       13: CERTIFY P4
+       14: ADVANCE S4 S5
+       15: OBTAIN P5 S5
+       16: CERTIFY P5
+       17: ADVANCE S5 S6
+       18: OBTAIN P6 S6
+       19: CERTIFY P6
+       20: ADVANCE S6 S7
+       21: OBTAIN P7 S7
+       22: CERTIFY P7
+       23: ADVANCE S7 S8
+       24: OBTAIN P8 S8
+       25: CERTIFY P8
+       26: ADVANCE S8 S9
+       27: OBTAIN P9 S9
+       28: CERTIFY P9
+       29: ADVANCE S9 S10
+       30: OBTAIN P10 S10
+       31: CERTIFY P10
+       32: REQUEST-COPY P10 S10
+       33: OBTAIN P10 S10
+       34: CERTIFY P10
+       35: RESET S10
+       36: REQUEST-COPY P0 S0
+       37: OBTAIN P0 S0
+       38: CERTIFY P0
+       39: ADVANCE S0 S1
+       40: REQUEST-COPY P1 S1
+       41: OBTAIN P1 S1
+       42: CERTIFY P1
+       43: ADVANCE S1 S2
+       44: REQUEST-COPY P2 S2
+       45: OBTAIN P2 S2
+       46: CERTIFY P2
+       47: ADVANCE S2 S3
+       48: REQUEST-COPY P3 S3
+       49: OBTAIN P3 S3
+       50: CERTIFY P3
+       51: ADVANCE S3 S4
+       52: REQUEST-COPY P4 S4
+       53: OBTAIN P4 S4
+       54: CERTIFY P4
+       55: ADVANCE S4 S5
+       56: REQUEST-COPY P5 S5
+       57: OBTAIN P5 S5
+       58: CERTIFY P5
+       59: ADVANCE S5 S6
+       60: REQUEST-COPY P6 S6
+       61: OBTAIN P6 S6
+       62: CERTIFY P6
+       63: ADVANCE S6 S7
+       64: REQUEST-COPY P7 S7
+       65: OBTAIN P7 S7
+       66: CERTIFY P7
+       67: ADVANCE S7 S8
+       68: REQUEST-COPY P8 S8
+       69: OBTAIN P8 S8
+       70: CERTIFY P8
+       71: ADVANCE S8 S9
+       72: REQUEST-COPY P9 S9
+       73: OBTAIN P9 S9
+       74: CERTIFY P9
+     
+
+statistics:    0.00 seconds instantiating 203 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 102 facts and 203 actions
+               0.00 seconds creating final representation with 102 relevant facts (88 max U, 55 CNF max U)
+               0.00 seconds building connectivity graph
+               0.00 seconds (   0.00 pure) evaluating 168 states, to a max depth of 2
+               0.00 seconds in DP for 0 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 400 state transition base CNFs
+               0.00 seconds in DP solving 0 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (18 hits), including 0 DP calls
+               0.00 seconds altogether checking for dominated states making 24 comparisons (24 conformant, 24 hits),
+                    spending    0.00 seconds doing 0 DP calls
+                  0 total DP calls, 0 total UP calls,    0.00 sec membership
+               0.02 seconds for remaining searching duties
+               0.02 seconds total time (+    0.09 secs for CNF memory allocation)
+
+初始目标状态
+Fold:23 Uold:22
+num_Orold:0
+参数大于2的OR: 
+
+
+当前反例添加的目标状态
+Fcur:34 Ucur:0
+num_Orcur:0
+参数大于2的OR: 
+
+
+counter_time:0.33
+plan length:75
+iteration:1
+now_time:0.441072563000489

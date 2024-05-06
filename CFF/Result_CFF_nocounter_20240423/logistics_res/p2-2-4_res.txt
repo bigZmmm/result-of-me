@@ -1,0 +1,167 @@
+
+ff: parsing domain file
+domain 'LOGISTICS-STRIPS' defined
+ ... done.
+ff: parsing problem file
+problem 'LOGISTICS-C2-S2-P2-A2' defined
+ ... done.
+
+
+F:
+(NOT-AT A0 L00)
+(NOT-AT T0 L01)
+(NOT-AT T1 L11)
+(NOT-AT P0 L00)
+(NOT-AT P0 L01)
+(NOT-AT P1 L10)
+(NOT-AT P1 L11)
+(NOT-AT P2 L10)
+(NOT-AT P2 L11)
+(NOT-AT P3 L00)
+(NOT-AT P3 L01)
+(AT T0 L00)
+(AT T1 L10)
+(AT A0 L10)
+U:
+(NOT-AT P0 L10)
+(NOT-AT P0 L11)
+(NOT-AT P1 L00)
+(NOT-AT P1 L01)
+(NOT-AT P2 L00)
+(NOT-AT P2 L01)
+(NOT-AT P3 L10)
+(NOT-AT P3 L11)
+(AT P0 L10)
+(AT P0 L11)
+(AT P1 L00)
+(AT P1 L01)
+(AT P2 L00)
+(AT P2 L01)
+(AT P3 L10)
+(AT P3 L11)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(NOT-AT A0 L00)
+(NOT-AT T0 L01)
+(NOT-AT T1 L11)
+(NOT-AT P0 L00)
+(NOT-AT P0 L01)
+(NOT-AT P1 L10)
+(NOT-AT P1 L11)
+(NOT-AT P2 L10)
+(NOT-AT P2 L11)
+(NOT-AT P3 L00)
+(NOT-AT P3 L01)
+(AT T0 L00)
+(AT T1 L10)
+(AT A0 L10)
+U:
+(NOT-AT P0 L10)
+(NOT-AT P0 L11)
+(NOT-AT P1 L00)
+(NOT-AT P1 L01)
+(NOT-AT P2 L00)
+(NOT-AT P2 L01)
+(NOT-AT P3 L10)
+(NOT-AT P3 L11)
+(AT P0 L10)
+(AT P0 L11)
+(AT P1 L00)
+(AT P1 L01)
+(AT P2 L00)
+(AT P2 L01)
+(AT P3 L10)
+(AT P3 L11)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (AT P0 L11) (AT P0 L10) 
+OR: (NOT-AT P0 L11) (NOT-AT P0 L10) 
+OR: (AT P1 L01) (AT P1 L00) 
+OR: (NOT-AT P1 L01) (NOT-AT P1 L00) 
+OR: (AT P2 L01) (AT P2 L00) 
+OR: (NOT-AT P2 L01) (NOT-AT P2 L00) 
+OR: (AT P3 L11) (AT P3 L10) 
+OR: (NOT-AT P3 L11) (NOT-AT P3 L10) H:24
+
+
+Cueing down from goal distance:   24 into depth [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1][2]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1][2]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1][2]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: LOAD-TRUCK P3 T1 L10
+        1: LOAD-TRUCK P2 T0 L00
+        2: LOAD-TRUCK P1 T0 L00
+        3: LOAD-TRUCK P0 T1 L10
+        4: DRIVE-TRUCK T0 L00 L01 C0
+        5: LOAD-TRUCK P2 T0 L01
+        6: LOAD-TRUCK P1 T0 L01
+        7: DRIVE-TRUCK T0 L01 L00 C0
+        8: UNLOAD-TRUCK P1 T0 L00
+        9: UNLOAD-TRUCK P2 T0 L00
+       10: DRIVE-TRUCK T1 L10 L11 C1
+       11: LOAD-TRUCK P3 T1 L11
+       12: LOAD-TRUCK P0 T1 L11
+       13: DRIVE-TRUCK T1 L11 L10 C1
+       14: UNLOAD-TRUCK P0 T1 L10
+       15: UNLOAD-TRUCK P3 T1 L10
+       16: LOAD-AIRPLANE P0 A0 L10
+       17: LOAD-AIRPLANE P3 A0 L10
+       18: FLY-AIRPLANE A0 L10 L00
+       19: LOAD-AIRPLANE P1 A0 L00
+       20: LOAD-AIRPLANE P2 A0 L00
+       21: UNLOAD-AIRPLANE P0 A0 L00
+       22: UNLOAD-AIRPLANE P3 A0 L00
+       23: FLY-AIRPLANE A0 L00 L10
+       24: UNLOAD-AIRPLANE P1 A0 L10
+       25: UNLOAD-AIRPLANE P2 A0 L10
+     
+
+statistics:    0.00 seconds instantiating 116 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 203 facts and 60 actions
+               0.00 seconds creating final representation with 56 relevant facts (20 max U, 12 CNF max U)
+               0.00 seconds building connectivity graph
+               0.01 seconds (   0.01 pure) evaluating 34 states, to a max depth of 2
+               0.00 seconds in DP for 10 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 119 state transition base CNFs
+               0.00 seconds in DP solving 48 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (11 hits), including 44 DP calls
+               0.00 seconds altogether checking for dominated states making 4 comparisons (4 conformant, 4 hits),
+                    spending    0.00 seconds doing 28 DP calls
+                130 total DP calls, 190 total UP calls,    0.00 sec membership
+               0.03 seconds for remaining searching duties
+               0.04 seconds total time (+    0.03 secs for CNF memory allocation)
+
+plan length:26
+iteration:1
+now_time:0.06260414700955153

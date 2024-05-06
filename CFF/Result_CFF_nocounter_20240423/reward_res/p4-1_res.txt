@@ -1,0 +1,301 @@
+
+ff: parsing domain file
+domain 'REWARD' defined
+ ... done.
+ff: parsing problem file
+problem 'REWARD-4-1' defined
+ ... done.
+
+
+F:
+(AT P2-2)
+U:
+(NOT-OBJ-AT O1 P1-1)
+(NOT-OBJ-AT O1 P1-2)
+(NOT-OBJ-AT O1 P1-3)
+(NOT-OBJ-AT O1 P1-4)
+(NOT-OBJ-AT O1 P2-1)
+(NOT-OBJ-AT O1 P2-2)
+(NOT-OBJ-AT O1 P2-3)
+(NOT-OBJ-AT O1 P2-4)
+(NOT-OBJ-AT O1 P3-1)
+(NOT-OBJ-AT O1 P3-2)
+(NOT-OBJ-AT O1 P3-3)
+(NOT-OBJ-AT O1 P3-4)
+(NOT-OBJ-AT O1 P4-1)
+(NOT-OBJ-AT O1 P4-2)
+(NOT-OBJ-AT O1 P4-3)
+(NOT-OBJ-AT O1 P4-4)
+(OBJ-AT O1 P1-1)
+(OBJ-AT O1 P1-2)
+(OBJ-AT O1 P1-3)
+(OBJ-AT O1 P1-4)
+(OBJ-AT O1 P2-1)
+(OBJ-AT O1 P2-2)
+(OBJ-AT O1 P2-3)
+(OBJ-AT O1 P2-4)
+(OBJ-AT O1 P3-1)
+(OBJ-AT O1 P3-2)
+(OBJ-AT O1 P3-3)
+(OBJ-AT O1 P3-4)
+(OBJ-AT O1 P4-1)
+(OBJ-AT O1 P4-2)
+(OBJ-AT O1 P4-3)
+(OBJ-AT O1 P4-4)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(AT P2-2)
+U:
+(NOT-OBJ-AT O1 P1-1)
+(NOT-OBJ-AT O1 P1-2)
+(NOT-OBJ-AT O1 P1-3)
+(NOT-OBJ-AT O1 P1-4)
+(NOT-OBJ-AT O1 P2-1)
+(NOT-OBJ-AT O1 P2-2)
+(NOT-OBJ-AT O1 P2-3)
+(NOT-OBJ-AT O1 P2-4)
+(NOT-OBJ-AT O1 P3-1)
+(NOT-OBJ-AT O1 P3-2)
+(NOT-OBJ-AT O1 P3-3)
+(NOT-OBJ-AT O1 P3-4)
+(NOT-OBJ-AT O1 P4-1)
+(NOT-OBJ-AT O1 P4-2)
+(NOT-OBJ-AT O1 P4-3)
+(NOT-OBJ-AT O1 P4-4)
+(OBJ-AT O1 P1-1)
+(OBJ-AT O1 P1-2)
+(OBJ-AT O1 P1-3)
+(OBJ-AT O1 P1-4)
+(OBJ-AT O1 P2-1)
+(OBJ-AT O1 P2-2)
+(OBJ-AT O1 P2-3)
+(OBJ-AT O1 P2-4)
+(OBJ-AT O1 P3-1)
+(OBJ-AT O1 P3-2)
+(OBJ-AT O1 P3-3)
+(OBJ-AT O1 P3-4)
+(OBJ-AT O1 P4-1)
+(OBJ-AT O1 P4-2)
+(OBJ-AT O1 P4-3)
+(OBJ-AT O1 P4-4)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P4-3) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P4-2) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P4-1) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P3-4) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P4-4) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P4-2) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P4-1) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P3-4) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P4-3) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P4-1) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P3-4) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P4-2) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P3-4) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P4-1) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P3-3) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P3-4) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P3-2) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P3-3) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P3-1) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P3-2) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P2-4) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P3-1) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P2-4) (NOT-OBJ-AT O1 P2-3) 
+OR: (NOT-OBJ-AT O1 P2-4) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P2-4) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P2-4) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P2-4) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P2-4) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P2-4) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P2-3) (NOT-OBJ-AT O1 P2-2) 
+OR: (NOT-OBJ-AT O1 P2-3) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P2-3) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P2-3) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P2-3) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P2-3) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P2-2) (NOT-OBJ-AT O1 P2-1) 
+OR: (NOT-OBJ-AT O1 P2-2) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P2-2) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P2-2) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P2-2) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P2-1) (NOT-OBJ-AT O1 P1-4) 
+OR: (NOT-OBJ-AT O1 P2-1) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P2-1) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P2-1) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P1-4) (NOT-OBJ-AT O1 P1-3) 
+OR: (NOT-OBJ-AT O1 P1-4) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P1-4) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P1-3) (NOT-OBJ-AT O1 P1-2) 
+OR: (NOT-OBJ-AT O1 P1-3) (NOT-OBJ-AT O1 P1-1) 
+OR: (NOT-OBJ-AT O1 P1-2) (NOT-OBJ-AT O1 P1-1) H:32
+
+
+Cueing down from goal distance:   32 into depth [1]
+                                  31            [1][2]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1][2]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: SHOUT O1 P2-2
+        1: MOVE P2-2 P1-2
+        2: SHOUT O1 P1-2
+        3: MOVE P1-2 P2-2
+        4: MOVE P2-2 P3-2
+        5: SHOUT O1 P3-2
+        6: MOVE P3-2 P4-2
+        7: SHOUT O1 P4-2
+        8: MOVE P4-2 P4-1
+        9: SHOUT O1 P4-1
+       10: MOVE P4-1 P3-1
+       11: SHOUT O1 P3-1
+       12: MOVE P3-1 P2-1
+       13: SHOUT O1 P2-1
+       14: MOVE P2-1 P1-1
+       15: SHOUT O1 P1-1
+       16: MOVE P1-1 P1-2
+       17: MOVE P1-2 P1-3
+       18: SHOUT O1 P1-3
+       19: MOVE P1-3 P2-3
+       20: SHOUT O1 P2-3
+       21: MOVE P2-3 P3-3
+       22: SHOUT O1 P3-3
+       23: MOVE P3-3 P4-3
+       24: SHOUT O1 P4-3
+       25: MOVE P4-3 P4-4
+       26: SHOUT O1 P4-4
+       27: MOVE P4-4 P3-4
+       28: SHOUT O1 P3-4
+       29: MOVE P3-4 P2-4
+       30: SHOUT O1 P2-4
+       31: MOVE P2-4 P1-4
+       32: SHOUT O1 P1-4
+     
+
+statistics:    0.00 seconds instantiating 337 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 338 facts and 320 actions
+               0.00 seconds creating final representation with 65 relevant facts (33 max U, 17 CNF max U)
+               0.00 seconds building connectivity graph
+               0.01 seconds (   0.01 pure) evaluating 47 states, to a max depth of 2
+               0.00 seconds in DP for 187 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 131 state transition base CNFs
+               0.00 seconds in DP solving 27 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (16 hits), including 697 DP calls
+               0.00 seconds altogether checking for dominated states making 29 comparisons (29 conformant, 4 hits),
+                    spending    0.00 seconds doing 481 DP calls
+               1392 total DP calls, 1559 total UP calls,    0.00 sec membership
+               0.01 seconds for remaining searching duties
+               0.02 seconds total time (+    0.01 secs for CNF memory allocation)
+
+plan length:33
+iteration:1
+now_time:0.042543641990050673

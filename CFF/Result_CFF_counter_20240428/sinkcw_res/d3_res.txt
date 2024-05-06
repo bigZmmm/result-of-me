@@ -1,0 +1,145 @@
+
+ff: parsing domain file
+domain 'GRID' defined
+ ... done.
+ff: parsing problem file
+problem 'INSTANCE_3__12345' defined
+ ... done.
+
+
+F:
+(NOT-CANMOVE)
+U:
+(NOT-X ZERO)
+(NOT-X ONE)
+(NOT-X TWO)
+(NOT-Y ZERO)
+(NOT-Y ONE)
+(NOT-Y TWO)
+(X ONE)
+(X TWO)
+(X ZERO)
+(Y ONE)
+(Y TWO)
+(Y ZERO)
+UE:
+var_size: 14
+
+当前收集的断言数：9
+
+1
+
+第1次迭代
+当前初始状态:
+F:7 U:0
+num_Or:2
+参数大于2的OR: 
+H:5
+
+
+Cueing down from goal distance:    5 into depth [1]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：6
+
+var_size: 98
+
+当前收集的断言数：51
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:5 U:4
+num_Or:6
+参数大于2的OR: 
+H:5
+
+
+Cueing down from goal distance:    5 into depth [1]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：12
+
+var_size: 182
+
+当前收集的断言数：93
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: CAN_MOVE
+        1: WEST
+        2: CAN_MOVE
+        3: NORTH
+        4: CAN_MOVE
+        5: NORTH
+        6: CAN_MOVE
+        7: EAST
+        8: CAN_MOVE
+        9: EAST
+       10: CAN_MOVE
+       11: WEST
+     
+
+statistics:    0.00 seconds instantiating 5 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 14 facts and 5 actions
+               0.00 seconds creating final representation with 14 relevant facts (14 max U, 7 CNF max U)
+               0.00 seconds building connectivity graph
+               0.00 seconds (   0.00 pure) evaluating 34 states, to a max depth of 2
+               0.00 seconds in DP for 62 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 75 state transition base CNFs
+               0.00 seconds in DP solving 34 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 12 DP calls
+               0.00 seconds checking for stagnating states (41 hits), including 164 DP calls
+               0.00 seconds altogether checking for dominated states making 1 comparisons (1 conformant, 1 hits),
+                    spending    0.00 seconds doing 6 DP calls
+                278 total DP calls, 358 total UP calls,    0.00 sec membership
+               0.04 seconds for remaining searching duties
+               0.04 seconds total time (+    0.03 secs for CNF memory allocation)
+
+初始目标状态
+Fold:1 Uold:12
+num_Orold:9
+参数大于2的OR: 
+(X TWO) (X ONE) (X ZERO) 
+(Y TWO) (Y ONE) (Y ZERO) 
+
+
+当前反例添加的目标状态
+Fcur:5 Ucur:4
+num_Orcur:6
+参数大于2的OR: 
+
+
+counter_time:0.06
+plan length:12
+iteration:2
+now_time:0.11145988898351789

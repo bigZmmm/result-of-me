@@ -1,0 +1,479 @@
+
+ff: parsing domain file
+domain 'LOOK-AND-GRAB' defined
+ ... done.
+ff: parsing problem file
+problem 'LOOK-AND-GRAB-9-2-1-NODISAPPEAR' defined
+ ... done.
+
+
+F:
+(NOT-HOLDING O1)
+(HANDEMPTY)
+(AT P5-5)
+U:
+(NOT-OBJ-AT O1 P1-1)
+(NOT-OBJ-AT O1 P1-2)
+(NOT-OBJ-AT O1 P1-3)
+(NOT-OBJ-AT O1 P1-4)
+(NOT-OBJ-AT O1 P1-5)
+(NOT-OBJ-AT O1 P1-6)
+(NOT-OBJ-AT O1 P1-7)
+(NOT-OBJ-AT O1 P1-8)
+(NOT-OBJ-AT O1 P1-9)
+(NOT-OBJ-AT O1 P2-1)
+(NOT-OBJ-AT O1 P2-2)
+(NOT-OBJ-AT O1 P2-3)
+(NOT-OBJ-AT O1 P2-4)
+(NOT-OBJ-AT O1 P2-5)
+(NOT-OBJ-AT O1 P2-6)
+(NOT-OBJ-AT O1 P2-7)
+(NOT-OBJ-AT O1 P2-8)
+(NOT-OBJ-AT O1 P2-9)
+(NOT-OBJ-AT O1 P3-1)
+(NOT-OBJ-AT O1 P3-2)
+(NOT-OBJ-AT O1 P3-3)
+(NOT-OBJ-AT O1 P3-4)
+(NOT-OBJ-AT O1 P3-5)
+(NOT-OBJ-AT O1 P3-6)
+(NOT-OBJ-AT O1 P3-7)
+(NOT-OBJ-AT O1 P3-8)
+(NOT-OBJ-AT O1 P3-9)
+(NOT-OBJ-AT O1 P4-1)
+(NOT-OBJ-AT O1 P4-2)
+(NOT-OBJ-AT O1 P4-3)
+(NOT-OBJ-AT O1 P4-4)
+(NOT-OBJ-AT O1 P4-5)
+(NOT-OBJ-AT O1 P4-6)
+(NOT-OBJ-AT O1 P4-7)
+(NOT-OBJ-AT O1 P4-8)
+(NOT-OBJ-AT O1 P4-9)
+(NOT-OBJ-AT O1 P5-1)
+(NOT-OBJ-AT O1 P5-2)
+(NOT-OBJ-AT O1 P5-3)
+(NOT-OBJ-AT O1 P5-4)
+(NOT-OBJ-AT O1 P5-5)
+(NOT-OBJ-AT O1 P5-6)
+(NOT-OBJ-AT O1 P5-7)
+(NOT-OBJ-AT O1 P5-8)
+(NOT-OBJ-AT O1 P5-9)
+(NOT-OBJ-AT O1 P6-1)
+(NOT-OBJ-AT O1 P6-2)
+(NOT-OBJ-AT O1 P6-3)
+(NOT-OBJ-AT O1 P6-4)
+(NOT-OBJ-AT O1 P6-5)
+(NOT-OBJ-AT O1 P6-6)
+(NOT-OBJ-AT O1 P6-7)
+(NOT-OBJ-AT O1 P6-8)
+(NOT-OBJ-AT O1 P6-9)
+(NOT-OBJ-AT O1 P7-1)
+(NOT-OBJ-AT O1 P7-2)
+(NOT-OBJ-AT O1 P7-3)
+(NOT-OBJ-AT O1 P7-4)
+(NOT-OBJ-AT O1 P7-5)
+(NOT-OBJ-AT O1 P7-6)
+(NOT-OBJ-AT O1 P7-7)
+(NOT-OBJ-AT O1 P7-8)
+(NOT-OBJ-AT O1 P7-9)
+(NOT-OBJ-AT O1 P8-1)
+(NOT-OBJ-AT O1 P8-2)
+(NOT-OBJ-AT O1 P8-3)
+(NOT-OBJ-AT O1 P8-4)
+(NOT-OBJ-AT O1 P8-5)
+(NOT-OBJ-AT O1 P8-6)
+(NOT-OBJ-AT O1 P8-7)
+(NOT-OBJ-AT O1 P8-8)
+(NOT-OBJ-AT O1 P8-9)
+(NOT-OBJ-AT O1 P9-1)
+(NOT-OBJ-AT O1 P9-2)
+(NOT-OBJ-AT O1 P9-3)
+(NOT-OBJ-AT O1 P9-4)
+(NOT-OBJ-AT O1 P9-5)
+(NOT-OBJ-AT O1 P9-6)
+(NOT-OBJ-AT O1 P9-7)
+(NOT-OBJ-AT O1 P9-8)
+(NOT-OBJ-AT O1 P9-9)
+(OBJ-AT O1 P1-1)
+(OBJ-AT O1 P1-2)
+(OBJ-AT O1 P1-3)
+(OBJ-AT O1 P1-4)
+(OBJ-AT O1 P1-5)
+(OBJ-AT O1 P1-6)
+(OBJ-AT O1 P1-7)
+(OBJ-AT O1 P1-8)
+(OBJ-AT O1 P1-9)
+(OBJ-AT O1 P2-1)
+(OBJ-AT O1 P2-2)
+(OBJ-AT O1 P2-3)
+(OBJ-AT O1 P2-4)
+(OBJ-AT O1 P2-5)
+(OBJ-AT O1 P2-6)
+(OBJ-AT O1 P2-7)
+(OBJ-AT O1 P2-8)
+(OBJ-AT O1 P2-9)
+(OBJ-AT O1 P3-1)
+(OBJ-AT O1 P3-2)
+(OBJ-AT O1 P3-3)
+(OBJ-AT O1 P3-4)
+(OBJ-AT O1 P3-5)
+(OBJ-AT O1 P3-6)
+(OBJ-AT O1 P3-7)
+(OBJ-AT O1 P3-8)
+(OBJ-AT O1 P3-9)
+(OBJ-AT O1 P4-1)
+(OBJ-AT O1 P4-2)
+(OBJ-AT O1 P4-3)
+(OBJ-AT O1 P4-4)
+(OBJ-AT O1 P4-5)
+(OBJ-AT O1 P4-6)
+(OBJ-AT O1 P4-7)
+(OBJ-AT O1 P4-8)
+(OBJ-AT O1 P4-9)
+(OBJ-AT O1 P5-1)
+(OBJ-AT O1 P5-2)
+(OBJ-AT O1 P5-3)
+(OBJ-AT O1 P5-4)
+(OBJ-AT O1 P5-5)
+(OBJ-AT O1 P5-6)
+(OBJ-AT O1 P5-7)
+(OBJ-AT O1 P5-8)
+(OBJ-AT O1 P5-9)
+(OBJ-AT O1 P6-1)
+(OBJ-AT O1 P6-2)
+(OBJ-AT O1 P6-3)
+(OBJ-AT O1 P6-4)
+(OBJ-AT O1 P6-5)
+(OBJ-AT O1 P6-6)
+(OBJ-AT O1 P6-7)
+(OBJ-AT O1 P6-8)
+(OBJ-AT O1 P6-9)
+(OBJ-AT O1 P7-1)
+(OBJ-AT O1 P7-2)
+(OBJ-AT O1 P7-3)
+(OBJ-AT O1 P7-4)
+(OBJ-AT O1 P7-5)
+(OBJ-AT O1 P7-6)
+(OBJ-AT O1 P7-7)
+(OBJ-AT O1 P7-8)
+(OBJ-AT O1 P7-9)
+(OBJ-AT O1 P8-1)
+(OBJ-AT O1 P8-2)
+(OBJ-AT O1 P8-3)
+(OBJ-AT O1 P8-4)
+(OBJ-AT O1 P8-5)
+(OBJ-AT O1 P8-6)
+(OBJ-AT O1 P8-7)
+(OBJ-AT O1 P8-8)
+(OBJ-AT O1 P8-9)
+(OBJ-AT O1 P9-1)
+(OBJ-AT O1 P9-2)
+(OBJ-AT O1 P9-3)
+(OBJ-AT O1 P9-4)
+(OBJ-AT O1 P9-5)
+(OBJ-AT O1 P9-6)
+(OBJ-AT O1 P9-7)
+(OBJ-AT O1 P9-8)
+(OBJ-AT O1 P9-9)
+UE:
+var_size: 166
+
+当前收集的断言数：84
+
+1
+
+第1次迭代
+当前初始状态:
+F:84 U:0
+num_Or:3160
+参数大于2的OR: 
+H:15
+
+
+Cueing down from goal distance:   15 into depth [1][2][3][4][5]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：18
+
+var_size: 3319
+
+当前收集的断言数：1578
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:82 U:4
+num_Or:3241
+参数大于2的OR: 
+H:20
+
+
+Cueing down from goal distance:   20 into depth [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1][2][3][4][5]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1][2][3]
+                                  11            [1]
+                                  10            [1][2]
+                                   9            [1]
+                                   8            [1][2][3][4]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1][2]
+                                   3            [1]
+                                   2            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   20
+                          19
+                          16
+                          15
+                          13
+                          12
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：97
+
+var_size: 18450
+
+当前收集的断言数：8135
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:81 U:6
+num_Or:3241
+参数大于2的OR: 
+(OBJ-AT O1 P9-9) (OBJ-AT O1 P4-7) (OBJ-AT O1 P1-9) 
+H:21
+
+
+Cueing down from goal distance:   21 into depth [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  16            [1][2][3][4]
+                                  15            [1][2][3][4][5]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1][2][3]
+                                  11            [1]
+                                  10            [1][2]
+                                   9            [1]
+                                   8            [1][2][3][4]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1][2]
+                                   3            [1]
+                                   2            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   21
+                          20
+                          17
+                          16
+                          15
+                          14
+                          13
+                          12
+                          11
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：97
+
+var_size: 18572
+
+当前收集的断言数：8135
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: MOVE P5-5 P4-5
+        1: MOVE P4-5 P3-5
+        2: MOVE P3-5 P3-6
+        3: MOVE P3-6 P3-7
+        4: PICKUP-3-7-LOOK-2
+        5: MOVE P3-7 P3-6
+        6: MOVE P3-6 P3-5
+        7: MOVE P3-5 P3-4
+        8: MOVE P3-4 P3-3
+        9: PUTDOWN P3-3
+       10: MOVE P3-3 P2-3
+       11: MOVE P2-3 P2-2
+       12: PICKUP-2-2-LOOK-2
+       13: PUTDOWN P2-2
+       14: MOVE P2-2 P1-2
+       15: MOVE P1-2 P1-1
+       16: PICKUP-1-1-LOOK-2
+       17: PUTDOWN P1-1
+       18: MOVE P1-1 P2-1
+       19: MOVE P2-1 P3-1
+       20: PICKUP-3-1-LOOK-2
+       21: PUTDOWN P3-1
+       22: MOVE P3-1 P2-1
+       23: MOVE P2-1 P1-1
+       24: MOVE P1-1 P1-2
+       25: MOVE P1-2 P1-3
+       26: MOVE P1-3 P1-4
+       27: MOVE P1-4 P1-5
+       28: MOVE P1-5 P1-6
+       29: MOVE P1-6 P1-7
+       30: MOVE P1-7 P2-7
+       31: MOVE P2-7 P3-7
+       32: MOVE P3-7 P3-6
+       33: MOVE P3-6 P3-5
+       34: MOVE P3-5 P3-4
+       35: MOVE P3-4 P3-3
+       36: MOVE P3-3 P4-3
+       37: MOVE P4-3 P5-3
+       38: PICKUP-5-3-LOOK-2
+       39: PUTDOWN P5-3
+       40: MOVE P5-3 P4-3
+       41: MOVE P4-3 P3-3
+       42: MOVE P3-3 P3-2
+       43: MOVE P3-2 P3-1
+       44: MOVE P3-1 P4-1
+       45: MOVE P4-1 P5-1
+       46: PICKUP-5-1-LOOK-2
+       47: PUTDOWN P5-1
+       48: MOVE P5-1 P4-1
+       49: MOVE P4-1 P3-1
+       50: MOVE P3-1 P3-2
+       51: MOVE P3-2 P3-3
+       52: MOVE P3-3 P4-3
+       53: MOVE P4-3 P5-3
+       54: MOVE P5-3 P6-3
+       55: MOVE P6-3 P7-3
+       56: PICKUP-7-3-LOOK-2
+       57: PUTDOWN P7-3
+       58: MOVE P7-3 P6-3
+       59: MOVE P6-3 P5-3
+       60: MOVE P5-3 P5-2
+       61: MOVE P5-2 P5-1
+       62: MOVE P5-1 P6-1
+       63: MOVE P6-1 P7-1
+       64: PICKUP-7-1-LOOK-2
+       65: PUTDOWN P7-1
+       66: MOVE P7-1 P6-1
+       67: MOVE P6-1 P5-1
+       68: MOVE P5-1 P5-2
+       69: MOVE P5-2 P5-3
+       70: MOVE P5-3 P6-3
+       71: MOVE P6-3 P7-3
+       72: MOVE P7-3 P7-4
+       73: MOVE P7-4 P7-5
+       74: MOVE P7-5 P6-5
+       75: MOVE P6-5 P5-5
+       76: MOVE P5-5 P5-6
+       77: MOVE P5-6 P5-7
+       78: MOVE P5-7 P6-7
+       79: MOVE P6-7 P7-7
+       80: PICKUP-7-7-LOOK-2
+       81: MOVE P7-7 P7-6
+       82: MOVE P7-6 P7-5
+       83: MOVE P7-5 P6-5
+       84: MOVE P6-5 P5-5
+       85: MOVE P5-5 P5-4
+       86: MOVE P5-4 P5-3
+       87: PICKUP-5-3-LOOK-2
+       88: MOVE P5-3 P4-3
+       89: MOVE P4-3 P3-3
+       90: MOVE P3-3 P3-2
+       91: MOVE P3-2 P3-1
+       92: PICKUP-3-1-LOOK-2
+       93: MOVE P3-1 P2-1
+       94: MOVE P2-1 P1-1
+       95: PICKUP-1-1-LOOK-2
+       96: PUTDOWN P1-1
+     
+
+statistics:    0.04 seconds instantiating 450 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 247 facts and 450 actions
+               0.00 seconds creating final representation with 247 relevant facts (166 max U, 83 CNF max U)
+               0.00 seconds building connectivity graph
+               2.37 seconds (   2.22 pure) evaluating 844 states, to a max depth of 5
+               0.15 seconds in DP for 113079 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.02 seconds generating,    0.01 seconds encoding 1841 state transition base CNFs
+               0.00 seconds in DP solving 1245 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 120 DP calls
+               0.02 seconds checking for stagnating states (596 hits), including 2828 DP calls
+               0.04 seconds altogether checking for dominated states making 243 comparisons (243 conformant, 237 hits),
+                    spending    0.00 seconds doing 1226 DP calls
+             118498 total DP calls, 198164 total UP calls,    0.02 sec membership
+               0.20 seconds for remaining searching duties
+               2.70 seconds total time (+    0.21 secs for CNF memory allocation)
+
+初始目标状态
+Fold:3 Uold:162
+num_Orold:3241
+参数大于2的OR: 
+(OBJ-AT O1 P9-9) (OBJ-AT O1 P9-8) (OBJ-AT O1 P9-7) (OBJ-AT O1 P9-6) (OBJ-AT O1 P9-5) (OBJ-AT O1 P9-4) (OBJ-AT O1 P9-3) (OBJ-AT O1 P9-2) (OBJ-AT O1 P9-1) (OBJ-AT O1 P8-9) (OBJ-AT O1 P8-8) (OBJ-AT O1 P8-7) (OBJ-AT O1 P8-6) (OBJ-AT O1 P8-5) (OBJ-AT O1 P8-4) (OBJ-AT O1 P8-3) (OBJ-AT O1 P8-2) (OBJ-AT O1 P8-1) (OBJ-AT O1 P7-9) (OBJ-AT O1 P7-8) (OBJ-AT O1 P7-7) (OBJ-AT O1 P7-6) (OBJ-AT O1 P7-5) (OBJ-AT O1 P7-4) (OBJ-AT O1 P7-3) (OBJ-AT O1 P7-2) (OBJ-AT O1 P7-1) (OBJ-AT O1 P6-9) (OBJ-AT O1 P6-8) (OBJ-AT O1 P6-7) (OBJ-AT O1 P6-6) (OBJ-AT O1 P6-5) (OBJ-AT O1 P6-4) (OBJ-AT O1 P6-3) (OBJ-AT O1 P6-2) (OBJ-AT O1 P6-1) (OBJ-AT O1 P5-9) (OBJ-AT O1 P5-8) (OBJ-AT O1 P5-7) (OBJ-AT O1 P5-6) (OBJ-AT O1 P5-5) (OBJ-AT O1 P5-4) (OBJ-AT O1 P5-3) (OBJ-AT O1 P5-2) (OBJ-AT O1 P5-1) (OBJ-AT O1 P4-9) (OBJ-AT O1 P4-8) (OBJ-AT O1 P4-7) (OBJ-AT O1 P4-6) (OBJ-AT O1 P4-5) (OBJ-AT O1 P4-4) (OBJ-AT O1 P4-3) (OBJ-AT O1 P4-2) (OBJ-AT O1 P4-1) (OBJ-AT O1 P3-9) (OBJ-AT O1 P3-8) (OBJ-AT O1 P3-7) (OBJ-AT O1 P3-6) (OBJ-AT O1 P3-5) (OBJ-AT O1 P3-4) (OBJ-AT O1 P3-3) (OBJ-AT O1 P3-2) (OBJ-AT O1 P3-1) (OBJ-AT O1 P2-9) (OBJ-AT O1 P2-8) (OBJ-AT O1 P2-7) (OBJ-AT O1 P2-6) (OBJ-AT O1 P2-5) (OBJ-AT O1 P2-4) (OBJ-AT O1 P2-3) (OBJ-AT O1 P2-2) (OBJ-AT O1 P2-1) (OBJ-AT O1 P1-9) (OBJ-AT O1 P1-8) (OBJ-AT O1 P1-7) (OBJ-AT O1 P1-6) (OBJ-AT O1 P1-5) (OBJ-AT O1 P1-4) (OBJ-AT O1 P1-3) (OBJ-AT O1 P1-2) (OBJ-AT O1 P1-1) 
+
+
+当前反例添加的目标状态
+Fcur:81 Ucur:6
+num_Orcur:3241
+参数大于2的OR: 
+(OBJ-AT O1 P9-9) (OBJ-AT O1 P4-7) (OBJ-AT O1 P1-9) 
+
+
+counter_time:4.30
+plan length:97
+iteration:3
+now_time:7.083904472005088

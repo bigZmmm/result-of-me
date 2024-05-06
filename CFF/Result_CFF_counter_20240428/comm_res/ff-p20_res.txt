@@ -1,0 +1,717 @@
+
+ff: parsing domain file
+domain 'COMM' defined
+ ... done.
+ff: parsing problem file
+problem 'COMM_45_40' defined
+ ... done.
+
+
+F:
+(NOT-BAD P0)
+(NOT-BAD P1)
+(NOT-BAD P2)
+(NOT-BAD P3)
+(NOT-BAD P4)
+(NOT-BAD P5)
+(NOT-BAD P6)
+(NOT-BAD P7)
+(NOT-BAD P8)
+(NOT-BAD P9)
+(NOT-BAD P10)
+(NOT-BAD P11)
+(NOT-BAD P12)
+(NOT-BAD P13)
+(NOT-BAD P14)
+(NOT-BAD P15)
+(NOT-BAD P16)
+(NOT-BAD P17)
+(NOT-BAD P18)
+(NOT-BAD P19)
+(NOT-BAD P20)
+(NOT-BAD P21)
+(NOT-BAD P22)
+(NOT-BAD P23)
+(NOT-BAD P24)
+(NOT-BAD P25)
+(NOT-BAD P26)
+(NOT-BAD P27)
+(NOT-BAD P28)
+(NOT-BAD P29)
+(NOT-BAD P30)
+(NOT-BAD P31)
+(NOT-BAD P32)
+(NOT-BAD P33)
+(NOT-BAD P34)
+(NOT-BAD P35)
+(NOT-BAD P36)
+(NOT-BAD P37)
+(NOT-BAD P38)
+(NOT-BAD P39)
+(CURRENT-STAGE S0)
+(IN-CHANNEL P0)
+(IN-CHANNEL P1)
+(IN-CHANNEL P2)
+(IN-CHANNEL P3)
+(IN-CHANNEL P4)
+(IN-CHANNEL P5)
+(IN-CHANNEL P6)
+(IN-CHANNEL P7)
+(IN-CHANNEL P8)
+(IN-CHANNEL P9)
+(IN-CHANNEL P10)
+(IN-CHANNEL P11)
+(IN-CHANNEL P12)
+(IN-CHANNEL P13)
+(IN-CHANNEL P14)
+(IN-CHANNEL P15)
+(IN-CHANNEL P16)
+(IN-CHANNEL P17)
+(IN-CHANNEL P18)
+(IN-CHANNEL P19)
+(IN-CHANNEL P20)
+(IN-CHANNEL P21)
+(IN-CHANNEL P22)
+(IN-CHANNEL P23)
+(IN-CHANNEL P24)
+(IN-CHANNEL P25)
+(IN-CHANNEL P26)
+(IN-CHANNEL P27)
+(IN-CHANNEL P28)
+(IN-CHANNEL P29)
+(IN-CHANNEL P30)
+(IN-CHANNEL P31)
+(IN-CHANNEL P32)
+(IN-CHANNEL P33)
+(IN-CHANNEL P34)
+(IN-CHANNEL P35)
+(IN-CHANNEL P36)
+(IN-CHANNEL P37)
+(IN-CHANNEL P38)
+(IN-CHANNEL P39)
+U:
+(NOT-NOISY P0)
+(NOT-NOISY P1)
+(NOT-NOISY P2)
+(NOT-NOISY P3)
+(NOT-NOISY P4)
+(NOT-NOISY P5)
+(NOT-NOISY P6)
+(NOT-NOISY P7)
+(NOT-NOISY P8)
+(NOT-NOISY P9)
+(NOT-NOISY P10)
+(NOT-NOISY P11)
+(NOT-NOISY P12)
+(NOT-NOISY P13)
+(NOT-NOISY P14)
+(NOT-NOISY P15)
+(NOT-NOISY P16)
+(NOT-NOISY P17)
+(NOT-NOISY P18)
+(NOT-NOISY P19)
+(NOT-NOISY P20)
+(NOT-NOISY P21)
+(NOT-NOISY P22)
+(NOT-NOISY P23)
+(NOT-NOISY P24)
+(NOT-NOISY P25)
+(NOT-NOISY P26)
+(NOT-NOISY P27)
+(NOT-NOISY P28)
+(NOT-NOISY P29)
+(NOT-NOISY P30)
+(NOT-NOISY P31)
+(NOT-NOISY P32)
+(NOT-NOISY P33)
+(NOT-NOISY P34)
+(NOT-NOISY P35)
+(NOT-NOISY P36)
+(NOT-NOISY P37)
+(NOT-NOISY P38)
+(NOT-NOISY P39)
+(NOISY P0)
+(NOISY P1)
+(NOISY P2)
+(NOISY P3)
+(NOISY P4)
+(NOISY P5)
+(NOISY P6)
+(NOISY P7)
+(NOISY P8)
+(NOISY P9)
+(NOISY P10)
+(NOISY P11)
+(NOISY P12)
+(NOISY P13)
+(NOISY P14)
+(NOISY P15)
+(NOISY P16)
+(NOISY P17)
+(NOISY P18)
+(NOISY P19)
+(NOISY P20)
+(NOISY P21)
+(NOISY P22)
+(NOISY P23)
+(NOISY P24)
+(NOISY P25)
+(NOISY P26)
+(NOISY P27)
+(NOISY P28)
+(NOISY P29)
+(NOISY P30)
+(NOISY P31)
+(NOISY P32)
+(NOISY P33)
+(NOISY P34)
+(NOISY P35)
+(NOISY P36)
+(NOISY P37)
+(NOISY P38)
+(NOISY P39)
+UE:
+var_size: 241
+
+当前收集的断言数：82
+
+1
+
+第1次迭代
+当前初始状态:
+F:121 U:0
+num_Or:0
+参数大于2的OR: 
+H:200
+
+
+Cueing down from goal distance:  200 into depth [1]
+                                 199            [1]
+                                 198            [1][2]
+                                 197            [1]
+                                 196            [1][2]
+                                 195            [1]
+                                 194            [1][2]
+                                 193            [1]
+                                 192            [1][2]
+                                 191            [1]
+                                 190            [1][2]
+                                 189            [1]
+                                 188            [1][2]
+                                 187            [1]
+                                 186            [1][2]
+                                 185            [1]
+                                 184            [1][2]
+                                 183            [1]
+                                 182            [1][2]
+                                 181            [1]
+                                 180            [1][2]
+                                 179            [1]
+                                 178            [1][2]
+                                 177            [1]
+                                 176            [1][2]
+                                 175            [1]
+                                 174            [1][2]
+                                 173            [1]
+                                 172            [1][2]
+                                 171            [1]
+                                 170            [1][2]
+                                 169            [1]
+                                 168            [1][2]
+                                 167            [1]
+                                 166            [1][2]
+                                 165            [1]
+                                 164            [1][2]
+                                 163            [1]
+                                 162            [1][2]
+                                 161            [1]
+                                 160            [1][2]
+                                 159            [1]
+                                 158            [1][2]
+                                 157            [1]
+                                 156            [1][2]
+                                 155            [1]
+                                 154            [1][2]
+                                 153            [1]
+                                 152            [1][2]
+                                 151            [1]
+                                 150            [1][2]
+                                 149            [1]
+                                 148            [1][2]
+                                 147            [1]
+                                 146            [1][2]
+                                 145            [1]
+                                 144            [1][2]
+                                 143            [1]
+                                 142            [1][2]
+                                 141            [1]
+                                 140            [1][2]
+                                 139            [1]
+                                 138            [1][2]
+                                 137            [1]
+                                 136            [1][2]
+                                 135            [1]
+                                 134            [1][2]
+                                 133            [1]
+                                 132            [1][2]
+                                 131            [1]
+                                 130            [1][2]
+                                 129            [1]
+                                 128            [1][2]
+                                 127            [1]
+                                 126            [1][2]
+                                 125            [1]
+                                 124            [1][2]
+                                 123            [1]
+                                 122            [1][2]
+                                 121            [1]
+                                 120            [1][2]
+                                 119            [1]
+                                 118            [1]
+                                 117            [1][2]
+                                 116            [1]
+                                 115            [1]
+                                 114            [1][2]
+                                 113            [1]
+                                 112            [1]
+                                 111            [1][2]
+                                 110            [1]
+                                 109            [1]
+                                 108            [1][2]
+                                 107            [1]
+                                 106            [1]
+                                 105            [1][2]
+                                 104            [1]
+                                 103            [1]
+                                 102            [1][2]
+                                 101            [1]
+                                 100            [1]
+                                  99            [1][2]
+                                  98            [1]
+                                  97            [1]
+                                  96            [1][2]
+                                  95            [1]
+                                  94            [1]
+                                  93            [1][2]
+                                  92            [1]
+                                  91            [1]
+                                  90            [1][2]
+                                  89            [1]
+                                  88            [1]
+                                  87            [1][2]
+                                  86            [1]
+                                  85            [1]
+                                  84            [1][2]
+                                  83            [1]
+                                  82            [1]
+                                  81            [1][2]
+                                  80            [1]
+                                  79            [1]
+                                  78            [1][2]
+                                  77            [1]
+                                  76            [1]
+                                  75            [1][2]
+                                  74            [1]
+                                  73            [1]
+                                  72            [1][2]
+                                  71            [1]
+                                  70            [1]
+                                  69            [1][2]
+                                  68            [1]
+                                  67            [1]
+                                  66            [1][2]
+                                  65            [1]
+                                  64            [1]
+                                  63            [1][2]
+                                  62            [1]
+                                  61            [1]
+                                  60            [1][2]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1][2]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1][2]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1][2]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1][2]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1][2]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1][2]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1][2]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1][2]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1][2]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1][2]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1][2]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1][2]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1][2]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1][2]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1][2]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1][2]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1][2]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1][2]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：278
+
+var_size: 94118
+
+当前收集的断言数：33442
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: OBTAIN P0 S0
+        1: CERTIFY P0
+        2: ADVANCE S0 S1
+        3: OBTAIN P1 S1
+        4: CERTIFY P1
+        5: ADVANCE S1 S2
+        6: OBTAIN P2 S2
+        7: CERTIFY P2
+        8: ADVANCE S2 S3
+        9: OBTAIN P3 S3
+       10: CERTIFY P3
+       11: ADVANCE S3 S4
+       12: OBTAIN P4 S4
+       13: CERTIFY P4
+       14: ADVANCE S4 S5
+       15: OBTAIN P5 S5
+       16: CERTIFY P5
+       17: ADVANCE S5 S6
+       18: OBTAIN P6 S6
+       19: CERTIFY P6
+       20: ADVANCE S6 S7
+       21: OBTAIN P7 S7
+       22: CERTIFY P7
+       23: ADVANCE S7 S8
+       24: OBTAIN P8 S8
+       25: CERTIFY P8
+       26: ADVANCE S8 S9
+       27: OBTAIN P9 S9
+       28: CERTIFY P9
+       29: ADVANCE S9 S10
+       30: OBTAIN P10 S10
+       31: CERTIFY P10
+       32: ADVANCE S10 S11
+       33: OBTAIN P11 S11
+       34: CERTIFY P11
+       35: ADVANCE S11 S12
+       36: OBTAIN P12 S12
+       37: CERTIFY P12
+       38: ADVANCE S12 S13
+       39: OBTAIN P13 S13
+       40: CERTIFY P13
+       41: ADVANCE S13 S14
+       42: OBTAIN P14 S14
+       43: CERTIFY P14
+       44: ADVANCE S14 S15
+       45: OBTAIN P15 S15
+       46: CERTIFY P15
+       47: ADVANCE S15 S16
+       48: OBTAIN P16 S16
+       49: CERTIFY P16
+       50: ADVANCE S16 S17
+       51: OBTAIN P17 S17
+       52: CERTIFY P17
+       53: ADVANCE S17 S18
+       54: OBTAIN P18 S18
+       55: CERTIFY P18
+       56: ADVANCE S18 S19
+       57: OBTAIN P19 S19
+       58: CERTIFY P19
+       59: ADVANCE S19 S20
+       60: OBTAIN P20 S20
+       61: CERTIFY P20
+       62: ADVANCE S20 S21
+       63: OBTAIN P21 S21
+       64: CERTIFY P21
+       65: ADVANCE S21 S22
+       66: OBTAIN P22 S22
+       67: CERTIFY P22
+       68: ADVANCE S22 S23
+       69: OBTAIN P23 S23
+       70: CERTIFY P23
+       71: ADVANCE S23 S24
+       72: OBTAIN P24 S24
+       73: CERTIFY P24
+       74: ADVANCE S24 S25
+       75: OBTAIN P25 S25
+       76: CERTIFY P25
+       77: ADVANCE S25 S26
+       78: OBTAIN P26 S26
+       79: CERTIFY P26
+       80: ADVANCE S26 S27
+       81: OBTAIN P27 S27
+       82: CERTIFY P27
+       83: ADVANCE S27 S28
+       84: OBTAIN P28 S28
+       85: CERTIFY P28
+       86: ADVANCE S28 S29
+       87: OBTAIN P29 S29
+       88: CERTIFY P29
+       89: ADVANCE S29 S30
+       90: OBTAIN P30 S30
+       91: CERTIFY P30
+       92: ADVANCE S30 S31
+       93: OBTAIN P31 S31
+       94: CERTIFY P31
+       95: ADVANCE S31 S32
+       96: OBTAIN P32 S32
+       97: CERTIFY P32
+       98: ADVANCE S32 S33
+       99: OBTAIN P33 S33
+      100: CERTIFY P33
+      101: ADVANCE S33 S34
+      102: OBTAIN P34 S34
+      103: CERTIFY P34
+      104: ADVANCE S34 S35
+      105: OBTAIN P35 S35
+      106: CERTIFY P35
+      107: ADVANCE S35 S36
+      108: OBTAIN P36 S36
+      109: CERTIFY P36
+      110: ADVANCE S36 S37
+      111: OBTAIN P37 S37
+      112: CERTIFY P37
+      113: ADVANCE S37 S38
+      114: OBTAIN P38 S38
+      115: CERTIFY P38
+      116: ADVANCE S38 S39
+      117: OBTAIN P39 S39
+      118: CERTIFY P39
+      119: REQUEST-COPY P39 S39
+      120: OBTAIN P39 S39
+      121: CERTIFY P39
+      122: RESET S39
+      123: REQUEST-COPY P0 S0
+      124: OBTAIN P0 S0
+      125: CERTIFY P0
+      126: ADVANCE S0 S1
+      127: REQUEST-COPY P1 S1
+      128: OBTAIN P1 S1
+      129: CERTIFY P1
+      130: ADVANCE S1 S2
+      131: REQUEST-COPY P2 S2
+      132: OBTAIN P2 S2
+      133: CERTIFY P2
+      134: ADVANCE S2 S3
+      135: REQUEST-COPY P3 S3
+      136: OBTAIN P3 S3
+      137: CERTIFY P3
+      138: ADVANCE S3 S4
+      139: REQUEST-COPY P4 S4
+      140: OBTAIN P4 S4
+      141: CERTIFY P4
+      142: ADVANCE S4 S5
+      143: REQUEST-COPY P5 S5
+      144: OBTAIN P5 S5
+      145: CERTIFY P5
+      146: ADVANCE S5 S6
+      147: REQUEST-COPY P6 S6
+      148: OBTAIN P6 S6
+      149: CERTIFY P6
+      150: ADVANCE S6 S7
+      151: REQUEST-COPY P7 S7
+      152: OBTAIN P7 S7
+      153: CERTIFY P7
+      154: ADVANCE S7 S8
+      155: REQUEST-COPY P8 S8
+      156: OBTAIN P8 S8
+      157: CERTIFY P8
+      158: ADVANCE S8 S9
+      159: REQUEST-COPY P9 S9
+      160: OBTAIN P9 S9
+      161: CERTIFY P9
+      162: ADVANCE S9 S10
+      163: REQUEST-COPY P10 S10
+      164: OBTAIN P10 S10
+      165: CERTIFY P10
+      166: ADVANCE S10 S11
+      167: REQUEST-COPY P11 S11
+      168: OBTAIN P11 S11
+      169: CERTIFY P11
+      170: ADVANCE S11 S12
+      171: REQUEST-COPY P12 S12
+      172: OBTAIN P12 S12
+      173: CERTIFY P12
+      174: ADVANCE S12 S13
+      175: REQUEST-COPY P13 S13
+      176: OBTAIN P13 S13
+      177: CERTIFY P13
+      178: ADVANCE S13 S14
+      179: REQUEST-COPY P14 S14
+      180: OBTAIN P14 S14
+      181: CERTIFY P14
+      182: ADVANCE S14 S15
+      183: REQUEST-COPY P15 S15
+      184: OBTAIN P15 S15
+      185: CERTIFY P15
+      186: ADVANCE S15 S16
+      187: REQUEST-COPY P16 S16
+      188: OBTAIN P16 S16
+      189: CERTIFY P16
+      190: ADVANCE S16 S17
+      191: REQUEST-COPY P17 S17
+      192: OBTAIN P17 S17
+      193: CERTIFY P17
+      194: ADVANCE S17 S18
+      195: REQUEST-COPY P18 S18
+      196: OBTAIN P18 S18
+      197: CERTIFY P18
+      198: ADVANCE S18 S19
+      199: REQUEST-COPY P19 S19
+      200: OBTAIN P19 S19
+      201: CERTIFY P19
+      202: ADVANCE S19 S20
+      203: REQUEST-COPY P20 S20
+      204: OBTAIN P20 S20
+      205: CERTIFY P20
+      206: ADVANCE S20 S21
+      207: REQUEST-COPY P21 S21
+      208: OBTAIN P21 S21
+      209: CERTIFY P21
+      210: ADVANCE S21 S22
+      211: REQUEST-COPY P22 S22
+      212: OBTAIN P22 S22
+      213: CERTIFY P22
+      214: ADVANCE S22 S23
+      215: REQUEST-COPY P23 S23
+      216: OBTAIN P23 S23
+      217: CERTIFY P23
+      218: ADVANCE S23 S24
+      219: REQUEST-COPY P24 S24
+      220: OBTAIN P24 S24
+      221: CERTIFY P24
+      222: ADVANCE S24 S25
+      223: REQUEST-COPY P25 S25
+      224: OBTAIN P25 S25
+      225: CERTIFY P25
+      226: ADVANCE S25 S26
+      227: REQUEST-COPY P26 S26
+      228: OBTAIN P26 S26
+      229: CERTIFY P26
+      230: ADVANCE S26 S27
+      231: REQUEST-COPY P27 S27
+      232: OBTAIN P27 S27
+      233: CERTIFY P27
+      234: ADVANCE S27 S28
+      235: REQUEST-COPY P28 S28
+      236: OBTAIN P28 S28
+      237: CERTIFY P28
+      238: ADVANCE S28 S29
+      239: REQUEST-COPY P29 S29
+      240: OBTAIN P29 S29
+      241: CERTIFY P29
+      242: ADVANCE S29 S30
+      243: REQUEST-COPY P30 S30
+      244: OBTAIN P30 S30
+      245: CERTIFY P30
+      246: ADVANCE S30 S31
+      247: REQUEST-COPY P31 S31
+      248: OBTAIN P31 S31
+      249: CERTIFY P31
+      250: ADVANCE S31 S32
+      251: REQUEST-COPY P32 S32
+      252: OBTAIN P32 S32
+      253: CERTIFY P32
+      254: ADVANCE S32 S33
+      255: REQUEST-COPY P33 S33
+      256: OBTAIN P33 S33
+      257: CERTIFY P33
+      258: ADVANCE S33 S34
+      259: REQUEST-COPY P34 S34
+      260: OBTAIN P34 S34
+      261: CERTIFY P34
+      262: ADVANCE S34 S35
+      263: REQUEST-COPY P35 S35
+      264: OBTAIN P35 S35
+      265: CERTIFY P35
+      266: ADVANCE S35 S36
+      267: REQUEST-COPY P36 S36
+      268: OBTAIN P36 S36
+      269: CERTIFY P36
+      270: ADVANCE S36 S37
+      271: REQUEST-COPY P37 S37
+      272: OBTAIN P37 S37
+      273: CERTIFY P37
+      274: ADVANCE S37 S38
+      275: REQUEST-COPY P38 S38
+      276: OBTAIN P38 S38
+      277: CERTIFY P38
+     
+
+statistics:    0.00 seconds instantiating 1969 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 365 facts and 1969 actions
+               0.01 seconds creating final representation with 365 relevant facts (320 max U, 200 CNF max U)
+               0.00 seconds building connectivity graph
+               0.02 seconds (   0.02 pure) evaluating 661 states, to a max depth of 2
+               0.00 seconds in DP for 0 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.01 seconds generating,    0.00 seconds encoding 1618 state transition base CNFs
+               0.00 seconds in DP solving 0 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.02 seconds checking for stagnating states (47 hits), including 0 DP calls
+               0.00 seconds altogether checking for dominated states making 111 comparisons (111 conformant, 111 hits),
+                    spending    0.00 seconds doing 0 DP calls
+                  0 total DP calls, 0 total UP calls,    0.00 sec membership
+               0.01 seconds for remaining searching duties
+               0.07 seconds total time (+    0.16 secs for CNF memory allocation)
+
+初始目标状态
+Fold:81 Uold:80
+num_Orold:0
+参数大于2的OR: 
+
+
+当前反例添加的目标状态
+Fcur:121 Ucur:0
+num_Orcur:0
+参数大于2的OR: 
+
+
+counter_time:49.16
+plan length:278
+iteration:1
+now_time:49.373170457001834

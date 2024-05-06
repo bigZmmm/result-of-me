@@ -1,0 +1,410 @@
+
+ff: parsing domain file
+domain 'BOMB' defined
+ ... done.
+ff: parsing problem file
+problem 'BOMB-50-10' defined
+ ... done.
+
+
+F:
+(NOT-CLOGGED TOILET1)
+(NOT-CLOGGED TOILET2)
+(NOT-CLOGGED TOILET3)
+(NOT-CLOGGED TOILET4)
+(NOT-CLOGGED TOILET5)
+(NOT-CLOGGED TOILET6)
+(NOT-CLOGGED TOILET7)
+(NOT-CLOGGED TOILET8)
+(NOT-CLOGGED TOILET9)
+(NOT-CLOGGED TOILET10)
+U:
+(NOT-ARMED BOMB1)
+(NOT-ARMED BOMB2)
+(NOT-ARMED BOMB3)
+(NOT-ARMED BOMB4)
+(NOT-ARMED BOMB5)
+(NOT-ARMED BOMB6)
+(NOT-ARMED BOMB7)
+(NOT-ARMED BOMB8)
+(NOT-ARMED BOMB9)
+(NOT-ARMED BOMB10)
+(NOT-ARMED BOMB11)
+(NOT-ARMED BOMB12)
+(NOT-ARMED BOMB13)
+(NOT-ARMED BOMB14)
+(NOT-ARMED BOMB15)
+(NOT-ARMED BOMB16)
+(NOT-ARMED BOMB17)
+(NOT-ARMED BOMB18)
+(NOT-ARMED BOMB19)
+(NOT-ARMED BOMB20)
+(NOT-ARMED BOMB21)
+(NOT-ARMED BOMB22)
+(NOT-ARMED BOMB23)
+(NOT-ARMED BOMB24)
+(NOT-ARMED BOMB25)
+(NOT-ARMED BOMB26)
+(NOT-ARMED BOMB27)
+(NOT-ARMED BOMB28)
+(NOT-ARMED BOMB29)
+(NOT-ARMED BOMB30)
+(NOT-ARMED BOMB31)
+(NOT-ARMED BOMB32)
+(NOT-ARMED BOMB33)
+(NOT-ARMED BOMB34)
+(NOT-ARMED BOMB35)
+(NOT-ARMED BOMB36)
+(NOT-ARMED BOMB37)
+(NOT-ARMED BOMB38)
+(NOT-ARMED BOMB39)
+(NOT-ARMED BOMB40)
+(NOT-ARMED BOMB41)
+(NOT-ARMED BOMB42)
+(NOT-ARMED BOMB43)
+(NOT-ARMED BOMB44)
+(NOT-ARMED BOMB45)
+(NOT-ARMED BOMB46)
+(NOT-ARMED BOMB47)
+(NOT-ARMED BOMB48)
+(NOT-ARMED BOMB49)
+(NOT-ARMED BOMB50)
+(ARMED BOMB1)
+(ARMED BOMB2)
+(ARMED BOMB3)
+(ARMED BOMB4)
+(ARMED BOMB5)
+(ARMED BOMB6)
+(ARMED BOMB7)
+(ARMED BOMB8)
+(ARMED BOMB9)
+(ARMED BOMB10)
+(ARMED BOMB11)
+(ARMED BOMB12)
+(ARMED BOMB13)
+(ARMED BOMB14)
+(ARMED BOMB15)
+(ARMED BOMB16)
+(ARMED BOMB17)
+(ARMED BOMB18)
+(ARMED BOMB19)
+(ARMED BOMB20)
+(ARMED BOMB21)
+(ARMED BOMB22)
+(ARMED BOMB23)
+(ARMED BOMB24)
+(ARMED BOMB25)
+(ARMED BOMB26)
+(ARMED BOMB27)
+(ARMED BOMB28)
+(ARMED BOMB29)
+(ARMED BOMB30)
+(ARMED BOMB31)
+(ARMED BOMB32)
+(ARMED BOMB33)
+(ARMED BOMB34)
+(ARMED BOMB35)
+(ARMED BOMB36)
+(ARMED BOMB37)
+(ARMED BOMB38)
+(ARMED BOMB39)
+(ARMED BOMB40)
+(ARMED BOMB41)
+(ARMED BOMB42)
+(ARMED BOMB43)
+(ARMED BOMB44)
+(ARMED BOMB45)
+(ARMED BOMB46)
+(ARMED BOMB47)
+(ARMED BOMB48)
+(ARMED BOMB49)
+(ARMED BOMB50)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(NOT-CLOGGED TOILET1)
+(NOT-CLOGGED TOILET2)
+(NOT-CLOGGED TOILET3)
+(NOT-CLOGGED TOILET4)
+(NOT-CLOGGED TOILET5)
+(NOT-CLOGGED TOILET6)
+(NOT-CLOGGED TOILET7)
+(NOT-CLOGGED TOILET8)
+(NOT-CLOGGED TOILET9)
+(NOT-CLOGGED TOILET10)
+U:
+(NOT-ARMED BOMB1)
+(NOT-ARMED BOMB2)
+(NOT-ARMED BOMB3)
+(NOT-ARMED BOMB4)
+(NOT-ARMED BOMB5)
+(NOT-ARMED BOMB6)
+(NOT-ARMED BOMB7)
+(NOT-ARMED BOMB8)
+(NOT-ARMED BOMB9)
+(NOT-ARMED BOMB10)
+(NOT-ARMED BOMB11)
+(NOT-ARMED BOMB12)
+(NOT-ARMED BOMB13)
+(NOT-ARMED BOMB14)
+(NOT-ARMED BOMB15)
+(NOT-ARMED BOMB16)
+(NOT-ARMED BOMB17)
+(NOT-ARMED BOMB18)
+(NOT-ARMED BOMB19)
+(NOT-ARMED BOMB20)
+(NOT-ARMED BOMB21)
+(NOT-ARMED BOMB22)
+(NOT-ARMED BOMB23)
+(NOT-ARMED BOMB24)
+(NOT-ARMED BOMB25)
+(NOT-ARMED BOMB26)
+(NOT-ARMED BOMB27)
+(NOT-ARMED BOMB28)
+(NOT-ARMED BOMB29)
+(NOT-ARMED BOMB30)
+(NOT-ARMED BOMB31)
+(NOT-ARMED BOMB32)
+(NOT-ARMED BOMB33)
+(NOT-ARMED BOMB34)
+(NOT-ARMED BOMB35)
+(NOT-ARMED BOMB36)
+(NOT-ARMED BOMB37)
+(NOT-ARMED BOMB38)
+(NOT-ARMED BOMB39)
+(NOT-ARMED BOMB40)
+(NOT-ARMED BOMB41)
+(NOT-ARMED BOMB42)
+(NOT-ARMED BOMB43)
+(NOT-ARMED BOMB44)
+(NOT-ARMED BOMB45)
+(NOT-ARMED BOMB46)
+(NOT-ARMED BOMB47)
+(NOT-ARMED BOMB48)
+(NOT-ARMED BOMB49)
+(NOT-ARMED BOMB50)
+(ARMED BOMB1)
+(ARMED BOMB2)
+(ARMED BOMB3)
+(ARMED BOMB4)
+(ARMED BOMB5)
+(ARMED BOMB6)
+(ARMED BOMB7)
+(ARMED BOMB8)
+(ARMED BOMB9)
+(ARMED BOMB10)
+(ARMED BOMB11)
+(ARMED BOMB12)
+(ARMED BOMB13)
+(ARMED BOMB14)
+(ARMED BOMB15)
+(ARMED BOMB16)
+(ARMED BOMB17)
+(ARMED BOMB18)
+(ARMED BOMB19)
+(ARMED BOMB20)
+(ARMED BOMB21)
+(ARMED BOMB22)
+(ARMED BOMB23)
+(ARMED BOMB24)
+(ARMED BOMB25)
+(ARMED BOMB26)
+(ARMED BOMB27)
+(ARMED BOMB28)
+(ARMED BOMB29)
+(ARMED BOMB30)
+(ARMED BOMB31)
+(ARMED BOMB32)
+(ARMED BOMB33)
+(ARMED BOMB34)
+(ARMED BOMB35)
+(ARMED BOMB36)
+(ARMED BOMB37)
+(ARMED BOMB38)
+(ARMED BOMB39)
+(ARMED BOMB40)
+(ARMED BOMB41)
+(ARMED BOMB42)
+(ARMED BOMB43)
+(ARMED BOMB44)
+(ARMED BOMB45)
+(ARMED BOMB46)
+(ARMED BOMB47)
+(ARMED BOMB48)
+(ARMED BOMB49)
+(ARMED BOMB50)
+UE:
+
+----------------------INITIAL ORS:-----------------------------H:51
+
+
+Cueing down from goal distance:   51 into depth [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1][2]
+                                  41            [1][2]
+                                  40            [1][2]
+                                  39            [1][2]
+                                  38            [1][2]
+                                  37            [1][2]
+                                  36            [1][2]
+                                  35            [1][2]
+                                  34            [1][2]
+                                  33            [1][2]
+                                  32            [1][2]
+                                  31            [1][2]
+                                  30            [1][2]
+                                  29            [1][2]
+                                  28            [1][2]
+                                  27            [1][2]
+                                  26            [1][2]
+                                  25            [1][2]
+                                  24            [1][2]
+                                  23            [1][2]
+                                  22            [1][2]
+                                  21            [1][2]
+                                  20            [1][2]
+                                  19            [1][2]
+                                  18            [1][2]
+                                  17            [1][2]
+                                  16            [1][2]
+                                  15            [1][2]
+                                  14            [1][2]
+                                  13            [1][2]
+                                  12            [1][2]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: DUNK BOMB50 TOILET10
+        1: DUNK BOMB49 TOILET9
+        2: DUNK BOMB48 TOILET8
+        3: DUNK BOMB47 TOILET7
+        4: DUNK BOMB46 TOILET6
+        5: DUNK BOMB45 TOILET5
+        6: DUNK BOMB44 TOILET4
+        7: DUNK BOMB43 TOILET3
+        8: DUNK BOMB42 TOILET2
+        9: DUNK BOMB41 TOILET1
+       10: FLUSH TOILET10
+       11: DUNK BOMB40 TOILET10
+       12: FLUSH TOILET10
+       13: DUNK BOMB39 TOILET10
+       14: FLUSH TOILET10
+       15: DUNK BOMB38 TOILET10
+       16: FLUSH TOILET10
+       17: DUNK BOMB37 TOILET10
+       18: FLUSH TOILET10
+       19: DUNK BOMB36 TOILET10
+       20: FLUSH TOILET10
+       21: DUNK BOMB35 TOILET10
+       22: FLUSH TOILET10
+       23: DUNK BOMB34 TOILET10
+       24: FLUSH TOILET10
+       25: DUNK BOMB33 TOILET10
+       26: FLUSH TOILET10
+       27: DUNK BOMB32 TOILET10
+       28: FLUSH TOILET10
+       29: DUNK BOMB31 TOILET10
+       30: FLUSH TOILET10
+       31: DUNK BOMB30 TOILET10
+       32: FLUSH TOILET10
+       33: DUNK BOMB29 TOILET10
+       34: FLUSH TOILET10
+       35: DUNK BOMB28 TOILET10
+       36: FLUSH TOILET10
+       37: DUNK BOMB27 TOILET10
+       38: FLUSH TOILET10
+       39: DUNK BOMB26 TOILET10
+       40: FLUSH TOILET10
+       41: DUNK BOMB25 TOILET10
+       42: FLUSH TOILET10
+       43: DUNK BOMB24 TOILET10
+       44: FLUSH TOILET10
+       45: DUNK BOMB23 TOILET10
+       46: FLUSH TOILET10
+       47: DUNK BOMB22 TOILET10
+       48: FLUSH TOILET10
+       49: DUNK BOMB21 TOILET10
+       50: FLUSH TOILET10
+       51: DUNK BOMB20 TOILET10
+       52: FLUSH TOILET10
+       53: DUNK BOMB19 TOILET10
+       54: FLUSH TOILET10
+       55: DUNK BOMB18 TOILET10
+       56: FLUSH TOILET10
+       57: DUNK BOMB17 TOILET10
+       58: FLUSH TOILET10
+       59: DUNK BOMB16 TOILET10
+       60: FLUSH TOILET10
+       61: DUNK BOMB15 TOILET10
+       62: FLUSH TOILET10
+       63: DUNK BOMB14 TOILET10
+       64: FLUSH TOILET10
+       65: DUNK BOMB13 TOILET10
+       66: FLUSH TOILET10
+       67: DUNK BOMB12 TOILET10
+       68: FLUSH TOILET10
+       69: DUNK BOMB11 TOILET10
+       70: FLUSH TOILET10
+       71: DUNK BOMB10 TOILET10
+       72: FLUSH TOILET10
+       73: DUNK BOMB9 TOILET10
+       74: FLUSH TOILET10
+       75: DUNK BOMB8 TOILET10
+       76: FLUSH TOILET10
+       77: DUNK BOMB7 TOILET10
+       78: FLUSH TOILET10
+       79: DUNK BOMB6 TOILET10
+       80: FLUSH TOILET10
+       81: DUNK BOMB5 TOILET10
+       82: FLUSH TOILET10
+       83: DUNK BOMB4 TOILET10
+       84: FLUSH TOILET10
+       85: DUNK BOMB3 TOILET10
+       86: FLUSH TOILET10
+       87: DUNK BOMB2 TOILET10
+       88: FLUSH TOILET10
+       89: DUNK BOMB1 TOILET10
+     
+
+statistics:    0.00 seconds instantiating 510 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 180 facts and 510 actions
+               0.00 seconds creating final representation with 120 relevant facts (100 max U, 50 CNF max U)
+               0.00 seconds building connectivity graph
+               0.28 seconds (   0.28 pure) evaluating 910 states, to a max depth of 2
+               0.00 seconds in DP for 0 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 2135 state transition base CNFs
+               0.00 seconds in DP solving 1275 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (0 hits), including 0 DP calls
+               0.00 seconds altogether checking for dominated states making 0 comparisons (0 conformant, 0 hits),
+                    spending    0.00 seconds doing 0 DP calls
+               1275 total DP calls, 1275 total UP calls,    0.00 sec membership
+               0.11 seconds for remaining searching duties
+               0.39 seconds total time (+    0.11 secs for CNF memory allocation)
+
+plan length:90
+iteration:1
+now_time:0.44087158900219947

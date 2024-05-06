@@ -1,0 +1,210 @@
+
+ff: parsing domain file
+domain 'GRID' defined
+ ... done.
+ff: parsing problem file
+problem 'INSTANCE_13__12345' defined
+ ... done.
+
+
+F:
+(NOT-CANMOVE)
+U:
+(NOT-X ZERO)
+(NOT-X ONE)
+(NOT-X TWO)
+(NOT-X THREE)
+(NOT-X FOUR)
+(NOT-X FIVE)
+(NOT-X SIX)
+(NOT-X SEVEN)
+(NOT-X EIGHT)
+(NOT-X NINE)
+(NOT-X TEN)
+(NOT-X ELEVEN)
+(NOT-X TWELVE)
+(NOT-Y ZERO)
+(NOT-Y ONE)
+(NOT-Y TWO)
+(NOT-Y THREE)
+(NOT-Y FOUR)
+(NOT-Y FIVE)
+(NOT-Y SIX)
+(NOT-Y SEVEN)
+(NOT-Y EIGHT)
+(NOT-Y NINE)
+(NOT-Y TEN)
+(NOT-Y ELEVEN)
+(NOT-Y TWELVE)
+(X EIGHT)
+(X ELEVEN)
+(X FIVE)
+(X FOUR)
+(X NINE)
+(X ONE)
+(X SEVEN)
+(X SIX)
+(X TEN)
+(X THREE)
+(X TWELVE)
+(X TWO)
+(X ZERO)
+(Y EIGHT)
+(Y ELEVEN)
+(Y FIVE)
+(Y FOUR)
+(Y NINE)
+(Y ONE)
+(Y SEVEN)
+(Y SIX)
+(Y TEN)
+(Y THREE)
+(Y TWELVE)
+(Y TWO)
+(Y ZERO)
+UE:
+var_size: 54
+
+当前收集的断言数：29
+
+1
+
+第1次迭代
+当前初始状态:
+F:27 U:0
+num_Or:133
+参数大于2的OR: 
+H:16
+
+
+Cueing down from goal distance:   16 into depth [1]
+                                  15            [1][2]
+                                  14            [1][2]
+                                  13            [1][2]
+                                  12            [1][2]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1][2]
+                                   8            [1][2]
+                                   7            [1][2]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：28
+
+var_size: 1566
+
+当前收集的断言数：785
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:23 U:8
+num_Or:159
+参数大于2的OR: 
+H:27
+
+
+Cueing down from goal distance:   27 into depth [1]
+                                  26            [1][2]
+                                  25            [1][2]
+                                  24            [1][2]
+                                  23            [1]
+                                  19            [1]
+                                  18            [1][2]
+                                  17            [1]
+                                  15            [1]
+                                  14            [1][2][3][4][5][6]
+                                  13            [1][2][3][4][5]
+                                  12            [1]
+                                  11            [1][2]
+                                  10            [1][2]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1][2]
+                                   6            [1][2][3][4][5][6][7][8][9][10][11][12][13][14]
+                                   5            [1][2]
+                                   4            [1][2][3][4][5][6][7][8][9][10][11][12][13][14][15][16]
+                                   3            [1][2]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   27
+                          26
+                          25
+                          24
+                          23
+                          19
+                          18
+                          17
+                          15
+                          14
+                          13
+                          12
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：78
+
+var_size: 4266
+
+当前收集的断言数：2135
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:21 U:12
+num_Or:159
+参数大于2的OR: 
+(X TWELVE) (X TEN) (X SEVEN) 
+(Y TWELVE) (Y FIVE) (Y FOUR) 
+H:8
+
+
+Cueing down from goal distance:    8 into depth [1][2]
+                                   7            [1]
+                                   6            [1][2]
+                                   5            [1][2]
+                                   4            [1][2]
+                                   3            [1][2]
+                                   2            [1][2][3]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+negated effcond -- in rplan-nodel-noops -- is not unknown?
+
+Out of Memory
+now_time:0.5881056349608116

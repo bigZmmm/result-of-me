@@ -1,0 +1,640 @@
+
+ff: parsing domain file
+domain 'CUBE' defined
+ ... done.
+ff: parsing problem file
+problem 'CUBE-CUBE-D20-G10-CORNERS' defined
+ ... done.
+
+
+F:
+(NOT-Z P2)
+(NOT-Z P3)
+(NOT-Z P4)
+(NOT-Z P5)
+(NOT-Z P6)
+(NOT-Z P7)
+(NOT-Z P8)
+(NOT-Z P9)
+(NOT-Z P10)
+(NOT-Z P11)
+(NOT-Z P12)
+(NOT-Z P13)
+(NOT-Z P14)
+(NOT-Z P15)
+(NOT-Z P16)
+(NOT-Z P17)
+(NOT-Z P18)
+(NOT-Z P19)
+(NOT-Y P2)
+(NOT-Y P3)
+(NOT-Y P4)
+(NOT-Y P5)
+(NOT-Y P6)
+(NOT-Y P7)
+(NOT-Y P8)
+(NOT-Y P9)
+(NOT-Y P10)
+(NOT-Y P11)
+(NOT-Y P12)
+(NOT-Y P13)
+(NOT-Y P14)
+(NOT-Y P15)
+(NOT-Y P16)
+(NOT-Y P17)
+(NOT-Y P18)
+(NOT-Y P19)
+(NOT-X P2)
+(NOT-X P3)
+(NOT-X P4)
+(NOT-X P5)
+(NOT-X P6)
+(NOT-X P7)
+(NOT-X P8)
+(NOT-X P9)
+(NOT-X P10)
+(NOT-X P11)
+(NOT-X P12)
+(NOT-X P13)
+(NOT-X P14)
+(NOT-X P15)
+(NOT-X P16)
+(NOT-X P17)
+(NOT-X P18)
+(NOT-X P19)
+U:
+(NOT-Z P1)
+(NOT-Z P20)
+(NOT-Y P1)
+(NOT-Y P20)
+(NOT-X P1)
+(NOT-X P20)
+(X P1)
+(X P20)
+(Y P1)
+(Y P20)
+(Z P1)
+(Z P20)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(NOT-Z P2)
+(NOT-Z P3)
+(NOT-Z P4)
+(NOT-Z P5)
+(NOT-Z P6)
+(NOT-Z P7)
+(NOT-Z P8)
+(NOT-Z P9)
+(NOT-Z P10)
+(NOT-Z P11)
+(NOT-Z P12)
+(NOT-Z P13)
+(NOT-Z P14)
+(NOT-Z P15)
+(NOT-Z P16)
+(NOT-Z P17)
+(NOT-Z P18)
+(NOT-Z P19)
+(NOT-Y P2)
+(NOT-Y P3)
+(NOT-Y P4)
+(NOT-Y P5)
+(NOT-Y P6)
+(NOT-Y P7)
+(NOT-Y P8)
+(NOT-Y P9)
+(NOT-Y P10)
+(NOT-Y P11)
+(NOT-Y P12)
+(NOT-Y P13)
+(NOT-Y P14)
+(NOT-Y P15)
+(NOT-Y P16)
+(NOT-Y P17)
+(NOT-Y P18)
+(NOT-Y P19)
+(NOT-X P2)
+(NOT-X P3)
+(NOT-X P4)
+(NOT-X P5)
+(NOT-X P6)
+(NOT-X P7)
+(NOT-X P8)
+(NOT-X P9)
+(NOT-X P10)
+(NOT-X P11)
+(NOT-X P12)
+(NOT-X P13)
+(NOT-X P14)
+(NOT-X P15)
+(NOT-X P16)
+(NOT-X P17)
+(NOT-X P18)
+(NOT-X P19)
+U:
+(NOT-Z P1)
+(NOT-Z P20)
+(NOT-Y P1)
+(NOT-Y P20)
+(NOT-X P1)
+(NOT-X P20)
+(X P1)
+(X P20)
+(Y P1)
+(Y P20)
+(Z P1)
+(Z P20)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (X P20) (X P1) 
+OR: (NOT-X P20) (NOT-X P1) 
+OR: (Y P20) (Y P1) 
+OR: (NOT-Y P20) (NOT-Y P1) 
+OR: (Z P20) (Z P1) 
+OR: (NOT-Z P20) (NOT-Z P1) H:58
+
+
+Cueing down from goal distance:   58 into depth [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1][2]
+                                  51            [1][2]
+                                  50            [1][2]
+                                  49            [1][2][3]
+                                  48            [1][2][3]
+                                  47            [1][2][3]
+                                  46            [1][2][3][4]
+                                  45            [1][2][3][4]
+                                  44            [1][2][3][4]
+                                  43            [1][2][3][4][5]
+                                  42            [1][2][3][4][5]
+                                  41            [1][2][3][4][5]
+                                  40            [1][2][3][4][5][6]
+                                  39            [1][2][3][4][5][6]
+                                  38            [1][2][3][4][5][6]
+                                  37            [1][2][3][4][5][6][7]
+                                  36            [1][2][3][4][5][6][7]
+                                  35            [1][2][3][4][5][6][7]
+                                  34            [1][2][3][4][5][6][7][8]
+                                  33            [1][2][3][4][5][6][7][8]
+                                  32            [1][2][3][4][5][6][7][8]
+                                  31            [1][2][3][4][5][6][7][8][9]
+                                  30            [1][2][3][4][5][6][7][8][9]
+                                  29            [1][2][3][4][5][6][7][8][9]
+                                  28            [1][2][3][4][5][6][7][8][9][10]
+                                  27            [1][2][3][4][5][6][7][8][9][10]
+                                  26            [1][2][3][4][5][6][7][8][9][10]
+                                  25            [1][2][3][4][5][6][7][8][9][10][11]
+                                  24            [1][2][3][4][5][6][7][8][9][10][11]
+                                  23            [1][2][3][4][5][6][7][8][9][10][11]
+                                  22            [1][2][3][4][5][6][7][8][9][10][11][12]
+                                  21            [1][2][3][4][5][6][7][8][9][10][11][12]
+                                  20            [1][2][3][4][5][6][7][8][9][10][11][12]
+                                  19            [1][2][3][4][5][6][7][8][9][10][11][12][13]
+                                  18            [1][2][3][4][5][6][7][8][9][10][11][12][13]
+                                  17            [1][2][3][4][5][6][7][8][9][10][11][12][13]
+                                  16            [1][2][3][4][5][6][7][8][9][10][11][12][13][14]
+                                  15            [1][2][3][4][5][6][7][8][9][10][11][12][13][14]
+                                  14            [1][2][3][4][5][6][7][8][9][10][11][12][13][14]
+                                  13            [1][2][3][4][5][6][7][8][9][10][11][12][13][14][15]
+                                  12            [1][2][3][4][5][6][7][8][9][10][11][12][13][14][15]
+                                  11            [1][2][3][4][5][6][7][8][9][10][11][12][13][14][15]
+                                  10            [1][2][3][4][5][6][7][8][9][10][11][12][13][14][15][16]
+                                   9            [1][2][3][4][5][6][7][8][9][10][11][12][13][14][15][16]
+                                   8            [1][2][3][4][5][6][7][8][9][10][11][12][13][14][15][16]
+                                   7            [1][2][3][4][5][6][7][8][9][10][11][12][13][14][15][16][17]
+                                   6            [1]
+                                   5            [1][2][3][4][5][6][7][8][9][10][11][12][13][14][15][16][17]
+                                   4            [1]
+                                   3            [1][2][3][4][5][6][7][8][9][10][11][12][13][14][15][16][17]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   58
+                          57
+                          56
+                          55
+                          54
+                          53
+                          52
+                          51
+                          50
+                          49
+                          48
+                          47
+                          46
+                          45
+                          44
+                          43
+                          42
+                          41
+                          40
+                          39
+                          38
+                          37
+                          36
+                          35
+                          34
+                          33
+                          32
+                          31
+                          30
+                          29
+                          28
+                          27
+                          26
+                          25
+                          24
+                          23
+                          22
+                          21
+                          20
+                          19
+                          18
+                          17
+                          16
+                          15
+                          14
+                          13
+                          12
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+
+
+ff: found legal plan as follows
+
+step    0: RIGHT
+        1: RIGHT
+        2: DOWN
+        3: DOWN
+        4: OUT
+        5: OUT
+        6: RIGHT
+        7: RIGHT
+        8: LEFT
+        9: LEFT
+       10: DOWN
+       11: DOWN
+       12: UP
+       13: RIGHT
+       14: UP
+       15: OUT
+       16: OUT
+       17: IN
+       18: IN
+       19: RIGHT
+       20: RIGHT
+       21: RIGHT
+       22: LEFT
+       23: LEFT
+       24: OUT
+       25: OUT
+       26: OUT
+       27: OUT
+       28: IN
+       29: IN
+       30: DOWN
+       31: DOWN
+       32: DOWN
+       33: DOWN
+       34: UP
+       35: UP
+       36: OUT
+       37: OUT
+       38: OUT
+       39: OUT
+       40: IN
+       41: IN
+       42: IN
+       43: DOWN
+       44: DOWN
+       45: DOWN
+       46: DOWN
+       47: UP
+       48: UP
+       49: UP
+       50: RIGHT
+       51: RIGHT
+       52: RIGHT
+       53: RIGHT
+       54: LEFT
+       55: LEFT
+       56: LEFT
+       57: IN
+       58: DOWN
+       59: DOWN
+       60: DOWN
+       61: DOWN
+       62: DOWN
+       63: UP
+       64: UP
+       65: UP
+       66: UP
+       67: OUT
+       68: RIGHT
+       69: RIGHT
+       70: RIGHT
+       71: RIGHT
+       72: RIGHT
+       73: LEFT
+       74: LEFT
+       75: LEFT
+       76: LEFT
+       77: UP
+       78: OUT
+       79: OUT
+       80: OUT
+       81: OUT
+       82: OUT
+       83: IN
+       84: IN
+       85: IN
+       86: IN
+       87: RIGHT
+       88: RIGHT
+       89: RIGHT
+       90: RIGHT
+       91: RIGHT
+       92: RIGHT
+       93: LEFT
+       94: LEFT
+       95: LEFT
+       96: LEFT
+       97: LEFT
+       98: OUT
+       99: OUT
+      100: OUT
+      101: OUT
+      102: OUT
+      103: OUT
+      104: IN
+      105: IN
+      106: IN
+      107: IN
+      108: IN
+      109: LEFT
+      110: DOWN
+      111: DOWN
+      112: DOWN
+      113: DOWN
+      114: DOWN
+      115: DOWN
+      116: DOWN
+      117: UP
+      118: UP
+      119: UP
+      120: UP
+      121: UP
+      122: UP
+      123: OUT
+      124: OUT
+      125: OUT
+      126: OUT
+      127: OUT
+      128: OUT
+      129: OUT
+      130: IN
+      131: IN
+      132: IN
+      133: IN
+      134: IN
+      135: IN
+      136: DOWN
+      137: DOWN
+      138: DOWN
+      139: DOWN
+      140: DOWN
+      141: DOWN
+      142: DOWN
+      143: DOWN
+      144: UP
+      145: UP
+      146: UP
+      147: UP
+      148: UP
+      149: UP
+      150: RIGHT
+      151: IN
+      152: RIGHT
+      153: RIGHT
+      154: RIGHT
+      155: RIGHT
+      156: RIGHT
+      157: RIGHT
+      158: RIGHT
+      159: LEFT
+      160: LEFT
+      161: LEFT
+      162: LEFT
+      163: LEFT
+      164: LEFT
+      165: DOWN
+      166: DOWN
+      167: DOWN
+      168: DOWN
+      169: DOWN
+      170: DOWN
+      171: DOWN
+      172: DOWN
+      173: UP
+      174: UP
+      175: UP
+      176: UP
+      177: UP
+      178: UP
+      179: UP
+      180: RIGHT
+      181: RIGHT
+      182: RIGHT
+      183: RIGHT
+      184: RIGHT
+      185: RIGHT
+      186: RIGHT
+      187: RIGHT
+      188: LEFT
+      189: LEFT
+      190: LEFT
+      191: LEFT
+      192: LEFT
+      193: LEFT
+      194: LEFT
+      195: LEFT
+      196: UP
+      197: OUT
+      198: OUT
+      199: OUT
+      200: OUT
+      201: OUT
+      202: OUT
+      203: OUT
+      204: OUT
+      205: OUT
+      206: IN
+      207: IN
+      208: IN
+      209: IN
+      210: IN
+      211: IN
+      212: IN
+      213: DOWN
+      214: DOWN
+      215: DOWN
+      216: DOWN
+      217: DOWN
+      218: DOWN
+      219: DOWN
+      220: DOWN
+      221: DOWN
+      222: DOWN
+      223: UP
+      224: UP
+      225: UP
+      226: UP
+      227: UP
+      228: UP
+      229: UP
+      230: UP
+      231: UP
+      232: RIGHT
+      233: IN
+      234: DOWN
+      235: RIGHT
+      236: RIGHT
+      237: RIGHT
+      238: RIGHT
+      239: RIGHT
+      240: RIGHT
+      241: RIGHT
+      242: RIGHT
+      243: RIGHT
+      244: LEFT
+      245: LEFT
+      246: LEFT
+      247: LEFT
+      248: LEFT
+      249: LEFT
+      250: LEFT
+      251: LEFT
+      252: LEFT
+      253: OUT
+      254: OUT
+      255: OUT
+      256: OUT
+      257: OUT
+      258: OUT
+      259: OUT
+      260: OUT
+      261: OUT
+      262: OUT
+      263: IN
+      264: IN
+      265: IN
+      266: IN
+      267: IN
+      268: IN
+      269: IN
+      270: IN
+      271: IN
+      272: RIGHT
+      273: UP
+      274: OUT
+      275: RIGHT
+      276: RIGHT
+      277: RIGHT
+      278: RIGHT
+      279: RIGHT
+      280: RIGHT
+      281: RIGHT
+      282: RIGHT
+      283: RIGHT
+      284: LEFT
+      285: LEFT
+      286: LEFT
+      287: LEFT
+      288: LEFT
+      289: LEFT
+      290: LEFT
+      291: LEFT
+      292: LEFT
+      293: DOWN
+      294: IN
+      295: DOWN
+      296: DOWN
+      297: DOWN
+      298: DOWN
+      299: DOWN
+      300: DOWN
+      301: DOWN
+      302: DOWN
+      303: DOWN
+      304: UP
+      305: UP
+      306: UP
+      307: UP
+      308: UP
+      309: UP
+      310: UP
+      311: UP
+      312: UP
+      313: OUT
+      314: OUT
+      315: OUT
+      316: OUT
+      317: OUT
+      318: OUT
+      319: OUT
+      320: OUT
+      321: OUT
+      322: OUT
+      323: IN
+      324: IN
+      325: IN
+      326: IN
+      327: IN
+      328: IN
+      329: IN
+      330: IN
+      331: IN
+     
+
+statistics:    0.00 seconds instantiating 6 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 120 facts and 6 actions
+               0.00 seconds creating final representation with 120 relevant facts (120 max U, 60 CNF max U)
+               0.00 seconds building connectivity graph
+             455.15 seconds ( 448.85 pure) evaluating 126036 states, to a max depth of 17
+               6.30 seconds in DP for 20955640 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+              20.37 seconds generating,    4.76 seconds encoding 716303 state transition base CNFs
+             106.95 seconds in DP solving 2767542 state transition CNFs
+               0.22 seconds checking for self-contradictions, including 61712 DP calls
+               2.35 seconds checking for stagnating states (94343 hits), including 558902 DP calls
+             333.41 seconds altogether checking for dominated states making 463356 comparisons (455040 conformant, 455040 hits),
+                    spending   73.90 seconds doing 2704342 DP calls
+            27048138 total DP calls, 71788610 total UP calls,   42.07 sec membership
+               4.85 seconds for remaining searching duties
+             927.84 seconds total time (+    0.09 secs for CNF memory allocation)
+
+plan length:332
+iteration:1
+now_time:940.1923149499999

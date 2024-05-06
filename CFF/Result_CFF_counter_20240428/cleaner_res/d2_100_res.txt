@@ -1,0 +1,483 @@
+
+ff: parsing domain file
+domain 'CLEANER' defined
+ ... done.
+ff: parsing problem file
+problem 'CLEANER-2-100' defined
+ ... done.
+
+
+F:
+(NOT-POSITION R1)
+(POSITION R0)
+U:
+UE:
+var_size: 203
+
+当前收集的断言数：3
+
+1
+
+第1次迭代
+当前初始状态:
+F:2 U:0
+num_Or:0
+参数大于2的OR: 
+H:202
+
+
+Cueing down from goal distance:  202 into depth [1]
+                                 201            [1]
+                                 200            [1]
+                                 199            [1]
+                                 198            [1]
+                                 197            [1]
+                                 196            [1]
+                                 195            [1]
+                                 194            [1]
+                                 193            [1]
+                                 192            [1]
+                                 191            [1]
+                                 190            [1]
+                                 189            [1]
+                                 188            [1]
+                                 187            [1]
+                                 186            [1]
+                                 185            [1]
+                                 184            [1]
+                                 183            [1]
+                                 182            [1]
+                                 181            [1]
+                                 180            [1]
+                                 179            [1]
+                                 178            [1]
+                                 177            [1]
+                                 176            [1]
+                                 175            [1]
+                                 174            [1]
+                                 173            [1]
+                                 172            [1]
+                                 171            [1]
+                                 170            [1]
+                                 169            [1]
+                                 168            [1]
+                                 167            [1]
+                                 166            [1]
+                                 165            [1]
+                                 164            [1]
+                                 163            [1]
+                                 162            [1]
+                                 161            [1]
+                                 160            [1]
+                                 159            [1]
+                                 158            [1]
+                                 157            [1]
+                                 156            [1]
+                                 155            [1]
+                                 154            [1]
+                                 153            [1]
+                                 152            [1]
+                                 151            [1]
+                                 150            [1]
+                                 149            [1]
+                                 148            [1]
+                                 147            [1]
+                                 146            [1]
+                                 145            [1]
+                                 144            [1]
+                                 143            [1]
+                                 142            [1]
+                                 141            [1]
+                                 140            [1]
+                                 139            [1]
+                                 138            [1]
+                                 137            [1]
+                                 136            [1]
+                                 135            [1]
+                                 134            [1]
+                                 133            [1]
+                                 132            [1]
+                                 131            [1]
+                                 130            [1]
+                                 129            [1]
+                                 128            [1]
+                                 127            [1]
+                                 126            [1]
+                                 125            [1]
+                                 124            [1]
+                                 123            [1]
+                                 122            [1]
+                                 121            [1]
+                                 120            [1]
+                                 119            [1]
+                                 118            [1]
+                                 117            [1]
+                                 116            [1]
+                                 115            [1]
+                                 114            [1]
+                                 113            [1]
+                                 112            [1]
+                                 111            [1]
+                                 110            [1]
+                                 109            [1]
+                                 108            [1]
+                                 107            [1]
+                                 106            [1]
+                                 105            [1]
+                                 104            [1]
+                                 103            [1]
+                                 102            [1]
+                                 101            [1]
+                                 100            [1]
+                                  99            [1]
+                                  98            [1]
+                                  97            [1]
+                                  96            [1]
+                                  95            [1]
+                                  94            [1]
+                                  93            [1]
+                                  92            [1]
+                                  91            [1]
+                                  90            [1]
+                                  89            [1]
+                                  88            [1]
+                                  87            [1]
+                                  86            [1]
+                                  85            [1]
+                                  84            [1]
+                                  83            [1]
+                                  82            [1]
+                                  81            [1]
+                                  80            [1]
+                                  79            [1]
+                                  78            [1]
+                                  77            [1]
+                                  76            [1]
+                                  75            [1]
+                                  74            [1]
+                                  73            [1]
+                                  72            [1]
+                                  71            [1]
+                                  70            [1]
+                                  69            [1]
+                                  68            [1]
+                                  67            [1]
+                                  66            [1]
+                                  65            [1]
+                                  64            [1]
+                                  63            [1]
+                                  62            [1]
+                                  61            [1]
+                                  60            [1]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：201
+
+var_size: 41207
+
+当前收集的断言数：405
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: CLEAN R0 O0
+        1: CLEAN R0 O1
+        2: CLEAN R0 O2
+        3: CLEAN R0 O3
+        4: CLEAN R0 O4
+        5: CLEAN R0 O5
+        6: CLEAN R0 O6
+        7: CLEAN R0 O7
+        8: CLEAN R0 O8
+        9: CLEAN R0 O9
+       10: CLEAN R0 O10
+       11: CLEAN R0 O11
+       12: CLEAN R0 O12
+       13: CLEAN R0 O13
+       14: CLEAN R0 O14
+       15: CLEAN R0 O15
+       16: CLEAN R0 O16
+       17: CLEAN R0 O17
+       18: CLEAN R0 O18
+       19: CLEAN R0 O19
+       20: CLEAN R0 O20
+       21: CLEAN R0 O21
+       22: CLEAN R0 O22
+       23: CLEAN R0 O23
+       24: CLEAN R0 O24
+       25: CLEAN R0 O25
+       26: CLEAN R0 O26
+       27: CLEAN R0 O27
+       28: CLEAN R0 O28
+       29: CLEAN R0 O29
+       30: CLEAN R0 O30
+       31: CLEAN R0 O31
+       32: CLEAN R0 O32
+       33: CLEAN R0 O33
+       34: CLEAN R0 O34
+       35: CLEAN R0 O35
+       36: CLEAN R0 O36
+       37: CLEAN R0 O37
+       38: CLEAN R0 O38
+       39: CLEAN R0 O39
+       40: CLEAN R0 O40
+       41: CLEAN R0 O41
+       42: CLEAN R0 O42
+       43: CLEAN R0 O43
+       44: CLEAN R0 O44
+       45: CLEAN R0 O45
+       46: CLEAN R0 O46
+       47: CLEAN R0 O47
+       48: CLEAN R0 O48
+       49: CLEAN R0 O49
+       50: CLEAN R0 O50
+       51: CLEAN R0 O51
+       52: CLEAN R0 O52
+       53: CLEAN R0 O53
+       54: CLEAN R0 O54
+       55: CLEAN R0 O55
+       56: CLEAN R0 O56
+       57: CLEAN R0 O57
+       58: CLEAN R0 O58
+       59: CLEAN R0 O59
+       60: CLEAN R0 O60
+       61: CLEAN R0 O61
+       62: CLEAN R0 O62
+       63: CLEAN R0 O63
+       64: CLEAN R0 O64
+       65: CLEAN R0 O65
+       66: CLEAN R0 O66
+       67: CLEAN R0 O67
+       68: CLEAN R0 O68
+       69: CLEAN R0 O69
+       70: CLEAN R0 O70
+       71: CLEAN R0 O71
+       72: CLEAN R0 O72
+       73: CLEAN R0 O73
+       74: CLEAN R0 O74
+       75: CLEAN R0 O75
+       76: CLEAN R0 O76
+       77: CLEAN R0 O77
+       78: CLEAN R0 O78
+       79: CLEAN R0 O79
+       80: CLEAN R0 O80
+       81: CLEAN R0 O81
+       82: CLEAN R0 O82
+       83: CLEAN R0 O83
+       84: CLEAN R0 O84
+       85: CLEAN R0 O85
+       86: CLEAN R0 O86
+       87: CLEAN R0 O87
+       88: CLEAN R0 O88
+       89: CLEAN R0 O89
+       90: CLEAN R0 O90
+       91: CLEAN R0 O91
+       92: CLEAN R0 O92
+       93: CLEAN R0 O93
+       94: CLEAN R0 O94
+       95: CLEAN R0 O95
+       96: CLEAN R0 O96
+       97: CLEAN R0 O97
+       98: CLEAN R0 O98
+       99: CLEAN R0 O99
+      100: FWD
+      101: CLEAN R1 O0
+      102: CLEAN R1 O1
+      103: CLEAN R1 O2
+      104: CLEAN R1 O3
+      105: CLEAN R1 O4
+      106: CLEAN R1 O5
+      107: CLEAN R1 O6
+      108: CLEAN R1 O7
+      109: CLEAN R1 O8
+      110: CLEAN R1 O9
+      111: CLEAN R1 O10
+      112: CLEAN R1 O11
+      113: CLEAN R1 O12
+      114: CLEAN R1 O13
+      115: CLEAN R1 O14
+      116: CLEAN R1 O15
+      117: CLEAN R1 O16
+      118: CLEAN R1 O17
+      119: CLEAN R1 O18
+      120: CLEAN R1 O19
+      121: CLEAN R1 O20
+      122: CLEAN R1 O21
+      123: CLEAN R1 O22
+      124: CLEAN R1 O23
+      125: CLEAN R1 O24
+      126: CLEAN R1 O25
+      127: CLEAN R1 O26
+      128: CLEAN R1 O27
+      129: CLEAN R1 O28
+      130: CLEAN R1 O29
+      131: CLEAN R1 O30
+      132: CLEAN R1 O31
+      133: CLEAN R1 O32
+      134: CLEAN R1 O33
+      135: CLEAN R1 O34
+      136: CLEAN R1 O35
+      137: CLEAN R1 O36
+      138: CLEAN R1 O37
+      139: CLEAN R1 O38
+      140: CLEAN R1 O39
+      141: CLEAN R1 O40
+      142: CLEAN R1 O41
+      143: CLEAN R1 O42
+      144: CLEAN R1 O43
+      145: CLEAN R1 O44
+      146: CLEAN R1 O45
+      147: CLEAN R1 O46
+      148: CLEAN R1 O47
+      149: CLEAN R1 O48
+      150: CLEAN R1 O49
+      151: CLEAN R1 O50
+      152: CLEAN R1 O51
+      153: CLEAN R1 O52
+      154: CLEAN R1 O53
+      155: CLEAN R1 O54
+      156: CLEAN R1 O55
+      157: CLEAN R1 O56
+      158: CLEAN R1 O57
+      159: CLEAN R1 O58
+      160: CLEAN R1 O59
+      161: CLEAN R1 O60
+      162: CLEAN R1 O61
+      163: CLEAN R1 O62
+      164: CLEAN R1 O63
+      165: CLEAN R1 O64
+      166: CLEAN R1 O65
+      167: CLEAN R1 O66
+      168: CLEAN R1 O67
+      169: CLEAN R1 O68
+      170: CLEAN R1 O69
+      171: CLEAN R1 O70
+      172: CLEAN R1 O71
+      173: CLEAN R1 O72
+      174: CLEAN R1 O73
+      175: CLEAN R1 O74
+      176: CLEAN R1 O75
+      177: CLEAN R1 O76
+      178: CLEAN R1 O77
+      179: CLEAN R1 O78
+      180: CLEAN R1 O79
+      181: CLEAN R1 O80
+      182: CLEAN R1 O81
+      183: CLEAN R1 O82
+      184: CLEAN R1 O83
+      185: CLEAN R1 O84
+      186: CLEAN R1 O85
+      187: CLEAN R1 O86
+      188: CLEAN R1 O87
+      189: CLEAN R1 O88
+      190: CLEAN R1 O89
+      191: CLEAN R1 O90
+      192: CLEAN R1 O91
+      193: CLEAN R1 O92
+      194: CLEAN R1 O93
+      195: CLEAN R1 O94
+      196: CLEAN R1 O95
+      197: CLEAN R1 O96
+      198: CLEAN R1 O97
+      199: CLEAN R1 O98
+      200: CLEAN R1 O99
+     
+
+statistics:    0.00 seconds instantiating 202 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 304 facts and 202 actions
+               0.00 seconds creating final representation with 204 relevant facts (0 max U, 0 CNF max U)
+               0.00 seconds building connectivity graph
+               0.03 seconds (   0.03 pure) evaluating 201 states, to a max depth of 1
+               0.00 seconds in DP for 0 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.03 seconds generating,    0.01 seconds encoding 10201 state transition base CNFs
+               0.00 seconds in DP solving 0 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.01 seconds checking for stagnating states (0 hits), including 0 DP calls
+               0.00 seconds altogether checking for dominated states making 0 comparisons (0 conformant, 0 hits),
+                    spending    0.00 seconds doing 0 DP calls
+                  0 total DP calls, 0 total UP calls,    0.00 sec membership
+               0.05 seconds for remaining searching duties
+               0.13 seconds total time (+    0.00 secs for CNF memory allocation)
+
+初始目标状态
+Fold:2 Uold:0
+num_Orold:0
+参数大于2的OR: 
+
+
+当前反例添加的目标状态
+Fcur:2 Ucur:0
+num_Orcur:0
+参数大于2的OR: 
+
+
+counter_time:14.07
+plan length:201
+iteration:1
+now_time:14.240852820999862

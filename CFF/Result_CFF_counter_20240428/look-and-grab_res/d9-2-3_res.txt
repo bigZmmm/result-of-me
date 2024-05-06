@@ -1,0 +1,655 @@
+
+ff: parsing domain file
+domain 'LOOK-AND-GRAB' defined
+ ... done.
+ff: parsing problem file
+problem 'LOOK-AND-GRAB-9-2-3-NODISAPPEAR' defined
+ ... done.
+
+
+F:
+(NOT-HOLDING O1)
+(NOT-HOLDING O2)
+(NOT-HOLDING O3)
+(HANDEMPTY)
+(AT P5-5)
+U:
+(NOT-OBJ-AT O1 P1-1)
+(NOT-OBJ-AT O1 P1-2)
+(NOT-OBJ-AT O1 P1-3)
+(NOT-OBJ-AT O1 P1-4)
+(NOT-OBJ-AT O1 P1-5)
+(NOT-OBJ-AT O1 P1-6)
+(NOT-OBJ-AT O1 P1-7)
+(NOT-OBJ-AT O1 P1-8)
+(NOT-OBJ-AT O1 P1-9)
+(NOT-OBJ-AT O1 P2-1)
+(NOT-OBJ-AT O1 P2-2)
+(NOT-OBJ-AT O1 P2-3)
+(NOT-OBJ-AT O1 P2-4)
+(NOT-OBJ-AT O1 P2-5)
+(NOT-OBJ-AT O1 P2-6)
+(NOT-OBJ-AT O1 P2-7)
+(NOT-OBJ-AT O1 P2-8)
+(NOT-OBJ-AT O1 P2-9)
+(NOT-OBJ-AT O1 P3-1)
+(NOT-OBJ-AT O1 P3-2)
+(NOT-OBJ-AT O1 P3-3)
+(NOT-OBJ-AT O1 P3-4)
+(NOT-OBJ-AT O1 P3-5)
+(NOT-OBJ-AT O1 P3-6)
+(NOT-OBJ-AT O1 P3-7)
+(NOT-OBJ-AT O1 P3-8)
+(NOT-OBJ-AT O1 P3-9)
+(NOT-OBJ-AT O1 P4-1)
+(NOT-OBJ-AT O1 P4-2)
+(NOT-OBJ-AT O1 P4-3)
+(NOT-OBJ-AT O1 P4-4)
+(NOT-OBJ-AT O1 P4-5)
+(NOT-OBJ-AT O1 P4-6)
+(NOT-OBJ-AT O1 P4-7)
+(NOT-OBJ-AT O1 P4-8)
+(NOT-OBJ-AT O1 P4-9)
+(NOT-OBJ-AT O1 P5-1)
+(NOT-OBJ-AT O1 P5-2)
+(NOT-OBJ-AT O1 P5-3)
+(NOT-OBJ-AT O1 P5-4)
+(NOT-OBJ-AT O1 P5-5)
+(NOT-OBJ-AT O1 P5-6)
+(NOT-OBJ-AT O1 P5-7)
+(NOT-OBJ-AT O1 P5-8)
+(NOT-OBJ-AT O1 P5-9)
+(NOT-OBJ-AT O1 P6-1)
+(NOT-OBJ-AT O1 P6-2)
+(NOT-OBJ-AT O1 P6-3)
+(NOT-OBJ-AT O1 P6-4)
+(NOT-OBJ-AT O1 P6-5)
+(NOT-OBJ-AT O1 P6-6)
+(NOT-OBJ-AT O1 P6-7)
+(NOT-OBJ-AT O1 P6-8)
+(NOT-OBJ-AT O1 P6-9)
+(NOT-OBJ-AT O1 P7-1)
+(NOT-OBJ-AT O1 P7-2)
+(NOT-OBJ-AT O1 P7-3)
+(NOT-OBJ-AT O1 P7-4)
+(NOT-OBJ-AT O1 P7-5)
+(NOT-OBJ-AT O1 P7-6)
+(NOT-OBJ-AT O1 P7-7)
+(NOT-OBJ-AT O1 P7-8)
+(NOT-OBJ-AT O1 P7-9)
+(NOT-OBJ-AT O1 P8-1)
+(NOT-OBJ-AT O1 P8-2)
+(NOT-OBJ-AT O1 P8-3)
+(NOT-OBJ-AT O1 P8-4)
+(NOT-OBJ-AT O1 P8-5)
+(NOT-OBJ-AT O1 P8-6)
+(NOT-OBJ-AT O1 P8-7)
+(NOT-OBJ-AT O1 P8-8)
+(NOT-OBJ-AT O1 P8-9)
+(NOT-OBJ-AT O1 P9-1)
+(NOT-OBJ-AT O1 P9-2)
+(NOT-OBJ-AT O1 P9-3)
+(NOT-OBJ-AT O1 P9-4)
+(NOT-OBJ-AT O1 P9-5)
+(NOT-OBJ-AT O1 P9-6)
+(NOT-OBJ-AT O1 P9-7)
+(NOT-OBJ-AT O1 P9-8)
+(NOT-OBJ-AT O1 P9-9)
+(NOT-OBJ-AT O2 P1-1)
+(NOT-OBJ-AT O2 P1-2)
+(NOT-OBJ-AT O2 P1-3)
+(NOT-OBJ-AT O2 P1-4)
+(NOT-OBJ-AT O2 P1-5)
+(NOT-OBJ-AT O2 P1-6)
+(NOT-OBJ-AT O2 P1-7)
+(NOT-OBJ-AT O2 P1-8)
+(NOT-OBJ-AT O2 P1-9)
+(NOT-OBJ-AT O2 P2-1)
+(NOT-OBJ-AT O2 P2-2)
+(NOT-OBJ-AT O2 P2-3)
+(NOT-OBJ-AT O2 P2-4)
+(NOT-OBJ-AT O2 P2-5)
+(NOT-OBJ-AT O2 P2-6)
+(NOT-OBJ-AT O2 P2-7)
+(NOT-OBJ-AT O2 P2-8)
+(NOT-OBJ-AT O2 P2-9)
+(NOT-OBJ-AT O2 P3-1)
+(NOT-OBJ-AT O2 P3-2)
+(NOT-OBJ-AT O2 P3-3)
+(NOT-OBJ-AT O2 P3-4)
+(NOT-OBJ-AT O2 P3-5)
+(NOT-OBJ-AT O2 P3-6)
+(NOT-OBJ-AT O2 P3-7)
+(NOT-OBJ-AT O2 P3-8)
+(NOT-OBJ-AT O2 P3-9)
+(NOT-OBJ-AT O2 P4-1)
+(NOT-OBJ-AT O2 P4-2)
+(NOT-OBJ-AT O2 P4-3)
+(NOT-OBJ-AT O2 P4-4)
+(NOT-OBJ-AT O2 P4-5)
+(NOT-OBJ-AT O2 P4-6)
+(NOT-OBJ-AT O2 P4-7)
+(NOT-OBJ-AT O2 P4-8)
+(NOT-OBJ-AT O2 P4-9)
+(NOT-OBJ-AT O2 P5-1)
+(NOT-OBJ-AT O2 P5-2)
+(NOT-OBJ-AT O2 P5-3)
+(NOT-OBJ-AT O2 P5-4)
+(NOT-OBJ-AT O2 P5-5)
+(NOT-OBJ-AT O2 P5-6)
+(NOT-OBJ-AT O2 P5-7)
+(NOT-OBJ-AT O2 P5-8)
+(NOT-OBJ-AT O2 P5-9)
+(NOT-OBJ-AT O2 P6-1)
+(NOT-OBJ-AT O2 P6-2)
+(NOT-OBJ-AT O2 P6-3)
+(NOT-OBJ-AT O2 P6-4)
+(NOT-OBJ-AT O2 P6-5)
+(NOT-OBJ-AT O2 P6-6)
+(NOT-OBJ-AT O2 P6-7)
+(NOT-OBJ-AT O2 P6-8)
+(NOT-OBJ-AT O2 P6-9)
+(NOT-OBJ-AT O2 P7-1)
+(NOT-OBJ-AT O2 P7-2)
+(NOT-OBJ-AT O2 P7-3)
+(NOT-OBJ-AT O2 P7-4)
+(NOT-OBJ-AT O2 P7-5)
+(NOT-OBJ-AT O2 P7-6)
+(NOT-OBJ-AT O2 P7-7)
+(NOT-OBJ-AT O2 P7-8)
+(NOT-OBJ-AT O2 P7-9)
+(NOT-OBJ-AT O2 P8-1)
+(NOT-OBJ-AT O2 P8-2)
+(NOT-OBJ-AT O2 P8-3)
+(NOT-OBJ-AT O2 P8-4)
+(NOT-OBJ-AT O2 P8-5)
+(NOT-OBJ-AT O2 P8-6)
+(NOT-OBJ-AT O2 P8-7)
+(NOT-OBJ-AT O2 P8-8)
+(NOT-OBJ-AT O2 P8-9)
+(NOT-OBJ-AT O2 P9-1)
+(NOT-OBJ-AT O2 P9-2)
+(NOT-OBJ-AT O2 P9-3)
+(NOT-OBJ-AT O2 P9-4)
+(NOT-OBJ-AT O2 P9-5)
+(NOT-OBJ-AT O2 P9-6)
+(NOT-OBJ-AT O2 P9-7)
+(NOT-OBJ-AT O2 P9-8)
+(NOT-OBJ-AT O2 P9-9)
+(NOT-OBJ-AT O3 P1-1)
+(NOT-OBJ-AT O3 P1-2)
+(NOT-OBJ-AT O3 P1-3)
+(NOT-OBJ-AT O3 P1-4)
+(NOT-OBJ-AT O3 P1-5)
+(NOT-OBJ-AT O3 P1-6)
+(NOT-OBJ-AT O3 P1-7)
+(NOT-OBJ-AT O3 P1-8)
+(NOT-OBJ-AT O3 P1-9)
+(NOT-OBJ-AT O3 P2-1)
+(NOT-OBJ-AT O3 P2-2)
+(NOT-OBJ-AT O3 P2-3)
+(NOT-OBJ-AT O3 P2-4)
+(NOT-OBJ-AT O3 P2-5)
+(NOT-OBJ-AT O3 P2-6)
+(NOT-OBJ-AT O3 P2-7)
+(NOT-OBJ-AT O3 P2-8)
+(NOT-OBJ-AT O3 P2-9)
+(NOT-OBJ-AT O3 P3-1)
+(NOT-OBJ-AT O3 P3-2)
+(NOT-OBJ-AT O3 P3-3)
+(NOT-OBJ-AT O3 P3-4)
+(NOT-OBJ-AT O3 P3-5)
+(NOT-OBJ-AT O3 P3-6)
+(NOT-OBJ-AT O3 P3-7)
+(NOT-OBJ-AT O3 P3-8)
+(NOT-OBJ-AT O3 P3-9)
+(NOT-OBJ-AT O3 P4-1)
+(NOT-OBJ-AT O3 P4-2)
+(NOT-OBJ-AT O3 P4-3)
+(NOT-OBJ-AT O3 P4-4)
+(NOT-OBJ-AT O3 P4-5)
+(NOT-OBJ-AT O3 P4-6)
+(NOT-OBJ-AT O3 P4-7)
+(NOT-OBJ-AT O3 P4-8)
+(NOT-OBJ-AT O3 P4-9)
+(NOT-OBJ-AT O3 P5-1)
+(NOT-OBJ-AT O3 P5-2)
+(NOT-OBJ-AT O3 P5-3)
+(NOT-OBJ-AT O3 P5-4)
+(NOT-OBJ-AT O3 P5-5)
+(NOT-OBJ-AT O3 P5-6)
+(NOT-OBJ-AT O3 P5-7)
+(NOT-OBJ-AT O3 P5-8)
+(NOT-OBJ-AT O3 P5-9)
+(NOT-OBJ-AT O3 P6-1)
+(NOT-OBJ-AT O3 P6-2)
+(NOT-OBJ-AT O3 P6-3)
+(NOT-OBJ-AT O3 P6-4)
+(NOT-OBJ-AT O3 P6-5)
+(NOT-OBJ-AT O3 P6-6)
+(NOT-OBJ-AT O3 P6-7)
+(NOT-OBJ-AT O3 P6-8)
+(NOT-OBJ-AT O3 P6-9)
+(NOT-OBJ-AT O3 P7-1)
+(NOT-OBJ-AT O3 P7-2)
+(NOT-OBJ-AT O3 P7-3)
+(NOT-OBJ-AT O3 P7-4)
+(NOT-OBJ-AT O3 P7-5)
+(NOT-OBJ-AT O3 P7-6)
+(NOT-OBJ-AT O3 P7-7)
+(NOT-OBJ-AT O3 P7-8)
+(NOT-OBJ-AT O3 P7-9)
+(NOT-OBJ-AT O3 P8-1)
+(NOT-OBJ-AT O3 P8-2)
+(NOT-OBJ-AT O3 P8-3)
+(NOT-OBJ-AT O3 P8-4)
+(NOT-OBJ-AT O3 P8-5)
+(NOT-OBJ-AT O3 P8-6)
+(NOT-OBJ-AT O3 P8-7)
+(NOT-OBJ-AT O3 P8-8)
+(NOT-OBJ-AT O3 P8-9)
+(NOT-OBJ-AT O3 P9-1)
+(NOT-OBJ-AT O3 P9-2)
+(NOT-OBJ-AT O3 P9-3)
+(NOT-OBJ-AT O3 P9-4)
+(NOT-OBJ-AT O3 P9-5)
+(NOT-OBJ-AT O3 P9-6)
+(NOT-OBJ-AT O3 P9-7)
+(NOT-OBJ-AT O3 P9-8)
+(NOT-OBJ-AT O3 P9-9)
+(OBJ-AT O1 P1-1)
+(OBJ-AT O1 P1-2)
+(OBJ-AT O1 P1-3)
+(OBJ-AT O1 P1-4)
+(OBJ-AT O1 P1-5)
+(OBJ-AT O1 P1-6)
+(OBJ-AT O1 P1-7)
+(OBJ-AT O1 P1-8)
+(OBJ-AT O1 P1-9)
+(OBJ-AT O1 P2-1)
+(OBJ-AT O1 P2-2)
+(OBJ-AT O1 P2-3)
+(OBJ-AT O1 P2-4)
+(OBJ-AT O1 P2-5)
+(OBJ-AT O1 P2-6)
+(OBJ-AT O1 P2-7)
+(OBJ-AT O1 P2-8)
+(OBJ-AT O1 P2-9)
+(OBJ-AT O1 P3-1)
+(OBJ-AT O1 P3-2)
+(OBJ-AT O1 P3-3)
+(OBJ-AT O1 P3-4)
+(OBJ-AT O1 P3-5)
+(OBJ-AT O1 P3-6)
+(OBJ-AT O1 P3-7)
+(OBJ-AT O1 P3-8)
+(OBJ-AT O1 P3-9)
+(OBJ-AT O1 P4-1)
+(OBJ-AT O1 P4-2)
+(OBJ-AT O1 P4-3)
+(OBJ-AT O1 P4-4)
+(OBJ-AT O1 P4-5)
+(OBJ-AT O1 P4-6)
+(OBJ-AT O1 P4-7)
+(OBJ-AT O1 P4-8)
+(OBJ-AT O1 P4-9)
+(OBJ-AT O1 P5-1)
+(OBJ-AT O1 P5-2)
+(OBJ-AT O1 P5-3)
+(OBJ-AT O1 P5-4)
+(OBJ-AT O1 P5-5)
+(OBJ-AT O1 P5-6)
+(OBJ-AT O1 P5-7)
+(OBJ-AT O1 P5-8)
+(OBJ-AT O1 P5-9)
+(OBJ-AT O1 P6-1)
+(OBJ-AT O1 P6-2)
+(OBJ-AT O1 P6-3)
+(OBJ-AT O1 P6-4)
+(OBJ-AT O1 P6-5)
+(OBJ-AT O1 P6-6)
+(OBJ-AT O1 P6-7)
+(OBJ-AT O1 P6-8)
+(OBJ-AT O1 P6-9)
+(OBJ-AT O1 P7-1)
+(OBJ-AT O1 P7-2)
+(OBJ-AT O1 P7-3)
+(OBJ-AT O1 P7-4)
+(OBJ-AT O1 P7-5)
+(OBJ-AT O1 P7-6)
+(OBJ-AT O1 P7-7)
+(OBJ-AT O1 P7-8)
+(OBJ-AT O1 P7-9)
+(OBJ-AT O1 P8-1)
+(OBJ-AT O1 P8-2)
+(OBJ-AT O1 P8-3)
+(OBJ-AT O1 P8-4)
+(OBJ-AT O1 P8-5)
+(OBJ-AT O1 P8-6)
+(OBJ-AT O1 P8-7)
+(OBJ-AT O1 P8-8)
+(OBJ-AT O1 P8-9)
+(OBJ-AT O1 P9-1)
+(OBJ-AT O1 P9-2)
+(OBJ-AT O1 P9-3)
+(OBJ-AT O1 P9-4)
+(OBJ-AT O1 P9-5)
+(OBJ-AT O1 P9-6)
+(OBJ-AT O1 P9-7)
+(OBJ-AT O1 P9-8)
+(OBJ-AT O1 P9-9)
+(OBJ-AT O2 P1-1)
+(OBJ-AT O2 P1-2)
+(OBJ-AT O2 P1-3)
+(OBJ-AT O2 P1-4)
+(OBJ-AT O2 P1-5)
+(OBJ-AT O2 P1-6)
+(OBJ-AT O2 P1-7)
+(OBJ-AT O2 P1-8)
+(OBJ-AT O2 P1-9)
+(OBJ-AT O2 P2-1)
+(OBJ-AT O2 P2-2)
+(OBJ-AT O2 P2-3)
+(OBJ-AT O2 P2-4)
+(OBJ-AT O2 P2-5)
+(OBJ-AT O2 P2-6)
+(OBJ-AT O2 P2-7)
+(OBJ-AT O2 P2-8)
+(OBJ-AT O2 P2-9)
+(OBJ-AT O2 P3-1)
+(OBJ-AT O2 P3-2)
+(OBJ-AT O2 P3-3)
+(OBJ-AT O2 P3-4)
+(OBJ-AT O2 P3-5)
+(OBJ-AT O2 P3-6)
+(OBJ-AT O2 P3-7)
+(OBJ-AT O2 P3-8)
+(OBJ-AT O2 P3-9)
+(OBJ-AT O2 P4-1)
+(OBJ-AT O2 P4-2)
+(OBJ-AT O2 P4-3)
+(OBJ-AT O2 P4-4)
+(OBJ-AT O2 P4-5)
+(OBJ-AT O2 P4-6)
+(OBJ-AT O2 P4-7)
+(OBJ-AT O2 P4-8)
+(OBJ-AT O2 P4-9)
+(OBJ-AT O2 P5-1)
+(OBJ-AT O2 P5-2)
+(OBJ-AT O2 P5-3)
+(OBJ-AT O2 P5-4)
+(OBJ-AT O2 P5-5)
+(OBJ-AT O2 P5-6)
+(OBJ-AT O2 P5-7)
+(OBJ-AT O2 P5-8)
+(OBJ-AT O2 P5-9)
+(OBJ-AT O2 P6-1)
+(OBJ-AT O2 P6-2)
+(OBJ-AT O2 P6-3)
+(OBJ-AT O2 P6-4)
+(OBJ-AT O2 P6-5)
+(OBJ-AT O2 P6-6)
+(OBJ-AT O2 P6-7)
+(OBJ-AT O2 P6-8)
+(OBJ-AT O2 P6-9)
+(OBJ-AT O2 P7-1)
+(OBJ-AT O2 P7-2)
+(OBJ-AT O2 P7-3)
+(OBJ-AT O2 P7-4)
+(OBJ-AT O2 P7-5)
+(OBJ-AT O2 P7-6)
+(OBJ-AT O2 P7-7)
+(OBJ-AT O2 P7-8)
+(OBJ-AT O2 P7-9)
+(OBJ-AT O2 P8-1)
+(OBJ-AT O2 P8-2)
+(OBJ-AT O2 P8-3)
+(OBJ-AT O2 P8-4)
+(OBJ-AT O2 P8-5)
+(OBJ-AT O2 P8-6)
+(OBJ-AT O2 P8-7)
+(OBJ-AT O2 P8-8)
+(OBJ-AT O2 P8-9)
+(OBJ-AT O2 P9-1)
+(OBJ-AT O2 P9-2)
+(OBJ-AT O2 P9-3)
+(OBJ-AT O2 P9-4)
+(OBJ-AT O2 P9-5)
+(OBJ-AT O2 P9-6)
+(OBJ-AT O2 P9-7)
+(OBJ-AT O2 P9-8)
+(OBJ-AT O2 P9-9)
+(OBJ-AT O3 P1-1)
+(OBJ-AT O3 P1-2)
+(OBJ-AT O3 P1-3)
+(OBJ-AT O3 P1-4)
+(OBJ-AT O3 P1-5)
+(OBJ-AT O3 P1-6)
+(OBJ-AT O3 P1-7)
+(OBJ-AT O3 P1-8)
+(OBJ-AT O3 P1-9)
+(OBJ-AT O3 P2-1)
+(OBJ-AT O3 P2-2)
+(OBJ-AT O3 P2-3)
+(OBJ-AT O3 P2-4)
+(OBJ-AT O3 P2-5)
+(OBJ-AT O3 P2-6)
+(OBJ-AT O3 P2-7)
+(OBJ-AT O3 P2-8)
+(OBJ-AT O3 P2-9)
+(OBJ-AT O3 P3-1)
+(OBJ-AT O3 P3-2)
+(OBJ-AT O3 P3-3)
+(OBJ-AT O3 P3-4)
+(OBJ-AT O3 P3-5)
+(OBJ-AT O3 P3-6)
+(OBJ-AT O3 P3-7)
+(OBJ-AT O3 P3-8)
+(OBJ-AT O3 P3-9)
+(OBJ-AT O3 P4-1)
+(OBJ-AT O3 P4-2)
+(OBJ-AT O3 P4-3)
+(OBJ-AT O3 P4-4)
+(OBJ-AT O3 P4-5)
+(OBJ-AT O3 P4-6)
+(OBJ-AT O3 P4-7)
+(OBJ-AT O3 P4-8)
+(OBJ-AT O3 P4-9)
+(OBJ-AT O3 P5-1)
+(OBJ-AT O3 P5-2)
+(OBJ-AT O3 P5-3)
+(OBJ-AT O3 P5-4)
+(OBJ-AT O3 P5-5)
+(OBJ-AT O3 P5-6)
+(OBJ-AT O3 P5-7)
+(OBJ-AT O3 P5-8)
+(OBJ-AT O3 P5-9)
+(OBJ-AT O3 P6-1)
+(OBJ-AT O3 P6-2)
+(OBJ-AT O3 P6-3)
+(OBJ-AT O3 P6-4)
+(OBJ-AT O3 P6-5)
+(OBJ-AT O3 P6-6)
+(OBJ-AT O3 P6-7)
+(OBJ-AT O3 P6-8)
+(OBJ-AT O3 P6-9)
+(OBJ-AT O3 P7-1)
+(OBJ-AT O3 P7-2)
+(OBJ-AT O3 P7-3)
+(OBJ-AT O3 P7-4)
+(OBJ-AT O3 P7-5)
+(OBJ-AT O3 P7-6)
+(OBJ-AT O3 P7-7)
+(OBJ-AT O3 P7-8)
+(OBJ-AT O3 P7-9)
+(OBJ-AT O3 P8-1)
+(OBJ-AT O3 P8-2)
+(OBJ-AT O3 P8-3)
+(OBJ-AT O3 P8-4)
+(OBJ-AT O3 P8-5)
+(OBJ-AT O3 P8-6)
+(OBJ-AT O3 P8-7)
+(OBJ-AT O3 P8-8)
+(OBJ-AT O3 P8-9)
+(OBJ-AT O3 P9-1)
+(OBJ-AT O3 P9-2)
+(OBJ-AT O3 P9-3)
+(OBJ-AT O3 P9-4)
+(OBJ-AT O3 P9-5)
+(OBJ-AT O3 P9-6)
+(OBJ-AT O3 P9-7)
+(OBJ-AT O3 P9-8)
+(OBJ-AT O3 P9-9)
+UE:
+var_size: 494
+
+当前收集的断言数：248
+
+1
+
+第1次迭代
+当前初始状态:
+F:248 U:0
+num_Or:9480
+参数大于2的OR: 
+H:15
+
+
+Cueing down from goal distance:   15 into depth [1][2][3][4][5]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：18
+
+var_size: 9551
+
+当前收集的断言数：4694
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:246 U:4
+num_Or:9561
+参数大于2的OR: 
+H:18
+
+
+Cueing down from goal distance:   18 into depth [1]
+                                  17            [1]
+                                  16            [1][2][3][4]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：20
+
+var_size: 10558
+
+当前收集的断言数：5188
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:243 U:10
+num_Or:9642
+参数大于2的OR: 
+(OBJ-AT O1 P9-9) (OBJ-AT O1 P9-4) (OBJ-AT O1 P9-2) 
+H:22
+
+
+Cueing down from goal distance:   22 into depth [1]
+                                  19            [1]
+                                  18            [1]
+                                  16            [1][2][3][4]
+                                  15            [1][2][3][4]
+                                  14            [1][2][3]
+                                  13            [1]
+                                  12            [1][2][3]
+                                  11            [1]
+                                  10            [1][2]
+                                   9            [1]
+                                   8            [1][2][3][4]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1][2]
+                                   3            [1]
+                                   2            [1]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   22
+                          19
+                          18
+                          16
+                          15
+                          14
+                          13
+                          12
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           0
+
+ff: found legal plan as follows
+规划长度：30
+
+var_size: 15651
+
+当前收集的断言数：7658
+
+1
+找到反例！
+
+
+第4次迭代
+当前初始状态:
+F:240 U:16
+num_Or:9723
+参数大于2的OR: 
+(OBJ-AT O1 P9-9) (OBJ-AT O1 P9-7) (OBJ-AT O1 P9-4) (OBJ-AT O1 P9-2) 
+H:22
+
+
+Cueing down from goal distance:   22 into depth [1]timeout: the monitored command dumped core
+Out of Memory
+now_time:8.52488668600563

@@ -1,0 +1,224 @@
+
+ff: parsing domain file
+domain 'LOGISTICS-STRIPS' defined
+ ... done.
+ff: parsing problem file
+problem 'LOGISTICS-C2-S3-P4-A2' defined
+ ... done.
+
+
+F:
+(NOT-AT A0 L10)
+(NOT-AT A1 L10)
+(NOT-AT T0 L00)
+(NOT-AT T0 L02)
+(NOT-AT T1 L11)
+(NOT-AT T1 L12)
+(NOT-AT P0 L10)
+(NOT-AT P0 L11)
+(NOT-AT P0 L12)
+(NOT-AT P1 L10)
+(NOT-AT P1 L11)
+(NOT-AT P1 L12)
+(NOT-AT P2 L00)
+(NOT-AT P2 L01)
+(NOT-AT P2 L02)
+(NOT-AT P3 L10)
+(NOT-AT P3 L11)
+(NOT-AT P3 L12)
+(AT T0 L01)
+(AT T1 L10)
+(AT A0 L00)
+(AT A1 L00)
+U:
+(NOT-AT P0 L00)
+(NOT-AT P0 L01)
+(NOT-AT P0 L02)
+(NOT-AT P1 L00)
+(NOT-AT P1 L01)
+(NOT-AT P1 L02)
+(NOT-AT P2 L10)
+(NOT-AT P2 L11)
+(NOT-AT P2 L12)
+(NOT-AT P3 L00)
+(NOT-AT P3 L01)
+(NOT-AT P3 L02)
+(AT P0 L00)
+(AT P0 L01)
+(AT P0 L02)
+(AT P1 L00)
+(AT P1 L01)
+(AT P1 L02)
+(AT P2 L10)
+(AT P2 L11)
+(AT P2 L12)
+(AT P3 L00)
+(AT P3 L01)
+(AT P3 L02)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(NOT-AT A0 L10)
+(NOT-AT A1 L10)
+(NOT-AT T0 L00)
+(NOT-AT T0 L02)
+(NOT-AT T1 L11)
+(NOT-AT T1 L12)
+(NOT-AT P0 L10)
+(NOT-AT P0 L11)
+(NOT-AT P0 L12)
+(NOT-AT P1 L10)
+(NOT-AT P1 L11)
+(NOT-AT P1 L12)
+(NOT-AT P2 L00)
+(NOT-AT P2 L01)
+(NOT-AT P2 L02)
+(NOT-AT P3 L10)
+(NOT-AT P3 L11)
+(NOT-AT P3 L12)
+(AT T0 L01)
+(AT T1 L10)
+(AT A0 L00)
+(AT A1 L00)
+U:
+(NOT-AT P0 L00)
+(NOT-AT P0 L01)
+(NOT-AT P0 L02)
+(NOT-AT P1 L00)
+(NOT-AT P1 L01)
+(NOT-AT P1 L02)
+(NOT-AT P2 L10)
+(NOT-AT P2 L11)
+(NOT-AT P2 L12)
+(NOT-AT P3 L00)
+(NOT-AT P3 L01)
+(NOT-AT P3 L02)
+(AT P0 L00)
+(AT P0 L01)
+(AT P0 L02)
+(AT P1 L00)
+(AT P1 L01)
+(AT P1 L02)
+(AT P2 L10)
+(AT P2 L11)
+(AT P2 L12)
+(AT P3 L00)
+(AT P3 L01)
+(AT P3 L02)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (AT P0 L02) (AT P0 L01) (AT P0 L00) 
+OR: (NOT-AT P0 L02) (NOT-AT P0 L01) 
+OR: (NOT-AT P0 L02) (NOT-AT P0 L00) 
+OR: (NOT-AT P0 L01) (NOT-AT P0 L00) 
+OR: (AT P1 L02) (AT P1 L01) (AT P1 L00) 
+OR: (NOT-AT P1 L02) (NOT-AT P1 L01) 
+OR: (NOT-AT P1 L02) (NOT-AT P1 L00) 
+OR: (NOT-AT P1 L01) (NOT-AT P1 L00) 
+OR: (AT P2 L12) (AT P2 L11) (AT P2 L10) 
+OR: (NOT-AT P2 L12) (NOT-AT P2 L11) 
+OR: (NOT-AT P2 L12) (NOT-AT P2 L10) 
+OR: (NOT-AT P2 L11) (NOT-AT P2 L10) 
+OR: (AT P3 L02) (AT P3 L01) (AT P3 L00) 
+OR: (NOT-AT P3 L02) (NOT-AT P3 L01) 
+OR: (NOT-AT P3 L02) (NOT-AT P3 L00) 
+OR: (NOT-AT P3 L01) (NOT-AT P3 L00) H:34
+
+
+Cueing down from goal distance:   34 into depth [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: LOAD-TRUCK P2 T1 L10
+        1: LOAD-TRUCK P3 T0 L01
+        2: LOAD-TRUCK P1 T0 L01
+        3: LOAD-TRUCK P0 T0 L01
+        4: DRIVE-TRUCK T0 L01 L02 C0
+        5: LOAD-TRUCK P3 T0 L02
+        6: LOAD-TRUCK P1 T0 L02
+        7: LOAD-TRUCK P0 T0 L02
+        8: DRIVE-TRUCK T0 L02 L00 C0
+        9: LOAD-TRUCK P3 T0 L00
+       10: LOAD-TRUCK P1 T0 L00
+       11: LOAD-TRUCK P0 T0 L00
+       12: UNLOAD-TRUCK P0 T0 L00
+       13: UNLOAD-TRUCK P1 T0 L00
+       14: UNLOAD-TRUCK P3 T0 L00
+       15: LOAD-AIRPLANE P0 A1 L00
+       16: LOAD-AIRPLANE P1 A1 L00
+       17: LOAD-AIRPLANE P3 A1 L00
+       18: FLY-AIRPLANE A1 L00 L10
+       19: UNLOAD-AIRPLANE P0 A1 L10
+       20: UNLOAD-AIRPLANE P1 A1 L10
+       21: UNLOAD-AIRPLANE P3 A1 L10
+       22: LOAD-TRUCK P0 T1 L10
+       23: LOAD-TRUCK P1 T1 L10
+       24: LOAD-TRUCK P3 T1 L10
+       25: DRIVE-TRUCK T1 L10 L11 C1
+       26: LOAD-TRUCK P2 T1 L11
+       27: UNLOAD-TRUCK P1 T1 L11
+       28: DRIVE-TRUCK T1 L11 L12 C1
+       29: LOAD-TRUCK P2 T1 L12
+       30: UNLOAD-TRUCK P0 T1 L12
+       31: UNLOAD-TRUCK P2 T1 L12
+       32: UNLOAD-TRUCK P3 T1 L12
+     
+
+statistics:    0.00 seconds instantiating 236 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 306 facts and 106 actions
+               0.00 seconds creating final representation with 84 relevant facts (28 max U, 16 CNF max U)
+               0.00 seconds building connectivity graph
+               0.00 seconds (   0.00 pure) evaluating 36 states, to a max depth of 1
+               0.00 seconds in DP for 19 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 166 state transition base CNFs
+               0.00 seconds in DP solving 54 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (3 hits), including 76 DP calls
+               0.00 seconds altogether checking for dominated states making 2 comparisons (2 conformant, 2 hits),
+                    spending    0.00 seconds doing 6 DP calls
+                155 total DP calls, 394 total UP calls,    0.00 sec membership
+               0.04 seconds for remaining searching duties
+               0.04 seconds total time (+    0.04 secs for CNF memory allocation)
+
+plan length:33
+iteration:1
+now_time:0.06945101800374687

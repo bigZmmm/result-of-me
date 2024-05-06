@@ -1,0 +1,94 @@
+
+ff: parsing domain file
+domain 'UTS' defined
+ ... done.
+ff: parsing problem file
+problem 'L4' defined
+ ... done.
+
+
+F:
+U:
+(NOT-AT N1)
+(NOT-AT N2)
+(NOT-AT N3)
+(NOT-AT N4)
+(AT N1)
+(AT N2)
+(AT N3)
+(AT N4)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+U:
+(NOT-AT N1)
+(NOT-AT N2)
+(NOT-AT N3)
+(NOT-AT N4)
+(AT N1)
+(AT N2)
+(AT N3)
+(AT N4)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (AT N4) (AT N3) (AT N2) (AT N1) 
+OR: (NOT-AT N4) (NOT-AT N3) 
+OR: (NOT-AT N4) (NOT-AT N2) 
+OR: (NOT-AT N4) (NOT-AT N1) 
+OR: (NOT-AT N3) (NOT-AT N2) 
+OR: (NOT-AT N3) (NOT-AT N1) 
+OR: (NOT-AT N2) (NOT-AT N1) H:13
+
+
+Cueing down from goal distance:   13 into depth [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1][2]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: START N3
+        1: START N2
+        2: START N4
+        3: START N1
+        4: TRAVEL N4 N3
+        5: TRAVEL N3 N2
+        6: TRAVEL N1 N2
+        7: TRAVEL N2 N1
+        8: TRAVEL N1 N2
+        9: TRAVEL N2 N3
+       10: TRAVEL N3 N4
+     
+
+statistics:    0.00 seconds instantiating 20 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 13 facts and 20 actions
+               0.00 seconds creating final representation with 13 relevant facts (13 max U, 9 CNF max U)
+               0.00 seconds building connectivity graph
+               0.00 seconds (   0.00 pure) evaluating 12 states, to a max depth of 2
+               0.00 seconds in DP for 88 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 25 state transition base CNFs
+               0.01 seconds in DP solving 44 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (0 hits), including 34 DP calls
+               0.00 seconds altogether checking for dominated states making 1 comparisons (0 conformant, 0 hits),
+                    spending    0.00 seconds doing 0 DP calls
+                166 total DP calls, 234 total UP calls,    0.00 sec membership
+               0.03 seconds for remaining searching duties
+               0.04 seconds total time (+    0.03 secs for CNF memory allocation)
+
+plan length:11
+iteration:1
+now_time:0.05569310096325353

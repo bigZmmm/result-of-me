@@ -1,0 +1,507 @@
+
+ff: parsing domain file
+domain 'CUBE' defined
+ ... done.
+ff: parsing problem file
+problem 'CUBE-CUBE-D13-G6' defined
+ ... done.
+
+
+F:
+U:
+(NOT-Z P1)
+(NOT-Z P2)
+(NOT-Z P3)
+(NOT-Z P4)
+(NOT-Z P5)
+(NOT-Z P6)
+(NOT-Z P7)
+(NOT-Z P8)
+(NOT-Z P9)
+(NOT-Z P10)
+(NOT-Z P11)
+(NOT-Z P12)
+(NOT-Z P13)
+(NOT-Y P1)
+(NOT-Y P2)
+(NOT-Y P3)
+(NOT-Y P4)
+(NOT-Y P5)
+(NOT-Y P6)
+(NOT-Y P7)
+(NOT-Y P8)
+(NOT-Y P9)
+(NOT-Y P10)
+(NOT-Y P11)
+(NOT-Y P12)
+(NOT-Y P13)
+(NOT-X P1)
+(NOT-X P2)
+(NOT-X P3)
+(NOT-X P4)
+(NOT-X P5)
+(NOT-X P6)
+(NOT-X P7)
+(NOT-X P8)
+(NOT-X P9)
+(NOT-X P10)
+(NOT-X P11)
+(NOT-X P12)
+(NOT-X P13)
+(X P1)
+(X P10)
+(X P11)
+(X P12)
+(X P13)
+(X P2)
+(X P3)
+(X P4)
+(X P5)
+(X P6)
+(X P7)
+(X P8)
+(X P9)
+(Y P1)
+(Y P10)
+(Y P11)
+(Y P12)
+(Y P13)
+(Y P2)
+(Y P3)
+(Y P4)
+(Y P5)
+(Y P6)
+(Y P7)
+(Y P8)
+(Y P9)
+(Z P1)
+(Z P10)
+(Z P11)
+(Z P12)
+(Z P13)
+(Z P2)
+(Z P3)
+(Z P4)
+(Z P5)
+(Z P6)
+(Z P7)
+(Z P8)
+(Z P9)
+UE:
+var_size: 78
+
+当前收集的断言数：41
+
+1
+
+第1次迭代
+当前初始状态:
+F:39 U:0
+num_Or:198
+参数大于2的OR: 
+H:19
+
+
+Cueing down from goal distance:   19 into depth [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：18
+
+var_size: 1482
+
+当前收集的断言数：743
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:37 U:4
+num_Or:211
+参数大于2的OR: 
+H:20
+
+
+Cueing down from goal distance:   20 into depth [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1][2]
+                                   5            [1]
+                                   4            [1][2][3][4][5][6][7][8][9][10][11]
+                                   3            [1]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   20
+                          18
+                          17
+                          16
+                          15
+                          14
+                          13
+                          12
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：41
+
+var_size: 3276
+
+当前收集的断言数：1640
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:34 U:10
+num_Or:224
+参数大于2的OR: 
+(Z P13) (Z P12) (Z P10) 
+H:22
+
+
+Cueing down from goal distance:   22 into depth [1]
+                                  21            [1]
+                                  18            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1][2]
+                                   9            [1]
+                                   8            [1][2][3][4][5][6][7][8][9][10]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1][2][3][4][5][6][7][8][9][10][11]
+                                   4            [1][2][3][4][5][6][7][8][9][10]
+                                   3            [1]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   22
+                          20
+                          19
+                          18
+                          17
+                          16
+                          15
+                          14
+                          13
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：75
+
+var_size: 5928
+
+当前收集的断言数：2966
+
+1
+找到反例！
+
+
+第4次迭代
+当前初始状态:
+F:31 U:16
+num_Or:237
+参数大于2的OR: 
+(Z P13) (Z P12) (Z P10) (Z P8) 
+H:26
+
+
+Cueing down from goal distance:   26 into depth [1]
+                                  25            [1]
+                                  22            [1]
+                                  21            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  12            [1][2][3][4][5][6][7]
+                                  11            [1][2][3][4][5][6][7][8][9]
+                                  10            [1][2][3][4][5][6][7][8][9][10]
+                                   9            [1][2][3][4][5][6][7][8][9][10]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1][2][3][4][5][6][7][8][9][10][11]
+                                   5            [1][2][3][4][5][6][7][8][9][10]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1][2][3][4][5][6][7][8][9][10][11]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :   26
+                          25
+                          24
+                          23
+                          20
+                          19
+                          18
+                          15
+                          14
+                          11
+                          10
+                           9
+                           8
+                           7
+                           6
+                           5
+                           4
+                           3
+                           2
+                           1
+                           0
+
+ff: found legal plan as follows
+规划长度：136
+
+var_size: 10686
+
+当前收集的断言数：5345
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: RIGHT
+        1: LEFT
+        2: LEFT
+        3: LEFT
+        4: LEFT
+        5: UP
+        6: UP
+        7: IN
+        8: IN
+        9: DOWN
+       10: DOWN
+       11: DOWN
+       12: DOWN
+       13: UP
+       14: UP
+       15: UP
+       16: UP
+       17: UP
+       18: IN
+       19: IN
+       20: DOWN
+       21: DOWN
+       22: IN
+       23: IN
+       24: IN
+       25: IN
+       26: OUT
+       27: OUT
+       28: OUT
+       29: OUT
+       30: UP
+       31: UP
+       32: UP
+       33: UP
+       34: UP
+       35: UP
+       36: UP
+       37: DOWN
+       38: DOWN
+       39: DOWN
+       40: DOWN
+       41: DOWN
+       42: DOWN
+       43: IN
+       44: IN
+       45: IN
+       46: IN
+       47: IN
+       48: IN
+       49: OUT
+       50: OUT
+       51: OUT
+       52: OUT
+       53: OUT
+       54: OUT
+       55: DOWN
+       56: DOWN
+       57: DOWN
+       58: DOWN
+       59: DOWN
+       60: UP
+       61: UP
+       62: UP
+       63: UP
+       64: UP
+       65: UP
+       66: OUT
+       67: OUT
+       68: DOWN
+       69: OUT
+       70: OUT
+       71: OUT
+       72: IN
+       73: IN
+       74: IN
+       75: IN
+       76: IN
+       77: DOWN
+       78: DOWN
+       79: DOWN
+       80: DOWN
+       81: DOWN
+       82: DOWN
+       83: UP
+       84: UP
+       85: UP
+       86: UP
+       87: UP
+       88: UP
+       89: OUT
+       90: OUT
+       91: OUT
+       92: OUT
+       93: OUT
+       94: OUT
+       95: IN
+       96: IN
+       97: IN
+       98: IN
+       99: IN
+      100: IN
+      101: RIGHT
+      102: RIGHT
+      103: RIGHT
+      104: RIGHT
+      105: RIGHT
+      106: RIGHT
+      107: LEFT
+      108: LEFT
+      109: LEFT
+      110: LEFT
+      111: LEFT
+      112: LEFT
+      113: LEFT
+      114: LEFT
+      115: LEFT
+      116: LEFT
+      117: LEFT
+      118: RIGHT
+      119: RIGHT
+      120: RIGHT
+      121: RIGHT
+      122: RIGHT
+      123: RIGHT
+      124: RIGHT
+      125: RIGHT
+      126: RIGHT
+      127: RIGHT
+      128: RIGHT
+      129: RIGHT
+      130: LEFT
+      131: LEFT
+      132: LEFT
+      133: LEFT
+      134: LEFT
+      135: LEFT
+     
+
+statistics:    0.00 seconds instantiating 6 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 78 facts and 6 actions
+               0.00 seconds creating final representation with 78 relevant facts (78 max U, 39 CNF max U)
+               0.00 seconds building connectivity graph
+               2.80 seconds (   1.85 pure) evaluating 9386 states, to a max depth of 11
+               0.95 seconds in DP for 335066 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               1.26 seconds generating,    0.40 seconds encoding 31376 state transition base CNFs
+               0.79 seconds in DP solving 100706 state transition CNFs
+               0.02 seconds checking for self-contradictions, including 25616 DP calls
+               0.12 seconds checking for stagnating states (5084 hits), including 25580 DP calls
+               2.27 seconds altogether checking for dominated states making 17074 comparisons (16952 conformant, 16062 hits),
+                    spending    0.37 seconds doing 79902 DP calls
+             566870 total DP calls, 14094071 total UP calls,    0.30 sec membership
+               0.29 seconds for remaining searching duties
+               7.93 seconds total time (+    0.09 secs for CNF memory allocation)
+
+初始目标状态
+Fold:0 Uold:78
+num_Orold:237
+参数大于2的OR: 
+(X P13) (X P12) (X P11) (X P10) (X P9) (X P8) (X P7) (X P6) (X P5) (X P4) (X P3) (X P2) (X P1) 
+(Y P13) (Y P12) (Y P11) (Y P10) (Y P9) (Y P8) (Y P7) (Y P6) (Y P5) (Y P4) (Y P3) (Y P2) (Y P1) 
+(Z P13) (Z P12) (Z P11) (Z P10) (Z P9) (Z P8) (Z P7) (Z P6) (Z P5) (Z P4) (Z P3) (Z P2) (Z P1) 
+
+
+当前反例添加的目标状态
+Fcur:31 Ucur:16
+num_Orcur:237
+参数大于2的OR: 
+(Z P13) (Z P12) (Z P10) (Z P8) 
+
+
+counter_time:0.89
+plan length:136
+iteration:4
+now_time:9.186722256999929

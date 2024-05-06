@@ -1,0 +1,333 @@
+
+ff: parsing domain file
+domain 'RING' defined
+ ... done.
+ff: parsing problem file
+problem 'RING-7' defined
+ ... done.
+
+
+F:
+U:
+(NOT-OPEN WIN1)
+(NOT-OPEN WIN2)
+(NOT-OPEN WIN3)
+(NOT-OPEN WIN4)
+(NOT-OPEN WIN5)
+(NOT-OPEN WIN6)
+(NOT-OPEN WIN7)
+(NOT-CLOSED WIN1)
+(NOT-CLOSED WIN2)
+(NOT-CLOSED WIN3)
+(NOT-CLOSED WIN4)
+(NOT-CLOSED WIN5)
+(NOT-CLOSED WIN6)
+(NOT-CLOSED WIN7)
+(NOT-LOCKED WIN1)
+(NOT-LOCKED WIN2)
+(NOT-LOCKED WIN3)
+(NOT-LOCKED WIN4)
+(NOT-LOCKED WIN5)
+(NOT-LOCKED WIN6)
+(NOT-LOCKED WIN7)
+(NOT-POSITION POS1)
+(NOT-POSITION POS2)
+(NOT-POSITION POS3)
+(NOT-POSITION POS4)
+(NOT-POSITION POS5)
+(NOT-POSITION POS6)
+(NOT-POSITION POS7)
+(CLOSED WIN1)
+(CLOSED WIN2)
+(CLOSED WIN3)
+(CLOSED WIN4)
+(CLOSED WIN5)
+(CLOSED WIN6)
+(CLOSED WIN7)
+(LOCKED WIN1)
+(LOCKED WIN2)
+(LOCKED WIN3)
+(LOCKED WIN4)
+(LOCKED WIN5)
+(LOCKED WIN6)
+(LOCKED WIN7)
+(OPEN WIN1)
+(OPEN WIN2)
+(OPEN WIN3)
+(OPEN WIN4)
+(OPEN WIN5)
+(OPEN WIN6)
+(OPEN WIN7)
+(POSITION POS1)
+(POSITION POS2)
+(POSITION POS3)
+(POSITION POS4)
+(POSITION POS5)
+(POSITION POS6)
+(POSITION POS7)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+U:
+(NOT-OPEN WIN1)
+(NOT-OPEN WIN2)
+(NOT-OPEN WIN3)
+(NOT-OPEN WIN4)
+(NOT-OPEN WIN5)
+(NOT-OPEN WIN6)
+(NOT-OPEN WIN7)
+(NOT-CLOSED WIN1)
+(NOT-CLOSED WIN2)
+(NOT-CLOSED WIN3)
+(NOT-CLOSED WIN4)
+(NOT-CLOSED WIN5)
+(NOT-CLOSED WIN6)
+(NOT-CLOSED WIN7)
+(NOT-LOCKED WIN1)
+(NOT-LOCKED WIN2)
+(NOT-LOCKED WIN3)
+(NOT-LOCKED WIN4)
+(NOT-LOCKED WIN5)
+(NOT-LOCKED WIN6)
+(NOT-LOCKED WIN7)
+(NOT-POSITION POS1)
+(NOT-POSITION POS2)
+(NOT-POSITION POS3)
+(NOT-POSITION POS4)
+(NOT-POSITION POS5)
+(NOT-POSITION POS6)
+(NOT-POSITION POS7)
+(CLOSED WIN1)
+(CLOSED WIN2)
+(CLOSED WIN3)
+(CLOSED WIN4)
+(CLOSED WIN5)
+(CLOSED WIN6)
+(CLOSED WIN7)
+(LOCKED WIN1)
+(LOCKED WIN2)
+(LOCKED WIN3)
+(LOCKED WIN4)
+(LOCKED WIN5)
+(LOCKED WIN6)
+(LOCKED WIN7)
+(OPEN WIN1)
+(OPEN WIN2)
+(OPEN WIN3)
+(OPEN WIN4)
+(OPEN WIN5)
+(OPEN WIN6)
+(OPEN WIN7)
+(POSITION POS1)
+(POSITION POS2)
+(POSITION POS3)
+(POSITION POS4)
+(POSITION POS5)
+(POSITION POS6)
+(POSITION POS7)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (POSITION POS7) (POSITION POS6) (POSITION POS5) (POSITION POS4) (POSITION POS3) (POSITION POS2) (POSITION POS1) 
+OR: (NOT-POSITION POS7) (NOT-POSITION POS6) 
+OR: (NOT-POSITION POS7) (NOT-POSITION POS5) 
+OR: (NOT-POSITION POS7) (NOT-POSITION POS4) 
+OR: (NOT-POSITION POS7) (NOT-POSITION POS3) 
+OR: (NOT-POSITION POS7) (NOT-POSITION POS2) 
+OR: (NOT-POSITION POS7) (NOT-POSITION POS1) 
+OR: (NOT-POSITION POS6) (NOT-POSITION POS5) 
+OR: (NOT-POSITION POS6) (NOT-POSITION POS4) 
+OR: (NOT-POSITION POS6) (NOT-POSITION POS3) 
+OR: (NOT-POSITION POS6) (NOT-POSITION POS2) 
+OR: (NOT-POSITION POS6) (NOT-POSITION POS1) 
+OR: (NOT-POSITION POS5) (NOT-POSITION POS4) 
+OR: (NOT-POSITION POS5) (NOT-POSITION POS3) 
+OR: (NOT-POSITION POS5) (NOT-POSITION POS2) 
+OR: (NOT-POSITION POS5) (NOT-POSITION POS1) 
+OR: (NOT-POSITION POS4) (NOT-POSITION POS3) 
+OR: (NOT-POSITION POS4) (NOT-POSITION POS2) 
+OR: (NOT-POSITION POS4) (NOT-POSITION POS1) 
+OR: (NOT-POSITION POS3) (NOT-POSITION POS2) 
+OR: (NOT-POSITION POS3) (NOT-POSITION POS1) 
+OR: (NOT-POSITION POS2) (NOT-POSITION POS1) 
+OR: (LOCKED WIN1) (CLOSED WIN1) (OPEN WIN1) 
+OR: (NOT-LOCKED WIN1) (NOT-CLOSED WIN1) 
+OR: (NOT-LOCKED WIN1) (NOT-OPEN WIN1) 
+OR: (NOT-CLOSED WIN1) (NOT-OPEN WIN1) 
+OR: (LOCKED WIN2) (CLOSED WIN2) (OPEN WIN2) 
+OR: (NOT-LOCKED WIN2) (NOT-CLOSED WIN2) 
+OR: (NOT-LOCKED WIN2) (NOT-OPEN WIN2) 
+OR: (NOT-CLOSED WIN2) (NOT-OPEN WIN2) 
+OR: (LOCKED WIN3) (CLOSED WIN3) (OPEN WIN3) 
+OR: (NOT-LOCKED WIN3) (NOT-CLOSED WIN3) 
+OR: (NOT-LOCKED WIN3) (NOT-OPEN WIN3) 
+OR: (NOT-CLOSED WIN3) (NOT-OPEN WIN3) 
+OR: (LOCKED WIN4) (CLOSED WIN4) (OPEN WIN4) 
+OR: (NOT-LOCKED WIN4) (NOT-CLOSED WIN4) 
+OR: (NOT-LOCKED WIN4) (NOT-OPEN WIN4) 
+OR: (NOT-CLOSED WIN4) (NOT-OPEN WIN4) 
+OR: (LOCKED WIN5) (CLOSED WIN5) (OPEN WIN5) 
+OR: (NOT-LOCKED WIN5) (NOT-CLOSED WIN5) 
+OR: (NOT-LOCKED WIN5) (NOT-OPEN WIN5) 
+OR: (NOT-CLOSED WIN5) (NOT-OPEN WIN5) 
+OR: (LOCKED WIN6) (CLOSED WIN6) (OPEN WIN6) 
+OR: (NOT-LOCKED WIN6) (NOT-CLOSED WIN6) 
+OR: (NOT-LOCKED WIN6) (NOT-OPEN WIN6) 
+OR: (NOT-CLOSED WIN6) (NOT-OPEN WIN6) 
+OR: (LOCKED WIN7) (CLOSED WIN7) (OPEN WIN7) 
+OR: (NOT-LOCKED WIN7) (NOT-CLOSED WIN7) 
+OR: (NOT-LOCKED WIN7) (NOT-OPEN WIN7) 
+OR: (NOT-CLOSED WIN7) (NOT-OPEN WIN7) H:9
+
+
+Cueing down from goal distance:    9 into depth [1][2]
+                                   7            [1][2]
+                                   5            [1][2]
+                                   3            [1]
+                                   2            [1]
+                                   1            
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    9
+                           7
+                           5
+                           3
+                           2
+                           1
+                           0
+
+
+
+ff: found legal plan as follows
+
+step    0: MOVE-UP
+        1: MOVE-UP
+        2: MOVE-UP
+        3: MOVE-UP
+        4: MOVE-UP
+        5: LOCK
+        6: MOVE-UP
+        7: CLOSE
+        8: LOCK
+        9: MOVE-UP
+       10: MOVE-UP
+       11: MOVE-UP
+       12: MOVE-UP
+       13: MOVE-UP
+       14: LOCK
+       15: MOVE-UP
+       16: MOVE-UP
+       17: MOVE-UP
+       18: MOVE-UP
+       19: MOVE-UP
+       20: LOCK
+       21: MOVE-UP
+       22: MOVE-UP
+       23: MOVE-UP
+       24: MOVE-UP
+       25: MOVE-UP
+       26: LOCK
+       27: MOVE-UP
+       28: MOVE-UP
+       29: MOVE-UP
+       30: MOVE-UP
+       31: MOVE-UP
+       32: CLOSE
+       33: MOVE-UP
+       34: MOVE-UP
+       35: MOVE-UP
+       36: MOVE-UP
+       37: MOVE-UP
+       38: LOCK
+       39: MOVE-UP
+       40: MOVE-UP
+       41: MOVE-UP
+       42: MOVE-UP
+       43: MOVE-UP
+       44: LOCK
+       45: MOVE-UP
+       46: MOVE-UP
+       47: MOVE-UP
+       48: MOVE-UP
+       49: LOCK
+       50: MOVE-UP
+       51: MOVE-UP
+       52: MOVE-UP
+       53: MOVE-UP
+       54: MOVE-UP
+       55: CLOSE
+       56: MOVE-UP
+       57: MOVE-UP
+       58: MOVE-UP
+       59: MOVE-UP
+       60: MOVE-UP
+       61: CLOSE
+       62: MOVE-UP
+       63: MOVE-UP
+       64: MOVE-UP
+       65: CLOSE
+       66: MOVE-UP
+       67: MOVE-UP
+       68: MOVE-UP
+       69: MOVE-UP
+       70: MOVE-UP
+       71: CLOSE
+       72: MOVE-UP
+       73: MOVE-UP
+       74: MOVE-UP
+       75: MOVE-UP
+       76: MOVE-UP
+       77: CLOSE
+       78: MOVE-UP
+       79: MOVE-UP
+       80: MOVE-UP
+       81: MOVE-UP
+       82: LOCK
+       83: MOVE-UP
+       84: MOVE-UP
+       85: MOVE-UP
+       86: MOVE-UP
+       87: MOVE-UP
+       88: LOCK
+       89: MOVE-UP
+       90: MOVE-UP
+       91: MOVE-UP
+       92: MOVE-UP
+       93: MOVE-UP
+       94: LOCK
+       95: MOVE-UP
+       96: MOVE-UP
+       97: MOVE-UP
+       98: LOCK
+       99: MOVE-UP
+      100: MOVE-UP
+      101: MOVE-UP
+      102: MOVE-UP
+      103: MOVE-UP
+      104: LOCK
+     
+
+statistics:    0.00 seconds instantiating 4 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 84 facts and 4 actions
+               0.00 seconds creating final representation with 56 relevant facts (56 max U, 28 CNF max U)
+               0.00 seconds building connectivity graph
+               0.32 seconds (   0.32 pure) evaluating 225 states, to a max depth of 2
+               0.00 seconds in DP for 1253 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.09 seconds generating,    0.07 seconds encoding 464 state transition base CNFs
+               2.03 seconds in DP solving 4718 state transition CNFs
+               0.02 seconds checking for self-contradictions, including 3360 DP calls
+               8.34 seconds checking for stagnating states (219 hits), including 25322 DP calls
+            2058.80 seconds altogether checking for dominated states making 16628 comparisons (16628 conformant, 19 hits),
+                    spending 2055.19 seconds doing 40948 DP calls
+              75601 total DP calls, 182966601 total UP calls,    0.84 sec membership
+               0.02 seconds for remaining searching duties
+            2069.67 seconds total time (+    0.02 secs for CNF memory allocation)
+
+plan length:105
+iteration:1
+now_time:2066.9330232009524

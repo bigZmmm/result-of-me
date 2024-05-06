@@ -1,0 +1,316 @@
+
+ff: parsing domain file
+domain 'RAOS_KEYS' defined
+ ... done.
+ff: parsing problem file
+problem 'RAOS_KEYS1' defined
+ ... done.
+
+
+F:
+(NOT-WEARING_SUNGLASSES)
+(NOT-OPEN L1)
+(NOT-OPEN L2)
+(NOT-OPEN L3)
+(NOT-HAVE_KEY K1)
+(NOT-HAVE_KEY K2)
+(NOT-HAVE_KEY K3)
+(AT L1)
+(NOT_WEARING_SUNGLASSES)
+U:
+(NOT-KEY_AT K1 L1)
+(NOT-KEY_AT K1 L2)
+(NOT-KEY_AT K1 L3)
+(NOT-KEY_AT K2 L1)
+(NOT-KEY_AT K2 L2)
+(NOT-KEY_AT K2 L3)
+(NOT-KEY_AT K3 L1)
+(NOT-KEY_AT K3 L2)
+(NOT-KEY_AT K3 L3)
+(NOT-OPENS K0 L1)
+(NOT-OPENS K0 L2)
+(NOT-OPENS K0 L3)
+(NOT-OPENS K1 L1)
+(NOT-OPENS K1 L2)
+(NOT-OPENS K1 L3)
+(NOT-OPENS K2 L1)
+(NOT-OPENS K2 L2)
+(NOT-OPENS K2 L3)
+(NOT-OPENS K3 L1)
+(NOT-OPENS K3 L2)
+(NOT-OPENS K3 L3)
+(KEY_AT K1 L1)
+(KEY_AT K1 L2)
+(KEY_AT K1 L3)
+(KEY_AT K2 L1)
+(KEY_AT K2 L2)
+(KEY_AT K2 L3)
+(KEY_AT K3 L1)
+(KEY_AT K3 L2)
+(KEY_AT K3 L3)
+(OPENS K0 L1)
+(OPENS K0 L2)
+(OPENS K0 L3)
+(OPENS K1 L1)
+(OPENS K1 L2)
+(OPENS K1 L3)
+(OPENS K2 L1)
+(OPENS K2 L2)
+(OPENS K2 L3)
+(OPENS K3 L1)
+(OPENS K3 L2)
+(OPENS K3 L3)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(NOT-WEARING_SUNGLASSES)
+(NOT-OPEN L1)
+(NOT-OPEN L2)
+(NOT-OPEN L3)
+(NOT-HAVE_KEY K1)
+(NOT-HAVE_KEY K2)
+(NOT-HAVE_KEY K3)
+(AT L1)
+(NOT_WEARING_SUNGLASSES)
+U:
+(NOT-KEY_AT K1 L1)
+(NOT-KEY_AT K1 L2)
+(NOT-KEY_AT K1 L3)
+(NOT-KEY_AT K2 L1)
+(NOT-KEY_AT K2 L2)
+(NOT-KEY_AT K2 L3)
+(NOT-KEY_AT K3 L1)
+(NOT-KEY_AT K3 L2)
+(NOT-KEY_AT K3 L3)
+(NOT-OPENS K0 L1)
+(NOT-OPENS K0 L2)
+(NOT-OPENS K0 L3)
+(NOT-OPENS K1 L1)
+(NOT-OPENS K1 L2)
+(NOT-OPENS K1 L3)
+(NOT-OPENS K2 L1)
+(NOT-OPENS K2 L2)
+(NOT-OPENS K2 L3)
+(NOT-OPENS K3 L1)
+(NOT-OPENS K3 L2)
+(NOT-OPENS K3 L3)
+(KEY_AT K1 L1)
+(KEY_AT K1 L2)
+(KEY_AT K1 L3)
+(KEY_AT K2 L1)
+(KEY_AT K2 L2)
+(KEY_AT K2 L3)
+(KEY_AT K3 L1)
+(KEY_AT K3 L2)
+(KEY_AT K3 L3)
+(OPENS K0 L1)
+(OPENS K0 L2)
+(OPENS K0 L3)
+(OPENS K1 L1)
+(OPENS K1 L2)
+(OPENS K1 L3)
+(OPENS K2 L1)
+(OPENS K2 L2)
+(OPENS K2 L3)
+(OPENS K3 L1)
+(OPENS K3 L2)
+(OPENS K3 L3)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (OPENS K1 L3) (OPENS K1 L2) (NOT-KEY_AT K1 L1) 
+OR: (NOT-OPENS K1 L1) (NOT-KEY_AT K1 L1) 
+OR: (OPENS K1 L3) (OPENS K1 L1) (NOT-KEY_AT K1 L2) 
+OR: (NOT-OPENS K1 L2) (NOT-KEY_AT K1 L2) 
+OR: (OPENS K1 L2) (OPENS K1 L1) (NOT-KEY_AT K1 L3) 
+OR: (NOT-OPENS K1 L3) (NOT-KEY_AT K1 L3) 
+OR: (OPENS K2 L3) (OPENS K2 L2) (NOT-KEY_AT K2 L1) 
+OR: (NOT-OPENS K2 L1) (NOT-KEY_AT K2 L1) 
+OR: (OPENS K2 L3) (OPENS K2 L1) (NOT-KEY_AT K2 L2) 
+OR: (NOT-OPENS K2 L2) (NOT-KEY_AT K2 L2) 
+OR: (OPENS K2 L2) (OPENS K2 L1) (NOT-KEY_AT K2 L3) 
+OR: (NOT-OPENS K2 L3) (NOT-KEY_AT K2 L3) 
+OR: (OPENS K3 L3) (OPENS K3 L2) (NOT-KEY_AT K3 L1) 
+OR: (NOT-OPENS K3 L1) (NOT-KEY_AT K3 L1) 
+OR: (OPENS K3 L3) (OPENS K3 L1) (NOT-KEY_AT K3 L2) 
+OR: (NOT-OPENS K3 L2) (NOT-KEY_AT K3 L2) 
+OR: (OPENS K3 L2) (OPENS K3 L1) (NOT-KEY_AT K3 L3) 
+OR: (NOT-OPENS K3 L3) (NOT-KEY_AT K3 L3) 
+OR: (OPENS K0 L3) (OPENS K0 L2) (OPENS K0 L1) 
+OR: (NOT-OPENS K0 L3) (NOT-OPENS K0 L2) 
+OR: (NOT-OPENS K0 L3) (NOT-OPENS K0 L1) 
+OR: (NOT-OPENS K0 L2) (NOT-OPENS K0 L1) 
+OR: (KEY_AT K1 L3) (KEY_AT K1 L2) (KEY_AT K1 L1) 
+OR: (NOT-KEY_AT K1 L3) (NOT-KEY_AT K1 L2) 
+OR: (NOT-KEY_AT K1 L3) (NOT-KEY_AT K1 L1) 
+OR: (NOT-KEY_AT K1 L2) (NOT-KEY_AT K1 L1) 
+OR: (OPENS K1 L3) (OPENS K1 L2) (OPENS K1 L1) 
+OR: (NOT-OPENS K1 L3) (NOT-OPENS K1 L2) 
+OR: (NOT-OPENS K1 L3) (NOT-OPENS K1 L1) 
+OR: (NOT-OPENS K1 L2) (NOT-OPENS K1 L1) 
+OR: (KEY_AT K2 L3) (KEY_AT K2 L2) (KEY_AT K2 L1) 
+OR: (NOT-KEY_AT K2 L3) (NOT-KEY_AT K2 L2) 
+OR: (NOT-KEY_AT K2 L3) (NOT-KEY_AT K2 L1) 
+OR: (NOT-KEY_AT K2 L2) (NOT-KEY_AT K2 L1) 
+OR: (OPENS K2 L3) (OPENS K2 L2) (OPENS K2 L1) 
+OR: (NOT-OPENS K2 L3) (NOT-OPENS K2 L2) 
+OR: (NOT-OPENS K2 L3) (NOT-OPENS K2 L1) 
+OR: (NOT-OPENS K2 L2) (NOT-OPENS K2 L1) 
+OR: (KEY_AT K3 L3) (KEY_AT K3 L2) (KEY_AT K3 L1) 
+OR: (NOT-KEY_AT K3 L3) (NOT-KEY_AT K3 L2) 
+OR: (NOT-KEY_AT K3 L3) (NOT-KEY_AT K3 L1) 
+OR: (NOT-KEY_AT K3 L2) (NOT-KEY_AT K3 L1) 
+OR: (OPENS K3 L3) (OPENS K3 L2) (OPENS K3 L1) 
+OR: (NOT-OPENS K3 L3) (NOT-OPENS K3 L2) 
+OR: (NOT-OPENS K3 L3) (NOT-OPENS K3 L1) 
+OR: (NOT-OPENS K3 L2) (NOT-OPENS K3 L1) 
+OR: (OPENS K3 L1) (OPENS K2 L1) (OPENS K1 L1) 
+OR: (NOT-OPENS K3 L1) (NOT-OPENS K2 L1) 
+OR: (NOT-OPENS K3 L1) (NOT-OPENS K1 L1) 
+OR: (NOT-OPENS K2 L1) (NOT-OPENS K1 L1) 
+OR: (KEY_AT K3 L1) (KEY_AT K2 L1) (KEY_AT K1 L1) 
+OR: (NOT-KEY_AT K3 L1) (NOT-KEY_AT K2 L1) 
+OR: (NOT-KEY_AT K3 L1) (NOT-KEY_AT K1 L1) 
+OR: (NOT-KEY_AT K2 L1) (NOT-KEY_AT K1 L1) 
+OR: (OPENS K3 L2) (OPENS K2 L2) (OPENS K1 L2) 
+OR: (NOT-OPENS K3 L2) (NOT-OPENS K2 L2) 
+OR: (NOT-OPENS K3 L2) (NOT-OPENS K1 L2) 
+OR: (NOT-OPENS K2 L2) (NOT-OPENS K1 L2) 
+OR: (KEY_AT K3 L2) (KEY_AT K2 L2) (KEY_AT K1 L2) 
+OR: (NOT-KEY_AT K3 L2) (NOT-KEY_AT K2 L2) 
+OR: (NOT-KEY_AT K3 L2) (NOT-KEY_AT K1 L2) 
+OR: (NOT-KEY_AT K2 L2) (NOT-KEY_AT K1 L2) 
+OR: (OPENS K3 L3) (OPENS K2 L3) (OPENS K1 L3) 
+OR: (NOT-OPENS K3 L3) (NOT-OPENS K2 L3) 
+OR: (NOT-OPENS K3 L3) (NOT-OPENS K1 L3) 
+OR: (NOT-OPENS K2 L3) (NOT-OPENS K1 L3) 
+OR: (KEY_AT K3 L3) (KEY_AT K2 L3) (KEY_AT K1 L3) 
+OR: (NOT-KEY_AT K3 L3) (NOT-KEY_AT K2 L3) 
+OR: (NOT-KEY_AT K3 L3) (NOT-KEY_AT K1 L3) 
+OR: (NOT-KEY_AT K2 L3) (NOT-KEY_AT K1 L3) H:7
+
+
+Cueing down from goal distance:    7 into depth [1][2]
+
+Enforced Hill-climbing failed !
+switching to Best-first Search now.
+
+advancing to distance :    7
+                           6
+                           5
+                           4
+                           2
+                           1
+                           0
+
+
+
+ff: found legal plan as follows
+
+step    0: GOTO_LIGHT L1 L2
+        1: OPEN_GATE L2 K0
+        2: GOTO_LIGHT L2 L1
+        3: OPEN_GATE L1 K0
+        4: GOTO_LIGHT L1 L3
+        5: OPEN_GATE L3 K0
+        6: EXCHANGE_SUNGLASSES
+        7: SEARCH_UNDER_LIGHT L3
+        8: EXCHANGE_SUNGLASSES
+        9: GOTO_LIGHT L3 L1
+       10: EXCHANGE_SUNGLASSES
+       11: SEARCH_UNDER_LIGHT L1
+       12: EXCHANGE_SUNGLASSES
+       13: GOTO_LIGHT L1 L3
+       14: OPEN_GATE L3 K1
+       15: GOTO_LIGHT L3 L1
+       16: OPEN_GATE L1 K1
+       17: GOTO_LIGHT L1 L3
+       18: OPEN_GATE L3 K2
+       19: GOTO_LIGHT L3 L1
+       20: OPEN_GATE L1 K2
+       21: GOTO_LIGHT L1 L3
+       22: OPEN_GATE L3 K3
+       23: GOTO_LIGHT L3 L1
+       24: OPEN_GATE L1 K3
+       25: GOTO_LIGHT L1 L3
+       26: EXCHANGE_SUNGLASSES
+       27: SEARCH_UNDER_LIGHT L3
+       28: EXCHANGE_SUNGLASSES
+       29: GOTO_LIGHT L3 L1
+       30: EXCHANGE_SUNGLASSES
+       31: SEARCH_UNDER_LIGHT L1
+       32: EXCHANGE_SUNGLASSES
+       33: GOTO_LIGHT L1 L2
+       34: EXCHANGE_SUNGLASSES
+       35: SEARCH_UNDER_LIGHT L2
+       36: EXCHANGE_SUNGLASSES
+       37: GOTO_LIGHT L2 L1
+       38: OPEN_GATE L1 K1
+       39: GOTO_LIGHT L1 L2
+       40: OPEN_GATE L2 K1
+       41: GOTO_LIGHT L2 L1
+       42: OPEN_GATE L1 K2
+       43: GOTO_LIGHT L1 L2
+       44: OPEN_GATE L2 K2
+       45: GOTO_LIGHT L2 L1
+       46: OPEN_GATE L1 K3
+       47: GOTO_LIGHT L1 L2
+       48: OPEN_GATE L2 K3
+       49: GOTO_LIGHT L2 L1
+       50: EXCHANGE_SUNGLASSES
+       51: SEARCH_UNDER_LIGHT L1
+       52: EXCHANGE_SUNGLASSES
+       53: GOTO_LIGHT L1 L2
+       54: EXCHANGE_SUNGLASSES
+       55: SEARCH_UNDER_LIGHT L2
+       56: EXCHANGE_SUNGLASSES
+       57: GOTO_LIGHT L2 L1
+       58: OPEN_GATE L1 K1
+       59: GOTO_LIGHT L1 L3
+       60: OPEN_GATE L3 K1
+       61: GOTO_LIGHT L3 L1
+       62: OPEN_GATE L1 K2
+       63: GOTO_LIGHT L1 L3
+       64: OPEN_GATE L3 K2
+       65: GOTO_LIGHT L3 L1
+       66: OPEN_GATE L1 K3
+       67: GOTO_LIGHT L1 L3
+       68: OPEN_GATE L3 K3
+       69: GOTO_LIGHT L3 L1
+       70: EXCHANGE_SUNGLASSES
+       71: SEARCH_UNDER_LIGHT L1
+       72: EXCHANGE_SUNGLASSES
+       73: GOTO_LIGHT L1 L3
+       74: EXCHANGE_SUNGLASSES
+       75: SEARCH_UNDER_LIGHT L3
+       76: EXCHANGE_SUNGLASSES
+       77: GOTO_LIGHT L3 L1
+       78: OPEN_GATE L1 K1
+       79: OPEN_GATE L1 K2
+       80: OPEN_GATE L1 K3
+       81: EXCHANGE_SUNGLASSES
+       82: SEARCH_UNDER_LIGHT L1
+     
+
+statistics:    0.00 seconds instantiating 22 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 65 facts and 22 actions
+               0.00 seconds creating final representation with 61 relevant facts (54 max U, 27 CNF max U)
+               0.00 seconds building connectivity graph
+               0.07 seconds (   0.06 pure) evaluating 271 states, to a max depth of 2
+               0.01 seconds in DP for 498 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.06 seconds generating,    0.02 seconds encoding 894 state transition base CNFs
+               0.01 seconds in DP solving 434 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.15 seconds checking for stagnating states (488 hits), including 32623 DP calls
+               2.60 seconds altogether checking for dominated states making 3103 comparisons (3103 conformant, 136 hits),
+                    spending    2.21 seconds doing 73691 DP calls
+             107246 total DP calls, 280983 total UP calls,    0.09 sec membership
+               0.01 seconds for remaining searching duties
+               2.92 seconds total time (+    0.01 secs for CNF memory allocation)
+
+plan length:83
+iteration:1
+now_time:2.946422574983444

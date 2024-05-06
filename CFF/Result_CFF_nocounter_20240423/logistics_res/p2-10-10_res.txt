@@ -1,0 +1,907 @@
+
+ff: parsing domain file
+domain 'LOGISTICS-STRIPS' defined
+ ... done.
+ff: parsing problem file
+problem 'LOGISTICS-C10-S2-P10-A10' defined
+ ... done.
+
+
+F:
+(NOT-AT A0 L0-0)
+(NOT-AT A0 L1-0)
+(NOT-AT A0 L3-0)
+(NOT-AT A0 L4-0)
+(NOT-AT A0 L5-0)
+(NOT-AT A0 L6-0)
+(NOT-AT A0 L7-0)
+(NOT-AT A0 L8-0)
+(NOT-AT A0 L9-0)
+(NOT-AT A1 L1-0)
+(NOT-AT A1 L2-0)
+(NOT-AT A1 L3-0)
+(NOT-AT A1 L4-0)
+(NOT-AT A1 L5-0)
+(NOT-AT A1 L6-0)
+(NOT-AT A1 L7-0)
+(NOT-AT A1 L8-0)
+(NOT-AT A1 L9-0)
+(NOT-AT A2 L0-0)
+(NOT-AT A2 L1-0)
+(NOT-AT A2 L2-0)
+(NOT-AT A2 L3-0)
+(NOT-AT A2 L4-0)
+(NOT-AT A2 L6-0)
+(NOT-AT A2 L7-0)
+(NOT-AT A2 L8-0)
+(NOT-AT A2 L9-0)
+(NOT-AT A3 L0-0)
+(NOT-AT A3 L1-0)
+(NOT-AT A3 L2-0)
+(NOT-AT A3 L3-0)
+(NOT-AT A3 L4-0)
+(NOT-AT A3 L6-0)
+(NOT-AT A3 L7-0)
+(NOT-AT A3 L8-0)
+(NOT-AT A3 L9-0)
+(NOT-AT A4 L0-0)
+(NOT-AT A4 L1-0)
+(NOT-AT A4 L3-0)
+(NOT-AT A4 L4-0)
+(NOT-AT A4 L5-0)
+(NOT-AT A4 L6-0)
+(NOT-AT A4 L7-0)
+(NOT-AT A4 L8-0)
+(NOT-AT A4 L9-0)
+(NOT-AT A5 L0-0)
+(NOT-AT A5 L2-0)
+(NOT-AT A5 L3-0)
+(NOT-AT A5 L4-0)
+(NOT-AT A5 L5-0)
+(NOT-AT A5 L6-0)
+(NOT-AT A5 L7-0)
+(NOT-AT A5 L8-0)
+(NOT-AT A5 L9-0)
+(NOT-AT A6 L0-0)
+(NOT-AT A6 L1-0)
+(NOT-AT A6 L2-0)
+(NOT-AT A6 L3-0)
+(NOT-AT A6 L4-0)
+(NOT-AT A6 L6-0)
+(NOT-AT A6 L7-0)
+(NOT-AT A6 L8-0)
+(NOT-AT A6 L9-0)
+(NOT-AT A7 L0-0)
+(NOT-AT A7 L1-0)
+(NOT-AT A7 L2-0)
+(NOT-AT A7 L3-0)
+(NOT-AT A7 L4-0)
+(NOT-AT A7 L5-0)
+(NOT-AT A7 L6-0)
+(NOT-AT A7 L8-0)
+(NOT-AT A7 L9-0)
+(NOT-AT A8 L0-0)
+(NOT-AT A8 L1-0)
+(NOT-AT A8 L2-0)
+(NOT-AT A8 L3-0)
+(NOT-AT A8 L4-0)
+(NOT-AT A8 L5-0)
+(NOT-AT A8 L6-0)
+(NOT-AT A8 L8-0)
+(NOT-AT A8 L9-0)
+(NOT-AT A9 L0-0)
+(NOT-AT A9 L1-0)
+(NOT-AT A9 L2-0)
+(NOT-AT A9 L3-0)
+(NOT-AT A9 L4-0)
+(NOT-AT A9 L5-0)
+(NOT-AT A9 L7-0)
+(NOT-AT A9 L8-0)
+(NOT-AT A9 L9-0)
+(NOT-AT T0 L0-0)
+(NOT-AT T1 L1-0)
+(NOT-AT T2 L2-1)
+(NOT-AT T3 L3-0)
+(NOT-AT T4 L4-1)
+(NOT-AT T5 L5-0)
+(NOT-AT T6 L6-0)
+(NOT-AT T7 L7-1)
+(NOT-AT T8 L8-1)
+(NOT-AT T9 L9-1)
+(NOT-AT P0 L0-0)
+(NOT-AT P0 L0-1)
+(NOT-AT P0 L1-0)
+(NOT-AT P0 L1-1)
+(NOT-AT P0 L2-0)
+(NOT-AT P0 L2-1)
+(NOT-AT P0 L3-0)
+(NOT-AT P0 L3-1)
+(NOT-AT P0 L4-0)
+(NOT-AT P0 L4-1)
+(NOT-AT P0 L6-0)
+(NOT-AT P0 L6-1)
+(NOT-AT P0 L7-0)
+(NOT-AT P0 L7-1)
+(NOT-AT P0 L8-0)
+(NOT-AT P0 L8-1)
+(NOT-AT P0 L9-0)
+(NOT-AT P0 L9-1)
+(NOT-AT P1 L0-0)
+(NOT-AT P1 L0-1)
+(NOT-AT P1 L1-0)
+(NOT-AT P1 L1-1)
+(NOT-AT P1 L2-0)
+(NOT-AT P1 L2-1)
+(NOT-AT P1 L3-0)
+(NOT-AT P1 L3-1)
+(NOT-AT P1 L4-0)
+(NOT-AT P1 L4-1)
+(NOT-AT P1 L5-0)
+(NOT-AT P1 L5-1)
+(NOT-AT P1 L6-0)
+(NOT-AT P1 L6-1)
+(NOT-AT P1 L8-0)
+(NOT-AT P1 L8-1)
+(NOT-AT P1 L9-0)
+(NOT-AT P1 L9-1)
+(NOT-AT P2 L0-0)
+(NOT-AT P2 L0-1)
+(NOT-AT P2 L1-0)
+(NOT-AT P2 L1-1)
+(NOT-AT P2 L2-0)
+(NOT-AT P2 L2-1)
+(NOT-AT P2 L4-0)
+(NOT-AT P2 L4-1)
+(NOT-AT P2 L5-0)
+(NOT-AT P2 L5-1)
+(NOT-AT P2 L6-0)
+(NOT-AT P2 L6-1)
+(NOT-AT P2 L7-0)
+(NOT-AT P2 L7-1)
+(NOT-AT P2 L8-0)
+(NOT-AT P2 L8-1)
+(NOT-AT P2 L9-0)
+(NOT-AT P2 L9-1)
+(NOT-AT P3 L0-0)
+(NOT-AT P3 L0-1)
+(NOT-AT P3 L1-0)
+(NOT-AT P3 L1-1)
+(NOT-AT P3 L2-0)
+(NOT-AT P3 L2-1)
+(NOT-AT P3 L4-0)
+(NOT-AT P3 L4-1)
+(NOT-AT P3 L5-0)
+(NOT-AT P3 L5-1)
+(NOT-AT P3 L6-0)
+(NOT-AT P3 L6-1)
+(NOT-AT P3 L7-0)
+(NOT-AT P3 L7-1)
+(NOT-AT P3 L8-0)
+(NOT-AT P3 L8-1)
+(NOT-AT P3 L9-0)
+(NOT-AT P3 L9-1)
+(NOT-AT P4 L0-0)
+(NOT-AT P4 L0-1)
+(NOT-AT P4 L1-0)
+(NOT-AT P4 L1-1)
+(NOT-AT P4 L2-0)
+(NOT-AT P4 L2-1)
+(NOT-AT P4 L3-0)
+(NOT-AT P4 L3-1)
+(NOT-AT P4 L5-0)
+(NOT-AT P4 L5-1)
+(NOT-AT P4 L6-0)
+(NOT-AT P4 L6-1)
+(NOT-AT P4 L7-0)
+(NOT-AT P4 L7-1)
+(NOT-AT P4 L8-0)
+(NOT-AT P4 L8-1)
+(NOT-AT P4 L9-0)
+(NOT-AT P4 L9-1)
+(NOT-AT P5 L0-0)
+(NOT-AT P5 L0-1)
+(NOT-AT P5 L1-0)
+(NOT-AT P5 L1-1)
+(NOT-AT P5 L2-0)
+(NOT-AT P5 L2-1)
+(NOT-AT P5 L3-0)
+(NOT-AT P5 L3-1)
+(NOT-AT P5 L4-0)
+(NOT-AT P5 L4-1)
+(NOT-AT P5 L6-0)
+(NOT-AT P5 L6-1)
+(NOT-AT P5 L7-0)
+(NOT-AT P5 L7-1)
+(NOT-AT P5 L8-0)
+(NOT-AT P5 L8-1)
+(NOT-AT P5 L9-0)
+(NOT-AT P5 L9-1)
+(NOT-AT P6 L0-0)
+(NOT-AT P6 L0-1)
+(NOT-AT P6 L1-0)
+(NOT-AT P6 L1-1)
+(NOT-AT P6 L2-0)
+(NOT-AT P6 L2-1)
+(NOT-AT P6 L4-0)
+(NOT-AT P6 L4-1)
+(NOT-AT P6 L5-0)
+(NOT-AT P6 L5-1)
+(NOT-AT P6 L6-0)
+(NOT-AT P6 L6-1)
+(NOT-AT P6 L7-0)
+(NOT-AT P6 L7-1)
+(NOT-AT P6 L8-0)
+(NOT-AT P6 L8-1)
+(NOT-AT P6 L9-0)
+(NOT-AT P6 L9-1)
+(NOT-AT P7 L0-0)
+(NOT-AT P7 L0-1)
+(NOT-AT P7 L1-0)
+(NOT-AT P7 L1-1)
+(NOT-AT P7 L2-0)
+(NOT-AT P7 L2-1)
+(NOT-AT P7 L3-0)
+(NOT-AT P7 L3-1)
+(NOT-AT P7 L4-0)
+(NOT-AT P7 L4-1)
+(NOT-AT P7 L5-0)
+(NOT-AT P7 L5-1)
+(NOT-AT P7 L7-0)
+(NOT-AT P7 L7-1)
+(NOT-AT P7 L8-0)
+(NOT-AT P7 L8-1)
+(NOT-AT P7 L9-0)
+(NOT-AT P7 L9-1)
+(NOT-AT P8 L0-0)
+(NOT-AT P8 L0-1)
+(NOT-AT P8 L1-0)
+(NOT-AT P8 L1-1)
+(NOT-AT P8 L2-0)
+(NOT-AT P8 L2-1)
+(NOT-AT P8 L4-0)
+(NOT-AT P8 L4-1)
+(NOT-AT P8 L5-0)
+(NOT-AT P8 L5-1)
+(NOT-AT P8 L6-0)
+(NOT-AT P8 L6-1)
+(NOT-AT P8 L7-0)
+(NOT-AT P8 L7-1)
+(NOT-AT P8 L8-0)
+(NOT-AT P8 L8-1)
+(NOT-AT P8 L9-0)
+(NOT-AT P8 L9-1)
+(NOT-AT P9 L0-0)
+(NOT-AT P9 L0-1)
+(NOT-AT P9 L1-0)
+(NOT-AT P9 L1-1)
+(NOT-AT P9 L2-0)
+(NOT-AT P9 L2-1)
+(NOT-AT P9 L3-0)
+(NOT-AT P9 L3-1)
+(NOT-AT P9 L4-0)
+(NOT-AT P9 L4-1)
+(NOT-AT P9 L5-0)
+(NOT-AT P9 L5-1)
+(NOT-AT P9 L6-0)
+(NOT-AT P9 L6-1)
+(NOT-AT P9 L7-0)
+(NOT-AT P9 L7-1)
+(NOT-AT P9 L8-0)
+(NOT-AT P9 L8-1)
+(AT T0 L0-1)
+(AT T1 L1-1)
+(AT T2 L2-0)
+(AT T3 L3-1)
+(AT T4 L4-0)
+(AT T5 L5-1)
+(AT T6 L6-1)
+(AT T7 L7-0)
+(AT T8 L8-0)
+(AT T9 L9-0)
+(AT A0 L2-0)
+(AT A1 L0-0)
+(AT A2 L5-0)
+(AT A3 L5-0)
+(AT A4 L2-0)
+(AT A5 L1-0)
+(AT A6 L5-0)
+(AT A7 L7-0)
+(AT A8 L7-0)
+(AT A9 L6-0)
+U:
+(NOT-AT P0 L5-0)
+(NOT-AT P0 L5-1)
+(NOT-AT P1 L7-0)
+(NOT-AT P1 L7-1)
+(NOT-AT P2 L3-0)
+(NOT-AT P2 L3-1)
+(NOT-AT P3 L3-0)
+(NOT-AT P3 L3-1)
+(NOT-AT P4 L4-0)
+(NOT-AT P4 L4-1)
+(NOT-AT P5 L5-0)
+(NOT-AT P5 L5-1)
+(NOT-AT P6 L3-0)
+(NOT-AT P6 L3-1)
+(NOT-AT P7 L6-0)
+(NOT-AT P7 L6-1)
+(NOT-AT P8 L3-0)
+(NOT-AT P8 L3-1)
+(NOT-AT P9 L9-0)
+(NOT-AT P9 L9-1)
+(AT P0 L5-0)
+(AT P0 L5-1)
+(AT P1 L7-0)
+(AT P1 L7-1)
+(AT P2 L3-0)
+(AT P2 L3-1)
+(AT P3 L3-0)
+(AT P3 L3-1)
+(AT P4 L4-0)
+(AT P4 L4-1)
+(AT P5 L5-0)
+(AT P5 L5-1)
+(AT P6 L3-0)
+(AT P6 L3-1)
+(AT P7 L6-0)
+(AT P7 L6-1)
+(AT P8 L3-0)
+(AT P8 L3-1)
+(AT P9 L9-0)
+(AT P9 L9-1)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(NOT-AT A0 L0-0)
+(NOT-AT A0 L1-0)
+(NOT-AT A0 L3-0)
+(NOT-AT A0 L4-0)
+(NOT-AT A0 L5-0)
+(NOT-AT A0 L6-0)
+(NOT-AT A0 L7-0)
+(NOT-AT A0 L8-0)
+(NOT-AT A0 L9-0)
+(NOT-AT A1 L1-0)
+(NOT-AT A1 L2-0)
+(NOT-AT A1 L3-0)
+(NOT-AT A1 L4-0)
+(NOT-AT A1 L5-0)
+(NOT-AT A1 L6-0)
+(NOT-AT A1 L7-0)
+(NOT-AT A1 L8-0)
+(NOT-AT A1 L9-0)
+(NOT-AT A2 L0-0)
+(NOT-AT A2 L1-0)
+(NOT-AT A2 L2-0)
+(NOT-AT A2 L3-0)
+(NOT-AT A2 L4-0)
+(NOT-AT A2 L6-0)
+(NOT-AT A2 L7-0)
+(NOT-AT A2 L8-0)
+(NOT-AT A2 L9-0)
+(NOT-AT A3 L0-0)
+(NOT-AT A3 L1-0)
+(NOT-AT A3 L2-0)
+(NOT-AT A3 L3-0)
+(NOT-AT A3 L4-0)
+(NOT-AT A3 L6-0)
+(NOT-AT A3 L7-0)
+(NOT-AT A3 L8-0)
+(NOT-AT A3 L9-0)
+(NOT-AT A4 L0-0)
+(NOT-AT A4 L1-0)
+(NOT-AT A4 L3-0)
+(NOT-AT A4 L4-0)
+(NOT-AT A4 L5-0)
+(NOT-AT A4 L6-0)
+(NOT-AT A4 L7-0)
+(NOT-AT A4 L8-0)
+(NOT-AT A4 L9-0)
+(NOT-AT A5 L0-0)
+(NOT-AT A5 L2-0)
+(NOT-AT A5 L3-0)
+(NOT-AT A5 L4-0)
+(NOT-AT A5 L5-0)
+(NOT-AT A5 L6-0)
+(NOT-AT A5 L7-0)
+(NOT-AT A5 L8-0)
+(NOT-AT A5 L9-0)
+(NOT-AT A6 L0-0)
+(NOT-AT A6 L1-0)
+(NOT-AT A6 L2-0)
+(NOT-AT A6 L3-0)
+(NOT-AT A6 L4-0)
+(NOT-AT A6 L6-0)
+(NOT-AT A6 L7-0)
+(NOT-AT A6 L8-0)
+(NOT-AT A6 L9-0)
+(NOT-AT A7 L0-0)
+(NOT-AT A7 L1-0)
+(NOT-AT A7 L2-0)
+(NOT-AT A7 L3-0)
+(NOT-AT A7 L4-0)
+(NOT-AT A7 L5-0)
+(NOT-AT A7 L6-0)
+(NOT-AT A7 L8-0)
+(NOT-AT A7 L9-0)
+(NOT-AT A8 L0-0)
+(NOT-AT A8 L1-0)
+(NOT-AT A8 L2-0)
+(NOT-AT A8 L3-0)
+(NOT-AT A8 L4-0)
+(NOT-AT A8 L5-0)
+(NOT-AT A8 L6-0)
+(NOT-AT A8 L8-0)
+(NOT-AT A8 L9-0)
+(NOT-AT A9 L0-0)
+(NOT-AT A9 L1-0)
+(NOT-AT A9 L2-0)
+(NOT-AT A9 L3-0)
+(NOT-AT A9 L4-0)
+(NOT-AT A9 L5-0)
+(NOT-AT A9 L7-0)
+(NOT-AT A9 L8-0)
+(NOT-AT A9 L9-0)
+(NOT-AT T0 L0-0)
+(NOT-AT T1 L1-0)
+(NOT-AT T2 L2-1)
+(NOT-AT T3 L3-0)
+(NOT-AT T4 L4-1)
+(NOT-AT T5 L5-0)
+(NOT-AT T6 L6-0)
+(NOT-AT T7 L7-1)
+(NOT-AT T8 L8-1)
+(NOT-AT T9 L9-1)
+(NOT-AT P0 L0-0)
+(NOT-AT P0 L0-1)
+(NOT-AT P0 L1-0)
+(NOT-AT P0 L1-1)
+(NOT-AT P0 L2-0)
+(NOT-AT P0 L2-1)
+(NOT-AT P0 L3-0)
+(NOT-AT P0 L3-1)
+(NOT-AT P0 L4-0)
+(NOT-AT P0 L4-1)
+(NOT-AT P0 L6-0)
+(NOT-AT P0 L6-1)
+(NOT-AT P0 L7-0)
+(NOT-AT P0 L7-1)
+(NOT-AT P0 L8-0)
+(NOT-AT P0 L8-1)
+(NOT-AT P0 L9-0)
+(NOT-AT P0 L9-1)
+(NOT-AT P1 L0-0)
+(NOT-AT P1 L0-1)
+(NOT-AT P1 L1-0)
+(NOT-AT P1 L1-1)
+(NOT-AT P1 L2-0)
+(NOT-AT P1 L2-1)
+(NOT-AT P1 L3-0)
+(NOT-AT P1 L3-1)
+(NOT-AT P1 L4-0)
+(NOT-AT P1 L4-1)
+(NOT-AT P1 L5-0)
+(NOT-AT P1 L5-1)
+(NOT-AT P1 L6-0)
+(NOT-AT P1 L6-1)
+(NOT-AT P1 L8-0)
+(NOT-AT P1 L8-1)
+(NOT-AT P1 L9-0)
+(NOT-AT P1 L9-1)
+(NOT-AT P2 L0-0)
+(NOT-AT P2 L0-1)
+(NOT-AT P2 L1-0)
+(NOT-AT P2 L1-1)
+(NOT-AT P2 L2-0)
+(NOT-AT P2 L2-1)
+(NOT-AT P2 L4-0)
+(NOT-AT P2 L4-1)
+(NOT-AT P2 L5-0)
+(NOT-AT P2 L5-1)
+(NOT-AT P2 L6-0)
+(NOT-AT P2 L6-1)
+(NOT-AT P2 L7-0)
+(NOT-AT P2 L7-1)
+(NOT-AT P2 L8-0)
+(NOT-AT P2 L8-1)
+(NOT-AT P2 L9-0)
+(NOT-AT P2 L9-1)
+(NOT-AT P3 L0-0)
+(NOT-AT P3 L0-1)
+(NOT-AT P3 L1-0)
+(NOT-AT P3 L1-1)
+(NOT-AT P3 L2-0)
+(NOT-AT P3 L2-1)
+(NOT-AT P3 L4-0)
+(NOT-AT P3 L4-1)
+(NOT-AT P3 L5-0)
+(NOT-AT P3 L5-1)
+(NOT-AT P3 L6-0)
+(NOT-AT P3 L6-1)
+(NOT-AT P3 L7-0)
+(NOT-AT P3 L7-1)
+(NOT-AT P3 L8-0)
+(NOT-AT P3 L8-1)
+(NOT-AT P3 L9-0)
+(NOT-AT P3 L9-1)
+(NOT-AT P4 L0-0)
+(NOT-AT P4 L0-1)
+(NOT-AT P4 L1-0)
+(NOT-AT P4 L1-1)
+(NOT-AT P4 L2-0)
+(NOT-AT P4 L2-1)
+(NOT-AT P4 L3-0)
+(NOT-AT P4 L3-1)
+(NOT-AT P4 L5-0)
+(NOT-AT P4 L5-1)
+(NOT-AT P4 L6-0)
+(NOT-AT P4 L6-1)
+(NOT-AT P4 L7-0)
+(NOT-AT P4 L7-1)
+(NOT-AT P4 L8-0)
+(NOT-AT P4 L8-1)
+(NOT-AT P4 L9-0)
+(NOT-AT P4 L9-1)
+(NOT-AT P5 L0-0)
+(NOT-AT P5 L0-1)
+(NOT-AT P5 L1-0)
+(NOT-AT P5 L1-1)
+(NOT-AT P5 L2-0)
+(NOT-AT P5 L2-1)
+(NOT-AT P5 L3-0)
+(NOT-AT P5 L3-1)
+(NOT-AT P5 L4-0)
+(NOT-AT P5 L4-1)
+(NOT-AT P5 L6-0)
+(NOT-AT P5 L6-1)
+(NOT-AT P5 L7-0)
+(NOT-AT P5 L7-1)
+(NOT-AT P5 L8-0)
+(NOT-AT P5 L8-1)
+(NOT-AT P5 L9-0)
+(NOT-AT P5 L9-1)
+(NOT-AT P6 L0-0)
+(NOT-AT P6 L0-1)
+(NOT-AT P6 L1-0)
+(NOT-AT P6 L1-1)
+(NOT-AT P6 L2-0)
+(NOT-AT P6 L2-1)
+(NOT-AT P6 L4-0)
+(NOT-AT P6 L4-1)
+(NOT-AT P6 L5-0)
+(NOT-AT P6 L5-1)
+(NOT-AT P6 L6-0)
+(NOT-AT P6 L6-1)
+(NOT-AT P6 L7-0)
+(NOT-AT P6 L7-1)
+(NOT-AT P6 L8-0)
+(NOT-AT P6 L8-1)
+(NOT-AT P6 L9-0)
+(NOT-AT P6 L9-1)
+(NOT-AT P7 L0-0)
+(NOT-AT P7 L0-1)
+(NOT-AT P7 L1-0)
+(NOT-AT P7 L1-1)
+(NOT-AT P7 L2-0)
+(NOT-AT P7 L2-1)
+(NOT-AT P7 L3-0)
+(NOT-AT P7 L3-1)
+(NOT-AT P7 L4-0)
+(NOT-AT P7 L4-1)
+(NOT-AT P7 L5-0)
+(NOT-AT P7 L5-1)
+(NOT-AT P7 L7-0)
+(NOT-AT P7 L7-1)
+(NOT-AT P7 L8-0)
+(NOT-AT P7 L8-1)
+(NOT-AT P7 L9-0)
+(NOT-AT P7 L9-1)
+(NOT-AT P8 L0-0)
+(NOT-AT P8 L0-1)
+(NOT-AT P8 L1-0)
+(NOT-AT P8 L1-1)
+(NOT-AT P8 L2-0)
+(NOT-AT P8 L2-1)
+(NOT-AT P8 L4-0)
+(NOT-AT P8 L4-1)
+(NOT-AT P8 L5-0)
+(NOT-AT P8 L5-1)
+(NOT-AT P8 L6-0)
+(NOT-AT P8 L6-1)
+(NOT-AT P8 L7-0)
+(NOT-AT P8 L7-1)
+(NOT-AT P8 L8-0)
+(NOT-AT P8 L8-1)
+(NOT-AT P8 L9-0)
+(NOT-AT P8 L9-1)
+(NOT-AT P9 L0-0)
+(NOT-AT P9 L0-1)
+(NOT-AT P9 L1-0)
+(NOT-AT P9 L1-1)
+(NOT-AT P9 L2-0)
+(NOT-AT P9 L2-1)
+(NOT-AT P9 L3-0)
+(NOT-AT P9 L3-1)
+(NOT-AT P9 L4-0)
+(NOT-AT P9 L4-1)
+(NOT-AT P9 L5-0)
+(NOT-AT P9 L5-1)
+(NOT-AT P9 L6-0)
+(NOT-AT P9 L6-1)
+(NOT-AT P9 L7-0)
+(NOT-AT P9 L7-1)
+(NOT-AT P9 L8-0)
+(NOT-AT P9 L8-1)
+(AT T0 L0-1)
+(AT T1 L1-1)
+(AT T2 L2-0)
+(AT T3 L3-1)
+(AT T4 L4-0)
+(AT T5 L5-1)
+(AT T6 L6-1)
+(AT T7 L7-0)
+(AT T8 L8-0)
+(AT T9 L9-0)
+(AT A0 L2-0)
+(AT A1 L0-0)
+(AT A2 L5-0)
+(AT A3 L5-0)
+(AT A4 L2-0)
+(AT A5 L1-0)
+(AT A6 L5-0)
+(AT A7 L7-0)
+(AT A8 L7-0)
+(AT A9 L6-0)
+U:
+(NOT-AT P0 L5-0)
+(NOT-AT P0 L5-1)
+(NOT-AT P1 L7-0)
+(NOT-AT P1 L7-1)
+(NOT-AT P2 L3-0)
+(NOT-AT P2 L3-1)
+(NOT-AT P3 L3-0)
+(NOT-AT P3 L3-1)
+(NOT-AT P4 L4-0)
+(NOT-AT P4 L4-1)
+(NOT-AT P5 L5-0)
+(NOT-AT P5 L5-1)
+(NOT-AT P6 L3-0)
+(NOT-AT P6 L3-1)
+(NOT-AT P7 L6-0)
+(NOT-AT P7 L6-1)
+(NOT-AT P8 L3-0)
+(NOT-AT P8 L3-1)
+(NOT-AT P9 L9-0)
+(NOT-AT P9 L9-1)
+(AT P0 L5-0)
+(AT P0 L5-1)
+(AT P1 L7-0)
+(AT P1 L7-1)
+(AT P2 L3-0)
+(AT P2 L3-1)
+(AT P3 L3-0)
+(AT P3 L3-1)
+(AT P4 L4-0)
+(AT P4 L4-1)
+(AT P5 L5-0)
+(AT P5 L5-1)
+(AT P6 L3-0)
+(AT P6 L3-1)
+(AT P7 L6-0)
+(AT P7 L6-1)
+(AT P8 L3-0)
+(AT P8 L3-1)
+(AT P9 L9-0)
+(AT P9 L9-1)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (AT P0 L5-1) (AT P0 L5-0) 
+OR: (NOT-AT P0 L5-1) (NOT-AT P0 L5-0) 
+OR: (AT P1 L7-1) (AT P1 L7-0) 
+OR: (NOT-AT P1 L7-1) (NOT-AT P1 L7-0) 
+OR: (AT P2 L3-1) (AT P2 L3-0) 
+OR: (NOT-AT P2 L3-1) (NOT-AT P2 L3-0) 
+OR: (AT P3 L3-1) (AT P3 L3-0) 
+OR: (NOT-AT P3 L3-1) (NOT-AT P3 L3-0) 
+OR: (AT P4 L4-1) (AT P4 L4-0) 
+OR: (NOT-AT P4 L4-1) (NOT-AT P4 L4-0) 
+OR: (AT P5 L5-1) (AT P5 L5-0) 
+OR: (NOT-AT P5 L5-1) (NOT-AT P5 L5-0) 
+OR: (AT P6 L3-1) (AT P6 L3-0) 
+OR: (NOT-AT P6 L3-1) (NOT-AT P6 L3-0) 
+OR: (AT P7 L6-1) (AT P7 L6-0) 
+OR: (NOT-AT P7 L6-1) (NOT-AT P7 L6-0) 
+OR: (AT P8 L3-1) (AT P8 L3-0) 
+OR: (NOT-AT P8 L3-1) (NOT-AT P8 L3-0) 
+OR: (AT P9 L9-1) (AT P9 L9-0) 
+OR: (NOT-AT P9 L9-1) (NOT-AT P9 L9-0) H:76
+
+
+Cueing down from goal distance:   76 into depth [1]
+                                  75            [1]
+                                  74            [1]
+                                  73            [1]
+                                  72            [1]
+                                  71            [1]
+                                  70            [1]
+                                  69            [1]
+                                  68            [1]
+                                  67            [1]
+                                  66            [1]
+                                  65            [1]
+                                  64            [1]
+                                  63            [1]
+                                  62            [1]
+                                  60            [1]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1][2]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1][2]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1][2]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1][2]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1][2]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1][2]
+                                  20            [1][2]
+                                  19            [1][2]
+                                  18            [1][2]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: LOAD-TRUCK P9 T9 L9-0
+        1: LOAD-TRUCK P8 T3 L3-1
+        2: LOAD-TRUCK P5 T5 L5-1
+        3: LOAD-TRUCK P2 T3 L3-1
+        4: LOAD-TRUCK P1 T7 L7-0
+        5: LOAD-TRUCK P0 T5 L5-1
+        6: LOAD-TRUCK P7 T6 L6-1
+        7: LOAD-TRUCK P6 T3 L3-1
+        8: LOAD-TRUCK P4 T4 L4-0
+        9: LOAD-TRUCK P3 T3 L3-1
+       10: DRIVE-TRUCK T6 L6-1 L6-0 C6
+       11: LOAD-TRUCK P7 T6 L6-0
+       12: UNLOAD-TRUCK P7 T6 L6-0
+       13: LOAD-AIRPLANE P7 A9 L6-0
+       14: FLY-AIRPLANE A9 L6-0 L5-0
+       15: UNLOAD-AIRPLANE P7 A9 L5-0
+       16: DRIVE-TRUCK T3 L3-1 L3-0 C3
+       17: LOAD-TRUCK P8 T3 L3-0
+       18: LOAD-TRUCK P2 T3 L3-0
+       19: LOAD-TRUCK P6 T3 L3-0
+       20: LOAD-TRUCK P3 T3 L3-0
+       21: UNLOAD-TRUCK P3 T3 L3-0
+       22: UNLOAD-TRUCK P6 T3 L3-0
+       23: UNLOAD-TRUCK P2 T3 L3-0
+       24: UNLOAD-TRUCK P8 T3 L3-0
+       25: DRIVE-TRUCK T4 L4-0 L4-1 C4
+       26: LOAD-TRUCK P4 T4 L4-1
+       27: DRIVE-TRUCK T4 L4-1 L4-0 C4
+       28: UNLOAD-TRUCK P4 T4 L4-0
+       29: DRIVE-TRUCK T7 L7-0 L7-1 C7
+       30: LOAD-TRUCK P1 T7 L7-1
+       31: DRIVE-TRUCK T7 L7-1 L7-0 C7
+       32: UNLOAD-TRUCK P1 T7 L7-0
+       33: LOAD-AIRPLANE P1 A8 L7-0
+       34: FLY-AIRPLANE A8 L7-0 L1-0
+       35: UNLOAD-AIRPLANE P1 A8 L1-0
+       36: FLY-AIRPLANE A1 L0-0 L4-0
+       37: LOAD-AIRPLANE P4 A1 L4-0
+       38: FLY-AIRPLANE A1 L4-0 L0-0
+       39: UNLOAD-AIRPLANE P4 A1 L0-0
+       40: FLY-AIRPLANE A1 L0-0 L3-0
+       41: LOAD-AIRPLANE P3 A1 L3-0
+       42: LOAD-AIRPLANE P6 A1 L3-0
+       43: LOAD-AIRPLANE P2 A1 L3-0
+       44: LOAD-AIRPLANE P8 A1 L3-0
+       45: DRIVE-TRUCK T5 L5-1 L5-0 C5
+       46: LOAD-TRUCK P5 T5 L5-0
+       47: LOAD-TRUCK P0 T5 L5-0
+       48: UNLOAD-TRUCK P0 T5 L5-0
+       49: UNLOAD-TRUCK P5 T5 L5-0
+       50: LOAD-AIRPLANE P0 A9 L5-0
+       51: FLY-AIRPLANE A9 L5-0 L2-0
+       52: LOAD-AIRPLANE P5 A6 L5-0
+       53: FLY-AIRPLANE A6 L5-0 L1-0
+       54: LOAD-TRUCK P7 T5 L5-0
+       55: DRIVE-TRUCK T5 L5-0 L5-1 C5
+       56: UNLOAD-AIRPLANE P0 A9 L2-0
+       57: UNLOAD-AIRPLANE P5 A6 L1-0
+       58: UNLOAD-TRUCK P7 T5 L5-1
+       59: DRIVE-TRUCK T0 L0-1 L0-0 C0
+       60: LOAD-TRUCK P4 T0 L0-0
+       61: DRIVE-TRUCK T9 L9-0 L9-1 C9
+       62: LOAD-TRUCK P9 T9 L9-1
+       63: DRIVE-TRUCK T9 L9-1 L9-0 C9
+       64: UNLOAD-TRUCK P9 T9 L9-0
+       65: FLY-AIRPLANE A1 L3-0 L9-0
+       66: UNLOAD-AIRPLANE P3 A1 L9-0
+       67: LOAD-TRUCK P3 T9 L9-0
+       68: DRIVE-TRUCK T9 L9-0 L9-1 C9
+       69: LOAD-AIRPLANE P9 A1 L9-0
+       70: FLY-AIRPLANE A1 L9-0 L0-0
+       71: UNLOAD-AIRPLANE P6 A1 L0-0
+       72: FLY-AIRPLANE A1 L0-0 L5-0
+       73: LOAD-TRUCK P6 T0 L0-0
+       74: DRIVE-TRUCK T0 L0-0 L0-1 C0
+       75: UNLOAD-AIRPLANE P2 A1 L5-0
+       76: FLY-AIRPLANE A1 L5-0 L7-0
+       77: UNLOAD-TRUCK P3 T9 L9-1
+       78: UNLOAD-TRUCK P4 T0 L0-1
+       79: UNLOAD-TRUCK P6 T0 L0-1
+       80: UNLOAD-AIRPLANE P8 A1 L7-0
+       81: FLY-AIRPLANE A1 L7-0 L3-0
+       82: UNLOAD-AIRPLANE P9 A1 L3-0
+     
+
+statistics:    0.01 seconds instantiating 9400 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 4120 facts and 3440 actions
+               0.00 seconds creating final representation with 840 relevant facts (50 max U, 30 CNF max U)
+               0.00 seconds building connectivity graph
+               0.03 seconds (   0.03 pure) evaluating 324 states, to a max depth of 2
+               0.00 seconds in DP for 55 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.03 seconds generating,    0.00 seconds encoding 3579 state transition base CNFs
+               0.01 seconds in DP solving 264 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (130 hits), including 804 DP calls
+               0.28 seconds altogether checking for dominated states making 914 comparisons (764 conformant, 764 hits),
+                    spending    0.01 seconds doing 3906 DP calls
+               5029 total DP calls, 6019 total UP calls,    0.00 sec membership
+               0.07 seconds for remaining searching duties
+               0.43 seconds total time (+    0.04 secs for CNF memory allocation)
+
+plan length:83
+iteration:1
+now_time:0.46434608299750835

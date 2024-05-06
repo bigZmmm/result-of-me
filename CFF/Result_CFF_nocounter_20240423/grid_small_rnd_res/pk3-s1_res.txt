@@ -1,0 +1,128 @@
+
+ff: parsing domain file
+domain 'GRID' defined
+ ... done.
+ff: parsing problem file
+problem 'GRID-X3-Y3-T3-K111-L111-P100' defined
+ ... done.
+
+
+F:
+(ARM-EMPTY)
+(LOCKED F0-0F)
+(LOCKED F1-0F)
+(LOCKED F1-1F)
+(AT KEY0-0 F2-2F)
+(AT KEY1-0 F1-1F)
+(AT KEY2-0 F2-1F)
+(AT-ROBOT F2-2F)
+U:
+(NOT-LOCK-SHAPE F0-0F SHAPE0)
+(NOT-LOCK-SHAPE F0-0F SHAPE1)
+(NOT-LOCK-SHAPE F0-0F SHAPE2)
+(NOT-LOCK-SHAPE F1-0F SHAPE0)
+(NOT-LOCK-SHAPE F1-0F SHAPE1)
+(NOT-LOCK-SHAPE F1-0F SHAPE2)
+(NOT-LOCK-SHAPE F1-1F SHAPE0)
+(NOT-LOCK-SHAPE F1-1F SHAPE1)
+(NOT-LOCK-SHAPE F1-1F SHAPE2)
+(LOCK-SHAPE F0-0F SHAPE0)
+(LOCK-SHAPE F0-0F SHAPE1)
+(LOCK-SHAPE F0-0F SHAPE2)
+(LOCK-SHAPE F1-0F SHAPE0)
+(LOCK-SHAPE F1-0F SHAPE1)
+(LOCK-SHAPE F1-0F SHAPE2)
+(LOCK-SHAPE F1-1F SHAPE0)
+(LOCK-SHAPE F1-1F SHAPE1)
+(LOCK-SHAPE F1-1F SHAPE2)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(ARM-EMPTY)
+(LOCKED F0-0F)
+(LOCKED F1-0F)
+(LOCKED F1-1F)
+(AT KEY0-0 F2-2F)
+(AT KEY1-0 F1-1F)
+(AT KEY2-0 F2-1F)
+(AT-ROBOT F2-2F)
+U:
+(NOT-LOCK-SHAPE F0-0F SHAPE0)
+(NOT-LOCK-SHAPE F0-0F SHAPE1)
+(NOT-LOCK-SHAPE F0-0F SHAPE2)
+(NOT-LOCK-SHAPE F1-0F SHAPE0)
+(NOT-LOCK-SHAPE F1-0F SHAPE1)
+(NOT-LOCK-SHAPE F1-0F SHAPE2)
+(NOT-LOCK-SHAPE F1-1F SHAPE0)
+(NOT-LOCK-SHAPE F1-1F SHAPE1)
+(NOT-LOCK-SHAPE F1-1F SHAPE2)
+(LOCK-SHAPE F0-0F SHAPE0)
+(LOCK-SHAPE F0-0F SHAPE1)
+(LOCK-SHAPE F0-0F SHAPE2)
+(LOCK-SHAPE F1-0F SHAPE0)
+(LOCK-SHAPE F1-0F SHAPE1)
+(LOCK-SHAPE F1-0F SHAPE2)
+(LOCK-SHAPE F1-1F SHAPE0)
+(LOCK-SHAPE F1-1F SHAPE1)
+(LOCK-SHAPE F1-1F SHAPE2)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (LOCK-SHAPE F0-0F SHAPE2) (LOCK-SHAPE F0-0F SHAPE1) (LOCK-SHAPE F0-0F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F0-0F SHAPE2) (NOT-LOCK-SHAPE F0-0F SHAPE1) 
+OR: (NOT-LOCK-SHAPE F0-0F SHAPE2) (NOT-LOCK-SHAPE F0-0F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F0-0F SHAPE1) (NOT-LOCK-SHAPE F0-0F SHAPE0) 
+OR: (LOCK-SHAPE F1-0F SHAPE2) (LOCK-SHAPE F1-0F SHAPE1) (LOCK-SHAPE F1-0F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F1-0F SHAPE2) (NOT-LOCK-SHAPE F1-0F SHAPE1) 
+OR: (NOT-LOCK-SHAPE F1-0F SHAPE2) (NOT-LOCK-SHAPE F1-0F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F1-0F SHAPE1) (NOT-LOCK-SHAPE F1-0F SHAPE0) 
+OR: (LOCK-SHAPE F1-1F SHAPE2) (LOCK-SHAPE F1-1F SHAPE1) (LOCK-SHAPE F1-1F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F1-1F SHAPE2) (NOT-LOCK-SHAPE F1-1F SHAPE1) 
+OR: (NOT-LOCK-SHAPE F1-1F SHAPE2) (NOT-LOCK-SHAPE F1-1F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F1-1F SHAPE1) (NOT-LOCK-SHAPE F1-1F SHAPE0) H:7
+
+
+Cueing down from goal distance:    7 into depth [1][2]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1][2]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: PICKUP F2-2F KEY0-0
+        1: MOVE F2-2F F2-1F
+        2: MOVE F2-1F F2-0F
+        3: PUTDOWN F2-0F KEY0-0
+        4: MOVE F2-0F F2-1F
+        5: PICKUP F2-1F KEY2-0
+        6: MOVE F2-1F F2-0F
+        7: PUTDOWN F2-0F KEY2-0
+     
+
+statistics:    0.00 seconds instantiating 150 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 286 facts and 150 actions
+               0.00 seconds creating final representation with 64 relevant facts (24 max U, 15 CNF max U)
+               0.00 seconds building connectivity graph
+               0.00 seconds (   0.00 pure) evaluating 13 states, to a max depth of 2
+               0.00 seconds in DP for 46 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 25 state transition base CNFs
+               0.00 seconds in DP solving 0 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (7 hits), including 63 DP calls
+               0.00 seconds altogether checking for dominated states making 0 comparisons (0 conformant, 0 hits),
+                    spending    0.00 seconds doing 0 DP calls
+                109 total DP calls, 227 total UP calls,    0.00 sec membership
+               0.00 seconds for remaining searching duties
+               0.00 seconds total time (+    0.00 secs for CNF memory allocation)
+
+plan length:8
+iteration:1
+now_time:0.016663087997585535

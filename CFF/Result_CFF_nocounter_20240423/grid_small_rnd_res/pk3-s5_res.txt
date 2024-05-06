@@ -1,0 +1,168 @@
+
+ff: parsing domain file
+domain 'GRID' defined
+ ... done.
+ff: parsing problem file
+problem 'GRID-X3-Y3-T3-K111-L111-P100' defined
+ ... done.
+
+
+F:
+(ARM-EMPTY)
+(LOCKED F0-1F)
+(LOCKED F0-0F)
+(LOCKED F1-1F)
+(AT KEY0-0 F1-2F)
+(AT KEY1-0 F1-2F)
+(AT KEY2-0 F1-0F)
+(AT-ROBOT F2-1F)
+U:
+(NOT-LOCK-SHAPE F0-0F SHAPE0)
+(NOT-LOCK-SHAPE F0-0F SHAPE1)
+(NOT-LOCK-SHAPE F0-0F SHAPE2)
+(NOT-LOCK-SHAPE F0-1F SHAPE0)
+(NOT-LOCK-SHAPE F0-1F SHAPE1)
+(NOT-LOCK-SHAPE F0-1F SHAPE2)
+(NOT-LOCK-SHAPE F1-1F SHAPE0)
+(NOT-LOCK-SHAPE F1-1F SHAPE1)
+(NOT-LOCK-SHAPE F1-1F SHAPE2)
+(LOCK-SHAPE F0-0F SHAPE0)
+(LOCK-SHAPE F0-0F SHAPE1)
+(LOCK-SHAPE F0-0F SHAPE2)
+(LOCK-SHAPE F0-1F SHAPE0)
+(LOCK-SHAPE F0-1F SHAPE1)
+(LOCK-SHAPE F0-1F SHAPE2)
+(LOCK-SHAPE F1-1F SHAPE0)
+(LOCK-SHAPE F1-1F SHAPE1)
+(LOCK-SHAPE F1-1F SHAPE2)
+UE:
+第1次迭代
+当前初始状态:
+
+F:
+(ARM-EMPTY)
+(LOCKED F0-1F)
+(LOCKED F0-0F)
+(LOCKED F1-1F)
+(AT KEY0-0 F1-2F)
+(AT KEY1-0 F1-2F)
+(AT KEY2-0 F1-0F)
+(AT-ROBOT F2-1F)
+U:
+(NOT-LOCK-SHAPE F0-0F SHAPE0)
+(NOT-LOCK-SHAPE F0-0F SHAPE1)
+(NOT-LOCK-SHAPE F0-0F SHAPE2)
+(NOT-LOCK-SHAPE F0-1F SHAPE0)
+(NOT-LOCK-SHAPE F0-1F SHAPE1)
+(NOT-LOCK-SHAPE F0-1F SHAPE2)
+(NOT-LOCK-SHAPE F1-1F SHAPE0)
+(NOT-LOCK-SHAPE F1-1F SHAPE1)
+(NOT-LOCK-SHAPE F1-1F SHAPE2)
+(LOCK-SHAPE F0-0F SHAPE0)
+(LOCK-SHAPE F0-0F SHAPE1)
+(LOCK-SHAPE F0-0F SHAPE2)
+(LOCK-SHAPE F0-1F SHAPE0)
+(LOCK-SHAPE F0-1F SHAPE1)
+(LOCK-SHAPE F0-1F SHAPE2)
+(LOCK-SHAPE F1-1F SHAPE0)
+(LOCK-SHAPE F1-1F SHAPE1)
+(LOCK-SHAPE F1-1F SHAPE2)
+UE:
+
+----------------------INITIAL ORS:-----------------------------
+OR: (LOCK-SHAPE F0-1F SHAPE2) (LOCK-SHAPE F0-1F SHAPE1) (LOCK-SHAPE F0-1F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F0-1F SHAPE2) (NOT-LOCK-SHAPE F0-1F SHAPE1) 
+OR: (NOT-LOCK-SHAPE F0-1F SHAPE2) (NOT-LOCK-SHAPE F0-1F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F0-1F SHAPE1) (NOT-LOCK-SHAPE F0-1F SHAPE0) 
+OR: (LOCK-SHAPE F0-0F SHAPE2) (LOCK-SHAPE F0-0F SHAPE1) (LOCK-SHAPE F0-0F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F0-0F SHAPE2) (NOT-LOCK-SHAPE F0-0F SHAPE1) 
+OR: (NOT-LOCK-SHAPE F0-0F SHAPE2) (NOT-LOCK-SHAPE F0-0F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F0-0F SHAPE1) (NOT-LOCK-SHAPE F0-0F SHAPE0) 
+OR: (LOCK-SHAPE F1-1F SHAPE2) (LOCK-SHAPE F1-1F SHAPE1) (LOCK-SHAPE F1-1F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F1-1F SHAPE2) (NOT-LOCK-SHAPE F1-1F SHAPE1) 
+OR: (NOT-LOCK-SHAPE F1-1F SHAPE2) (NOT-LOCK-SHAPE F1-1F SHAPE0) 
+OR: (NOT-LOCK-SHAPE F1-1F SHAPE1) (NOT-LOCK-SHAPE F1-1F SHAPE0) H:15
+
+
+Cueing down from goal distance:   15 into depth [1][2][3][4]
+                                  14            [1][2][3][4][5][6][7][8][9][10]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1][2][3][4][5][6][7][8][9][10]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1][2][3][4][5][6]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+
+
+ff: found legal plan as follows
+
+step    0: MOVE F2-1F F2-0F
+        1: MOVE F2-0F F1-0F
+        2: PICKUP F1-0F KEY2-0
+        3: UNLOCK F1-0F F0-0F KEY2-0 SHAPE2
+        4: MOVE F1-0F F2-0F
+        5: MOVE F2-0F F2-1F
+        6: MOVE F2-1F F2-2F
+        7: MOVE F2-2F F1-2F
+        8: PUTDOWN F1-2F KEY2-0
+        9: PICKUP F1-2F KEY0-0
+       10: MOVE F1-2F F2-2F
+       11: MOVE F2-2F F2-1F
+       12: MOVE F2-1F F2-0F
+       13: MOVE F2-0F F1-0F
+       14: UNLOCK F1-0F F0-0F KEY0-0 SHAPE0
+       15: PUTDOWN F1-0F KEY0-0
+       16: MOVE F1-0F F2-0F
+       17: MOVE F2-0F F2-1F
+       18: MOVE F2-1F F2-2F
+       19: MOVE F2-2F F1-2F
+       20: PICKUP F1-2F KEY1-0
+       21: MOVE F1-2F F2-2F
+       22: MOVE F2-2F F2-1F
+       23: MOVE F2-1F F2-0F
+       24: MOVE F2-0F F1-0F
+       25: UNLOCK F1-0F F0-0F KEY1-0 SHAPE1
+       26: MOVE F1-0F F0-0F
+       27: PUTDOWN F0-0F KEY1-0
+       28: MOVE F0-0F F1-0F
+       29: MOVE F1-0F F2-0F
+       30: MOVE F2-0F F2-1F
+       31: MOVE F2-1F F2-2F
+       32: MOVE F2-2F F1-2F
+       33: PICKUP F1-2F KEY2-0
+       34: MOVE F1-2F F2-2F
+       35: MOVE F2-2F F2-1F
+       36: MOVE F2-1F F2-0F
+       37: MOVE F2-0F F1-0F
+       38: MOVE F1-0F F0-0F
+       39: PUTDOWN F0-0F KEY2-0
+     
+
+statistics:    0.00 seconds instantiating 150 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 286 facts and 150 actions
+               0.00 seconds creating final representation with 64 relevant facts (24 max U, 15 CNF max U)
+               0.00 seconds building connectivity graph
+               0.02 seconds (   0.02 pure) evaluating 223 states, to a max depth of 10
+               0.00 seconds in DP for 907 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 574 state transition base CNFs
+               0.00 seconds in DP solving 20 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (204 hits), including 2054 DP calls
+               0.00 seconds altogether checking for dominated states making 19 comparisons (19 conformant, 4 hits),
+                    spending    0.00 seconds doing 203 DP calls
+               3184 total DP calls, 5541 total UP calls,    0.00 sec membership
+               0.05 seconds for remaining searching duties
+               0.07 seconds total time (+    0.03 secs for CNF memory allocation)
+
+plan length:40
+iteration:1
+now_time:0.08709345699753612

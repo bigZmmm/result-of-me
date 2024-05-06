@@ -1,0 +1,13 @@
+
+ff: parsing domain file
+domain 'FOREST' defined
+ ... done.
+ff: parsing problem file
+problem 'P9' defined
+ ... done.
+
+
+type mismatch: constant L22 as arg 0 of NEQ. check input files
+
+Out of Memory
+now_time:0.023293135018320754

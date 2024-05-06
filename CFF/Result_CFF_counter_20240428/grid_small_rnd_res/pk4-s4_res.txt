@@ -1,0 +1,269 @@
+
+ff: parsing domain file
+domain 'GRID' defined
+ ... done.
+ff: parsing problem file
+problem 'GRID-X3-Y4-T4-K1111-L1111-P40' defined
+ ... done.
+
+
+F:
+(ARM-EMPTY)
+(LOCKED F0-0F)
+(LOCKED F1-0F)
+(LOCKED F0-2F)
+(LOCKED F2-1F)
+(AT KEY0-0 F2-3F)
+(AT KEY1-0 F2-2F)
+(AT KEY2-0 F2-2F)
+(AT KEY3-0 F1-1F)
+(AT-ROBOT F1-1F)
+U:
+(NOT-LOCK-SHAPE F0-0F SHAPE0)
+(NOT-LOCK-SHAPE F0-0F SHAPE1)
+(NOT-LOCK-SHAPE F0-0F SHAPE2)
+(NOT-LOCK-SHAPE F0-0F SHAPE3)
+(NOT-LOCK-SHAPE F1-0F SHAPE0)
+(NOT-LOCK-SHAPE F1-0F SHAPE1)
+(NOT-LOCK-SHAPE F1-0F SHAPE2)
+(NOT-LOCK-SHAPE F1-0F SHAPE3)
+(NOT-LOCK-SHAPE F2-1F SHAPE0)
+(NOT-LOCK-SHAPE F2-1F SHAPE1)
+(NOT-LOCK-SHAPE F2-1F SHAPE2)
+(NOT-LOCK-SHAPE F2-1F SHAPE3)
+(NOT-LOCK-SHAPE F0-2F SHAPE0)
+(NOT-LOCK-SHAPE F0-2F SHAPE1)
+(NOT-LOCK-SHAPE F0-2F SHAPE2)
+(NOT-LOCK-SHAPE F0-2F SHAPE3)
+(LOCK-SHAPE F0-0F SHAPE0)
+(LOCK-SHAPE F0-0F SHAPE1)
+(LOCK-SHAPE F0-0F SHAPE2)
+(LOCK-SHAPE F0-0F SHAPE3)
+(LOCK-SHAPE F0-2F SHAPE0)
+(LOCK-SHAPE F0-2F SHAPE1)
+(LOCK-SHAPE F0-2F SHAPE2)
+(LOCK-SHAPE F0-2F SHAPE3)
+(LOCK-SHAPE F1-0F SHAPE0)
+(LOCK-SHAPE F1-0F SHAPE1)
+(LOCK-SHAPE F1-0F SHAPE2)
+(LOCK-SHAPE F1-0F SHAPE3)
+(LOCK-SHAPE F2-1F SHAPE0)
+(LOCK-SHAPE F2-1F SHAPE1)
+(LOCK-SHAPE F2-1F SHAPE2)
+(LOCK-SHAPE F2-1F SHAPE3)
+UE:
+var_size: 45
+
+当前收集的断言数：18
+
+1
+
+第1次迭代
+当前初始状态:
+F:26 U:0
+num_Or:12
+参数大于2的OR: 
+H:13
+
+
+Cueing down from goal distance:   13 into depth [1][2]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1][2][3][4]
+                                   7            [1]
+                                   6            [1][2][3]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：17
+
+var_size: 783
+
+当前收集的断言数：290
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:24 U:4
+num_Or:16
+参数大于2的OR: 
+H:15
+
+
+Cueing down from goal distance:   15 into depth [1][2]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1][2][3][4]
+                                   9            [1]
+                                   8            [1][2]
+                                   7            [1]
+                                   6            [1][2][3]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：20
+
+var_size: 942
+
+当前收集的断言数：338
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:23 U:6
+num_Or:16
+参数大于2的OR: 
+(LOCK-SHAPE F2-1F SHAPE3) (LOCK-SHAPE F2-1F SHAPE2) (LOCK-SHAPE F2-1F SHAPE0) 
+H:16
+
+
+Cueing down from goal distance:   16 into depth [1][2]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1][2][3][4]
+                                  11            [1]
+                                  10            [1][2][3]
+                                   9            [1]
+                                   7            [1][2]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1][2]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：22
+
+var_size: 1030
+
+当前收集的断言数：370
+
+1
+找到反例！
+
+
+第4次迭代
+当前初始状态:
+F:22 U:8
+num_Or:16
+参数大于2的OR: 
+(LOCK-SHAPE F2-1F SHAPE3) (LOCK-SHAPE F2-1F SHAPE2) (LOCK-SHAPE F2-1F SHAPE1) (LOCK-SHAPE F2-1F SHAPE0) 
+H:17
+
+
+Cueing down from goal distance:   17 into depth [1][2]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1][2][3][4]
+                                  12            [1]
+                                  11            [1][2]
+                                  10            [1][2][3][4]
+                                   9            [1]
+                                   7            [1][2]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1][2]
+                                   3            [1]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：25
+
+var_size: 1165
+
+当前收集的断言数：418
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: PICKUP F1-1F KEY3-0
+        1: UNLOCK F1-1F F2-1F KEY3-0 SHAPE3
+        2: MOVE F1-1F F0-1F
+        3: PUTDOWN F0-1F KEY3-0
+        4: MOVE F0-1F F1-1F
+        5: MOVE F1-1F F1-2F
+        6: MOVE F1-2F F2-2F
+        7: PICKUP F2-2F KEY2-0
+        8: UNLOCK F2-2F F2-1F KEY2-0 SHAPE2
+        9: PUTDOWN F2-2F KEY2-0
+       10: PICKUP F2-2F KEY1-0
+       11: UNLOCK F2-2F F2-1F KEY1-0 SHAPE1
+       12: PUTDOWN F2-2F KEY1-0
+       13: MOVE F2-2F F2-3F
+       14: PICKUP F2-3F KEY0-0
+       15: MOVE F2-3F F2-2F
+       16: UNLOCK F2-2F F2-1F KEY0-0 SHAPE0
+       17: MOVE F2-2F F2-1F
+       18: MOVE F2-1F F1-1F
+       19: PUTDOWN F1-1F KEY0-0
+       20: MOVE F1-1F F2-1F
+       21: MOVE F2-1F F2-2F
+       22: PICKUP F2-2F KEY1-0
+       23: MOVE F2-2F F2-1F
+       24: PUTDOWN F2-1F KEY1-0
+     
+
+statistics:    0.00 seconds instantiating 266 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 497 facts and 266 actions
+               0.00 seconds creating final representation with 105 relevant facts (40 max U, 24 CNF max U)
+               0.00 seconds building connectivity graph
+               0.00 seconds (   0.00 pure) evaluating 166 states, to a max depth of 4
+               0.00 seconds in DP for 150 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 379 state transition base CNFs
+               0.00 seconds in DP solving 22 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (113 hits), including 390 DP calls
+               0.00 seconds altogether checking for dominated states making 4 comparisons (4 conformant, 0 hits),
+                    spending    0.00 seconds doing 19 DP calls
+                581 total DP calls, 1160 total UP calls,    0.00 sec membership
+               0.06 seconds for remaining searching duties
+               0.06 seconds total time (+    0.08 secs for CNF memory allocation)
+
+初始目标状态
+Fold:10 Uold:32
+num_Orold:28
+参数大于2的OR: 
+(LOCK-SHAPE F0-0F SHAPE3) (LOCK-SHAPE F0-0F SHAPE2) (LOCK-SHAPE F0-0F SHAPE1) (LOCK-SHAPE F0-0F SHAPE0) 
+(LOCK-SHAPE F1-0F SHAPE3) (LOCK-SHAPE F1-0F SHAPE2) (LOCK-SHAPE F1-0F SHAPE1) (LOCK-SHAPE F1-0F SHAPE0) 
+(LOCK-SHAPE F0-2F SHAPE3) (LOCK-SHAPE F0-2F SHAPE2) (LOCK-SHAPE F0-2F SHAPE1) (LOCK-SHAPE F0-2F SHAPE0) 
+(LOCK-SHAPE F2-1F SHAPE3) (LOCK-SHAPE F2-1F SHAPE2) (LOCK-SHAPE F2-1F SHAPE1) (LOCK-SHAPE F2-1F SHAPE0) 
+
+
+当前反例添加的目标状态
+Fcur:22 Ucur:8
+num_Orcur:16
+参数大于2的OR: 
+(LOCK-SHAPE F2-1F SHAPE3) (LOCK-SHAPE F2-1F SHAPE2) (LOCK-SHAPE F2-1F SHAPE1) (LOCK-SHAPE F2-1F SHAPE0) 
+
+
+counter_time:0.13
+plan length:25
+iteration:4
+now_time:0.2349493249785155

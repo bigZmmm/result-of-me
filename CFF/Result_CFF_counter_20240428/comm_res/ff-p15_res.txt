@@ -1,0 +1,515 @@
+
+ff: parsing domain file
+domain 'COMM' defined
+ ... done.
+ff: parsing problem file
+problem 'COMM_19_16' defined
+ ... done.
+
+
+F:
+(NOT-BAD P0)
+(NOT-BAD P1)
+(NOT-BAD P2)
+(NOT-BAD P3)
+(NOT-BAD P4)
+(NOT-BAD P5)
+(NOT-BAD P6)
+(NOT-BAD P7)
+(NOT-BAD P8)
+(NOT-BAD P9)
+(NOT-BAD P10)
+(NOT-BAD P11)
+(NOT-BAD P12)
+(NOT-BAD P13)
+(NOT-BAD P14)
+(NOT-BAD P15)
+(CURRENT-STAGE S0)
+(IN-CHANNEL P0)
+(IN-CHANNEL P1)
+(IN-CHANNEL P2)
+(IN-CHANNEL P3)
+(IN-CHANNEL P4)
+(IN-CHANNEL P5)
+(IN-CHANNEL P6)
+(IN-CHANNEL P7)
+(IN-CHANNEL P8)
+(IN-CHANNEL P9)
+(IN-CHANNEL P10)
+(IN-CHANNEL P11)
+(IN-CHANNEL P12)
+(IN-CHANNEL P13)
+(IN-CHANNEL P14)
+(IN-CHANNEL P15)
+U:
+(NOT-NOISY P0)
+(NOT-NOISY P1)
+(NOT-NOISY P2)
+(NOT-NOISY P3)
+(NOT-NOISY P4)
+(NOT-NOISY P5)
+(NOT-NOISY P6)
+(NOT-NOISY P7)
+(NOT-NOISY P8)
+(NOT-NOISY P9)
+(NOT-NOISY P10)
+(NOT-NOISY P11)
+(NOT-NOISY P12)
+(NOT-NOISY P13)
+(NOT-NOISY P14)
+(NOT-NOISY P15)
+(NOISY P0)
+(NOISY P1)
+(NOISY P2)
+(NOISY P3)
+(NOISY P4)
+(NOISY P5)
+(NOISY P6)
+(NOISY P7)
+(NOISY P8)
+(NOISY P9)
+(NOISY P10)
+(NOISY P11)
+(NOISY P12)
+(NOISY P13)
+(NOISY P14)
+(NOISY P15)
+UE:
+var_size: 97
+
+当前收集的断言数：34
+
+1
+
+第1次迭代
+当前初始状态:
+F:49 U:0
+num_Or:0
+参数大于2的OR: 
+H:76
+
+
+Cueing down from goal distance:   76 into depth [1]
+                                  75            [1]
+                                  74            [1][2]
+                                  73            [1]
+                                  72            [1][2]
+                                  71            [1]
+                                  70            [1][2]
+                                  69            [1]
+                                  68            [1]
+                                  67            [1]
+                                  66            [1]
+                                  65            [1][2]
+                                  64            [1]
+                                  63            [1]
+                                  62            [1]
+                                  61            [1]
+                                  60            [1][2]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1][2]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1][2]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1][2]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1][2]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1][2]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1][2]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1][2]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1][2]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1][2]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1][2]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1][2]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：92
+
+var_size: 12146
+
+当前收集的断言数：4450
+
+1
+找到反例！
+
+
+第2次迭代
+当前初始状态:
+F:48 U:2
+num_Or:0
+参数大于2的OR: 
+H:78
+
+
+Cueing down from goal distance:   78 into depth [1]
+                                  77            [1]
+                                  76            [1][2]
+                                  75            [1]
+                                  74            [1][2]
+                                  73            [1]
+                                  72            [1][2]
+                                  71            [1]
+                                  70            [1][2]
+                                  69            [1]
+                                  68            [1]
+                                  67            [1]
+                                  66            [1]
+                                  65            [1][2]
+                                  64            [1]
+                                  63            [1]
+                                  62            [1]
+                                  61            [1]
+                                  60            [1][2]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1][2]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1][2]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1][2]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1][2]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1][2]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1][2]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1][2]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1][2]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1][2]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1][2]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1][2]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：95
+
+var_size: 12578
+
+当前收集的断言数：4594
+
+1
+找到反例！
+
+
+第3次迭代
+当前初始状态:
+F:47 U:4
+num_Or:0
+参数大于2的OR: 
+H:80
+
+
+Cueing down from goal distance:   80 into depth [1]
+                                  79            [1]
+                                  78            [1][2]
+                                  77            [1]
+                                  76            [1][2]
+                                  75            [1]
+                                  74            [1][2]
+                                  73            [1]
+                                  72            [1][2]
+                                  71            [1]
+                                  70            [1]
+                                  69            [1]
+                                  68            [1]
+                                  67            [1][2]
+                                  66            [1]
+                                  65            [1]
+                                  64            [1]
+                                  63            [1]
+                                  62            [1][2]
+                                  61            [1]
+                                  60            [1]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1][2]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1][2]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1][2]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1][2]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1][2]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1][2]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1][2]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1][2]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1][2]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1][2]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1][2]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1][2]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1][2]
+                                   2            [1]
+                                   0            
+
+ff: found legal plan as follows
+规划长度：98
+
+var_size: 12950
+
+当前收集的断言数：4738
+
+-1
+unsat
+没有反例，找到最终解！
+
+
+
+
+ff: found legal plan as follows
+
+step    0: OBTAIN P0 S0
+        1: CERTIFY P0
+        2: ADVANCE S0 S1
+        3: OBTAIN P1 S1
+        4: CERTIFY P1
+        5: ADVANCE S1 S2
+        6: OBTAIN P2 S2
+        7: CERTIFY P2
+        8: ADVANCE S2 S3
+        9: OBTAIN P3 S3
+       10: CERTIFY P3
+       11: REQUEST-COPY P3 S3
+       12: OBTAIN P3 S3
+       13: CERTIFY P3
+       14: ADVANCE S3 S4
+       15: OBTAIN P4 S4
+       16: CERTIFY P4
+       17: REQUEST-COPY P4 S4
+       18: OBTAIN P4 S4
+       19: CERTIFY P4
+       20: ADVANCE S4 S5
+       21: OBTAIN P5 S5
+       22: CERTIFY P5
+       23: REQUEST-COPY P5 S5
+       24: OBTAIN P5 S5
+       25: CERTIFY P5
+       26: ADVANCE S5 S6
+       27: OBTAIN P6 S6
+       28: CERTIFY P6
+       29: REQUEST-COPY P6 S6
+       30: OBTAIN P6 S6
+       31: CERTIFY P6
+       32: ADVANCE S6 S7
+       33: OBTAIN P7 S7
+       34: CERTIFY P7
+       35: REQUEST-COPY P7 S7
+       36: OBTAIN P7 S7
+       37: CERTIFY P7
+       38: ADVANCE S7 S8
+       39: OBTAIN P8 S8
+       40: CERTIFY P8
+       41: REQUEST-COPY P8 S8
+       42: OBTAIN P8 S8
+       43: CERTIFY P8
+       44: ADVANCE S8 S9
+       45: OBTAIN P9 S9
+       46: CERTIFY P9
+       47: REQUEST-COPY P9 S9
+       48: OBTAIN P9 S9
+       49: CERTIFY P9
+       50: ADVANCE S9 S10
+       51: OBTAIN P10 S10
+       52: CERTIFY P10
+       53: REQUEST-COPY P10 S10
+       54: OBTAIN P10 S10
+       55: CERTIFY P10
+       56: ADVANCE S10 S11
+       57: OBTAIN P11 S11
+       58: CERTIFY P11
+       59: REQUEST-COPY P11 S11
+       60: OBTAIN P11 S11
+       61: CERTIFY P11
+       62: ADVANCE S11 S12
+       63: OBTAIN P12 S12
+       64: CERTIFY P12
+       65: REQUEST-COPY P12 S12
+       66: OBTAIN P12 S12
+       67: CERTIFY P12
+       68: ADVANCE S12 S13
+       69: OBTAIN P13 S13
+       70: CERTIFY P13
+       71: REQUEST-COPY P13 S13
+       72: OBTAIN P13 S13
+       73: CERTIFY P13
+       74: ADVANCE S13 S14
+       75: OBTAIN P14 S14
+       76: CERTIFY P14
+       77: REQUEST-COPY P14 S14
+       78: OBTAIN P14 S14
+       79: CERTIFY P14
+       80: ADVANCE S14 S15
+       81: OBTAIN P15 S15
+       82: CERTIFY P15
+       83: REQUEST-COPY P15 S15
+       84: OBTAIN P15 S15
+       85: CERTIFY P15
+       86: RESET S15
+       87: REQUEST-COPY P0 S0
+       88: OBTAIN P0 S0
+       89: CERTIFY P0
+       90: ADVANCE S0 S1
+       91: REQUEST-COPY P1 S1
+       92: OBTAIN P1 S1
+       93: CERTIFY P1
+       94: ADVANCE S1 S2
+       95: REQUEST-COPY P2 S2
+       96: OBTAIN P2 S2
+       97: CERTIFY P2
+     
+
+statistics:    0.00 seconds instantiating 373 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 147 facts and 373 actions
+               0.00 seconds creating final representation with 147 relevant facts (128 max U, 80 CNF max U)
+               0.00 seconds building connectivity graph
+               0.02 seconds (   0.02 pure) evaluating 674 states, to a max depth of 2
+               0.00 seconds in DP for 0 RPG ini state implication checks
+               0.00 seconds in DP for 0 RPlan extract ini state implication checks (0 lits removed)
+               0.00 seconds generating,    0.00 seconds encoding 1704 state transition base CNFs
+               0.00 seconds in DP solving 26 state transition CNFs
+               0.00 seconds checking for self-contradictions, including 0 DP calls
+               0.00 seconds checking for stagnating states (75 hits), including 168 DP calls
+               0.00 seconds altogether checking for dominated states making 104 comparisons (104 conformant, 104 hits),
+                    spending    0.00 seconds doing 188 DP calls
+                382 total DP calls, 392 total UP calls,    0.00 sec membership
+               0.10 seconds for remaining searching duties
+               0.12 seconds total time (+    0.15 secs for CNF memory allocation)
+
+初始目标状态
+Fold:33 Uold:32
+num_Orold:0
+参数大于2的OR: 
+
+
+当前反例添加的目标状态
+Fcur:47 Ucur:4
+num_Orcur:0
+参数大于2的OR: 
+
+
+counter_time:2.66
+plan length:98
+iteration:3
+now_time:2.892387347004842
